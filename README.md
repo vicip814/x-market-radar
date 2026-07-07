@@ -28,7 +28,7 @@ Vercel cannot reuse a local Chrome/X session. The live X refresh therefore runs 
 python3 aggregator.py --limit 8
 ```
 
-That command writes `data.json`. The deployed site serves the latest committed snapshot through `/api/news` and falls back to `data.json` directly in the browser.
+That command writes `data.json`. The deployed site is static and reads the latest committed snapshot directly in the browser.
 
 ## Local Preview
 

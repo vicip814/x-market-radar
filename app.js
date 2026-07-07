@@ -1,7 +1,7 @@
 "use strict";
 
 const HEADLINE_COUNT = 10;
-const SOURCE_PRIMARY = "/api/news";
+const SOURCE_PRIMARY = "data.json";
 const SOURCE_FALLBACK = "data.json";
 
 const state = {
