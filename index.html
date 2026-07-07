@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>X Market Radar</title>
+  <meta name="description" content="A focused X channel news radar for AI, semis, crypto, macro, and US equities." />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📡</text></svg>" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="brand">
+      <span class="logo">📡</span>
+      <div>
+        <h1>X Market Radar</h1>
+        <p class="tagline">AI · Semis · Crypto · Macro · US equities</p>
+      </div>
+    </div>
+    <div class="header-meta">
+      <span id="updated" class="updated">Loading…</span>
+      <button id="refresh" class="btn" title="Refresh latest snapshot">↻ Refresh</button>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="briefing">
+      <div>
+        <p class="eyebrow">Focused Watchlist</p>
+        <h2>Signals from the channels you just followed</h2>
+      </div>
+      <div class="briefing-grid" id="briefing-grid"></div>
+    </section>
+
+    <section class="headlines" id="headlines">
+      <button class="headlines-toggle" id="headlines-toggle" aria-expanded="true">
+        <span class="headlines-title">Latest high-signal posts</span>
+        <span class="chevron">▾</span>
+      </button>
+      <ol class="headlines-list" id="headlines-list"></ol>
+    </section>
+
+    <div class="controls">
+      <input type="search" id="search" class="search" placeholder="Search ticker, theme, account, text…" />
+      <select id="sort" class="sort" aria-label="Sort">
+        <option value="new">Newest</option>
+        <option value="hot">Hottest</option>
+      </select>
+      <div class="filters" id="filters"></div>
+    </div>
+
+    <div id="status" class="status"></div>
+    <section class="cards" id="cards"></section>
+  </main>
+
+  <footer class="site-footer">
+    <p>
+      Snapshot generated locally from OpenCLI/X. <span id="count-foot"></span>
+    </p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
