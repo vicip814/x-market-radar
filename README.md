@@ -42,12 +42,15 @@ Open `http://localhost:8000`.
 ## Refresh Workflow
 
 ```bash
-python3 aggregator.py --limit 8
-git add data.json
-git commit -m "Refresh X market snapshot"
-git push
+python3 refresh_and_deploy.py --limit 8
 ```
 
-Vercel redeploys from GitHub after push.
+The refresh helper compares the new snapshot with the previous one while ignoring generated timestamps. If nothing meaningful changed, it skips the commit, push, and Vercel deployment.
+
+To refresh without deploying:
+
+```bash
+python3 refresh_and_deploy.py --limit 8 --no-deploy
+```
 
 For fully automated cloud refresh, add a proper X API token or another cloud-safe data provider and replace the local OpenCLI fetch path in `aggregator.py`.
