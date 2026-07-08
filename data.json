@@ -1,8 +1,152 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-08T14:52:44.837894+00:00",
-  "generated_ts": 1783522364,
+  "generated_at": "2026-07-08T15:53:17.718306+00:00",
+  "generated_ts": 1783525997,
   "articles": [
+    {
+      "id": "2074882681305796715",
+      "title": "The First Half of 2026: -EM/International > US -Small/Mid Caps > Large Caps -Value > Growth -Magnificent 7 down on the…",
+      "summary": "The First Half of 2026: -EM/International > US -Small/Mid Caps > Large Caps -Value > Growth -Magnificent 7 down on the year In short, diversification matters again. Video:",
+      "link": "https://x.com/charliebilello/status/2074882681305796715",
+      "source": "Charlie Bilello",
+      "source_id": "bilello",
+      "handle": "charliebilello",
+      "lane": "Market data",
+      "published": "2026-07-08T15:45:55+00:00",
+      "published_ts": 1783525555,
+      "metrics": {
+        "likes": 8,
+        "retweets": 0,
+        "replies": 14,
+        "views": 7436,
+        "hot_score": 37
+      },
+      "categories": [
+        "AI",
+        "Policy",
+        "Risk"
+      ],
+      "tickers": [],
+      "is_retweet": false,
+      "has_media": true,
+      "media": [
+        "https://pbs.twimg.com/media/HMtxIVkWgAEcIbH.png"
+      ],
+      "quoted_tweet": null
+    },
+    {
+      "id": "2074880537844408453",
+      "title": "How much you want to bet Trump and his pals went net short the market yesterday before Trump blasted out that Iran war…",
+      "summary": "How much you want to bet Trump and his pals went net short the market yesterday before Trump blasted out that Iran war is resuming. I would bet millions. And I bet they are covering right now and going long as some fake and good news is about to come out.",
+      "link": "https://x.com/TrumpsPortfolio/status/2074880537844408453",
+      "source": "Trump Portfolio Tracker",
+      "source_id": "trumptracker",
+      "handle": "TrumpsPortfolio",
+      "lane": "Policy trades",
+      "published": "2026-07-08T15:37:24+00:00",
+      "published_ts": 1783525044,
+      "metrics": {
+        "likes": 51,
+        "retweets": 6,
+        "replies": 9,
+        "views": 3958,
+        "hot_score": 144
+      },
+      "categories": [
+        "Policy",
+        "Risk"
+      ],
+      "tickers": [],
+      "is_retweet": false,
+      "has_media": false,
+      "media": [],
+      "quoted_tweet": null
+    },
+    {
+      "id": "2074880436854304889",
+      "title": "The new attack by the US on Iran was ‘absolutely necessary,’ NATO Secretary General Mark Rutte has said. \"When you have…",
+      "summary": "The new attack by the US on Iran was ‘absolutely necessary,’ NATO Secretary General Mark Rutte has said. \"When you have a ceasefire and Iran is basically violating the ceasefire, I think it is totally crucial that the US forcefully reacts.\"",
+      "link": "https://x.com/unusual_whales/status/2074880436854304889",
+      "source": "unusual_whales",
+      "source_id": "whales",
+      "handle": "unusual_whales",
+      "lane": "Market tape",
+      "published": "2026-07-08T15:37:00+00:00",
+      "published_ts": 1783525020,
+      "metrics": {
+        "likes": 166,
+        "retweets": 16,
+        "replies": 46,
+        "views": 54241,
+        "hot_score": 512
+      },
+      "categories": [
+        "AI",
+        "Semis",
+        "Policy"
+      ],
+      "tickers": [],
+      "is_retweet": false,
+      "has_media": false,
+      "media": [],
+      "quoted_tweet": null
+    },
+    {
+      "id": "2074875403664310510",
+      "title": "Trump calls to cut off all US trade with Spain, per the Hill.",
+      "summary": "Trump calls to cut off all US trade with Spain, per the Hill.",
+      "link": "https://x.com/unusual_whales/status/2074875403664310510",
+      "source": "unusual_whales",
+      "source_id": "whales",
+      "handle": "unusual_whales",
+      "lane": "Market tape",
+      "published": "2026-07-08T15:17:00+00:00",
+      "published_ts": 1783523820,
+      "metrics": {
+        "likes": 282,
+        "retweets": 17,
+        "replies": 77,
+        "views": 79653,
+        "hot_score": 805
+      },
+      "categories": [
+        "AI",
+        "Policy"
+      ],
+      "tickers": [],
+      "is_retweet": false,
+      "has_media": false,
+      "media": [],
+      "quoted_tweet": null
+    },
+    {
+      "id": "2074870370847408406",
+      "title": "Trump told NATO allies he wants the US to remain in the alliance, per Reuters",
+      "summary": "Trump told NATO allies he wants the US to remain in the alliance, per Reuters",
+      "link": "https://x.com/unusual_whales/status/2074870370847408406",
+      "source": "unusual_whales",
+      "source_id": "whales",
+      "handle": "unusual_whales",
+      "lane": "Market tape",
+      "published": "2026-07-08T14:57:00+00:00",
+      "published_ts": 1783522620,
+      "metrics": {
+        "likes": 316,
+        "retweets": 21,
+        "replies": 70,
+        "views": 89762,
+        "hot_score": 896
+      },
+      "categories": [
+        "AI",
+        "Policy"
+      ],
+      "tickers": [],
+      "is_retweet": false,
+      "has_media": false,
+      "media": [],
+      "quoted_tweet": null
+    },
     {
       "id": "2074868355568115750",
       "title": "At the start of the year, the bond market was pricing in 2 Fed rate CUTS. Today it's pricing in 1 to 2 Fed rate HIKES.…",
@@ -15,11 +159,11 @@
       "published": "2026-07-08T14:48:59+00:00",
       "published_ts": 1783522139,
       "metrics": {
-        "likes": 10,
-        "retweets": 1,
-        "replies": 12,
-        "views": 5505,
-        "hot_score": 42
+        "likes": 68,
+        "retweets": 9,
+        "replies": 35,
+        "views": 18362,
+        "hot_score": 234
       },
       "categories": [
         "Macro"
@@ -44,11 +188,11 @@
       "published": "2026-07-08T14:39:08+00:00",
       "published_ts": 1783521548,
       "metrics": {
-        "likes": 16,
-        "retweets": 2,
-        "replies": 15,
-        "views": 47574,
-        "hot_score": 104
+        "likes": 37,
+        "retweets": 5,
+        "replies": 18,
+        "views": 95812,
+        "hot_score": 212
       },
       "categories": [],
       "tickers": [],
@@ -84,11 +228,11 @@
       "published": "2026-07-08T14:37:00+00:00",
       "published_ts": 1783521420,
       "metrics": {
-        "likes": 99,
-        "retweets": 9,
-        "replies": 40,
-        "views": 48983,
-        "hot_score": 331
+        "likes": 350,
+        "retweets": 29,
+        "replies": 57,
+        "views": 109815,
+        "hot_score": 1011
       },
       "categories": [
         "AI"
@@ -111,11 +255,11 @@
       "published": "2026-07-08T14:23:29+00:00",
       "published_ts": 1783520609,
       "metrics": {
-        "likes": 6,
+        "likes": 9,
         "retweets": 0,
         "replies": 0,
-        "views": 1500,
-        "hot_score": 13
+        "views": 2436,
+        "hot_score": 20
       },
       "categories": [],
       "tickers": [],
@@ -137,10 +281,10 @@
       "published_ts": 1783520471,
       "metrics": {
         "likes": 0,
-        "retweets": 9,
+        "retweets": 12,
         "replies": 0,
-        "views": 6529,
-        "hot_score": 51
+        "views": 7963,
+        "hot_score": 67
       },
       "categories": [],
       "tickers": [],
@@ -161,11 +305,11 @@
       "published": "2026-07-08T14:17:00+00:00",
       "published_ts": 1783520220,
       "metrics": {
-        "likes": 443,
-        "retweets": 37,
-        "replies": 104,
-        "views": 91812,
-        "hot_score": 1266
+        "likes": 999,
+        "retweets": 70,
+        "replies": 136,
+        "views": 176590,
+        "hot_score": 2660
       },
       "categories": [
         "AI",
@@ -189,11 +333,11 @@
       "published": "2026-07-08T14:15:24+00:00",
       "published_ts": 1783520124,
       "metrics": {
-        "likes": 8,
+        "likes": 12,
         "retweets": 0,
         "replies": 1,
-        "views": 8946,
-        "hot_score": 25
+        "views": 12383,
+        "hot_score": 37
       },
       "categories": [],
       "tickers": [],
@@ -228,11 +372,11 @@
       "published": "2026-07-08T14:13:20+00:00",
       "published_ts": 1783520000,
       "metrics": {
-        "likes": 43,
-        "retweets": 7,
-        "replies": 22,
-        "views": 16318,
-        "hot_score": 159
+        "likes": 70,
+        "retweets": 11,
+        "replies": 23,
+        "views": 21354,
+        "hot_score": 239
       },
       "categories": [],
       "tickers": [],
@@ -255,11 +399,11 @@
       "published": "2026-07-08T14:07:00+00:00",
       "published_ts": 1783519620,
       "metrics": {
-        "likes": 392,
-        "retweets": 30,
-        "replies": 90,
-        "views": 85688,
-        "hot_score": 1109
+        "likes": 567,
+        "retweets": 49,
+        "replies": 102,
+        "views": 109230,
+        "hot_score": 1590
       },
       "categories": [
         "Policy"
@@ -282,39 +426,11 @@
       "published": "2026-07-08T14:01:54+00:00",
       "published_ts": 1783519314,
       "metrics": {
-        "likes": 736,
-        "retweets": 63,
-        "replies": 97,
-        "views": 112304,
-        "hot_score": 1996
-      },
-      "categories": [
-        "AI",
-        "Policy"
-      ],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2074855464773599301",
-      "title": "BREAKING: Trump said the US-Iran memorandum of understanding is \"over,\" per YF",
-      "summary": "BREAKING: Trump said the US-Iran memorandum of understanding is \"over,\" per YF",
-      "link": "https://x.com/unusual_whales/status/2074855464773599301",
-      "source": "unusual_whales",
-      "source_id": "whales",
-      "handle": "unusual_whales",
-      "lane": "Market tape",
-      "published": "2026-07-08T13:57:46+00:00",
-      "published_ts": 1783519066,
-      "metrics": {
-        "likes": 233,
-        "retweets": 16,
-        "replies": 69,
-        "views": 86991,
-        "hot_score": 701
+        "likes": 1020,
+        "retweets": 90,
+        "replies": 114,
+        "views": 149479,
+        "hot_score": 2753
       },
       "categories": [
         "AI",
@@ -338,11 +454,11 @@
       "published": "2026-07-08T13:56:24+00:00",
       "published_ts": 1783518984,
       "metrics": {
-        "likes": 47,
-        "retweets": 11,
-        "replies": 25,
-        "views": 17844,
-        "hot_score": 191
+        "likes": 70,
+        "retweets": 19,
+        "replies": 24,
+        "views": 21953,
+        "hot_score": 280
       },
       "categories": [
         "Memory"
@@ -352,33 +468,6 @@
       "has_media": true,
       "media": [
         "https://pbs.twimg.com/media/HMtdmK5XIAAwqEe.png"
-      ],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2074854271158452391",
-      "title": "A mild morning.",
-      "summary": "A mild morning.",
-      "link": "https://x.com/unusual_whales/status/2074854271158452391",
-      "source": "unusual_whales",
-      "source_id": "whales",
-      "handle": "unusual_whales",
-      "lane": "Market tape",
-      "published": "2026-07-08T13:53:01+00:00",
-      "published_ts": 1783518781,
-      "metrics": {
-        "likes": 149,
-        "retweets": 13,
-        "replies": 45,
-        "views": 83932,
-        "hot_score": 491
-      },
-      "categories": [],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": true,
-      "media": [
-        "https://pbs.twimg.com/media/HMtc9XJaEAAXsa9.jpg"
       ],
       "quoted_tweet": null
     },
@@ -394,11 +483,11 @@
       "published": "2026-07-08T13:51:27+00:00",
       "published_ts": 1783518687,
       "metrics": {
-        "likes": 21,
-        "retweets": 3,
-        "replies": 4,
-        "views": 4927,
-        "hot_score": 65
+        "likes": 43,
+        "retweets": 12,
+        "replies": 7,
+        "views": 9922,
+        "hot_score": 162
       },
       "categories": [
         "AI"
@@ -423,11 +512,11 @@
       "published": "2026-07-08T13:50:48+00:00",
       "published_ts": 1783518648,
       "metrics": {
-        "likes": 81,
-        "retweets": 0,
-        "replies": 30,
-        "views": 34679,
-        "hot_score": 226
+        "likes": 103,
+        "retweets": 1,
+        "replies": 37,
+        "views": 56088,
+        "hot_score": 304
       },
       "categories": [],
       "tickers": [],
@@ -450,11 +539,11 @@
       "published": "2026-07-08T13:49:30+00:00",
       "published_ts": 1783518570,
       "metrics": {
-        "likes": 124,
+        "likes": 147,
         "retweets": 1,
-        "replies": 39,
-        "views": 35925,
-        "hot_score": 327
+        "replies": 45,
+        "views": 53661,
+        "hot_score": 397
       },
       "categories": [
         "AI"
@@ -479,11 +568,11 @@
       "published": "2026-07-08T13:46:18+00:00",
       "published_ts": 1783518378,
       "metrics": {
-        "likes": 259,
-        "retweets": 71,
-        "replies": 10,
-        "views": 8876,
-        "hot_score": 891
+        "likes": 377,
+        "retweets": 105,
+        "replies": 18,
+        "views": 12089,
+        "hot_score": 1309
       },
       "categories": [
         "AI",
@@ -512,11 +601,11 @@
       "published": "2026-07-08T13:35:24+00:00",
       "published_ts": 1783517724,
       "metrics": {
-        "likes": 54,
+        "likes": 67,
         "retweets": 7,
         "replies": 6,
-        "views": 10706,
-        "hot_score": 159
+        "views": 13217,
+        "hot_score": 188
       },
       "categories": [],
       "tickers": [],
@@ -549,11 +638,11 @@
       "published": "2026-07-08T13:23:17+00:00",
       "published_ts": 1783516997,
       "metrics": {
-        "likes": 148,
-        "retweets": 35,
-        "replies": 35,
-        "views": 28667,
-        "hot_score": 534
+        "likes": 194,
+        "retweets": 49,
+        "replies": 37,
+        "views": 35283,
+        "hot_score": 705
       },
       "categories": [
         "AI"
@@ -578,40 +667,15 @@
       "published": "2026-07-08T13:23:12+00:00",
       "published_ts": 1783516992,
       "metrics": {
-        "likes": 733,
-        "retweets": 152,
-        "replies": 19,
-        "views": 16423,
-        "hot_score": 2261
+        "likes": 1095,
+        "retweets": 247,
+        "replies": 26,
+        "views": 23365,
+        "hot_score": 3474
       },
       "categories": [
         "Policy"
       ],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2074843726073987120",
-      "title": "JUST IN: The Unusual Whales live trading show WhaleWatch is live now! Starting pre-market prep now, and later at 10:30…",
-      "summary": "JUST IN: The Unusual Whales live trading show WhaleWatch is live now! Starting pre-market prep now, and later at 10:30 ET we're joined by guest Wayne Hoffman to discuss the psychology of trading and finance Join below:",
-      "link": "https://x.com/unusual_whales/status/2074843726073987120",
-      "source": "unusual_whales",
-      "source_id": "whales",
-      "handle": "unusual_whales",
-      "lane": "Market tape",
-      "published": "2026-07-08T13:11:07+00:00",
-      "published_ts": 1783516267,
-      "metrics": {
-        "likes": 56,
-        "retweets": 5,
-        "replies": 29,
-        "views": 130766,
-        "hot_score": 296
-      },
-      "categories": [],
       "tickers": [],
       "is_retweet": false,
       "has_media": false,
@@ -631,10 +695,10 @@
       "published_ts": 1783516158,
       "metrics": {
         "likes": 3,
-        "retweets": 0,
+        "retweets": 1,
         "replies": 2,
-        "views": 5102,
-        "hot_score": 13
+        "views": 6144,
+        "hot_score": 19
       },
       "categories": [],
       "tickers": [],
@@ -658,11 +722,11 @@
       "published": "2026-07-08T13:09:13+00:00",
       "published_ts": 1783516153,
       "metrics": {
-        "likes": 43,
-        "retweets": 4,
-        "replies": 5,
-        "views": 21495,
-        "hot_score": 132
+        "likes": 59,
+        "retweets": 7,
+        "replies": 9,
+        "views": 29192,
+        "hot_score": 191
       },
       "categories": [
         "Memory"
@@ -702,11 +766,11 @@
       "published": "2026-07-08T12:49:57+00:00",
       "published_ts": 1783514997,
       "metrics": {
-        "likes": 848,
-        "retweets": 65,
-        "replies": 221,
-        "views": 174458,
-        "hot_score": 2416
+        "likes": 988,
+        "retweets": 72,
+        "replies": 256,
+        "views": 213328,
+        "hot_score": 2805
       },
       "categories": [
         "AI"
@@ -761,9 +825,9 @@
       "metrics": {
         "likes": 19,
         "retweets": 0,
-        "replies": 15,
-        "views": 17173,
-        "hot_score": 70
+        "replies": 17,
+        "views": 18746,
+        "hot_score": 73
       },
       "categories": [
         "AI"
@@ -804,11 +868,11 @@
       "published": "2026-07-08T10:14:45+00:00",
       "published_ts": 1783505685,
       "metrics": {
-        "likes": 926,
-        "retweets": 27,
-        "replies": 192,
-        "views": 233400,
-        "hot_score": 2412
+        "likes": 984,
+        "retweets": 29,
+        "replies": 194,
+        "views": 253201,
+        "hot_score": 2560
       },
       "categories": [
         "AI",
@@ -834,11 +898,11 @@
       "published": "2026-07-08T10:04:08+00:00",
       "published_ts": 1783505048,
       "metrics": {
-        "likes": 168,
+        "likes": 181,
         "retweets": 11,
         "replies": 48,
-        "views": 145433,
-        "hot_score": 584
+        "views": 158953,
+        "hot_score": 623
       },
       "categories": [],
       "tickers": [],
@@ -882,7 +946,7 @@
         "likes": 0,
         "retweets": 0,
         "replies": 0,
-        "views": 1282,
+        "views": 1369,
         "hot_score": 1
       },
       "categories": [
@@ -906,11 +970,11 @@
       "published": "2026-07-08T09:44:55+00:00",
       "published_ts": 1783503895,
       "metrics": {
-        "likes": 345,
-        "retweets": 25,
-        "replies": 107,
-        "views": 139366,
-        "hot_score": 1061
+        "likes": 357,
+        "retweets": 26,
+        "replies": 109,
+        "views": 152254,
+        "hot_score": 1105
       },
       "categories": [],
       "tickers": [],
@@ -934,11 +998,11 @@
       "published": "2026-07-08T09:39:15+00:00",
       "published_ts": 1783503555,
       "metrics": {
-        "likes": 133,
+        "likes": 145,
         "retweets": 0,
-        "replies": 44,
-        "views": 51924,
-        "hot_score": 361
+        "replies": 46,
+        "views": 57299,
+        "hot_score": 393
       },
       "categories": [
         "Memory",
@@ -973,11 +1037,11 @@
       "published": "2026-07-08T09:30:17+00:00",
       "published_ts": 1783503017,
       "metrics": {
-        "likes": 54,
+        "likes": 56,
         "retweets": 2,
-        "replies": 32,
-        "views": 30570,
-        "hot_score": 180
+        "replies": 36,
+        "views": 32170,
+        "hot_score": 190
       },
       "categories": [],
       "tickers": [],
@@ -1010,11 +1074,11 @@
       "published": "2026-07-08T09:21:00+00:00",
       "published_ts": 1783502460,
       "metrics": {
-        "likes": 265,
+        "likes": 276,
         "retweets": 32,
         "replies": 16,
-        "views": 26400,
-        "hot_score": 732
+        "views": 27898,
+        "hot_score": 755
       },
       "categories": [
         "AI",
@@ -1038,11 +1102,11 @@
       "published": "2026-07-08T08:42:26+00:00",
       "published_ts": 1783500146,
       "metrics": {
-        "likes": 831,
+        "likes": 859,
         "retweets": 40,
-        "replies": 159,
-        "views": 235476,
-        "hot_score": 2256
+        "replies": 160,
+        "views": 247452,
+        "hot_score": 2325
       },
       "categories": [
         "AI",
@@ -1068,11 +1132,11 @@
       "published": "2026-07-08T07:40:06+00:00",
       "published_ts": 1783496406,
       "metrics": {
-        "likes": 305,
-        "retweets": 11,
+        "likes": 319,
+        "retweets": 16,
         "replies": 51,
-        "views": 107262,
-        "hot_score": 823
+        "views": 113653,
+        "hot_score": 882
       },
       "categories": [
         "Risk"
@@ -1097,11 +1161,11 @@
       "published": "2026-07-08T07:20:18+00:00",
       "published_ts": 1783495218,
       "metrics": {
-        "likes": 69,
+        "likes": 71,
         "retweets": 2,
-        "replies": 39,
-        "views": 37654,
-        "hot_score": 224
+        "replies": 42,
+        "views": 39452,
+        "hot_score": 233
       },
       "categories": [
         "Memory",
@@ -1135,11 +1199,11 @@
       "published": "2026-07-08T07:18:53+00:00",
       "published_ts": 1783495133,
       "metrics": {
-        "likes": 213,
+        "likes": 218,
         "retweets": 1,
-        "replies": 43,
-        "views": 57389,
-        "hot_score": 531
+        "replies": 44,
+        "views": 59092,
+        "hot_score": 544
       },
       "categories": [
         "Risk"
@@ -1164,11 +1228,11 @@
       "published": "2026-07-08T07:17:41+00:00",
       "published_ts": 1783495061,
       "metrics": {
-        "likes": 68,
-        "retweets": 15,
+        "likes": 70,
+        "retweets": 16,
         "replies": 27,
-        "views": 41934,
-        "hot_score": 279
+        "views": 43810,
+        "hot_score": 290
       },
       "categories": [
         "AI",
@@ -1233,11 +1297,11 @@
       "published": "2026-07-08T07:03:13+00:00",
       "published_ts": 1783494193,
       "metrics": {
-        "likes": 276,
+        "likes": 282,
         "retweets": 3,
         "replies": 64,
-        "views": 68475,
-        "hot_score": 699
+        "views": 71247,
+        "hot_score": 714
       },
       "categories": [
         "Memory",
@@ -1266,8 +1330,8 @@
         "likes": 51,
         "retweets": 1,
         "replies": 8,
-        "views": 34790,
-        "hot_score": 149
+        "views": 36492,
+        "hot_score": 151
       },
       "categories": [],
       "tickers": [],
@@ -1302,11 +1366,11 @@
       "published": "2026-07-08T05:30:28+00:00",
       "published_ts": 1783488628,
       "metrics": {
-        "likes": 2909,
-        "retweets": 241,
-        "replies": 31,
-        "views": 54662,
-        "hot_score": 7108
+        "likes": 3253,
+        "retweets": 261,
+        "replies": 33,
+        "views": 60515,
+        "hot_score": 7904
       },
       "categories": [
         "Policy"
@@ -1342,8 +1406,8 @@
         "likes": 65,
         "retweets": 4,
         "replies": 12,
-        "views": 26965,
-        "hot_score": 188
+        "views": 27527,
+        "hot_score": 189
       },
       "categories": [
         "AI",
@@ -1383,7 +1447,7 @@
         "likes": 0,
         "retweets": 8,
         "replies": 0,
-        "views": 1929,
+        "views": 1945,
         "hot_score": 41
       },
       "categories": [],
@@ -1408,8 +1472,8 @@
         "likes": 62,
         "retweets": 6,
         "replies": 19,
-        "views": 42595,
-        "hot_score": 215
+        "views": 43870,
+        "hot_score": 216
       },
       "categories": [
         "AI",
@@ -1452,11 +1516,11 @@
       "published": "2026-07-08T02:00:02+00:00",
       "published_ts": 1783476002,
       "metrics": {
-        "likes": 100,
+        "likes": 101,
         "retweets": 5,
         "replies": 15,
-        "views": 46172,
-        "hot_score": 286
+        "views": 47412,
+        "hot_score": 289
       },
       "categories": [],
       "tickers": [],
@@ -1491,11 +1555,11 @@
       "published": "2026-07-08T00:11:49+00:00",
       "published_ts": 1783469509,
       "metrics": {
-        "likes": 60,
+        "likes": 61,
         "retweets": 1,
         "replies": 1,
-        "views": 11495,
-        "hot_score": 137
+        "views": 11995,
+        "hot_score": 139
       },
       "categories": [
         "Memory",
@@ -1521,11 +1585,11 @@
       "published": "2026-07-07T22:27:00+00:00",
       "published_ts": 1783463220,
       "metrics": {
-        "likes": 248,
+        "likes": 251,
         "retweets": 10,
         "replies": 25,
-        "views": 28638,
-        "hot_score": 599
+        "views": 29097,
+        "hot_score": 606
       },
       "categories": [
         "AI",
@@ -1553,11 +1617,11 @@
       "published": "2026-07-07T21:26:27+00:00",
       "published_ts": 1783459587,
       "metrics": {
-        "likes": 120,
+        "likes": 121,
         "retweets": 8,
         "replies": 27,
-        "views": 55504,
-        "hot_score": 362
+        "views": 56360,
+        "hot_score": 365
       },
       "categories": [
         "AI",
@@ -1586,11 +1650,11 @@
       "published": "2026-07-07T19:49:55+00:00",
       "published_ts": 1783453795,
       "metrics": {
-        "likes": 849,
+        "likes": 852,
         "retweets": 46,
-        "replies": 203,
-        "views": 300522,
-        "hot_score": 2431
+        "replies": 204,
+        "views": 311831,
+        "hot_score": 2449
       },
       "categories": [
         "AI",
@@ -1623,11 +1687,11 @@
       "published": "2026-07-07T18:56:07+00:00",
       "published_ts": 1783450567,
       "metrics": {
-        "likes": 1336,
+        "likes": 1345,
         "retweets": 106,
         "replies": 189,
-        "views": 392253,
-        "hot_score": 3783
+        "views": 398441,
+        "hot_score": 3807
       },
       "categories": [
         "Data centers"
@@ -1656,11 +1720,11 @@
       "published": "2026-07-07T17:39:23+00:00",
       "published_ts": 1783445963,
       "metrics": {
-        "likes": 1049,
+        "likes": 1058,
         "retweets": 61,
         "replies": 222,
-        "views": 303126,
-        "hot_score": 2928
+        "views": 309105,
+        "hot_score": 2952
       },
       "categories": [
         "AI"
@@ -1688,11 +1752,11 @@
       "published": "2026-07-07T16:57:37+00:00",
       "published_ts": 1783443457,
       "metrics": {
-        "likes": 348,
+        "likes": 352,
         "retweets": 18,
         "replies": 18,
-        "views": 31628,
-        "hot_score": 835
+        "views": 32329,
+        "hot_score": 844
       },
       "categories": [
         "Policy"
@@ -1715,11 +1779,11 @@
       "published": "2026-07-07T16:38:39+00:00",
       "published_ts": 1783442319,
       "metrics": {
-        "likes": 1300,
-        "retweets": 71,
-        "replies": 219,
-        "views": 542792,
-        "hot_score": 3674
+        "likes": 1308,
+        "retweets": 73,
+        "replies": 220,
+        "views": 550713,
+        "hot_score": 3701
       },
       "categories": [
         "AI",
@@ -1793,7 +1857,7 @@
         "likes": 123,
         "retweets": 4,
         "replies": 28,
-        "views": 52278,
+        "views": 52854,
         "hot_score": 346
       },
       "categories": [],
@@ -1828,7 +1892,7 @@
         "likes": 37,
         "retweets": 5,
         "replies": 8,
-        "views": 24810,
+        "views": 24939,
         "hot_score": 131
       },
       "categories": [
@@ -1854,31 +1918,6 @@
       }
     },
     {
-      "id": "2074515431235129589",
-      "title": "My god I’m shadow banned.",
-      "summary": "My god I’m shadow banned.",
-      "link": "https://x.com/TrumpsPortfolio/status/2074515431235129589",
-      "source": "Trump Portfolio Tracker",
-      "source_id": "trumptracker",
-      "handle": "TrumpsPortfolio",
-      "lane": "Policy trades",
-      "published": "2026-07-07T15:26:36+00:00",
-      "published_ts": 1783437996,
-      "metrics": {
-        "likes": 5127,
-        "retweets": 197,
-        "replies": 95,
-        "views": 69956,
-        "hot_score": 11403
-      },
-      "categories": [],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": null
-    },
-    {
       "id": "2074510519231504549",
       "title": "我说大兄弟们，别纠缠这几个前期热门个股了好吗？😂😤",
       "summary": "我说大兄弟们，别纠缠这几个前期热门个股了好吗？😂😤",
@@ -1893,7 +1932,7 @@
         "likes": 66,
         "retweets": 0,
         "replies": 3,
-        "views": 15438,
+        "views": 15693,
         "hot_score": 150
       },
       "categories": [],
@@ -1920,7 +1959,7 @@
         "likes": 70,
         "retweets": 3,
         "replies": 1,
-        "views": 15628,
+        "views": 15786,
         "hot_score": 171
       },
       "categories": [
@@ -1945,11 +1984,11 @@
       "published": "2026-07-07T14:40:20+00:00",
       "published_ts": 1783435220,
       "metrics": {
-        "likes": 654,
+        "likes": 655,
         "retweets": 17,
         "replies": 72,
-        "views": 179553,
-        "hot_score": 1644
+        "views": 181657,
+        "hot_score": 1648
       },
       "categories": [],
       "tickers": [],
@@ -1972,11 +2011,11 @@
       "published": "2026-07-07T14:03:29+00:00",
       "published_ts": 1783433009,
       "metrics": {
-        "likes": 4916,
-        "retweets": 284,
-        "replies": 400,
-        "views": 1108082,
-        "hot_score": 12152
+        "likes": 4924,
+        "retweets": 285,
+        "replies": 401,
+        "views": 1117227,
+        "hot_score": 12174
       },
       "categories": [
         "Semis",
@@ -2013,40 +2052,12 @@
         "likes": 13,
         "retweets": 0,
         "replies": 0,
-        "views": 3854,
+        "views": 3890,
         "hot_score": 29
       },
       "categories": [],
       "tickers": [],
       "is_retweet": false,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2074314516624552036",
-      "title": "RT @charliebilello: Florida Home Prices, % Below High (via Zillow)... Miami: -3% West Palm Beach: -5% Orlando: -5% Port…",
-      "summary": "RT @charliebilello: Florida Home Prices, % Below High (via Zillow)... Miami: -3% West Palm Beach: -5% Orlando: -5% Port Saint Lucie: -6% Ta…",
-      "link": "https://x.com/charliebilello/status/2074314516624552036",
-      "source": "Charlie Bilello",
-      "source_id": "bilello",
-      "handle": "charliebilello",
-      "lane": "Market data",
-      "published": "2026-07-07T02:08:14+00:00",
-      "published_ts": 1783390094,
-      "metrics": {
-        "likes": 0,
-        "retweets": 224,
-        "replies": 0,
-        "views": 0,
-        "hot_score": 1120
-      },
-      "categories": [
-        "AI",
-        "Policy"
-      ],
-      "tickers": [],
-      "is_retweet": true,
       "has_media": false,
       "media": [],
       "quoted_tweet": null
@@ -2066,7 +2077,7 @@
         "likes": 37,
         "retweets": 0,
         "replies": 12,
-        "views": 25893,
+        "views": 25973,
         "hot_score": 111
       },
       "categories": [
@@ -2094,7 +2105,7 @@
         "likes": 44,
         "retweets": 1,
         "replies": 2,
-        "views": 16735,
+        "views": 16815,
         "hot_score": 111
       },
       "categories": [
@@ -2124,7 +2135,7 @@
         "likes": 291,
         "retweets": 16,
         "replies": 14,
-        "views": 35770,
+        "views": 35827,
         "hot_score": 711
       },
       "categories": [
@@ -2156,7 +2167,7 @@
         "likes": 738,
         "retweets": 43,
         "replies": 22,
-        "views": 90065,
+        "views": 90154,
         "hot_score": 1803
       },
       "categories": [
@@ -2186,11 +2197,11 @@
       "published": "2026-07-06T19:41:16+00:00",
       "published_ts": 1783366876,
       "metrics": {
-        "likes": 96,
+        "likes": 97,
         "retweets": 6,
         "replies": 7,
-        "views": 48863,
-        "hot_score": 277
+        "views": 49027,
+        "hot_score": 280
       },
       "categories": [],
       "tickers": [],
@@ -2214,7 +2225,7 @@
         "likes": 33,
         "retweets": 1,
         "replies": 3,
-        "views": 14900,
+        "views": 14933,
         "hot_score": 88
       },
       "categories": [
@@ -2244,8 +2255,8 @@
         "likes": 272,
         "retweets": 11,
         "replies": 49,
-        "views": 125921,
-        "hot_score": 773
+        "views": 126082,
+        "hot_score": 774
       },
       "categories": [
         "Memory"
@@ -2271,7 +2282,7 @@
         "likes": 85,
         "retweets": 1,
         "replies": 2,
-        "views": 19942,
+        "views": 19981,
         "hot_score": 196
       },
       "categories": [
@@ -2295,11 +2306,11 @@
       "published": "2026-07-06T03:22:31+00:00",
       "published_ts": 1783308151,
       "metrics": {
-        "likes": 221,
+        "likes": 222,
         "retweets": 16,
         "replies": 20,
-        "views": 106465,
-        "hot_score": 648
+        "views": 106509,
+        "hot_score": 650
       },
       "categories": [
         "Memory",
@@ -2328,7 +2339,7 @@
         "likes": 233,
         "retweets": 19,
         "replies": 21,
-        "views": 31755,
+        "views": 31775,
         "hot_score": 613
       },
       "categories": [
@@ -2364,7 +2375,7 @@
         "likes": 286,
         "retweets": 23,
         "replies": 28,
-        "views": 63400,
+        "views": 63424,
         "hot_score": 778
       },
       "categories": [
@@ -2396,7 +2407,7 @@
         "likes": 92,
         "retweets": 9,
         "replies": 22,
-        "views": 39050,
+        "views": 39065,
         "hot_score": 290
       },
       "categories": [
@@ -2423,7 +2434,7 @@
         "likes": 535,
         "retweets": 84,
         "replies": 35,
-        "views": 103251,
+        "views": 103290,
         "hot_score": 1628
       },
       "categories": [
@@ -2453,7 +2464,7 @@
         "likes": 28,
         "retweets": 0,
         "replies": 18,
-        "views": 9584,
+        "views": 9594,
         "hot_score": 83
       },
       "categories": [
@@ -2480,7 +2491,7 @@
         "likes": 451,
         "retweets": 37,
         "replies": 40,
-        "views": 76125,
+        "views": 76139,
         "hot_score": 1203
       },
       "categories": [
@@ -2514,7 +2525,7 @@
         "likes": 65,
         "retweets": 1,
         "replies": 3,
-        "views": 18242,
+        "views": 18268,
         "hot_score": 156
       },
       "categories": [
@@ -2543,7 +2554,7 @@
         "likes": 150,
         "retweets": 13,
         "replies": 21,
-        "views": 27112,
+        "views": 27125,
         "hot_score": 413
       },
       "categories": [
@@ -2574,7 +2585,7 @@
         "likes": 844,
         "retweets": 147,
         "replies": 123,
-        "views": 258024,
+        "views": 258088,
         "hot_score": 2804
       },
       "categories": [],
@@ -2599,10 +2610,10 @@
       "published_ts": 1782975365,
       "metrics": {
         "likes": 209,
-        "retweets": 32,
+        "retweets": 33,
         "replies": 102,
-        "views": 77635,
-        "hot_score": 757
+        "views": 77658,
+        "hot_score": 762
       },
       "categories": [
         "Risk"
@@ -2638,7 +2649,7 @@
         "likes": 140,
         "retweets": 16,
         "replies": 9,
-        "views": 36817,
+        "views": 36829,
         "hot_score": 405
       },
       "categories": [
@@ -2665,7 +2676,7 @@
         "likes": 277,
         "retweets": 22,
         "replies": 103,
-        "views": 44911,
+        "views": 44917,
         "hot_score": 811
       },
       "categories": [],
@@ -2690,7 +2701,7 @@
         "likes": 83,
         "retweets": 6,
         "replies": 38,
-        "views": 46565,
+        "views": 46576,
         "hot_score": 280
       },
       "categories": [],
@@ -2729,7 +2740,7 @@
         "likes": 17,
         "retweets": 2,
         "replies": 2,
-        "views": 23343,
+        "views": 23359,
         "hot_score": 69
       },
       "categories": [],
@@ -2772,7 +2783,7 @@
         "likes": 93,
         "retweets": 11,
         "replies": 25,
-        "views": 42068,
+        "views": 42080,
         "hot_score": 308
       },
       "categories": [
@@ -2825,7 +2836,7 @@
         "likes": 179,
         "retweets": 14,
         "replies": 88,
-        "views": 121414,
+        "views": 121438,
         "hot_score": 637
       },
       "categories": [
@@ -2853,7 +2864,7 @@
         "likes": 98,
         "retweets": 0,
         "replies": 83,
-        "views": 31162,
+        "views": 31163,
         "hot_score": 310
       },
       "categories": [
@@ -2880,7 +2891,7 @@
         "likes": 82,
         "retweets": 13,
         "replies": 13,
-        "views": 45095,
+        "views": 45109,
         "hot_score": 287
       },
       "categories": [],
@@ -2905,7 +2916,7 @@
         "likes": 66,
         "retweets": 9,
         "replies": 63,
-        "views": 32354,
+        "views": 32355,
         "hot_score": 272
       },
       "categories": [
@@ -2932,7 +2943,7 @@
         "likes": 98,
         "retweets": 6,
         "replies": 70,
-        "views": 22450,
+        "views": 22452,
         "hot_score": 318
       },
       "categories": [
@@ -2959,7 +2970,7 @@
         "likes": 154,
         "retweets": 8,
         "replies": 112,
-        "views": 69502,
+        "views": 69503,
         "hot_score": 529
       },
       "categories": [
@@ -2987,7 +2998,7 @@
         "likes": 99,
         "retweets": 20,
         "replies": 22,
-        "views": 42972,
+        "views": 42984,
         "hot_score": 362
       },
       "categories": [
@@ -3042,7 +3053,7 @@
         "likes": 1014,
         "retweets": 63,
         "replies": 35,
-        "views": 581831,
+        "views": 581882,
         "hot_score": 2878
       },
       "categories": [],
@@ -3081,7 +3092,7 @@
         "likes": 905,
         "retweets": 62,
         "replies": 57,
-        "views": 316743,
+        "views": 316768,
         "hot_score": 2493
       },
       "categories": [],
@@ -3133,7 +3144,7 @@
         "likes": 1227,
         "retweets": 120,
         "replies": 49,
-        "views": 460720,
+        "views": 460739,
         "hot_score": 3563
       },
       "categories": [
