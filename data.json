@@ -1,8 +1,173 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-08T01:41:45.990449+00:00",
-  "generated_ts": 1783474905,
+  "generated_at": "2026-07-08T02:42:51.833825+00:00",
+  "generated_ts": 1783478571,
   "articles": [
+    {
+      "id": "2074682633464713453",
+      "title": "To see all of Trump's trades, subscribe to Unusual Whales. You can match and catch his portfolio, as it is disclosed. R…",
+      "summary": "To see all of Trump's trades, subscribe to Unusual Whales. You can match and catch his portfolio, as it is disclosed. Read more:",
+      "link": "https://x.com/unusual_whales/status/2074682633464713453",
+      "source": "unusual_whales",
+      "source_id": "whales",
+      "handle": "unusual_whales",
+      "lane": "Market tape",
+      "published": "2026-07-08T02:31:00+00:00",
+      "published_ts": 1783477860,
+      "metrics": {
+        "likes": 7,
+        "retweets": 0,
+        "replies": 3,
+        "views": 12477,
+        "hot_score": 29
+      },
+      "categories": [
+        "Policy"
+      ],
+      "tickers": [],
+      "is_retweet": false,
+      "has_media": false,
+      "media": [],
+      "quoted_tweet": null
+    },
+    {
+      "id": "2074681121686900839",
+      "title": "在腾讯里躲调整，6月23号让大家高看腾讯一眼，基本上call在最底部，两周过去15%左右，如果再看半导体跌的，当时挪了部分仓位那还是能对冲不少的。腾讯走强核心逻辑三点： 1、首先自然是微信Agent测试的驱动， 之前有聊过微信月活13.8…",
+      "summary": "在腾讯里躲调整，6月23号让大家高看腾讯一眼，基本上call在最底部，两周过去15%左右，如果再看半导体跌的，当时挪了部分仓位那还是能对冲不少的。腾讯走强核心逻辑三点： 1、首先自然是微信Agent测试的驱动， 之前有聊过微信月活13.82亿，小程序日活超过6亿，微信支付绑卡用户超过10亿。这是中国最大的社交网络、最大的内容平台、最大的服务生态、最大的支付体系，全部叠在一起。 微信做Agent不模拟操作，它直接调用API。微信小程序有几百万个标准化接口，小微可以直接调。效率相比其他agent高了不是一点半点，是数个量级的差距。用户大量交易行为早已存在于…",
+      "link": "https://x.com/qinbafrank/status/2074681121686900839",
+      "source": "qinbafrank",
+      "source_id": "qinba",
+      "handle": "qinbafrank",
+      "lane": "Macro + AI",
+      "published": "2026-07-08T02:24:59+00:00",
+      "published_ts": 1783477499,
+      "metrics": {
+        "likes": 7,
+        "retweets": 0,
+        "replies": 3,
+        "views": 5066,
+        "hot_score": 22
+      },
+      "categories": [
+        "AI",
+        "Semis",
+        "Risk"
+      ],
+      "tickers": [],
+      "is_retweet": false,
+      "has_media": true,
+      "media": [
+        "https://pbs.twimg.com/media/HMq_eukaAAI2deC.jpg"
+      ],
+      "quoted_tweet": {
+        "id": "2069236884153491485",
+        "author": "qinbafrank",
+        "name": "qinbafrank",
+        "text": "这次微信Agent是终于来了，25年初就有畅想过微信会加速推动AI Agent，没想到等真正落地已经过去一年半了。最近几天微信开始小范围内测一个叫做「小微」的东西—是微信团队自己搞的原生AI Agent。关于微信Agent有几点值得特别关注：\n1、微信Agent不需要你专门去一个地方。\n其他所有Agent，你都得打开一个专门的App或者网页。但微信Agent就长在微信里, 一个你每天已经打开几十次的App里。它不是一个新的目的地，它是你现有生活流里长出来的一个新能力。\n\n这个区别，其实比我们想象的还要大得多\n\n2、微信Agent的生态想象力太大了。\n公众号、视频号、小程序、微信支付、朋友圈、收藏, 微信生态里每一个组件，都在变成Agent可以调用的能力。\n\n微信月活13.82亿，小程序日活超过6亿，微信支付绑卡用户超过10亿。这是什么概念？\n这是中国最大的社交网络、最大的内容平台、最大的服务生态、最大的支付体系，全部叠在一起。\n别人家做AI Agent，比如字节跳动的豆包，技术也很强。但豆包的方式是什么？它用GUI模拟操作，就是AI在屏幕上点点点，每次操作要消耗几万token，成本高、速度慢、还容易出错。\n微信的做法是什么？它不模拟操作，它直接调用API。微信小程序有几百万个标准化接口，小微可以直接调。效率高了不是一点半点，是数个量级的差距。\n\n3、内容理解。\n群聊太多看不完？小微可以给你总结，还能按维度分类——谁说了正事、谁在闲聊、哪个话题跟你有关。朋友圈也是一样，一百条未读，它会告诉你「今天朋友圈主要是三类内容：三个朋友在晒娃、两个行业大佬发了对AI的看法、一个前同事在吐槽加班」。\n对我们大家来说其实很实用了。\n\n如果大规模开放后用户体验确实很好，那就意味着微信真正把十几亿人已经习惯的整个数字生活，变成了AI可以帮你打理的私人空间。更自然的融入，这可能就是微信Agent所有想象空间的地方。\n\n当然这也会带来AI代理的进一步大规模普及，对于用户端产品来说：\n傻瓜式的上手入门、\n丝滑的用户体验、\n大规模下降可控的成本费用支出，\n才能使产品“跨越鸿沟”，从小众用户快速走向大众用户。\n\n这是不是意味着我们对已经沦落成老登代表的腾讯得高看一眼了。",
+        "created_at": "Tue Jun 23 01:51:32 +0000 2026",
+        "url": "https://x.com/qinbafrank/status/2069236884153491485",
+        "has_media": true,
+        "media_urls": [
+          "https://pbs.twimg.com/media/HLdn-iWbIAA9KDn.jpg",
+          "https://pbs.twimg.com/media/HLdn-iOaUAArSBl.jpg"
+        ],
+        "media_posters": [
+          "https://pbs.twimg.com/media/HLdn-iWbIAA9KDn.jpg",
+          "https://pbs.twimg.com/media/HLdn-iOaUAArSBl.jpg"
+        ]
+      }
+    },
+    {
+      "id": "2074674839768781125",
+      "title": "做多要hedge下AMZN被定价成第二个ORCL的极端风险",
+      "summary": "做多要hedge下AMZN被定价成第二个ORCL的极端风险",
+      "link": "https://x.com/ShanghaoJin/status/2074674839768781125",
+      "source": "Herman Jin",
+      "source_id": "herman",
+      "handle": "ShanghaoJin",
+      "lane": "FICC + tech",
+      "published": "2026-07-08T02:00:02+00:00",
+      "published_ts": 1783476002,
+      "metrics": {
+        "likes": 34,
+        "retweets": 1,
+        "replies": 6,
+        "views": 8922,
+        "hot_score": 87
+      },
+      "categories": [],
+      "tickers": [],
+      "is_retweet": false,
+      "has_media": false,
+      "media": [],
+      "quoted_tweet": {
+        "id": "2074658698471829544",
+        "author": "zerohedge",
+        "name": "zerohedge",
+        "text": "The latest hyperscaler forecast chart from Goldman https://t.co/2hIufPONVm",
+        "created_at": "Wed Jul 08 00:55:53 +0000 2026",
+        "url": "https://x.com/zerohedge/status/2074658698471829544",
+        "has_media": true,
+        "media_urls": [
+          "https://pbs.twimg.com/media/HMqrFutXQAAvPrj.jpg"
+        ],
+        "media_posters": [
+          "https://pbs.twimg.com/media/HMqrFutXQAAvPrj.jpg"
+        ]
+      }
+    },
+    {
+      "id": "2074674328692494664",
+      "title": "In a June 29 letter to ICC President Judge Tomoko Akane, Blanche argued that the court has no jurisdiction over U.S. pe…",
+      "summary": "In a June 29 letter to ICC President Judge Tomoko Akane, Blanche argued that the court has no jurisdiction over U.S. persons anywhere in the world, because the United States has never ratified the Rome Statute. Read more:",
+      "link": "https://x.com/unusual_whales/status/2074674328692494664",
+      "source": "unusual_whales",
+      "source_id": "whales",
+      "handle": "unusual_whales",
+      "lane": "Market tape",
+      "published": "2026-07-08T01:58:00+00:00",
+      "published_ts": 1783475880,
+      "metrics": {
+        "likes": 36,
+        "retweets": 3,
+        "replies": 6,
+        "views": 28466,
+        "hot_score": 121
+      },
+      "categories": [],
+      "tickers": [],
+      "is_retweet": false,
+      "has_media": false,
+      "media": [],
+      "quoted_tweet": null
+    },
+    {
+      "id": "2074672306706882765",
+      "title": "RT @ShanghaoJin: @Green_GOOGL 对～真的崩会把AMZN当成orcl 现在这种莫名其妙下跌不足为虑",
+      "summary": "RT @ShanghaoJin: @Green_GOOGL 对～真的崩会把AMZN当成orcl 现在这种莫名其妙下跌不足为虑",
+      "link": "https://x.com/ShanghaoJin/status/2074672306706882765",
+      "source": "Herman Jin",
+      "source_id": "herman",
+      "handle": "ShanghaoJin",
+      "lane": "FICC + tech",
+      "published": "2026-07-08T01:49:58+00:00",
+      "published_ts": 1783475398,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "views": 0,
+        "hot_score": 5
+      },
+      "categories": [
+        "Risk"
+      ],
+      "tickers": [],
+      "is_retweet": true,
+      "has_media": false,
+      "media": [],
+      "quoted_tweet": null
+    },
     {
       "id": "2074667534133969135",
       "title": "Only 4% of global respondents achieved AI-related savings of more than 30%. Read more:",
@@ -15,11 +180,11 @@
       "published": "2026-07-08T01:31:00+00:00",
       "published_ts": 1783474260,
       "metrics": {
-        "likes": 10,
+        "likes": 22,
         "retweets": 0,
-        "replies": 4,
-        "views": 13625,
-        "hot_score": 37
+        "replies": 6,
+        "views": 36446,
+        "hot_score": 86
       },
       "categories": [
         "AI"
@@ -67,11 +232,11 @@
       "published": "2026-07-08T00:58:00+00:00",
       "published_ts": 1783472280,
       "metrics": {
-        "likes": 26,
+        "likes": 35,
         "retweets": 2,
-        "replies": 23,
-        "views": 69303,
-        "hot_score": 154
+        "replies": 24,
+        "views": 90490,
+        "hot_score": 194
       },
       "categories": [],
       "tickers": [],
@@ -80,33 +245,6 @@
       "media": [
         "https://pbs.twimg.com/media/HMlrXOFaUAAEfY7.jpg"
       ],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2074652434530517332",
-      "title": "To see all of Trump's trades, subscribe to Unusual Whales. You can match and catch his portfolio, as it is disclosed. R…",
-      "summary": "To see all of Trump's trades, subscribe to Unusual Whales. You can match and catch his portfolio, as it is disclosed. Read more:",
-      "link": "https://x.com/unusual_whales/status/2074652434530517332",
-      "source": "unusual_whales",
-      "source_id": "whales",
-      "handle": "unusual_whales",
-      "lane": "Market tape",
-      "published": "2026-07-08T00:31:00+00:00",
-      "published_ts": 1783470660,
-      "metrics": {
-        "likes": 26,
-        "retweets": 3,
-        "replies": 3,
-        "views": 32039,
-        "hot_score": 102
-      },
-      "categories": [
-        "Policy"
-      ],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
       "quoted_tweet": null
     },
     {
@@ -121,11 +259,11 @@
       "published": "2026-07-08T00:11:49+00:00",
       "published_ts": 1783469509,
       "metrics": {
-        "likes": 20,
-        "retweets": 0,
+        "likes": 27,
+        "retweets": 1,
         "replies": 0,
-        "views": 4342,
-        "hot_score": 44
+        "views": 5555,
+        "hot_score": 64
       },
       "categories": [
         "Memory",
@@ -137,33 +275,6 @@
       "media": [
         "https://pbs.twimg.com/media/HMqgi0HaEAA2pJK.jpg"
       ],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2074644129728839681",
-      "title": "To get updates on Trump's trades, subscribe to Unusual Whales. You can see entire portfolio. See more:",
-      "summary": "To get updates on Trump's trades, subscribe to Unusual Whales. You can see entire portfolio. See more:",
-      "link": "https://x.com/unusual_whales/status/2074644129728839681",
-      "source": "unusual_whales",
-      "source_id": "whales",
-      "handle": "unusual_whales",
-      "lane": "Market tape",
-      "published": "2026-07-07T23:58:00+00:00",
-      "published_ts": 1783468680,
-      "metrics": {
-        "likes": 16,
-        "retweets": 1,
-        "replies": 5,
-        "views": 35701,
-        "hot_score": 77
-      },
-      "categories": [
-        "Policy"
-      ],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
       "quoted_tweet": null
     },
     {
@@ -179,10 +290,10 @@
       "published_ts": 1783464966,
       "metrics": {
         "likes": 0,
-        "retweets": 6,
+        "retweets": 7,
         "replies": 0,
         "views": 0,
-        "hot_score": 30
+        "hot_score": 35
       },
       "categories": [
         "AI",
@@ -207,11 +318,11 @@
       "published": "2026-07-07T22:27:00+00:00",
       "published_ts": 1783463220,
       "metrics": {
-        "likes": 135,
+        "likes": 157,
         "retweets": 8,
         "replies": 22,
-        "views": 16699,
-        "hot_score": 348
+        "views": 18515,
+        "hot_score": 394
       },
       "categories": [
         "AI",
@@ -239,11 +350,11 @@
       "published": "2026-07-07T21:26:27+00:00",
       "published_ts": 1783459587,
       "metrics": {
-        "likes": 75,
-        "retweets": 6,
+        "likes": 82,
+        "retweets": 7,
         "replies": 23,
-        "views": 28662,
-        "hot_score": 231
+        "views": 32794,
+        "hot_score": 254
       },
       "categories": [
         "AI",
@@ -272,11 +383,11 @@
       "published": "2026-07-07T19:49:55+00:00",
       "published_ts": 1783453795,
       "metrics": {
-        "likes": 535,
+        "likes": 574,
         "retweets": 27,
-        "replies": 165,
-        "views": 123704,
-        "hot_score": 1493
+        "replies": 171,
+        "views": 138850,
+        "hot_score": 1592
       },
       "categories": [
         "AI",
@@ -309,11 +420,11 @@
       "published": "2026-07-07T18:56:07+00:00",
       "published_ts": 1783450567,
       "metrics": {
-        "likes": 1076,
-        "retweets": 82,
-        "replies": 169,
-        "views": 255809,
-        "hot_score": 2986
+        "likes": 1117,
+        "retweets": 85,
+        "replies": 173,
+        "views": 269852,
+        "hot_score": 3101
       },
       "categories": [
         "Data centers"
@@ -342,11 +453,11 @@
       "published": "2026-07-07T17:39:23+00:00",
       "published_ts": 1783445963,
       "metrics": {
-        "likes": 803,
-        "retweets": 47,
-        "replies": 184,
-        "views": 203785,
-        "hot_score": 2228
+        "likes": 835,
+        "retweets": 48,
+        "replies": 190,
+        "views": 215606,
+        "hot_score": 2315
       },
       "categories": [
         "AI"
@@ -374,11 +485,11 @@
       "published": "2026-07-07T16:57:37+00:00",
       "published_ts": 1783443457,
       "metrics": {
-        "likes": 277,
+        "likes": 285,
         "retweets": 13,
         "replies": 17,
-        "views": 19897,
-        "hot_score": 655
+        "views": 20641,
+        "hot_score": 672
       },
       "categories": [
         "Policy"
@@ -401,11 +512,11 @@
       "published": "2026-07-07T16:38:39+00:00",
       "published_ts": 1783442319,
       "metrics": {
-        "likes": 1079,
-        "retweets": 56,
-        "replies": 201,
-        "views": 390199,
-        "hot_score": 3029
+        "likes": 1116,
+        "retweets": 58,
+        "replies": 206,
+        "views": 407299,
+        "hot_score": 3135
       },
       "categories": [
         "AI",
@@ -476,11 +587,11 @@
       "published": "2026-07-07T16:30:21+00:00",
       "published_ts": 1783441821,
       "metrics": {
-        "likes": 92,
+        "likes": 98,
         "retweets": 3,
-        "replies": 21,
-        "views": 32737,
-        "hot_score": 252
+        "replies": 22,
+        "views": 35134,
+        "hot_score": 268
       },
       "categories": [],
       "tickers": [],
@@ -511,11 +622,11 @@
       "published": "2026-07-07T16:22:44+00:00",
       "published_ts": 1783441364,
       "metrics": {
-        "likes": 27,
+        "likes": 29,
         "retweets": 0,
         "replies": 6,
-        "views": 9266,
-        "hot_score": 69
+        "views": 10680,
+        "hot_score": 74
       },
       "categories": [],
       "tickers": [],
@@ -536,11 +647,11 @@
       "published": "2026-07-07T16:21:32+00:00",
       "published_ts": 1783441292,
       "metrics": {
-        "likes": 87,
+        "likes": 94,
         "retweets": 3,
-        "replies": 11,
-        "views": 22966,
-        "hot_score": 222
+        "replies": 13,
+        "views": 25248,
+        "hot_score": 241
       },
       "categories": [
         "Risk"
@@ -565,11 +676,11 @@
       "published": "2026-07-07T15:35:59+00:00",
       "published_ts": 1783438559,
       "metrics": {
-        "likes": 33,
+        "likes": 35,
         "retweets": 4,
         "replies": 8,
-        "views": 20199,
-        "hot_score": 114
+        "views": 20990,
+        "hot_score": 118
       },
       "categories": [
         "AI",
@@ -605,11 +716,11 @@
       "published": "2026-07-07T15:26:36+00:00",
       "published_ts": 1783437996,
       "metrics": {
-        "likes": 4384,
-        "retweets": 163,
+        "likes": 4466,
+        "retweets": 164,
         "replies": 92,
-        "views": 60523,
-        "hot_score": 9735
+        "views": 61569,
+        "hot_score": 9905
       },
       "categories": [],
       "tickers": [],
@@ -630,11 +741,11 @@
       "published": "2026-07-07T15:07:04+00:00",
       "published_ts": 1783436824,
       "metrics": {
-        "likes": 58,
+        "likes": 59,
         "retweets": 0,
         "replies": 2,
-        "views": 12048,
-        "hot_score": 130
+        "views": 12444,
+        "hot_score": 132
       },
       "categories": [],
       "tickers": [],
@@ -660,7 +771,7 @@
         "likes": 63,
         "retweets": 2,
         "replies": 1,
-        "views": 13011,
+        "views": 13270,
         "hot_score": 150
       },
       "categories": [
@@ -685,11 +796,11 @@
       "published": "2026-07-07T14:40:20+00:00",
       "published_ts": 1783435220,
       "metrics": {
-        "likes": 497,
+        "likes": 513,
         "retweets": 14,
-        "replies": 64,
-        "views": 129377,
-        "hot_score": 1257
+        "replies": 65,
+        "views": 134694,
+        "hot_score": 1295
       },
       "categories": [],
       "tickers": [],
@@ -712,11 +823,11 @@
       "published": "2026-07-07T14:29:09+00:00",
       "published_ts": 1783434549,
       "metrics": {
-        "likes": 1255,
+        "likes": 1293,
         "retweets": 85,
         "replies": 14,
-        "views": 33413,
-        "hot_score": 2982
+        "views": 34137,
+        "hot_score": 3059
       },
       "categories": [],
       "tickers": [],
@@ -737,11 +848,11 @@
       "published": "2026-07-07T14:29:01+00:00",
       "published_ts": 1783434541,
       "metrics": {
-        "likes": 314,
+        "likes": 323,
         "retweets": 2,
-        "replies": 62,
-        "views": 92915,
-        "hot_score": 792
+        "replies": 64,
+        "views": 96246,
+        "hot_score": 816
       },
       "categories": [
         "Risk"
@@ -764,11 +875,11 @@
       "published": "2026-07-07T14:14:18+00:00",
       "published_ts": 1783433658,
       "metrics": {
-        "likes": 27,
+        "likes": 28,
         "retweets": 5,
         "replies": 12,
-        "views": 21890,
-        "hot_score": 112
+        "views": 22309,
+        "hot_score": 115
       },
       "categories": [
         "AI",
@@ -804,11 +915,11 @@
       "published": "2026-07-07T14:03:29+00:00",
       "published_ts": 1783433009,
       "metrics": {
-        "likes": 4457,
-        "retweets": 256,
-        "replies": 375,
-        "views": 858696,
-        "hot_score": 11069
+        "likes": 4508,
+        "retweets": 259,
+        "replies": 379,
+        "views": 882295,
+        "hot_score": 11190
       },
       "categories": [
         "Semis",
@@ -842,11 +953,11 @@
       "published": "2026-07-07T12:13:51+00:00",
       "published_ts": 1783426431,
       "metrics": {
-        "likes": 984,
+        "likes": 995,
         "retweets": 51,
         "replies": 163,
-        "views": 251675,
-        "hot_score": 2637
+        "views": 255252,
+        "hot_score": 2663
       },
       "categories": [
         "AI"
@@ -873,11 +984,11 @@
       "published": "2026-07-07T11:02:41+00:00",
       "published_ts": 1783422161,
       "metrics": {
-        "likes": 110,
-        "retweets": 9,
+        "likes": 111,
+        "retweets": 10,
         "replies": 12,
-        "views": 18500,
-        "hot_score": 295
+        "views": 18664,
+        "hot_score": 302
       },
       "categories": [
         "AI",
@@ -903,11 +1014,11 @@
       "published": "2026-07-07T09:14:55+00:00",
       "published_ts": 1783415695,
       "metrics": {
-        "likes": 89,
-        "retweets": 21,
+        "likes": 96,
+        "retweets": 23,
         "replies": 17,
-        "views": 34264,
-        "hot_score": 334
+        "views": 34801,
+        "hot_score": 358
       },
       "categories": [
         "AI",
@@ -951,7 +1062,7 @@
         "likes": 33,
         "retweets": 0,
         "replies": 0,
-        "views": 24574,
+        "views": 24995,
         "hot_score": 90
       },
       "categories": [
@@ -975,11 +1086,11 @@
       "published": "2026-07-07T08:54:13+00:00",
       "published_ts": 1783414453,
       "metrics": {
-        "likes": 3285,
-        "retweets": 172,
-        "replies": 216,
-        "views": 481608,
-        "hot_score": 8127
+        "likes": 3311,
+        "retweets": 175,
+        "replies": 217,
+        "views": 486611,
+        "hot_score": 8200
       },
       "categories": [
         "Memory",
@@ -1007,11 +1118,11 @@
       "published": "2026-07-07T08:10:39+00:00",
       "published_ts": 1783411839,
       "metrics": {
-        "likes": 2215,
-        "retweets": 140,
+        "likes": 2235,
+        "retweets": 142,
         "replies": 224,
-        "views": 536964,
-        "hot_score": 5854
+        "views": 541931,
+        "hot_score": 5904
       },
       "categories": [
         "AI",
@@ -1041,11 +1152,11 @@
       "published": "2026-07-07T07:58:06+00:00",
       "published_ts": 1783411086,
       "metrics": {
-        "likes": 292,
+        "likes": 295,
         "retweets": 6,
         "replies": 41,
-        "views": 72451,
-        "hot_score": 727
+        "views": 73432,
+        "hot_score": 734
       },
       "categories": [
         "Risk"
@@ -1073,8 +1184,8 @@
         "likes": 43,
         "retweets": 3,
         "replies": 11,
-        "views": 33626,
-        "hot_score": 145
+        "views": 34036,
+        "hot_score": 146
       },
       "categories": [
         "Crypto"
@@ -1113,11 +1224,11 @@
       "published": "2026-07-07T06:30:05+00:00",
       "published_ts": 1783405805,
       "metrics": {
-        "likes": 362,
+        "likes": 364,
         "retweets": 5,
         "replies": 58,
-        "views": 121578,
-        "hot_score": 928
+        "views": 123609,
+        "hot_score": 934
       },
       "categories": [
         "Risk"
@@ -1140,11 +1251,11 @@
       "published": "2026-07-07T06:28:31+00:00",
       "published_ts": 1783405711,
       "metrics": {
-        "likes": 519,
+        "likes": 525,
         "retweets": 25,
         "replies": 71,
-        "views": 204771,
-        "hot_score": 1438
+        "views": 207029,
+        "hot_score": 1453
       },
       "categories": [
         "Memory",
@@ -1174,8 +1285,8 @@
         "likes": 117,
         "retweets": 3,
         "replies": 31,
-        "views": 68393,
-        "hot_score": 348
+        "views": 69153,
+        "hot_score": 349
       },
       "categories": [
         "Memory",
@@ -1210,11 +1321,11 @@
       "published": "2026-07-07T05:51:37+00:00",
       "published_ts": 1783403497,
       "metrics": {
-        "likes": 595,
+        "likes": 601,
         "retweets": 16,
-        "replies": 130,
-        "views": 96175,
-        "hot_score": 1496
+        "replies": 133,
+        "views": 97168,
+        "hot_score": 1512
       },
       "categories": [],
       "tickers": [],
@@ -1248,7 +1359,7 @@
         "likes": 12,
         "retweets": 0,
         "replies": 0,
-        "views": 3471,
+        "views": 3522,
         "hot_score": 27
       },
       "categories": [],
@@ -1273,7 +1384,7 @@
         "likes": 58,
         "retweets": 6,
         "replies": 13,
-        "views": 30398,
+        "views": 30501,
         "hot_score": 189
       },
       "categories": [
@@ -1314,11 +1425,11 @@
       "published": "2026-07-07T04:29:02+00:00",
       "published_ts": 1783398542,
       "metrics": {
-        "likes": 3457,
-        "retweets": 620,
+        "likes": 3468,
+        "retweets": 621,
         "replies": 30,
-        "views": 143638,
-        "hot_score": 10187
+        "views": 147693,
+        "hot_score": 10218
       },
       "categories": [
         "Policy",
@@ -1341,66 +1452,6 @@
       }
     },
     {
-      "id": "2074341514826879296",
-      "title": "Haaland 真是无敌",
-      "summary": "Haaland 真是无敌",
-      "link": "https://x.com/ShanghaoJin/status/2074341514826879296",
-      "source": "Herman Jin",
-      "source_id": "herman",
-      "handle": "ShanghaoJin",
-      "lane": "FICC + tech",
-      "published": "2026-07-07T03:55:31+00:00",
-      "published_ts": 1783396531,
-      "metrics": {
-        "likes": 13,
-        "retweets": 0,
-        "replies": 1,
-        "views": 17482,
-        "hot_score": 44
-      },
-      "categories": [],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2074335005720080509",
-      "title": "Use copper when you can, use optics when you must. 但华尔街永远是小学生、只会非黑即白单线条，市场才会这样来回抽风 我们一方面要敬畏市场，同时也要了解他是“小学生”",
-      "summary": "Use copper when you can, use optics when you must. 但华尔街永远是小学生、只会非黑即白单线条，市场才会这样来回抽风 我们一方面要敬畏市场，同时也要了解他是“小学生”",
-      "link": "https://x.com/ShanghaoJin/status/2074335005720080509",
-      "source": "Herman Jin",
-      "source_id": "herman",
-      "handle": "ShanghaoJin",
-      "lane": "FICC + tech",
-      "published": "2026-07-07T03:29:39+00:00",
-      "published_ts": 1783394979,
-      "metrics": {
-        "likes": 159,
-        "retweets": 14,
-        "replies": 19,
-        "views": 68086,
-        "hot_score": 475
-      },
-      "categories": [],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": {
-        "id": "2074276346293858752",
-        "author": "photonjaeger",
-        "name": "Jack Huang",
-        "text": "@RYANHINGSHING, 不想再講了。人們為何總是不曉得「光銅並進」？這世界不僅是黑白，還有不少灰色地帶。鹹魚白菜、各有所愛（千秋）。不想再講了，只能建議大家少看一點速食內容，多從原理出發思考一下各方案的利弊。行內人士一般會講：能用銅時則用銅、非用光時才用光。謝謝大家。",
-        "created_at": "Mon Jul 06 23:36:33 +0000 2026",
-        "url": "https://x.com/photonjaeger/status/2074276346293858752",
-        "has_media": false,
-        "media_urls": [],
-        "media_posters": []
-      }
-    },
-    {
       "id": "2074334390520594761",
       "title": "4月初聊到hood的“长远”与“当下”正在初步落地：1）昨天特朗普账户正式上线，由robinhood开发并运营管理。创始人@vladtenev 接受采访说“采用率非常惊人……我们在推出前就有600万年轻人注册并表示兴趣。已经有数百万账户进…",
       "summary": "4月初聊到hood的“长远”与“当下”正在初步落地：1）昨天特朗普账户正式上线，由robinhood开发并运营管理。创始人@vladtenev 接受采访说“采用率非常惊人……我们在推出前就有600万年轻人注册并表示兴趣。已经有数百万账户进行了投资，而且这款应用基本上一直位居或接近App Store排行榜榜首”。之前这里 这也是之前来哦到的X世代用户的理财管理平台正在成形。 2）预测市场业务 世界杯期间，hood整个6月预测市场业务爆发，月度预测市场营收预估9300万美金，年化营收10亿美金。如果最终确实，那相比一季度基本上是环比翻倍了。很多人不清楚单业…",
@@ -1415,7 +1466,7 @@
         "likes": 34,
         "retweets": 1,
         "replies": 7,
-        "views": 23149,
+        "views": 23250,
         "hot_score": 103
       },
       "categories": [
@@ -1512,7 +1563,7 @@
         "likes": 36,
         "retweets": 0,
         "replies": 11,
-        "views": 25124,
+        "views": 25181,
         "hot_score": 108
       },
       "categories": [
@@ -1537,11 +1588,11 @@
       "published": "2026-07-07T01:46:34+00:00",
       "published_ts": 1783388794,
       "metrics": {
-        "likes": 51,
+        "likes": 52,
         "retweets": 15,
         "replies": 14,
-        "views": 42165,
-        "hot_score": 233
+        "views": 43040,
+        "hot_score": 236
       },
       "categories": [
         "AI",
@@ -1583,7 +1634,7 @@
         "likes": 43,
         "retweets": 1,
         "replies": 2,
-        "views": 15627,
+        "views": 15760,
         "hot_score": 108
       },
       "categories": [
@@ -1597,51 +1648,6 @@
         "https://pbs.twimg.com/media/HMloRyYaUAAsaDr.jpg"
       ],
       "quoted_tweet": null
-    },
-    {
-      "id": "2074296171246616985",
-      "title": "高盛美股半导体2Q前瞻及相关半导体股票二季度财报看点。高盛核心逻辑：基本面仍有上修，但交易门槛抬高。这与昨天7月走势推演的关于财报季逻辑是一致的：“本季财报季的关键点是预期已经很高，容错率变低。预期非常高，意味着市场不只是要公司 beat…",
-      "summary": "高盛美股半导体2Q前瞻及相关半导体股票二季度财报看点。高盛核心逻辑：基本面仍有上修，但交易门槛抬高。这与昨天7月走势推演的关于财报季逻辑是一致的：“本季财报季的关键点是预期已经很高，容错率变低。预期非常高，意味着市场不只是要公司 beat，还要公司大幅度raise”。 高盛在美股半导体2Q前瞻点评中称，财报季的核心变量从“本季能不能超预期”推到“2027-2028 年订单、客户预算、价格和产能兑现”。高盛预计算力、存储、设备、封测、测试和部分模拟链条仍有基本面上修，但 SOX 在 2Q 已大幅跑赢，市场对 AI capex 的乐观预期已经提前反映。因此…",
-      "link": "https://x.com/qinbafrank/status/2074296171246616985",
-      "source": "qinbafrank",
-      "source_id": "qinba",
-      "handle": "qinbafrank",
-      "lane": "Macro + AI",
-      "published": "2026-07-07T00:55:20+00:00",
-      "published_ts": 1783385720,
-      "metrics": {
-        "likes": 55,
-        "retweets": 8,
-        "replies": 11,
-        "views": 31787,
-        "hot_score": 192
-      },
-      "categories": [
-        "AI",
-        "Memory",
-        "Semis",
-        "Data centers",
-        "Risk"
-      ],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": {
-        "id": "2073958441010471121",
-        "author": "qinbafrank",
-        "name": "qinbafrank",
-        "text": "6月底的卖压刚过去，又迎来“Meta算力过剩大考”，个人角度7月市场推演：标普大概率高位震荡，纳指和半导体波动显著放大。真正的分水岭是7月14日的6月CPI、随后Q2财报开启和月底的议息会议。上周7月第一个交易日市场就被Meta吓了一大跳，引发了市场对于算力过剩的担忧。上周五这里https://t.co/kVn6gD6p3F有聊过：Meta应该不会放弃前沿大模型的，推出云业务也是顺利成章，但真正决定市场走向的还是大模型ARR和超大云厂商业绩是否能持续超预期。\n7月也有影响市场的几条主线：\n1）AI基本面：token经济性讨论会进一步，AI交易换挡；\n2）6月cpi，油价大幅下行后CPI是不是也跟上节奏；\n3）Q2财报季开启，核心是云业务增速是否能继续超预期；\n4）月底议息会议；\n\n详细梳理下上面提到的几条主线\n1、AI基本面：token经济性讨论会进一步，AI交易换挡；\n从近期的几个关于AI基本面的事件来看\n1）TrendForce 报道，三星据称正推动三季度 DRAM ASP 环比最高上涨 20%，SK hynix 也据称取消部分长期合约价格上限，使现货涨价可以更充分反映到合同价。 这说明 HBM、服务器 DRAM、企业级存储仍然紧张，AI 需求并没有全面坍塌；\n2）黑石/QTS 退出弗吉尼亚大型数据中心：AI 基建的真瓶颈在“电力+审批+社区阻力”。AI 基建不是没有需求，而是落地约束越来越硬：电力、土地、环保、社区政治和监管审批等环节，\n3）Coinbase的CEO Brian Armstrong发推表示，Coinbase 通过低成本默认模型、复杂度路由、更好缓存、压缩上下文和透明化成本，在 token 使用创新高的同时显著降低 AI 支出。\n这说明企业越来越重视，token的效率，注重投入产出比，都在想各种办法优化成本支出结构。\n最终还是一直聊到的：要靠大模型ARR和超大云厂商业绩是否能持续超预期来一锤定音。这是市场逻辑的基点。\n\n把这上面几条信息综合来考虑，所以7月AI 主线的综合判断是：AI 不是崩盘，而是从“总量狂热”进入“效率、ROI、价格、利用率”的估值重算期。\n7月最容易发生的是内部轮动，而不是整个 AI 板块一起涨。\n\n2、6月非农弱 + 油价下跌后，6月 CPI 大概率怎么走？\n对 CPI 来说，关键是油价和汽油。5月 CPI 同比 4.2%，环比 0.5%，能源同比上涨 23.5%，是当时广义通胀走高的重要原因。 但6月情况反过来了：美国汽油价格连续下跌，Reuters 报道美国汽油价格从5月高点下跌约 15%。 克利夫兰联储通胀实时预测来看，6月广义CPI 环比约 -0.06%，核心 CPI 环比约 +0.23%。\n\n6月广义 CPI 和核心cpi同比大概率低于5月，关键是与市场预期的偏离度。广义cpi走弱利好估值和久期资产，油价下跌市场也知道通胀会回落，但关键是看广义cpi和核心cpi回落的斜率（看环比）。特别是核心cpi环比要能低于0.3% ，否则市场担心回落速度过慢。\n\n3、财报季开启，迎来业绩大考\n但财报季的关键点是预期已经很高，容错率变低。FactSet 预计 Q2 2026 标普 500 EPS 同比增长约 23.3%，全年 2026 年 EPS 增长约 24.1%。 这个预期非常高，意味着市场不只是要公司 beat，还要公司 大幅度raise。\n\n如果财报季出现下面几种情况，美股会有压力：\n AI capex 上修但收入指引没上修；\n毛利率被内存、电力、折旧、融资成本压缩；\n管理层对 AI ROI 表述模糊；\n云增速不及预期；广告/消费/企业 IT 预算转弱。\n\n反过来，如果谷歌云、aws、微软云等几大云厂商继续大超预期，那么市场还会确实AI商业化经过一季度的拐点之后还是继续在加速的。\n当然两大模型厂商官方披露的最新年化ARR数据也是非常关键核心的影响变量，看增速情况。\n\n4、沃什加息定价降温后，7月“不加息”是不是大概率？\n7月会议本身大概率 hold，不加息；但沃什可能不会给市场想要的鸽派确认。更可能的表述是“不急于行动，但通胀目标仍是2%，未来取决于数据”。\n\n这意味着：\n如果 7月14日 CPI 很软，市场会继续压低7月加息定价，美股短线反弹；\n如果核心 CPI 粘性强，市场会把焦点切到9月，长端收益率和实际利率可能上行，压制纳指估值。\n\n而市场真正的风险来源则是预期太满、杠杆很高，之前6月中https://t.co/l0G5msdG82有聊到，“市场真正的风险在于拥挤交易、杠杆加的有点满。美股证券账户杠杆规模1.3万亿美金，历史新高、这其实埋下了风险和隐患，下半年还会出现类似6月初的那种去杠杆行情。市场处在一个高杠杆、交易拥挤的状态，宏观和产业稍微有风吹草动、就容易出现踩踏、去杠杆一般跌的很急很快”。上周Meta引发的跳水其实就是这种高位拥挤去杠杆的体现。\n\n7月美股路径推演\n1）基准情景：\n高位震荡，先反弹后震荡，指数不容易直接崩，但纳指/半导体波动更大。等待财报给出进一步的明确信号\n\n触发条件：\n6月 CPI headline 明显降温，核心 CPI 不爆；\n7月 FOMC 基本 hold；\nQ2 财报整体还能 beat；\nAI 消息继续分化但不出现系统性崩坏。\n路径大致是：\n 7月上旬：非农弱、油价回落、7月不加息预期升温，指数有反弹基础。\n 7月中旬 CPI 前后：如果 CPI headline 为负或接近0，市场会先交易“通胀缓解 + Fed 7月不动”；但若核心 CPI 仍在 0.3%，反弹会被限制。\n 7月下旬财报 + FOMC：指数可能高位震荡，个股根据 AI ROI、云收入、capex 指引剧烈分化。FOMC 如果 hold 但措辞偏鹰，可能出现“利好兑现”。\n\n区间判断：\n S&P 500 大概率在 7,250-7,700 区间震荡；QQQ 大概率在 690-735 区间波动。\n月度结果可能是：标普 -2% 到 +3%，纳指/QQQ -4% 到 +3%。这个情景下，市场不是熊市，而是“涨多后的估值消化”。\n\n2）偏多情景：\nCPI 很软 + 核心通胀下行 + 财报强，指数继续逼空。\n条件是：\n6月 headline CPI 环比为负，核心 CPI ≤0.2%；10年期美债收益率继续下行；沃什讲话不再强化加息；大型科技财报显示 AI 收入、云收入、广告收入都能覆盖资本开支；Meta 卖算力被市场解读为“提高 ROIC”而不是“算力过剩”。\n\n这种情况下，7月会出现：\n 半导体止跌，平台巨头重新领涨，标普挑战 7,700-7,800，QQQ 回到 730 上方。\n但即便在这个情景里，我也不认为7月会是非常平滑的单边上涨，因为杠杆太高，AI 叙事已经出现裂缝。\n\n3）偏空情景：概率约 20%\nAI ROI 质疑扩散 + 核心 CPI 粘性 + 高杠杆去风险，7月出现 5%-10% 级别回撤。\n\n触发条件可能是：\n核心 CPI ≥0.3%；\n9月加息概率重新升温；\n美债实际利率上行；\nAnthropic官方ARR/其他第三方 token 数据走弱；\nAI 云租赁价格下行；\n大型科技财报承认 AI capex 继续上修但收入兑现慢；\n半导体/内存价格上涨被重新理解为“成本挤压”而非“需求强劲”。\n\n这种情况下，最容易跌的是：\n 前期涨幅最大、拥挤度最高、靠远期 AI 叙事支撑的股票。\n包括半导体、AI 电力设备、部分数据中心、neocloud、单股杠杆 ETF 持仓集中的标的。\n指数上，S&P 500 可能回测 7,100-7,250，QQQ 可能回撤到 660-685 区间。\n由于保证金和杠杆 ETF 规模很大，跌法可能不是每天阴跌，而是两三天集中杀估值。去杠杆一般会又快有急\n\n整体个人对7月主线的判断\n1）7月不加息是大概率，但这已经不是新的利好。 真正影响市场的是：CPI 是否能让9月加息概率也降下来。\n\n2）6月 CPI headline 大概率明显走软，甚至可能出现负环比；但核心 CPI 才是决定纳指估值的关键。 如果核心在 0.2% 附近，市场有空间反弹；如果核心 0.3% 以上，反弹容易失败。\n\n3）AI 基本面不是全面坏，而是从“算力稀缺”转向“算力利用率和变现能力”。 Meta 卖算力、Coinbase 降 AI 支出、Anthropic token消耗量争议、内存涨价、数据中心项目受阻，这些合在一起说明：AI 需求还在，但 AI capex 的线性外推正在被市场质疑。\n\n4）7月最危险的不是宏观，而是仓位。 保证金融资在纪录高位、VIX 仍低、动量交易拥挤，一旦 CPI、AI 新闻或财报出现负面组合，回撤会被放大。\n\n5）7月更可能是“指数横盘偏强/偏震荡，内部大洗牌”。 我更看好平台型 AI 变现公司、现金流强的云和软件龙头、有真实定价权的内存/电力/数据中心瓶颈资产；更谨慎看纯粹靠 AI capex 线性外推、估值已经吃满、且短期涨幅过大的硬件链和杠杆化标的。\n\n 简单说还是开头提到的：7月美股大概率是 AI 交易从 beta 牛市切换到 alpha 分化的月份。标普大概率高位震荡，纳指和半导体波动显著放大；真正的分水岭是7月14日 CPI、随后 Q2 财报和7月28-29日 FOMC。\n\n本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
-        "created_at": "Mon Jul 06 02:33:19 +0000 2026",
-        "url": "https://x.com/qinbafrank/status/2073958441010471121",
-        "has_media": true,
-        "media_urls": [
-          "https://pbs.twimg.com/media/HMgtqQWagAAkcij.jpg"
-        ],
-        "media_posters": [
-          "https://pbs.twimg.com/media/HMgtqQWagAAkcij.jpg"
-        ]
-      }
     },
     {
       "id": "2074247516376498571",
@@ -1658,7 +1664,7 @@
         "likes": 288,
         "retweets": 16,
         "replies": 14,
-        "views": 35095,
+        "views": 35176,
         "hot_score": 705
       },
       "categories": [
@@ -1687,11 +1693,11 @@
       "published": "2026-07-06T20:41:46+00:00",
       "published_ts": 1783370506,
       "metrics": {
-        "likes": 729,
+        "likes": 730,
         "retweets": 42,
         "replies": 22,
-        "views": 87724,
-        "hot_score": 1777
+        "views": 88397,
+        "hot_score": 1780
       },
       "categories": [
         "Memory",
@@ -1720,11 +1726,11 @@
       "published": "2026-07-06T20:24:19+00:00",
       "published_ts": 1783369459,
       "metrics": {
-        "likes": 865,
+        "likes": 866,
         "retweets": 226,
         "replies": 13,
-        "views": 35698,
-        "hot_score": 2908
+        "views": 35759,
+        "hot_score": 2910
       },
       "categories": [
         "AI",
@@ -1759,8 +1765,8 @@
         "likes": 92,
         "retweets": 6,
         "replies": 7,
-        "views": 46953,
-        "hot_score": 267
+        "views": 47091,
+        "hot_score": 268
       },
       "categories": [],
       "tickers": [],
@@ -1781,11 +1787,11 @@
       "published": "2026-07-06T19:05:53+00:00",
       "published_ts": 1783364753,
       "metrics": {
-        "likes": 1181,
+        "likes": 1186,
         "retweets": 145,
         "replies": 16,
-        "views": 65244,
-        "hot_score": 3168
+        "views": 65412,
+        "hot_score": 3178
       },
       "categories": [
         "Policy"
@@ -1818,11 +1824,11 @@
       "published": "2026-07-06T18:02:21+00:00",
       "published_ts": 1783360941,
       "metrics": {
-        "likes": 472,
+        "likes": 475,
         "retweets": 34,
         "replies": 23,
-        "views": 173039,
-        "hot_score": 1310
+        "views": 173949,
+        "hot_score": 1316
       },
       "categories": [
         "AI",
@@ -1852,7 +1858,7 @@
         "likes": 179,
         "retweets": 34,
         "replies": 34,
-        "views": 47874,
+        "views": 47977,
         "hot_score": 609
       },
       "categories": [],
@@ -1876,11 +1882,11 @@
       "published": "2026-07-06T15:28:34+00:00",
       "published_ts": 1783351714,
       "metrics": {
-        "likes": 1781,
+        "likes": 1783,
         "retweets": 222,
         "replies": 200,
-        "views": 350664,
-        "hot_score": 5222
+        "views": 351076,
+        "hot_score": 5227
       },
       "categories": [
         "AI",
@@ -1907,7 +1913,7 @@
         "likes": 33,
         "retweets": 1,
         "replies": 3,
-        "views": 14374,
+        "views": 14392,
         "hot_score": 88
       },
       "categories": [
@@ -1937,7 +1943,7 @@
         "likes": 270,
         "retweets": 11,
         "replies": 49,
-        "views": 123516,
+        "views": 123669,
         "hot_score": 767
       },
       "categories": [
@@ -1964,7 +1970,7 @@
         "likes": 41,
         "retweets": 0,
         "replies": 10,
-        "views": 25062,
+        "views": 25196,
         "hot_score": 117
       },
       "categories": [],
@@ -1989,7 +1995,7 @@
         "likes": 410,
         "retweets": 3,
         "replies": 59,
-        "views": 186628,
+        "views": 186910,
         "hot_score": 1080
       },
       "categories": [
@@ -2016,7 +2022,7 @@
         "likes": 84,
         "retweets": 1,
         "replies": 2,
-        "views": 19415,
+        "views": 19494,
         "hot_score": 194
       },
       "categories": [
@@ -2043,7 +2049,7 @@
         "likes": 220,
         "retweets": 15,
         "replies": 20,
-        "views": 105928,
+        "views": 105999,
         "hot_score": 640
       },
       "categories": [
@@ -2070,17 +2076,46 @@
       "published": "2026-07-05T23:01:00+00:00",
       "published_ts": 1783292460,
       "metrics": {
-        "likes": 2141,
+        "likes": 2143,
         "retweets": 326,
-        "replies": 138,
-        "views": 271336,
-        "hot_score": 6321
+        "replies": 140,
+        "views": 278010,
+        "hot_score": 6334
       },
       "categories": [
         "Policy"
       ],
       "tickers": [
         "$AXON"
+      ],
+      "is_retweet": false,
+      "has_media": false,
+      "media": [],
+      "quoted_tweet": null
+    },
+    {
+      "id": "2073874810787054053",
+      "title": "Consider this. On September 23, 2025, Trump bought up to $1 million of Amazon, $AMZN, stock. On September 25, 2025, Tru…",
+      "summary": "Consider this. On September 23, 2025, Trump bought up to $1 million of Amazon, $AMZN, stock. On September 25, 2025, Trump's FTC settled a major probe into Amazon over alleged deceptive Prime enrollment practices. Unusual.",
+      "link": "https://x.com/unusual_whales/status/2073874810787054053",
+      "source": "unusual_whales",
+      "source_id": "whales",
+      "handle": "unusual_whales",
+      "lane": "Market tape",
+      "published": "2026-07-05T21:01:00+00:00",
+      "published_ts": 1783285260,
+      "metrics": {
+        "likes": 2268,
+        "retweets": 332,
+        "replies": 136,
+        "views": 276319,
+        "hot_score": 6608
+      },
+      "categories": [
+        "Policy"
+      ],
+      "tickers": [
+        "$AMZN"
       ],
       "is_retweet": false,
       "has_media": false,
@@ -2102,7 +2137,7 @@
         "likes": 232,
         "retweets": 19,
         "replies": 21,
-        "views": 31506,
+        "views": 31543,
         "hot_score": 611
       },
       "categories": [
@@ -2117,36 +2152,6 @@
         "$META",
         "$MSFT",
         "$NVDA"
-      ],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2073814412712952136",
-      "title": "The timing stands out. Trump bought up to $530,000 of Micron Technology, $MU, stock in March 2026. He has since called…",
-      "summary": "The timing stands out. Trump bought up to $530,000 of Micron Technology, $MU, stock in March 2026. He has since called $MU a \"great company\" after the chipmaker pledged $250 million to the president's Trump Accounts. Unusual.",
-      "link": "https://x.com/unusual_whales/status/2073814412712952136",
-      "source": "unusual_whales",
-      "source_id": "whales",
-      "handle": "unusual_whales",
-      "lane": "Market tape",
-      "published": "2026-07-05T17:01:00+00:00",
-      "published_ts": 1783270860,
-      "metrics": {
-        "likes": 2240,
-        "retweets": 230,
-        "replies": 152,
-        "views": 307557,
-        "hot_score": 6089
-      },
-      "categories": [
-        "Memory",
-        "Policy"
-      ],
-      "tickers": [
-        "$MU"
       ],
       "is_retweet": false,
       "has_media": false,
@@ -2193,7 +2198,7 @@
         "likes": 286,
         "retweets": 23,
         "replies": 28,
-        "views": 63158,
+        "views": 63182,
         "hot_score": 778
       },
       "categories": [
@@ -2211,24 +2216,27 @@
       "quoted_tweet": null
     },
     {
-      "id": "2073754015012384844",
-      "title": "Today, we are going to highlight unusual Presidential stock trades. Get ready.",
-      "summary": "Today, we are going to highlight unusual Presidential stock trades. Get ready.",
-      "link": "https://x.com/unusual_whales/status/2073754015012384844",
+      "id": "2073784213841846686",
+      "title": "BREAKING: The Trump administration said the International Criminal Court has no jurisdiction over Americans and vowed n…",
+      "summary": "BREAKING: The Trump administration said the International Criminal Court has no jurisdiction over Americans and vowed not to cooperate with any ICC investigations.",
+      "link": "https://x.com/unusual_whales/status/2073784213841846686",
       "source": "unusual_whales",
       "source_id": "whales",
       "handle": "unusual_whales",
       "lane": "Market tape",
-      "published": "2026-07-05T13:01:00+00:00",
-      "published_ts": 1783256460,
+      "published": "2026-07-05T15:01:00+00:00",
+      "published_ts": 1783263660,
       "metrics": {
-        "likes": 10696,
-        "retweets": 464,
-        "replies": 187,
-        "views": 738446,
-        "hot_score": 24399
+        "likes": 2614,
+        "retweets": 224,
+        "replies": 177,
+        "views": 502920,
+        "hot_score": 7025
       },
-      "categories": [],
+      "categories": [
+        "AI",
+        "Policy"
+      ],
       "tickers": [],
       "is_retweet": false,
       "has_media": false,
@@ -2250,7 +2258,7 @@
         "likes": 92,
         "retweets": 9,
         "replies": 22,
-        "views": 38908,
+        "views": 38913,
         "hot_score": 289
       },
       "categories": [
@@ -2277,7 +2285,7 @@
         "likes": 536,
         "retweets": 84,
         "replies": 35,
-        "views": 102889,
+        "views": 102900,
         "hot_score": 1629
       },
       "categories": [
@@ -2307,7 +2315,7 @@
         "likes": 26,
         "retweets": 0,
         "replies": 18,
-        "views": 9514,
+        "views": 9516,
         "hot_score": 79
       },
       "categories": [
@@ -2331,11 +2339,11 @@
       "published": "2026-07-04T17:01:00+00:00",
       "published_ts": 1783184460,
       "metrics": {
-        "likes": 1783,
+        "likes": 1799,
         "retweets": 123,
         "replies": 125,
-        "views": 327375,
-        "hot_score": 4633
+        "views": 349126,
+        "hot_score": 4687
       },
       "categories": [
         "AI"
@@ -2361,7 +2369,7 @@
         "likes": 0,
         "retweets": 132,
         "replies": 0,
-        "views": 13255,
+        "views": 13265,
         "hot_score": 673
       },
       "categories": [
@@ -2385,11 +2393,11 @@
       "published": "2026-07-04T13:41:35+00:00",
       "published_ts": 1783172495,
       "metrics": {
-        "likes": 789,
+        "likes": 790,
         "retweets": 120,
         "replies": 59,
-        "views": 82100,
-        "hot_score": 2319
+        "views": 82144,
+        "hot_score": 2321
       },
       "categories": [
         "AI"
@@ -2417,7 +2425,7 @@
         "likes": 84,
         "retweets": 8,
         "replies": 28,
-        "views": 57750,
+        "views": 57753,
         "hot_score": 293
       },
       "categories": [
@@ -2462,7 +2470,7 @@
         "likes": 451,
         "retweets": 37,
         "replies": 40,
-        "views": 75949,
+        "views": 75966,
         "hot_score": 1202
       },
       "categories": [
@@ -2496,7 +2504,7 @@
         "likes": 20,
         "retweets": 0,
         "replies": 0,
-        "views": 6723,
+        "views": 6739,
         "hot_score": 46
       },
       "categories": [],
@@ -2521,8 +2529,8 @@
         "likes": 64,
         "retweets": 1,
         "replies": 3,
-        "views": 17999,
-        "hot_score": 153
+        "views": 18033,
+        "hot_score": 154
       },
       "categories": [
         "Memory",
@@ -2550,7 +2558,7 @@
         "likes": 845,
         "retweets": 147,
         "replies": 123,
-        "views": 257515,
+        "views": 257562,
         "hot_score": 2805
       },
       "categories": [],
@@ -2577,7 +2585,7 @@
         "likes": 208,
         "retweets": 31,
         "replies": 101,
-        "views": 77407,
+        "views": 77425,
         "hot_score": 749
       },
       "categories": [
@@ -2614,7 +2622,7 @@
         "likes": 140,
         "retweets": 16,
         "replies": 9,
-        "views": 36704,
+        "views": 36708,
         "hot_score": 405
       },
       "categories": [
@@ -2641,7 +2649,7 @@
         "likes": 277,
         "retweets": 22,
         "replies": 103,
-        "views": 44822,
+        "views": 44825,
         "hot_score": 811
       },
       "categories": [],
@@ -2666,7 +2674,7 @@
         "likes": 83,
         "retweets": 6,
         "replies": 38,
-        "views": 46481,
+        "views": 46486,
         "hot_score": 280
       },
       "categories": [],
@@ -2705,7 +2713,7 @@
         "likes": 17,
         "retweets": 2,
         "replies": 2,
-        "views": 23236,
+        "views": 23240,
         "hot_score": 69
       },
       "categories": [],
@@ -2748,7 +2756,7 @@
         "likes": 90,
         "retweets": 11,
         "replies": 25,
-        "views": 41970,
+        "views": 41974,
         "hot_score": 301
       },
       "categories": [
@@ -2801,7 +2809,7 @@
         "likes": 180,
         "retweets": 15,
         "replies": 88,
-        "views": 121175,
+        "views": 121195,
         "hot_score": 644
       },
       "categories": [
@@ -2829,7 +2837,7 @@
         "likes": 98,
         "retweets": 0,
         "replies": 83,
-        "views": 31137,
+        "views": 31139,
         "hot_score": 310
       },
       "categories": [
@@ -2856,7 +2864,7 @@
         "likes": 82,
         "retweets": 13,
         "replies": 13,
-        "views": 45022,
+        "views": 45025,
         "hot_score": 287
       },
       "categories": [],
@@ -2881,7 +2889,7 @@
         "likes": 66,
         "retweets": 9,
         "replies": 63,
-        "views": 32323,
+        "views": 32326,
         "hot_score": 272
       },
       "categories": [
@@ -2908,7 +2916,7 @@
         "likes": 98,
         "retweets": 6,
         "replies": 70,
-        "views": 22429,
+        "views": 22431,
         "hot_score": 318
       },
       "categories": [
@@ -2963,7 +2971,7 @@
         "likes": 98,
         "retweets": 20,
         "replies": 22,
-        "views": 42913,
+        "views": 42914,
         "hot_score": 360
       },
       "categories": [
@@ -3018,7 +3026,7 @@
         "likes": 1014,
         "retweets": 63,
         "replies": 35,
-        "views": 581242,
+        "views": 581294,
         "hot_score": 2878
       },
       "categories": [],
@@ -3057,7 +3065,7 @@
         "likes": 905,
         "retweets": 62,
         "replies": 57,
-        "views": 316446,
+        "views": 316478,
         "hot_score": 2493
       },
       "categories": [],
@@ -3109,7 +3117,7 @@
         "likes": 1224,
         "retweets": 120,
         "replies": 49,
-        "views": 460408,
+        "views": 460436,
         "hot_score": 3557
       },
       "categories": [
