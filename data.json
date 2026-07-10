@@ -1,8 +1,414 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-10T02:11:48.450633+00:00",
-  "generated_ts": 1783649508,
-  "articles": [],
+  "generated_at": "2026-07-10T02:17:20.017937+00:00",
+  "generated_ts": 1783649840,
+  "articles": [
+    {
+      "id": "2075400296302543073",
+      "title": "RT @ShanghaoJin: 其实行研来回就这点信息，哪能天天有新故事？ 但架不住老板自己手贱、上头买高了，天天问你～～～天天求安慰～～ 怎么办？你就得天天重复回答 我就没见过投研的人，能把投资做的好的",
+      "summary": "RT @ShanghaoJin: 其实行研来回就这点信息，哪能天天有新故事？ 但架不住老板自己手贱、上头买高了，天天问你～～～天天求安慰～～ 怎么办？你就得天天重复回答 我就没见过投研的人，能把投资做的好的",
+      "link": "https://x.com/ShanghaoJin/status/2075400296302543073",
+      "source": "Herman Jin",
+      "source_id": "herman",
+      "handle": "ShanghaoJin",
+      "lane": "FICC + tech",
+      "published": "2026-07-10T02:02:44+00:00",
+      "published_ts": 1783648964,
+      "metrics": {
+        "likes": 0,
+        "retweets": 4,
+        "replies": 0,
+        "views": 0,
+        "hot_score": 20
+      },
+      "categories": [],
+      "tickers": [],
+      "is_retweet": true,
+      "has_media": false,
+      "media": [],
+      "quoted_tweet": null
+    },
+    {
+      "id": "2075399923647046085",
+      "title": "可以说这次GPT5.6的发布正式拉开了前沿闭源大模型价格战的序幕？为什么这么说。 先看看GPT5.6的定价结构（API 每百万 tokens，短上下文标准价）： 1）Sol（旗舰）：$5 输入 / $30 输出（与 GPT-5.5 旗舰价…",
+      "summary": "可以说这次GPT5.6的发布正式拉开了前沿闭源大模型价格战的序幕？为什么这么说。 先看看GPT5.6的定价结构（API 每百万 tokens，短上下文标准价）： 1）Sol（旗舰）：$5 输入 / $30 输出（与 GPT-5.5 旗舰价格持平）。 2）Terra：$2.50 / $15（性能接近 GPT-5.5，但成本更低）。 3）Luna：$1 / $6（最便宜，性能仍很强，接近或超过部分前代旗舰）。 这算是OpenAI首次在旗舰系列中推出明确的多层定价，让用户根据任务复杂度灵活选择。Luna和Terra提供了“接近旗舰性能但大幅降低成本”的选项，…",
+      "link": "https://x.com/qinbafrank/status/2075399923647046085",
+      "source": "qinbafrank",
+      "source_id": "qinba",
+      "handle": "qinbafrank",
+      "lane": "Macro + AI",
+      "published": "2026-07-10T02:01:15+00:00",
+      "published_ts": 1783648875,
+      "metrics": {
+        "likes": 7,
+        "retweets": 1,
+        "replies": 5,
+        "views": 2498,
+        "hot_score": 26
+      },
+      "categories": [
+        "AI"
+      ],
+      "tickers": [],
+      "is_retweet": false,
+      "has_media": false,
+      "media": [],
+      "quoted_tweet": {
+        "id": "2075274271845404744",
+        "author": "OpenAI",
+        "name": "OpenAI",
+        "text": "Introducing ChatGPT Work, a new agent in ChatGPT powered by Codex and GPT-5.6.\n\nIt can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.\n\nIt’s a whole new way to get work done. https://t.co/uGbvjU1LsV",
+        "created_at": "Thu Jul 09 17:41:57 +0000 2026",
+        "url": "https://x.com/OpenAI/status/2075274271845404744",
+        "has_media": true,
+        "media_urls": [
+          "https://video.twimg.com/amplify_video/2075269404997373952/vid/avc1/480x270/tVtNG6YJoL3rjaKj.mp4?tag=28"
+        ],
+        "media_posters": [
+          "https://pbs.twimg.com/media/HMz7__qaQAAF1kI.jpg"
+        ]
+      }
+    },
+    {
+      "id": "2075337916734201975",
+      "title": "Anthropic is reportedly in talks with Samsung over the manufacturing of a custom AI chip using its 2nm node and advance…",
+      "summary": "Anthropic is reportedly in talks with Samsung over the manufacturing of a custom AI chip using its 2nm node and advanced packaging tech, though it has yet to move into design, testing, or manufacturing stages. $TSM $NVDA $AMD $AVGO $GOOG",
+      "link": "https://x.com/Beth_Kindig/status/2075337916734201975",
+      "source": "Beth Kindig",
+      "source_id": "kindig",
+      "handle": "Beth_Kindig",
+      "lane": "AI equities",
+      "published": "2026-07-09T21:54:51+00:00",
+      "published_ts": 1783634091,
+      "metrics": {
+        "likes": 95,
+        "retweets": 8,
+        "replies": 10,
+        "views": 17593,
+        "hot_score": 257
+      },
+      "categories": [
+        "AI",
+        "Semis"
+      ],
+      "tickers": [
+        "$AMD",
+        "$AVGO",
+        "$GOOG",
+        "$NVDA",
+        "$TSM"
+      ],
+      "is_retweet": false,
+      "has_media": false,
+      "media": [],
+      "quoted_tweet": null
+    },
+    {
+      "id": "2075337597849620850",
+      "title": "Buried in Donald Trump’s financial disclosure: a Pennsylvania tobacco settlement revenue bond. When cigarette companies…",
+      "summary": "Buried in Donald Trump’s financial disclosure: a Pennsylvania tobacco settlement revenue bond. When cigarette companies pay states for the people smoking killed, states sell that revenue stream to investors. The President is one of the investors. He collects interest on it.",
+      "link": "https://x.com/TrumpsPortfolio/status/2075337597849620850",
+      "source": "Trump Portfolio Tracker",
+      "source_id": "trumptracker",
+      "handle": "TrumpsPortfolio",
+      "lane": "Policy trades",
+      "published": "2026-07-09T21:53:35+00:00",
+      "published_ts": 1783634015,
+      "metrics": {
+        "likes": 294,
+        "retweets": 66,
+        "replies": 14,
+        "views": 13838,
+        "hot_score": 945
+      },
+      "categories": [
+        "Policy"
+      ],
+      "tickers": [],
+      "is_retweet": false,
+      "has_media": false,
+      "media": [],
+      "quoted_tweet": null
+    },
+    {
+      "id": "2075302956581449892",
+      "title": "\"China is shipping ~90% of the world's humanoid robots. We cannot keep taking them lightly.\" Elon's comment: \"For now\"…",
+      "summary": "\"China is shipping ~90% of the world's humanoid robots. We cannot keep taking them lightly.\" Elon's comment: \"For now\" Meanwhile, 1X today posts a video of the most advanced humanoid hand. Looks like the inflection point for American humanoid programs is here? Both technological…",
+      "link": "https://x.com/aleabitoreddit/status/2075302956581449892",
+      "source": "Serenity / 白毛股神",
+      "source_id": "serenity",
+      "handle": "aleabitoreddit",
+      "lane": "AI supply chain",
+      "published": "2026-07-09T19:35:56+00:00",
+      "published_ts": 1783625756,
+      "metrics": {
+        "likes": 1145,
+        "retweets": 72,
+        "replies": 185,
+        "views": 334477,
+        "hot_score": 3169
+      },
+      "categories": [
+        "AI"
+      ],
+      "tickers": [
+        "$CCXI",
+        "$TSLA"
+      ],
+      "is_retweet": false,
+      "has_media": true,
+      "media": [
+        "https://pbs.twimg.com/amplify_video_thumb/2075302057356234752/img/dPdGy8ELJ6n1eRAI.jpg"
+      ],
+      "quoted_tweet": {
+        "id": "2075291754215977290",
+        "author": "elonmusk",
+        "name": "Elon Musk",
+        "text": "@PeterDiamandis For now",
+        "created_at": "Thu Jul 09 18:51:25 +0000 2026",
+        "url": "https://x.com/elonmusk/status/2075291754215977290",
+        "has_media": false,
+        "media_urls": [],
+        "media_posters": []
+      }
+    },
+    {
+      "id": "2075294658570211692",
+      "title": "RT @PeterMallouk: Only 135 of the S&amp;P 500 constituents in 1996 are still in the index today. Capitalism moves fast.",
+      "summary": "RT @PeterMallouk: Only 135 of the S&amp;P 500 constituents in 1996 are still in the index today. Capitalism moves fast.",
+      "link": "https://x.com/charliebilello/status/2075294658570211692",
+      "source": "Charlie Bilello",
+      "source_id": "bilello",
+      "handle": "charliebilello",
+      "lane": "Market data",
+      "published": "2026-07-09T19:02:58+00:00",
+      "published_ts": 1783623778,
+      "metrics": {
+        "likes": 0,
+        "retweets": 59,
+        "replies": 0,
+        "views": 9779,
+        "hot_score": 304
+      },
+      "categories": [],
+      "tickers": [],
+      "is_retweet": true,
+      "has_media": true,
+      "media": [
+        "https://pbs.twimg.com/media/HMbAoZsW8AAE2cy.png"
+      ],
+      "quoted_tweet": null
+    },
+    {
+      "id": "2075215703867838872",
+      "title": "恭喜各位华尔街之狼，存储拉飞了。 存储不起来，其他所有概念都别想起来， 存储起来，说明ai未来光明， 其他概念才有机会，才值得抄底， 康宁 $GLW 就是。 傻逼只会喷不会懂这个底层道理。",
+      "summary": "恭喜各位华尔街之狼，存储拉飞了。 存储不起来，其他所有概念都别想起来， 存储起来，说明ai未来光明， 其他概念才有机会，才值得抄底， 康宁 $GLW 就是。 傻逼只会喷不会懂这个底层道理。",
+      "link": "https://x.com/xiaomustock/status/2075215703867838872",
+      "source": "川沐 / Trumoo",
+      "source_id": "trumoo",
+      "handle": "xiaomustock",
+      "lane": "Semis trading",
+      "published": "2026-07-09T13:49:14+00:00",
+      "published_ts": 1783604954,
+      "metrics": {
+        "likes": 349,
+        "retweets": 11,
+        "replies": 47,
+        "views": 101319,
+        "hot_score": 901
+      },
+      "categories": [
+        "AI",
+        "Memory"
+      ],
+      "tickers": [
+        "$GLW"
+      ],
+      "is_retweet": false,
+      "has_media": true,
+      "media": [
+        "https://pbs.twimg.com/media/HMylrkqaAAApKkj.jpg"
+      ],
+      "quoted_tweet": null
+    },
+    {
+      "id": "2075033205229629556",
+      "title": "周三美股QQQ收盘价和笨猫开盘后半小时计算出的日内收盘点位仅差0.36点😃图1为东部时间10:09分同步的截图 这类小数点后误差低于0.5的视为有效，即多方防守成功，应该持仓。目前满市场都是假信号骗线，因此我们反复强调要以4H为操作标准，…",
+      "summary": "周三美股QQQ收盘价和笨猫开盘后半小时计算出的日内收盘点位仅差0.36点😃图1为东部时间10:09分同步的截图 这类小数点后误差低于0.5的视为有效，即多方防守成功，应该持仓。目前满市场都是假信号骗线，因此我们反复强调要以4H为操作标准，防止短线追涨杀跌造成误判。 目前重点关注的个股表现均不错，MU等企稳后，大盘有望重回普涨行情！",
+      "link": "https://x.com/maojietrading/status/2075033205229629556",
+      "source": "猫姐美股交易",
+      "source_id": "maojie",
+      "handle": "maojietrading",
+      "lane": "US equity trading",
+      "published": "2026-07-09T01:44:03+00:00",
+      "published_ts": 1783561443,
+      "metrics": {
+        "likes": 61,
+        "retweets": 0,
+        "replies": 2,
+        "views": 13090,
+        "hot_score": 137
+      },
+      "categories": [
+        "Risk"
+      ],
+      "tickers": [],
+      "is_retweet": false,
+      "has_media": true,
+      "media": [
+        "https://pbs.twimg.com/media/HMv_sbvbQAAvNPI.jpg",
+        "https://pbs.twimg.com/media/HMv_sbvboAAOk9O.jpg"
+      ],
+      "quoted_tweet": null
+    },
+    {
+      "id": "2075014592011596262",
+      "title": "原以为海力士认购超个3倍不错了，没想到已经超了7倍，彭博说有很多长线和国家主权基金入了 难道前两天是他们在卖韩股准备买adr 我看瑞银7月7之给客户发的内部笔记里，就是这个建议，理由是有溢价+流动性好+美区时间交易，对对冲基金来说，更高效…",
+      "summary": "原以为海力士认购超个3倍不错了，没想到已经超了7倍，彭博说有很多长线和国家主权基金入了 难道前两天是他们在卖韩股准备买adr 我看瑞银7月7之给客户发的内部笔记里，就是这个建议，理由是有溢价+流动性好+美区时间交易，对对冲基金来说，更高效成本更低，还写了： “从上市第一天开始做多ADR、做空韩国正股听起来就是个no-brainer。这是一个极具可扩展性的交易，因为美元风险敞口非常有限，而且ADR跌到折价的可能性极低”",
+      "link": "https://x.com/artinmemes/status/2075014592011596262",
+      "source": "美股OK哥",
+      "source_id": "okbro",
+      "handle": "artinmemes",
+      "lane": "Asia semis",
+      "published": "2026-07-09T00:30:05+00:00",
+      "published_ts": 1783557005,
+      "metrics": {
+        "likes": 238,
+        "retweets": 12,
+        "replies": 43,
+        "views": 73367,
+        "hot_score": 652
+      },
+      "categories": [
+        "AI",
+        "Memory",
+        "Macro",
+        "Risk"
+      ],
+      "tickers": [],
+      "is_retweet": false,
+      "has_media": false,
+      "media": [],
+      "quoted_tweet": null
+    },
+    {
+      "id": "2074986058840997963",
+      "title": "A Russian saying on nostalgia: \"The past is more unpredictable than the future.\"",
+      "summary": "A Russian saying on nostalgia: \"The past is more unpredictable than the future.\"",
+      "link": "https://x.com/morganhousel/status/2074986058840997963",
+      "source": "Morgan Housel",
+      "source_id": "morgan",
+      "handle": "morganhousel",
+      "lane": "Investor psychology",
+      "published": "2026-07-08T22:36:42+00:00",
+      "published_ts": 1783550202,
+      "metrics": {
+        "likes": 2969,
+        "retweets": 435,
+        "replies": 64,
+        "views": 643350,
+        "hot_score": 8677
+      },
+      "categories": [],
+      "tickers": [],
+      "is_retweet": false,
+      "has_media": false,
+      "media": [],
+      "quoted_tweet": null
+    },
+    {
+      "id": "2074890503217086846",
+      "title": "Trump: I would hate to strike desalination plants in Iran, but may have to",
+      "summary": "Trump: I would hate to strike desalination plants in Iran, but may have to",
+      "link": "https://x.com/unusual_whales/status/2074890503217086846",
+      "source": "unusual_whales",
+      "source_id": "whales",
+      "handle": "unusual_whales",
+      "lane": "Market tape",
+      "published": "2026-07-08T16:17:00+00:00",
+      "published_ts": 1783527420,
+      "metrics": {
+        "likes": 2290,
+        "retweets": 118,
+        "replies": 218,
+        "views": 438373,
+        "hot_score": 5826
+      },
+      "categories": [
+        "Policy"
+      ],
+      "tickers": [],
+      "is_retweet": false,
+      "has_media": false,
+      "media": [],
+      "quoted_tweet": null
+    },
+    {
+      "id": "2072575019285426434",
+      "title": "这次下跌，很多人提到拥挤的多头与杠杆，这是博弈，不是产业。 00年的互联网泡沫，顶点在3月，而当时的龙头思科（相当于当时的英伟达），业绩是在01年才见顶。 所以即使你分析产业需求上涨，也一样会被博弈抢跑甚至一年。 没人能预计顶点，但用产业…",
+      "summary": "这次下跌，很多人提到拥挤的多头与杠杆，这是博弈，不是产业。 00年的互联网泡沫，顶点在3月，而当时的龙头思科（相当于当时的英伟达），业绩是在01年才见顶。 所以即使你分析产业需求上涨，也一样会被博弈抢跑甚至一年。 没人能预计顶点，但用产业需求证明顶点还远，历史上证明不可以。",
+      "link": "https://x.com/0xcryptowizard/status/2072575019285426434",
+      "source": "0xWizard / 巫师",
+      "source_id": "wizard",
+      "handle": "0xCryptoWizard",
+      "lane": "Crypto + market regime",
+      "published": "2026-07-02T06:56:05+00:00",
+      "published_ts": 1782975365,
+      "metrics": {
+        "likes": 209,
+        "retweets": 33,
+        "replies": 102,
+        "views": 77922,
+        "hot_score": 762
+      },
+      "categories": [
+        "Risk"
+      ],
+      "tickers": [],
+      "is_retweet": false,
+      "has_media": false,
+      "media": [],
+      "quoted_tweet": {
+        "id": "2069947766932205631",
+        "author": "0xcryptowizard",
+        "name": "0xWizard",
+        "text": "这个时候用产业思路看 ai 股，和2021年 eth 4800时，喊人类文明级别创新口号差不多。\n\n更好的思路是用投机和博弈看后面这段。\n\n一个进入高度投机博弈的市场，top玩家的粉丝增涨进入平台期，就是一个显著信号。",
+        "created_at": "Thu Jun 25 00:56:20 +0000 2026",
+        "url": "https://x.com/0xcryptowizard/status/2069947766932205631",
+        "has_media": false,
+        "media_urls": [],
+        "media_posters": []
+      }
+    },
+    {
+      "id": "1976026473166406031",
+      "title": "RT @tamarawinter: Driving around (where else?) SF dropping off some ✨special packages ✨. Favorite stop so far:",
+      "summary": "RT @tamarawinter: Driving around (where else?) SF dropping off some ✨special packages ✨. Favorite stop so far:",
+      "link": "https://x.com/leopoldasch/status/1976026473166406031",
+      "source": "Leopold Aschenbrenner",
+      "source_id": "leopold",
+      "handle": "leopoldasch",
+      "lane": "AI frontier",
+      "published": "2025-10-08T20:46:38+00:00",
+      "published_ts": 1759956398,
+      "metrics": {
+        "likes": 0,
+        "retweets": 23,
+        "replies": 0,
+        "views": 43,
+        "hot_score": 115
+      },
+      "categories": [],
+      "tickers": [],
+      "is_retweet": true,
+      "has_media": true,
+      "media": [
+        "https://pbs.twimg.com/media/G2w6EUgaAAIHrfq.jpg",
+        "https://pbs.twimg.com/media/G2w6EUdaAAAyZN3.jpg"
+      ],
+      "quoted_tweet": null
+    }
+  ],
   "sources": [
     {
       "id": "serenity",
@@ -10,7 +416,7 @@
       "name": "Serenity / 白毛股神",
       "lane": "AI supply chain",
       "note": "AI/semi chokepoints, memory, photonics, data centers",
-      "count": 0,
+      "count": 1,
       "url": "https://x.com/aleabitoreddit"
     },
     {
@@ -19,7 +425,7 @@
       "name": "0xWizard / 巫师",
       "lane": "Crypto + market regime",
       "note": "Speculation cycles, AI equity risk, crypto narratives",
-      "count": 0,
+      "count": 1,
       "url": "https://x.com/0xCryptoWizard"
     },
     {
@@ -28,7 +434,7 @@
       "name": "Leopold Aschenbrenner",
       "lane": "AI frontier",
       "note": "AGI, AI infrastructure, Situational Awareness",
-      "count": 0,
+      "count": 1,
       "url": "https://x.com/leopoldasch"
     },
     {
@@ -37,7 +443,7 @@
       "name": "qinbafrank",
       "lane": "Macro + AI",
       "note": "Macro liquidity, CPI/FOMC, AI ROI, semis",
-      "count": 0,
+      "count": 1,
       "url": "https://x.com/qinbafrank"
     },
     {
@@ -46,7 +452,7 @@
       "name": "川沐 / Trumoo",
       "lane": "Semis trading",
       "note": "AI stocks, memory, Korea semis, options tone",
-      "count": 0,
+      "count": 1,
       "url": "https://x.com/xiaomustock"
     },
     {
@@ -55,7 +461,7 @@
       "name": "猫姐美股交易",
       "lane": "US equity trading",
       "note": "Rotation, flows, HOOD, tactical market notes",
-      "count": 0,
+      "count": 1,
       "url": "https://x.com/maojietrading"
     },
     {
@@ -64,7 +470,7 @@
       "name": "Morgan Housel",
       "lane": "Investor psychology",
       "note": "Long-term thinking, behavior, financial advice",
-      "count": 0,
+      "count": 1,
       "url": "https://x.com/morganhousel"
     },
     {
@@ -73,7 +479,7 @@
       "name": "Charlie Bilello",
       "lane": "Market data",
       "note": "Charts, macro snapshots, cross-asset data",
-      "count": 0,
+      "count": 1,
       "url": "https://x.com/charliebilello"
     },
     {
@@ -82,7 +488,7 @@
       "name": "Herman Jin",
       "lane": "FICC + tech",
       "note": "Macro, AI infra, crypto-to-equity rotation",
-      "count": 0,
+      "count": 1,
       "url": "https://x.com/ShanghaoJin"
     },
     {
@@ -91,7 +497,7 @@
       "name": "Trump Portfolio Tracker",
       "lane": "Policy trades",
       "note": "Trump-related disclosures, policy-linked equities",
-      "count": 0,
+      "count": 1,
       "url": "https://x.com/TrumpsPortfolio"
     },
     {
@@ -100,7 +506,7 @@
       "name": "美股OK哥",
       "lane": "Asia semis",
       "note": "Korea memory, ADRs, supply-chain commentary",
-      "count": 0,
+      "count": 1,
       "url": "https://x.com/artinmemes"
     },
     {
@@ -109,7 +515,7 @@
       "name": "unusual_whales",
       "lane": "Market tape",
       "note": "Breaking market/policy headlines and options flow",
-      "count": 0,
+      "count": 1,
       "url": "https://x.com/unusual_whales"
     },
     {
@@ -118,23 +524,9 @@
       "name": "Beth Kindig",
       "lane": "AI equities",
       "note": "AI infrastructure, semis, data centers",
-      "count": 0,
+      "count": 1,
       "url": "https://x.com/Beth_Kindig"
     }
   ],
-  "errors": {
-    "serenity": "ok: false\nerror:\n  code: BROWSER_CONNECT\n  message: Browser Bridge extension not connected\n  help: |-\n    Make sure Chrome/Chromium is open and the OpenCLI extension is enabled.\n    If not installed:\n      1. Download: https://github.com/jackwener/opencli/releases\n      2. Open chrome://extensions → Developer Mode → Load unpacked\n  exitCode: 69",
-    "wizard": "ok: false\nerror:\n  code: BROWSER_CONNECT\n  message: Browser Bridge extension not connected\n  help: |-\n    Make sure Chrome/Chromium is open and the OpenCLI extension is enabled.\n    If not installed:\n      1. Download: https://github.com/jackwener/opencli/releases\n      2. Open chrome://extensions → Developer Mode → Load unpacked\n  exitCode: 69",
-    "leopold": "ok: false\nerror:\n  code: BROWSER_CONNECT\n  message: Browser Bridge extension not connected\n  help: |-\n    Make sure Chrome/Chromium is open and the OpenCLI extension is enabled.\n    If not installed:\n      1. Download: https://github.com/jackwener/opencli/releases\n      2. Open chrome://extensions → Developer Mode → Load unpacked\n  exitCode: 69",
-    "qinba": "ok: false\nerror:\n  code: BROWSER_CONNECT\n  message: Browser Bridge extension not connected\n  help: |-\n    Make sure Chrome/Chromium is open and the OpenCLI extension is enabled.\n    If not installed:\n      1. Download: https://github.com/jackwener/opencli/releases\n      2. Open chrome://extensions → Developer Mode → Load unpacked\n  exitCode: 69",
-    "trumoo": "ok: false\nerror:\n  code: BROWSER_CONNECT\n  message: Failed to start opencli daemon\n  help: |-\n    Try running manually:\n      node /Users/vic/.agent-reach/npm/node_modules/@jackwener/opencli/dist/src/daemon.js\n    Make sure port 19825 is available.\n  exitCode: 69",
-    "maojie": "ok: false\nerror:\n  code: BROWSER_CONNECT\n  message: Browser Bridge extension not connected\n  help: |-\n    Make sure Chrome/Chromium is open and the OpenCLI extension is enabled.\n    If not installed:\n      1. Download: https://github.com/jackwener/opencli/releases\n      2. Open chrome://extensions → Developer Mode → Load unpacked\n  exitCode: 69",
-    "morgan": "ok: false\nerror:\n  code: BROWSER_CONNECT\n  message: Browser Bridge extension not connected\n  help: |-\n    Make sure Chrome/Chromium is open and the OpenCLI extension is enabled.\n    If not installed:\n      1. Download: https://github.com/jackwener/opencli/releases\n      2. Open chrome://extensions → Developer Mode → Load unpacked\n  exitCode: 69",
-    "bilello": "ok: false\nerror:\n  code: BROWSER_CONNECT\n  message: Browser Bridge extension not connected\n  help: |-\n    Make sure Chrome/Chromium is open and the OpenCLI extension is enabled.\n    If not installed:\n      1. Download: https://github.com/jackwener/opencli/releases\n      2. Open chrome://extensions → Developer Mode → Load unpacked\n  exitCode: 69",
-    "herman": "ok: false\nerror:\n  code: BROWSER_CONNECT\n  message: Browser Bridge extension not connected\n  help: |-\n    Make sure Chrome/Chromium is open and the OpenCLI extension is enabled.\n    If not installed:\n      1. Download: https://github.com/jackwener/opencli/releases\n      2. Open chrome://extensions → Developer Mode → Load unpacked\n  exitCode: 69",
-    "trumptracker": "ok: false\nerror:\n  code: BROWSER_CONNECT\n  message: Browser Bridge extension not connected\n  help: |-\n    Make sure Chrome/Chromium is open and the OpenCLI extension is enabled.\n    If not installed:\n      1. Download: https://github.com/jackwener/opencli/releases\n      2. Open chrome://extensions → Developer Mode → Load unpacked\n  exitCode: 69",
-    "okbro": "ok: false\nerror:\n  code: BROWSER_CONNECT\n  message: Browser Bridge extension not connected\n  help: |-\n    Make sure Chrome/Chromium is open and the OpenCLI extension is enabled.\n    If not installed:\n      1. Download: https://github.com/jackwener/opencli/releases\n      2. Open chrome://extensions → Developer Mode → Load unpacked\n  exitCode: 69",
-    "whales": "ok: false\nerror:\n  code: BROWSER_CONNECT\n  message: Browser Bridge extension not connected\n  help: |-\n    Make sure Chrome/Chromium is open and the OpenCLI extension is enabled.\n    If not installed:\n      1. Download: https://github.com/jackwener/opencli/releases\n      2. Open chrome://extensions → Developer Mode → Load unpacked\n  exitCode: 69",
-    "kindig": "ok: false\nerror:\n  code: BROWSER_CONNECT\n  message: Browser Bridge extension not connected\n  help: |-\n    Make sure Chrome/Chromium is open and the OpenCLI extension is enabled.\n    If not installed:\n      1. Download: https://github.com/jackwener/opencli/releases\n      2. Open chrome://extensions → Developer Mode → Load unpacked\n  exitCode: 69"
-  }
+  "errors": {}
 }
