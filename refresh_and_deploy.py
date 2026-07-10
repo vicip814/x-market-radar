@@ -46,6 +46,15 @@ def has_git_change(pathspec: str) -> bool:
     return bool(proc.stdout.strip())
 
 
+def is_failed_empty_refresh(payload: dict[str, Any] | None) -> bool:
+    if payload is None:
+        return False
+    articles = payload.get("articles") or []
+    sources = payload.get("sources") or []
+    errors = payload.get("errors") or {}
+    return not articles and bool(sources) and len(errors) >= len(sources)
+
+
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Refresh, commit, push, and deploy changed X Market Radar data.")
     parser.add_argument("--limit", type=int, default=8, help="tweets per channel")
@@ -60,6 +69,12 @@ def main() -> int:
 
     run(["python3", "aggregator.py", "--limit", str(args.limit)])
     after = load_json(DATA_PATH)
+
+    if is_failed_empty_refresh(after):
+        if before_text is not None:
+            DATA_PATH.write_text(before_text, encoding="utf-8")
+        print("Refresh failed for all sources and produced no tweets; skipping commit, push, and deploy.")
+        return 1
 
     if comparable(before) == comparable(after):
         if before_text is not None:
