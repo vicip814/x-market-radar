@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-10T02:05:45.490601+00:00",
-  "generated_ts": 1783649145,
+  "generated_at": "2026-07-10T02:11:48.450633+00:00",
+  "generated_ts": 1783649508,
   "articles": [],
   "sources": [
     {
@@ -127,7 +127,7 @@
     "wizard": "ok: false\nerror:\n  code: BROWSER_CONNECT\n  message: Browser Bridge extension not connected\n  help: |-\n    Make sure Chrome/Chromium is open and the OpenCLI extension is enabled.\n    If not installed:\n      1. Download: https://github.com/jackwener/opencli/releases\n      2. Open chrome://extensions → Developer Mode → Load unpacked\n  exitCode: 69",
     "leopold": "ok: false\nerror:\n  code: BROWSER_CONNECT\n  message: Browser Bridge extension not connected\n  help: |-\n    Make sure Chrome/Chromium is open and the OpenCLI extension is enabled.\n    If not installed:\n      1. Download: https://github.com/jackwener/opencli/releases\n      2. Open chrome://extensions → Developer Mode → Load unpacked\n  exitCode: 69",
     "qinba": "ok: false\nerror:\n  code: BROWSER_CONNECT\n  message: Browser Bridge extension not connected\n  help: |-\n    Make sure Chrome/Chromium is open and the OpenCLI extension is enabled.\n    If not installed:\n      1. Download: https://github.com/jackwener/opencli/releases\n      2. Open chrome://extensions → Developer Mode → Load unpacked\n  exitCode: 69",
-    "trumoo": "ok: false\nerror:\n  code: BROWSER_CONNECT\n  message: Browser Bridge extension not connected\n  help: |-\n    Make sure Chrome/Chromium is open and the OpenCLI extension is enabled.\n    If not installed:\n      1. Download: https://github.com/jackwener/opencli/releases\n      2. Open chrome://extensions → Developer Mode → Load unpacked\n  exitCode: 69",
+    "trumoo": "ok: false\nerror:\n  code: BROWSER_CONNECT\n  message: Failed to start opencli daemon\n  help: |-\n    Try running manually:\n      node /Users/vic/.agent-reach/npm/node_modules/@jackwener/opencli/dist/src/daemon.js\n    Make sure port 19825 is available.\n  exitCode: 69",
     "maojie": "ok: false\nerror:\n  code: BROWSER_CONNECT\n  message: Browser Bridge extension not connected\n  help: |-\n    Make sure Chrome/Chromium is open and the OpenCLI extension is enabled.\n    If not installed:\n      1. Download: https://github.com/jackwener/opencli/releases\n      2. Open chrome://extensions → Developer Mode → Load unpacked\n  exitCode: 69",
     "morgan": "ok: false\nerror:\n  code: BROWSER_CONNECT\n  message: Browser Bridge extension not connected\n  help: |-\n    Make sure Chrome/Chromium is open and the OpenCLI extension is enabled.\n    If not installed:\n      1. Download: https://github.com/jackwener/opencli/releases\n      2. Open chrome://extensions → Developer Mode → Load unpacked\n  exitCode: 69",
     "bilello": "ok: false\nerror:\n  code: BROWSER_CONNECT\n  message: Browser Bridge extension not connected\n  help: |-\n    Make sure Chrome/Chromium is open and the OpenCLI extension is enabled.\n    If not installed:\n      1. Download: https://github.com/jackwener/opencli/releases\n      2. Open chrome://extensions → Developer Mode → Load unpacked\n  exitCode: 69",
@@ -135,6 +135,6 @@
     "trumptracker": "ok: false\nerror:\n  code: BROWSER_CONNECT\n  message: Browser Bridge extension not connected\n  help: |-\n    Make sure Chrome/Chromium is open and the OpenCLI extension is enabled.\n    If not installed:\n      1. Download: https://github.com/jackwener/opencli/releases\n      2. Open chrome://extensions → Developer Mode → Load unpacked\n  exitCode: 69",
     "okbro": "ok: false\nerror:\n  code: BROWSER_CONNECT\n  message: Browser Bridge extension not connected\n  help: |-\n    Make sure Chrome/Chromium is open and the OpenCLI extension is enabled.\n    If not installed:\n      1. Download: https://github.com/jackwener/opencli/releases\n      2. Open chrome://extensions → Developer Mode → Load unpacked\n  exitCode: 69",
     "whales": "ok: false\nerror:\n  code: BROWSER_CONNECT\n  message: Browser Bridge extension not connected\n  help: |-\n    Make sure Chrome/Chromium is open and the OpenCLI extension is enabled.\n    If not installed:\n      1. Download: https://github.com/jackwener/opencli/releases\n      2. Open chrome://extensions → Developer Mode → Load unpacked\n  exitCode: 69",
-    "kindig": "ok: false\nerror:\n  code: BROWSER_CONNECT\n  message: Failed to start opencli daemon\n  help: |-\n    Try running manually:\n      node /Users/vic/.agent-reach/npm/node_modules/@jackwener/opencli/dist/src/daemon.js\n    Make sure port 19825 is available.\n  exitCode: 69"
+    "kindig": "ok: false\nerror:\n  code: BROWSER_CONNECT\n  message: Browser Bridge extension not connected\n  help: |-\n    Make sure Chrome/Chromium is open and the OpenCLI extension is enabled.\n    If not installed:\n      1. Download: https://github.com/jackwener/opencli/releases\n      2. Open chrome://extensions → Developer Mode → Load unpacked\n  exitCode: 69"
   }
 }
