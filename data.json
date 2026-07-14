@@ -1,145 +1,52 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-10T05:41:47.007825+00:00",
-  "generated_ts": 1783662107,
+  "generated_at": "2026-07-14T05:31:46.523353+00:00",
+  "generated_ts": 1784007106,
   "articles": [
     {
-      "id": "2075444072588927151",
-      "title": "国内可回收火箭成功了，卧槽，牛逼炸了。 @elonmusk",
-      "summary": "国内可回收火箭成功了，卧槽，牛逼炸了。 @elonmusk",
-      "link": "https://x.com/xiaomustock/status/2075444072588927151",
+      "id": "2076901960129855716",
+      "title": "人亏钱就跟得病了一样浑身难受，赚钱了就跟吃了灵丹妙药，但大多数人的财富多少并不会影响到衣食住行，这他娘的是为什么",
+      "summary": "人亏钱就跟得病了一样浑身难受，赚钱了就跟吃了灵丹妙药，但大多数人的财富多少并不会影响到衣食住行，这他娘的是为什么",
+      "link": "https://x.com/xiaomustock/status/2076901960129855716",
       "source": "川沐 / Trumoo",
       "source_id": "trumoo",
       "handle": "xiaomustock",
       "lane": "Semis trading",
-      "published": "2026-07-10T04:56:41+00:00",
-      "published_ts": 1783659401,
+      "published": "2026-07-14T05:29:48+00:00",
+      "published_ts": 1784006988,
       "metrics": {
-        "likes": 219,
-        "retweets": 12,
-        "replies": 56,
-        "views": 59106,
-        "hot_score": 613
+        "likes": 19,
+        "retweets": 1,
+        "replies": 2,
+        "views": 2054,
+        "hot_score": 47
       },
       "categories": [],
       "tickers": [],
       "is_retweet": false,
-      "has_media": true,
-      "media": [
-        "https://pbs.twimg.com/amplify_video_thumb/2075444011431784448/img/Bu0LTeTgKs2Tkbld.jpg"
-      ],
+      "has_media": false,
+      "media": [],
       "quoted_tweet": null
     },
     {
-      "id": "2075442934661660828",
-      "title": "CDS变宽大趋势",
-      "summary": "CDS变宽大趋势",
-      "link": "https://x.com/ShanghaoJin/status/2075442934661660828",
+      "id": "2076901127816376368",
+      "title": "好吃吗？😋",
+      "summary": "好吃吗？😋",
+      "link": "https://x.com/ShanghaoJin/status/2076901127816376368",
       "source": "Herman Jin",
       "source_id": "herman",
       "handle": "ShanghaoJin",
       "lane": "FICC + tech",
-      "published": "2026-07-10T04:52:10+00:00",
-      "published_ts": 1783659130,
+      "published": "2026-07-14T05:26:30+00:00",
+      "published_ts": 1784006790,
       "metrics": {
-        "likes": 16,
+        "likes": 9,
         "retweets": 0,
-        "replies": 5,
-        "views": 6888,
-        "hot_score": 43
-      },
-      "categories": [],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": {
-        "id": "2075433816169271308",
-        "author": "liuhaot89549511",
-        "name": "麓枫",
-        "text": "@ShanghaoJin @Dabaojian_A @BabybusFL 金老师怎么看待大科技一直发债借钱这个事 一方面市场上哪来那么多的钱借给他们呢 另一方面明年如果要继续这个资本开支增速只能大量借钱 但是货币化又达不到预期 大科技没有理由大量借钱",
-        "created_at": "Fri Jul 10 04:15:56 +0000 2026",
-        "url": "https://x.com/liuhaot89549511/status/2075433816169271308",
-        "has_media": false,
-        "media_urls": [],
-        "media_posters": []
-      }
-    },
-    {
-      "id": "2075429303341252804",
-      "title": "“Communism is easy to sell,” he said. Read more:",
-      "summary": "“Communism is easy to sell,” he said. Read more:",
-      "link": "https://x.com/unusual_whales/status/2075429303341252804",
-      "source": "unusual_whales",
-      "source_id": "whales",
-      "handle": "unusual_whales",
-      "lane": "Market tape",
-      "published": "2026-07-10T03:58:00+00:00",
-      "published_ts": 1783655880,
-      "metrics": {
-        "likes": 33,
-        "retweets": 3,
-        "replies": 7,
-        "views": 30153,
-        "hot_score": 118
-      },
-      "categories": [
-        "AI"
-      ],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2075422508824547700",
-      "title": "The president did not provide details about the alleged plot, and the remarks came in response to a question about why…",
-      "summary": "The president did not provide details about the alleged plot, and the remarks came in response to a question about why he was not using the new presidential jet gifted by Qatar to leave the NATO summit Read more:",
-      "link": "https://x.com/unusual_whales/status/2075422508824547700",
-      "source": "unusual_whales",
-      "source_id": "whales",
-      "handle": "unusual_whales",
-      "lane": "Market tape",
-      "published": "2026-07-10T03:31:00+00:00",
-      "published_ts": 1783654260,
-      "metrics": {
-        "likes": 28,
-        "retweets": 4,
-        "replies": 9,
-        "views": 37034,
-        "hot_score": 122
-      },
-      "categories": [
-        "AI"
-      ],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2075414203821703384",
-      "title": "The remarks came a day after overnight airstrikes reportedly targeted Kharg Island, the central hub of Iran’s oil expor…",
-      "summary": "The remarks came a day after overnight airstrikes reportedly targeted Kharg Island, the central hub of Iran’s oil export industry. Read more:",
-      "link": "https://x.com/unusual_whales/status/2075414203821703384",
-      "source": "unusual_whales",
-      "source_id": "whales",
-      "handle": "unusual_whales",
-      "lane": "Market tape",
-      "published": "2026-07-10T02:58:00+00:00",
-      "published_ts": 1783652280,
-      "metrics": {
-        "likes": 27,
-        "retweets": 3,
         "replies": 4,
-        "views": 40293,
-        "hot_score": 113
+        "views": 1574,
+        "hot_score": 23
       },
-      "categories": [
-        "AI"
-      ],
+      "categories": [],
       "tickers": [],
       "is_retweet": false,
       "has_media": false,
@@ -147,740 +54,108 @@
       "quoted_tweet": null
     },
     {
-      "id": "2075407409225281927",
-      "title": "He used a web of anonymous LLCs to quietly buy up all 138 units, plus the ground-floor retail space, of the Solaris con…",
-      "summary": "He used a web of anonymous LLCs to quietly buy up all 138 units, plus the ground-floor retail space, of the Solaris condominium in Miami. Griffin completed his final purchase in September. Read more:",
-      "link": "https://x.com/unusual_whales/status/2075407409225281927",
-      "source": "unusual_whales",
-      "source_id": "whales",
-      "handle": "unusual_whales",
-      "lane": "Market tape",
-      "published": "2026-07-10T02:31:00+00:00",
-      "published_ts": 1783650660,
-      "metrics": {
-        "likes": 38,
-        "retweets": 4,
-        "replies": 13,
-        "views": 45920,
-        "hot_score": 154
-      },
-      "categories": [
-        "AI"
-      ],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2075404931784376696",
-      "title": "海公公真垃圾呐，美股一个adr搞得价格纹丝不动。",
-      "summary": "海公公真垃圾呐，美股一个adr搞得价格纹丝不动。",
-      "link": "https://x.com/xiaomustock/status/2075404931784376696",
+      "id": "2076895446749135298",
+      "title": "起飞了，75总能反弹到吧",
+      "summary": "起飞了，75总能反弹到吧",
+      "link": "https://x.com/xiaomustock/status/2076895446749135298",
       "source": "川沐 / Trumoo",
       "source_id": "trumoo",
       "handle": "xiaomustock",
       "lane": "Semis trading",
-      "published": "2026-07-10T02:21:09+00:00",
-      "published_ts": 1783650069,
+      "published": "2026-07-14T05:03:56+00:00",
+      "published_ts": 1784005436,
       "metrics": {
-        "likes": 120,
-        "retweets": 1,
-        "replies": 53,
-        "views": 46856,
-        "hot_score": 344
-      },
-      "categories": [],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": true,
-      "media": [
-        "https://pbs.twimg.com/media/HM1Rx_Zb0AA8eXo.jpg"
-      ],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2075404885143736611",
-      "title": "RT @ShanghaoJin: @Dabaojian_A @BabybusFL 我的手进化了亿万年，尚且没有学会洗衣做饭 他机械的成本高且不如我好用 未来应该AI指挥人手干",
-      "summary": "RT @ShanghaoJin: @Dabaojian_A @BabybusFL 我的手进化了亿万年，尚且没有学会洗衣做饭 他机械的成本高且不如我好用 未来应该AI指挥人手干",
-      "link": "https://x.com/ShanghaoJin/status/2075404885143736611",
-      "source": "Herman Jin",
-      "source_id": "herman",
-      "handle": "ShanghaoJin",
-      "lane": "FICC + tech",
-      "published": "2026-07-10T02:20:58+00:00",
-      "published_ts": 1783650058,
-      "metrics": {
-        "likes": 0,
-        "retweets": 1,
-        "replies": 0,
-        "views": 0,
-        "hot_score": 5
-      },
-      "categories": [
-        "AI"
-      ],
-      "tickers": [],
-      "is_retweet": true,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2075400296302543073",
-      "title": "RT @ShanghaoJin: 其实行研来回就这点信息，哪能天天有新故事？ 但架不住老板自己手贱、上头买高了，天天问你～～～天天求安慰～～ 怎么办？你就得天天重复回答 我就没见过投研的人，能把投资做的好的",
-      "summary": "RT @ShanghaoJin: 其实行研来回就这点信息，哪能天天有新故事？ 但架不住老板自己手贱、上头买高了，天天问你～～～天天求安慰～～ 怎么办？你就得天天重复回答 我就没见过投研的人，能把投资做的好的",
-      "link": "https://x.com/ShanghaoJin/status/2075400296302543073",
-      "source": "Herman Jin",
-      "source_id": "herman",
-      "handle": "ShanghaoJin",
-      "lane": "FICC + tech",
-      "published": "2026-07-10T02:02:44+00:00",
-      "published_ts": 1783648964,
-      "metrics": {
-        "likes": 0,
-        "retweets": 6,
-        "replies": 0,
-        "views": 0,
-        "hot_score": 30
-      },
-      "categories": [],
-      "tickers": [],
-      "is_retweet": true,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2075400278292214141",
-      "title": "其实行研来回就这点信息，哪能天天有新故事？ 但架不住老板自己手贱、上头买高了，天天问你～～～天天求安慰～～ 怎么办？你就得天天重复回答 我就没见过投研的人，能把投资做的好的",
-      "summary": "其实行研来回就这点信息，哪能天天有新故事？ 但架不住老板自己手贱、上头买高了，天天问你～～～天天求安慰～～ 怎么办？你就得天天重复回答 我就没见过投研的人，能把投资做的好的",
-      "link": "https://x.com/ShanghaoJin/status/2075400278292214141",
-      "source": "Herman Jin",
-      "source_id": "herman",
-      "handle": "ShanghaoJin",
-      "lane": "FICC + tech",
-      "published": "2026-07-10T02:02:40+00:00",
-      "published_ts": 1783648960,
-      "metrics": {
-        "likes": 79,
-        "retweets": 6,
-        "replies": 7,
-        "views": 13818,
-        "hot_score": 208
-      },
-      "categories": [],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2075399923647046085",
-      "title": "可以说这次GPT5.6的发布正式拉开了前沿闭源大模型价格战的序幕？为什么这么说。 先看看GPT5.6的定价结构（API 每百万 tokens，短上下文标准价）： 1）Sol（旗舰）：$5 输入 / $30 输出（与 GPT-5.5 旗舰价…",
-      "summary": "可以说这次GPT5.6的发布正式拉开了前沿闭源大模型价格战的序幕？为什么这么说。 先看看GPT5.6的定价结构（API 每百万 tokens，短上下文标准价）： 1）Sol（旗舰）：$5 输入 / $30 输出（与 GPT-5.5 旗舰价格持平）。 2）Terra：$2.50 / $15（性能接近 GPT-5.5，但成本更低）。 3）Luna：$1 / $6（最便宜，性能仍很强，接近或超过部分前代旗舰）。 这算是OpenAI首次在旗舰系列中推出明确的多层定价，让用户根据任务复杂度灵活选择。Luna和Terra提供了“接近旗舰性能但大幅降低成本”的选项，…",
-      "link": "https://x.com/qinbafrank/status/2075399923647046085",
-      "source": "qinbafrank",
-      "source_id": "qinba",
-      "handle": "qinbafrank",
-      "lane": "Macro + AI",
-      "published": "2026-07-10T02:01:15+00:00",
-      "published_ts": 1783648875,
-      "metrics": {
-        "likes": 39,
-        "retweets": 3,
-        "replies": 22,
-        "views": 15151,
-        "hot_score": 130
-      },
-      "categories": [
-        "AI"
-      ],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": {
-        "id": "2075274271845404744",
-        "author": "OpenAI",
-        "name": "OpenAI",
-        "text": "Introducing ChatGPT Work, a new agent in ChatGPT powered by Codex and GPT-5.6.\n\nIt can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.\n\nIt’s a whole new way to get work done. https://t.co/uGbvjU1LsV",
-        "created_at": "Thu Jul 09 17:41:57 +0000 2026",
-        "url": "https://x.com/OpenAI/status/2075274271845404744",
-        "has_media": true,
-        "media_urls": [
-          "https://video.twimg.com/amplify_video/2075269404997373952/vid/avc1/480x270/tVtNG6YJoL3rjaKj.mp4?tag=28"
-        ],
-        "media_posters": [
-          "https://pbs.twimg.com/media/HMz7__qaQAAF1kI.jpg"
-        ]
-      }
-    },
-    {
-      "id": "2075399368384057491",
-      "title": "知道研究员为何不能操盘基金 研究员的工作就安抚下错单的老板、客户、粉丝。安抚的规程中不得不持续强化自己观点，乐观变得更乐观、无法反思 但矛盾的是：行研是前瞻性的，主导短期的是筹码与仓位；但表现检验是即时的，没有耐心 不想心态爆炸变成反指，…",
-      "summary": "知道研究员为何不能操盘基金 研究员的工作就安抚下错单的老板、客户、粉丝。安抚的规程中不得不持续强化自己观点，乐观变得更乐观、无法反思 但矛盾的是：行研是前瞻性的，主导短期的是筹码与仓位；但表现检验是即时的，没有耐心 不想心态爆炸变成反指，就只有自己投。把持仓周期匹配行研，然后闭嘴",
-      "link": "https://x.com/ShanghaoJin/status/2075399368384057491",
-      "source": "Herman Jin",
-      "source_id": "herman",
-      "handle": "ShanghaoJin",
-      "lane": "FICC + tech",
-      "published": "2026-07-10T01:59:03+00:00",
-      "published_ts": 1783648743,
-      "metrics": {
-        "likes": 81,
-        "retweets": 4,
-        "replies": 15,
-        "views": 18754,
-        "hot_score": 215
-      },
-      "categories": [],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": {
-        "id": "2074951295027568736",
-        "author": "aleabitoreddit",
-        "name": "Serenity",
-        "text": "Let’s put it this way:\n\nRetail thinks a 30-60% drop is a “falling knife” where bagholders will never recover. \n\nAnd they end up panic selling after seeing swiggly line TAs and people comparing valuable chokepoints to memes.\n\nI see it as long term ownership over:\n\n- the next hyperscaler with $NBIS, projecting $7-9B ARR Q4\n- 40% of the InP supply chain with $AXTI\n- leader of the next optical shift with $SIVE with CW DFB lasers\n- leader of US humanoids with $CCXI inside a future trillion dollar theme\n\nAnd so on… At cheaper valuations. \n\nWhile I might do things like lowering margin or hedging with my own portfolio, I’m personally not panicking when something drops if the thesis didn’t change. \n\nNFA and obviously depends on people’s investing timeframes:\n\nSince a crash would be life changing for people that depend on investing for rent or tuition. (Which is why I personally think  others should do their own DD and choose longs in line with their own risk profile)\n\nBut my personal goal is maximizing exposure to the next-gen supercycles before they hit.\n\nI think institutions think the same way as well, which is why there’s a lot of induced volatility along the way to maximize their exposure.\n\nIf a thesis ends up correct, the valuation should be reflected in the long run.",
-        "created_at": "Wed Jul 08 20:18:34 +0000 2026",
-        "url": "https://x.com/aleabitoreddit/status/2074951295027568736",
-        "has_media": false,
-        "media_urls": [],
-        "media_posters": []
-      }
-    },
-    {
-      "id": "2075394281511240033",
-      "title": "我们是不是该期望MSFT 那两颗煤球也变金丹呢 赌模型纯粹开盲盒，训的人也不知道开炉是个啥",
-      "summary": "我们是不是该期望MSFT 那两颗煤球也变金丹呢 赌模型纯粹开盲盒，训的人也不知道开炉是个啥",
-      "link": "https://x.com/ShanghaoJin/status/2075394281511240033",
-      "source": "Herman Jin",
-      "source_id": "herman",
-      "handle": "ShanghaoJin",
-      "lane": "FICC + tech",
-      "published": "2026-07-10T01:38:50+00:00",
-      "published_ts": 1783647530,
-      "metrics": {
-        "likes": 28,
+        "likes": 36,
         "retweets": 0,
-        "replies": 14,
-        "views": 13768,
-        "hot_score": 83
-      },
-      "categories": [],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": {
-        "id": "2075230378768343427",
-        "author": "RYANHINGSHING",
-        "name": "Ryan Leung 梁興盛, CFA",
-        "text": "$META 模型開始追近🫡\nMETA bro加油🫡",
-        "created_at": "Thu Jul 09 14:47:32 +0000 2026",
-        "url": "https://x.com/RYANHINGSHING/status/2075230378768343427",
-        "has_media": false,
-        "media_urls": [],
-        "media_posters": []
-      }
-    },
-    {
-      "id": "2075390824150667512",
-      "title": "RT @ShanghaoJin: @tim26923142 非常bullish INTC充分说明：没有学不会的学生，只有不会教的老师 一般良率也就1-2%一个月，他们单月7% 18AP 想想谁在调INTC机器？",
-      "summary": "RT @ShanghaoJin: @tim26923142 非常bullish INTC充分说明：没有学不会的学生，只有不会教的老师 一般良率也就1-2%一个月，他们单月7% 18AP 想想谁在调INTC机器？",
-      "link": "https://x.com/ShanghaoJin/status/2075390824150667512",
-      "source": "Herman Jin",
-      "source_id": "herman",
-      "handle": "ShanghaoJin",
-      "lane": "FICC + tech",
-      "published": "2026-07-10T01:25:06+00:00",
-      "published_ts": 1783646706,
-      "metrics": {
-        "likes": 0,
-        "retweets": 6,
-        "replies": 0,
-        "views": 0,
-        "hot_score": 30
-      },
-      "categories": [],
-      "tickers": [],
-      "is_retweet": true,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2075381867243864292",
-      "title": "因为我个人AMD太多了 投资不光是看票好坏，更重要的是的组合管理 我不想大比率仓位放在CPU，但最近每逢上涨都会逐步把AMD换一些intc",
-      "summary": "因为我个人AMD太多了 投资不光是看票好坏，更重要的是的组合管理 我不想大比率仓位放在CPU，但最近每逢上涨都会逐步把AMD换一些intc",
-      "link": "https://x.com/ShanghaoJin/status/2075381867243864292",
-      "source": "Herman Jin",
-      "source_id": "herman",
-      "handle": "ShanghaoJin",
-      "lane": "FICC + tech",
-      "published": "2026-07-10T00:49:30+00:00",
-      "published_ts": 1783644570,
-      "metrics": {
-        "likes": 80,
-        "retweets": 3,
-        "replies": 20,
-        "views": 27665,
-        "hot_score": 222
-      },
-      "categories": [
-        "Semis"
-      ],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": {
-        "id": "2075331155017003373",
-        "author": "usadavid2025",
-        "name": "Momo来咯",
-        "text": "@ShanghaoJin 金老师为何不直接加intel呢",
-        "created_at": "Thu Jul 09 21:27:59 +0000 2026",
-        "url": "https://x.com/usadavid2025/status/2075331155017003373",
-        "has_media": false,
-        "media_urls": [],
-        "media_posters": []
-      }
-    },
-    {
-      "id": "2075380285408202816",
-      "title": "SemiAnalysis已经开始在喊Meta将在六个月内超越谷歌了。正如7月4号这篇推文里聊到的：“下一代模型的性能是胜负手。都一定要立马超过gpt5.5、claude fable5，只要meta下一代大模型的性能能接近最新一代，超过O/…",
-      "summary": "SemiAnalysis已经开始在喊Meta将在六个月内超越谷歌了。正如7月4号这篇推文里聊到的：“下一代模型的性能是胜负手。都一定要立马超过gpt5.5、claude fable5，只要meta下一代大模型的性能能接近最新一代，超过O/A/G上一代性能，个人认为还是能占据一席之地的。如果能赶上来，我觉得meta机会很大。” 现在看Muse Spark1.1就是如此，距离Aunthropic和OpenAI最新一代还有差距，但在性能上已经超过了A和O家的上一代模型性能了，只要有能拿得出手性能、整个竞争局面立马改观。特别是Muse Spark1.1 定价策…",
-      "link": "https://x.com/qinbafrank/status/2075380285408202816",
-      "source": "qinbafrank",
-      "source_id": "qinba",
-      "handle": "qinbafrank",
-      "lane": "Macro + AI",
-      "published": "2026-07-10T00:43:13+00:00",
-      "published_ts": 1783644193,
-      "metrics": {
-        "likes": 81,
-        "retweets": 10,
-        "replies": 21,
-        "views": 31997,
-        "hot_score": 264
-      },
-      "categories": [
-        "AI"
-      ],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": true,
-      "media": [
-        "https://pbs.twimg.com/media/HM07XMzaUAAO4S_.jpg",
-        "https://pbs.twimg.com/media/HM07XNFbMAAkaQC.jpg"
-      ],
-      "quoted_tweet": {
-        "id": "2073249685780000833",
-        "author": "qinbafrank",
-        "name": "qinbafrank",
-        "text": "Meta在大模型上完全没有机会了么？个人不这么看，几个点：\n1、Meta即使走闭源路线，先得承认OpenAI和Authropic已经遥遥领先，但不能说Meta就毫无优势，仍有OpenAI和Anthropic难以比拟的护城河：\n1）深度产品整合：Meta AI直接嵌入WhatsApp、Instagram、Facebook、Messenger等，覆盖数十亿用户，可实现个性化（基于社交数据）、多模态（视觉+聊天）、广告转化优化。\n2）基础设施与成本优势：Meta正在建设巨型算力集群，自有数据中心规模巨大，推理成本和延迟有潜力更低。\n\n其实看去年谷歌是怎么追赶上来的，一方面gemini3推出性能很强，另一方面也是谷歌强大的分发渠道。\n\n现在Meta的问题还没拿得出手前沿大模型，如果下一代大模型性能能住上来，加上meta强大的分发渠道，至少在C端能有一席之地。而且AI对广告的提效是很直接的，之前meta自己模型拉垮也借用了gemini的api，算力请求过大都被谷歌限制访问了。\n\n所以核心不是meta在AI上有没有机会，而是meta下一代大模型性能能不能赶上来。如果能赶上来，我觉得meta机会很大。\n模型性能好，分发渠道气强，用户量自然就能起来，Agent推进也能加快。然后B端编程弱、但是B端Ai 广告这一块应该能吃到很多。\n\n2、再说说开源，\nMeta也没有放弃开源，现在Meta应该是个混合策略，Muse Spark是闭源的，但官方明确表示“希望open-source未来版本的模型”，并正在开发open-weight版本的下一代模型（保留部分专有能力如网络安全代码生成）\n\nGLM确实很强，中国的大模型开源生态发展也很快，气势如虹。正如引用推文聊到的“欧美日有很多规定不许用中国模型，Meta本可填这个非中国开源Tier-1生态位”。Meta通过Llama已经进入，且仍有空间加强（继续开源部分模型 + 强调“西方可信来源”）\n\n上面聊到的核心是什么？\n还是模型的性能，这个是胜负手。都一定要立马超过gpt5.5、claude fable5，只要meta下一代大模型的性能能接近最新一代，超过O/A/G上一代性能，个人认为还是能占据一席之地的。但如果模型性能一直上不来，那确实很难翻身。\n\n如昨天在这里https://t.co/LOSnBmv1vn聊到的，Meta未来真正有有价值和差异的是 “自有模型 + 自有用户场景 + 自有广告/社交数据闭环 + 自有推理基础设施”\n。Meta现阶段关键点在模型的性能上，如果能突破，未来的胜负手在Agent 上。\n\n当然未来模型真起不来、meta就索性专注做Agent，就像腾讯现在的思路。谁家算力好、token性价比高就用谁的，也未尝没有机会。Meta去推agent也有优势\n\n简单说就是Meta还有牌可打，AI领域变化快，几个月后情况可能又不同。就像之前这里https://t.co/fp6oTr1Plu聊到，各领风骚三五月。",
-        "created_at": "Sat Jul 04 03:36:58 +0000 2026",
-        "url": "https://x.com/qinbafrank/status/2073249685780000833",
-        "has_media": false,
-        "media_urls": [],
-        "media_posters": []
-      }
-    },
-    {
-      "id": "2075337916734201975",
-      "title": "Anthropic is reportedly in talks with Samsung over the manufacturing of a custom AI chip using its 2nm node and advance…",
-      "summary": "Anthropic is reportedly in talks with Samsung over the manufacturing of a custom AI chip using its 2nm node and advanced packaging tech, though it has yet to move into design, testing, or manufacturing stages. $TSM $NVDA $AMD $AVGO $GOOG",
-      "link": "https://x.com/Beth_Kindig/status/2075337916734201975",
-      "source": "Beth Kindig",
-      "source_id": "kindig",
-      "handle": "Beth_Kindig",
-      "lane": "AI equities",
-      "published": "2026-07-09T21:54:51+00:00",
-      "published_ts": 1783634091,
-      "metrics": {
-        "likes": 111,
-        "retweets": 10,
-        "replies": 10,
-        "views": 20848,
-        "hot_score": 302
-      },
-      "categories": [
-        "AI",
-        "Semis"
-      ],
-      "tickers": [
-        "$AMD",
-        "$AVGO",
-        "$GOOG",
-        "$NVDA",
-        "$TSM"
-      ],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2075337597849620850",
-      "title": "Buried in Donald Trump’s financial disclosure: a Pennsylvania tobacco settlement revenue bond. When cigarette companies…",
-      "summary": "Buried in Donald Trump’s financial disclosure: a Pennsylvania tobacco settlement revenue bond. When cigarette companies pay states for the people smoking killed, states sell that revenue stream to investors. The President is one of the investors. He collects interest on it.",
-      "link": "https://x.com/TrumpsPortfolio/status/2075337597849620850",
-      "source": "Trump Portfolio Tracker",
-      "source_id": "trumptracker",
-      "handle": "TrumpsPortfolio",
-      "lane": "Policy trades",
-      "published": "2026-07-09T21:53:35+00:00",
-      "published_ts": 1783634015,
-      "metrics": {
-        "likes": 421,
-        "retweets": 83,
-        "replies": 15,
-        "views": 17770,
-        "hot_score": 1289
-      },
-      "categories": [
-        "Policy"
-      ],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2075311700601921888",
-      "title": "Foxconn recently reported 40% growth in Q2 revenue to ~$79 billion, accelerating from 30% in Q1, with Cloud and Network…",
-      "summary": "Foxconn recently reported 40% growth in Q2 revenue to ~$79 billion, accelerating from 30% in Q1, with Cloud and Networking accounting for more than half of revenue driven by strong AI server momentum. $NVDA $AMD",
-      "link": "https://x.com/Beth_Kindig/status/2075311700601921888",
-      "source": "Beth Kindig",
-      "source_id": "kindig",
-      "handle": "Beth_Kindig",
-      "lane": "AI equities",
-      "published": "2026-07-09T20:10:41+00:00",
-      "published_ts": 1783627841,
-      "metrics": {
-        "likes": 98,
-        "retweets": 11,
-        "replies": 17,
-        "views": 19288,
-        "hot_score": 287
-      },
-      "categories": [
-        "AI",
-        "Semis"
-      ],
-      "tickers": [
-        "$AMD",
-        "$NVDA"
-      ],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2075310370831393246",
-      "title": "IBM unveiled its new 0.7-nanometer chip manufacturing technology, which it says packs nearly 100 billion transistors on…",
-      "summary": "IBM unveiled its new 0.7-nanometer chip manufacturing technology, which it says packs nearly 100 billion transistors onto a fingernail-sized surface, offering 2X the density of its 2nm chip with up to 70% greater energy efficiency and 50% higher performance. $IBM $TSM $INTC",
-      "link": "https://x.com/Beth_Kindig/status/2075310370831393246",
-      "source": "Beth Kindig",
-      "source_id": "kindig",
-      "handle": "Beth_Kindig",
-      "lane": "AI equities",
-      "published": "2026-07-09T20:05:24+00:00",
-      "published_ts": 1783627524,
-      "metrics": {
-        "likes": 111,
-        "retweets": 10,
-        "replies": 12,
-        "views": 22944,
-        "hot_score": 306
-      },
-      "categories": [
-        "AI"
-      ],
-      "tickers": [
-        "$IBM",
-        "$INTC",
-        "$TSM"
-      ],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2075302956581449892",
-      "title": "\"China is shipping ~90% of the world's humanoid robots. We cannot keep taking them lightly.\" Elon's comment: \"For now\"…",
-      "summary": "\"China is shipping ~90% of the world's humanoid robots. We cannot keep taking them lightly.\" Elon's comment: \"For now\" Meanwhile, 1X today posts a video of the most advanced humanoid hand. Looks like the inflection point for American humanoid programs is here? Both technological…",
-      "link": "https://x.com/aleabitoreddit/status/2075302956581449892",
-      "source": "Serenity / 白毛股神",
-      "source_id": "serenity",
-      "handle": "aleabitoreddit",
-      "lane": "AI supply chain",
-      "published": "2026-07-09T19:35:56+00:00",
-      "published_ts": 1783625756,
-      "metrics": {
-        "likes": 1355,
-        "retweets": 99,
-        "replies": 208,
-        "views": 426885,
-        "hot_score": 3839
-      },
-      "categories": [
-        "AI"
-      ],
-      "tickers": [
-        "$CCXI",
-        "$TSLA"
-      ],
-      "is_retweet": false,
-      "has_media": true,
-      "media": [
-        "https://pbs.twimg.com/amplify_video_thumb/2075302057356234752/img/dPdGy8ELJ6n1eRAI.jpg"
-      ],
-      "quoted_tweet": {
-        "id": "2075291754215977290",
-        "author": "elonmusk",
-        "name": "Elon Musk",
-        "text": "@PeterDiamandis For now",
-        "created_at": "Thu Jul 09 18:51:25 +0000 2026",
-        "url": "https://x.com/elonmusk/status/2075291754215977290",
-        "has_media": false,
-        "media_urls": [],
-        "media_posters": []
-      }
-    },
-    {
-      "id": "2075294658570211692",
-      "title": "RT @PeterMallouk: Only 135 of the S&amp;P 500 constituents in 1996 are still in the index today. Capitalism moves fast.",
-      "summary": "RT @PeterMallouk: Only 135 of the S&amp;P 500 constituents in 1996 are still in the index today. Capitalism moves fast.",
-      "link": "https://x.com/charliebilello/status/2075294658570211692",
-      "source": "Charlie Bilello",
-      "source_id": "bilello",
-      "handle": "charliebilello",
-      "lane": "Market data",
-      "published": "2026-07-09T19:02:58+00:00",
-      "published_ts": 1783623778,
-      "metrics": {
-        "likes": 0,
-        "retweets": 72,
-        "replies": 0,
-        "views": 10313,
-        "hot_score": 370
-      },
-      "categories": [],
-      "tickers": [],
-      "is_retweet": true,
-      "has_media": true,
-      "media": [
-        "https://pbs.twimg.com/media/HMbAoZsW8AAE2cy.png"
-      ],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2075289915697553697",
-      "title": "Three new $SIVE insider purchases today. Most notably: $SIVEF CEO Vikram bought 1,000,000 SEK worth of shares on the op…",
-      "summary": "Three new $SIVE insider purchases today. Most notably: $SIVEF CEO Vikram bought 1,000,000 SEK worth of shares on the open market today. This is following the massive drop on Sivers stock following 2 misleading CPO delay reports, Meta Compute headlines, and another insider sale r…",
-      "link": "https://x.com/aleabitoreddit/status/2075289915697553697",
-      "source": "Serenity / 白毛股神",
-      "source_id": "serenity",
-      "handle": "aleabitoreddit",
-      "lane": "AI supply chain",
-      "published": "2026-07-09T18:44:07+00:00",
-      "published_ts": 1783622647,
-      "metrics": {
-        "likes": 1594,
-        "retweets": 130,
-        "replies": 217,
-        "views": 374461,
-        "hot_score": 4429
-      },
-      "categories": [],
-      "tickers": [
-        "$GFS",
-        "$JBL",
-        "$SIVE",
-        "$SIVEF"
-      ],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": {
-        "id": "2075281258431606876",
-        "author": "StormDirac",
-        "name": "Anders Storm",
-        "text": "$SIVE fell today on an EFN article claiming the photonics chief sold his entire holding — presented as alarming insider panic. Here is what I think the article can have missed.\n\nAndrew McKee founded CST now Sivers Photonics in 1999— 27 years ago. He built the photonics business from scratch. Earlier this year Alex McCann appeared publicly as the new MD of Sivers Photonics in April/May communications. McKee moved totechnology role only. His Q1 and Q2 share sales seems to align with this transition and was probably sold (if sold at all in full) parts of it even before share re-rating. \n\nMy take is  that is was done probably with no negative view on the company's prospects. A man monetizing his life's work after almost 30 years of building a company is not insider panic. IMO this is probably more a career ending on his own terms. He deserves it for sure. Even if he sold over 6 months, IMO this is still not a major negative signal. \n\nThree things EFN did not check: A) Holdings has known blind spots — transfers to holding companies, ISK structures and family vehicles are not captured. Did anyone verify McKee holds zero shares in any structure? B) One option program was realized in early July. If McKee sold old shares to participate that is not a major negative signal (he is not insider hence would not report sell or buy) — Holdings would not show this yet since it was in early July C) The role change probably happened before most shares was sold, Context matters.\n\nLater in the afternoon two board members has publicly shared insider purchases. \n\nTodd Thomson — board member, former Citigroup CFO, — bought 535,000 SEK on-market today at 42.80 SEK into the panic. Karin Raj bought 460,000 SEK at 34.68 SEK — the intraday low. Both reported to FI same day. People with more information about the full picture, that also had been part of approving today clarifications around the Q-reports and US Nasdaq listing. \n\nUpdate Vikram CEO have also aquired shares for approximately 1.000.000 SEK\n\nSumming up: Journalism created the dip. Insiders bought it.\n\nWhat's X view on today?",
-        "created_at": "Thu Jul 09 18:09:43 +0000 2026",
-        "url": "https://x.com/StormDirac/status/2075281258431606876",
-        "has_media": true,
-        "media_urls": [
-          "https://pbs.twimg.com/media/HMzhTfyWUAAR2R7.jpg"
-        ],
-        "media_posters": [
-          "https://pbs.twimg.com/media/HMzhTfyWUAAR2R7.jpg"
-        ]
-      }
-    },
-    {
-      "id": "2075275978918531379",
-      "title": "SK Hynix has reportedly removed price caps in its long-term memory supply agreements, unlike Micron, which will allow s…",
-      "summary": "SK Hynix has reportedly removed price caps in its long-term memory supply agreements, unlike Micron, which will allow spot price increases to be fully reflected in its contract pricing. $MU $NVDA $AMD $AVGO",
-      "link": "https://x.com/Beth_Kindig/status/2075275978918531379",
-      "source": "Beth Kindig",
-      "source_id": "kindig",
-      "handle": "Beth_Kindig",
-      "lane": "AI equities",
-      "published": "2026-07-09T17:48:44+00:00",
-      "published_ts": 1783619324,
-      "metrics": {
-        "likes": 487,
-        "retweets": 40,
-        "replies": 23,
-        "views": 73837,
-        "hot_score": 1270
-      },
-      "categories": [
-        "Memory",
-        "Semis",
-        "Policy"
-      ],
-      "tickers": [
-        "$AMD",
-        "$AVGO",
-        "$MU",
-        "$NVDA"
-      ],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2075251253425107080",
-      "title": "Amazon has reportedly increased its custom silicon shipment forecast by 20-30% for Q3 versus its original plan, with th…",
-      "summary": "Amazon has reportedly increased its custom silicon shipment forecast by 20-30% for Q3 versus its original plan, with this said to be tied to increased optimism for its Trainium3 chip with rack-scale mass production set for July. $AMZN $NVDA $AVGO $GOOG",
-      "link": "https://x.com/Beth_Kindig/status/2075251253425107080",
-      "source": "Beth Kindig",
-      "source_id": "kindig",
-      "handle": "Beth_Kindig",
-      "lane": "AI equities",
-      "published": "2026-07-09T16:10:29+00:00",
-      "published_ts": 1783613429,
-      "metrics": {
-        "likes": 94,
-        "retweets": 12,
-        "replies": 15,
-        "views": 16515,
-        "hot_score": 279
-      },
-      "categories": [
-        "AI",
-        "Semis"
-      ],
-      "tickers": [
-        "$AMZN",
-        "$AVGO",
-        "$GOOG",
-        "$NVDA"
-      ],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2075247088858726678",
-      "title": "扎克伯格时隔三年第一次在X上发文，推广自家最发布的Muse Spark 1.1，专注以极低成本提供强 agentic + multimodal（多模态）模型，token价格低。不得不说X已经当下AI大战最核心的主战场了，连拥有那么多款海量…",
-      "summary": "扎克伯格时隔三年第一次在X上发文，推广自家最发布的Muse Spark 1.1，专注以极低成本提供强 agentic + multimodal（多模态）模型，token价格低。不得不说X已经当下AI大战最核心的主战场了，连拥有那么多款海量用户社交平台的小扎都跑到X上亲自下场摇旗了。 上周这里",
-      "link": "https://x.com/qinbafrank/status/2075247088858726678",
-      "source": "qinbafrank",
-      "source_id": "qinba",
-      "handle": "qinbafrank",
-      "lane": "Macro + AI",
-      "published": "2026-07-09T15:53:56+00:00",
-      "published_ts": 1783612436,
-      "metrics": {
-        "likes": 118,
-        "retweets": 12,
-        "replies": 24,
-        "views": 55410,
-        "hot_score": 375
-      },
-      "categories": [
-        "AI"
-      ],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": {
-        "id": "2075218444056707458",
-        "author": "finkd",
-        "name": "Mark Zuckerberg",
-        "text": "(1) Today we're releasing Muse Spark 1.1 -- a strong agentic and coding model at a very low price. It's available through our new Meta Model API and in Meta AI.",
-        "created_at": "Thu Jul 09 14:00:07 +0000 2026",
-        "url": "https://x.com/finkd/status/2075218444056707458",
-        "has_media": false,
-        "media_urls": [],
-        "media_posters": []
-      }
-    },
-    {
-      "id": "2075240559380168824",
-      "title": "RT @charliebilello: New Post: The State of the Markets in 10 Charts...",
-      "summary": "RT @charliebilello: New Post: The State of the Markets in 10 Charts...",
-      "link": "https://x.com/charliebilello/status/2075240559380168824",
-      "source": "Charlie Bilello",
-      "source_id": "bilello",
-      "handle": "charliebilello",
-      "lane": "Market data",
-      "published": "2026-07-09T15:28:00+00:00",
-      "published_ts": 1783610880,
-      "metrics": {
-        "likes": 0,
-        "retweets": 22,
-        "replies": 0,
-        "views": 0,
+        "replies": 18,
+        "views": 20115,
         "hot_score": 110
       },
       "categories": [],
       "tickers": [],
-      "is_retweet": true,
+      "is_retweet": false,
       "has_media": true,
       "media": [
-        "https://pbs.twimg.com/media/HMyjSe4X0AAsvDO.jpg"
+        "https://pbs.twimg.com/media/HNKdZfCbkAAq8Aa.jpg"
       ],
-      "quoted_tweet": null
+      "quoted_tweet": {
+        "id": "2076876646037307471",
+        "author": "xiaomustock",
+        "name": "川沐｜Trumoo🐮",
+        "text": "克服恐惧的最好办法就是面对恐惧，\n海力士不行，整个AI产业链都在一起崩。\n刚抄了南海2x，成本51.5。\n甭管什么Ai几把概念，都是和存储一荣俱荣 https://t.co/AcCG2Xr7xK",
+        "created_at": "Tue Jul 14 03:49:13 +0000 2026",
+        "url": "https://x.com/xiaomustock/status/2076876646037307471",
+        "has_media": true,
+        "media_urls": [
+          "https://pbs.twimg.com/media/HNKMTJ_bwAA_qjl.jpg"
+        ],
+        "media_posters": [
+          "https://pbs.twimg.com/media/HNKMTJ_bwAA_qjl.jpg"
+        ]
+      }
     },
     {
-      "id": "2075220012260819137",
-      "title": "Ten days after his inauguration, Donald Trump's accounts made 662 trades in a single day. 635 purchases. 658 different…",
-      "summary": "Ten days after his inauguration, Donald Trump's accounts made 662 trades in a single day. 635 purchases. 658 different companies. Between $2.5M and $14.1M deployed. They bought both private-prison companies — GEO Group and CoreCivic — the two firms that run America's ICE detenti…",
-      "link": "https://x.com/TrumpsPortfolio/status/2075220012260819137",
-      "source": "Trump Portfolio Tracker",
-      "source_id": "trumptracker",
-      "handle": "TrumpsPortfolio",
-      "lane": "Policy trades",
-      "published": "2026-07-09T14:06:21+00:00",
-      "published_ts": 1783605981,
+      "id": "2076889799848591595",
+      "title": "51.5抄到大底了艹她妈的， 南海2x海力士午盘开了估计也是爆拉。 哪有小孩天天哭。",
+      "summary": "51.5抄到大底了艹她妈的， 南海2x海力士午盘开了估计也是爆拉。 哪有小孩天天哭。",
+      "link": "https://x.com/xiaomustock/status/2076889799848591595",
+      "source": "川沐 / Trumoo",
+      "source_id": "trumoo",
+      "handle": "xiaomustock",
+      "lane": "Semis trading",
+      "published": "2026-07-14T04:41:29+00:00",
+      "published_ts": 1784004089,
       "metrics": {
-        "likes": 1588,
-        "retweets": 513,
-        "replies": 34,
-        "views": 40406,
-        "hot_score": 5815
+        "likes": 107,
+        "retweets": 4,
+        "replies": 20,
+        "views": 43618,
+        "hot_score": 297
       },
       "categories": [
-        "AI",
-        "Macro",
-        "Crypto",
-        "Policy"
+        "Memory"
       ],
+      "tickers": [],
+      "is_retweet": false,
+      "has_media": true,
+      "media": [
+        "https://pbs.twimg.com/media/HNKYQtRbwAAk4ly.jpg"
+      ],
+      "quoted_tweet": {
+        "id": "2076876646037307471",
+        "author": "xiaomustock",
+        "name": "川沐｜Trumoo🐮",
+        "text": "克服恐惧的最好办法就是面对恐惧，\n海力士不行，整个AI产业链都在一起崩。\n刚抄了南海2x，成本51.5。\n甭管什么Ai几把概念，都是和存储一荣俱荣 https://t.co/AcCG2Xr7xK",
+        "created_at": "Tue Jul 14 03:49:13 +0000 2026",
+        "url": "https://x.com/xiaomustock/status/2076876646037307471",
+        "has_media": true,
+        "media_urls": [
+          "https://pbs.twimg.com/media/HNKMTJ_bwAA_qjl.jpg"
+        ],
+        "media_posters": [
+          "https://pbs.twimg.com/media/HNKMTJ_bwAA_qjl.jpg"
+        ]
+      }
+    },
+    {
+      "id": "2076887159596794033",
+      "title": "Phia, the shopping startup co-founded by Phoebe Gates and Sophia Kianni, has been accused of ‘cookie stuffing.' Read mo…",
+      "summary": "Phia, the shopping startup co-founded by Phoebe Gates and Sophia Kianni, has been accused of ‘cookie stuffing.' Read more:",
+      "link": "https://x.com/unusual_whales/status/2076887159596794033",
+      "source": "unusual_whales",
+      "source_id": "whales",
+      "handle": "unusual_whales",
+      "lane": "Market tape",
+      "published": "2026-07-14T04:31:00+00:00",
+      "published_ts": 1784003460,
+      "metrics": {
+        "likes": 23,
+        "retweets": 4,
+        "replies": 5,
+        "views": 23463,
+        "hot_score": 94
+      },
+      "categories": [],
       "tickers": [],
       "is_retweet": false,
       "has_media": false,
@@ -888,138 +163,110 @@
       "quoted_tweet": null
     },
     {
-      "id": "2075215703867838872",
-      "title": "恭喜各位华尔街之狼，存储拉飞了。 存储不起来，其他所有概念都别想起来， 存储起来，说明ai未来光明， 其他概念才有机会，才值得抄底， 康宁 $GLW 就是。 傻逼只会喷不会懂这个底层道理。",
-      "summary": "恭喜各位华尔街之狼，存储拉飞了。 存储不起来，其他所有概念都别想起来， 存储起来，说明ai未来光明， 其他概念才有机会，才值得抄底， 康宁 $GLW 就是。 傻逼只会喷不会懂这个底层道理。",
-      "link": "https://x.com/xiaomustock/status/2075215703867838872",
+      "id": "2076886212716134783",
+      "title": "后面只希望存储反弹一波整体稳住撸一发， 存储稳住别的概念才有机会。 找未来还有10倍以上营收增长预期的标， 2x这种短撸一下没毛病，长拿命就没了。",
+      "summary": "后面只希望存储反弹一波整体稳住撸一发， 存储稳住别的概念才有机会。 找未来还有10倍以上营收增长预期的标， 2x这种短撸一下没毛病，长拿命就没了。",
+      "link": "https://x.com/xiaomustock/status/2076886212716134783",
       "source": "川沐 / Trumoo",
       "source_id": "trumoo",
       "handle": "xiaomustock",
       "lane": "Semis trading",
-      "published": "2026-07-09T13:49:14+00:00",
-      "published_ts": 1783604954,
+      "published": "2026-07-14T04:27:14+00:00",
+      "published_ts": 1784003234,
       "metrics": {
-        "likes": 370,
-        "retweets": 12,
-        "replies": 50,
-        "views": 109895,
-        "hot_score": 959
+        "likes": 53,
+        "retweets": 2,
+        "replies": 13,
+        "views": 27312,
+        "hot_score": 156
       },
       "categories": [
-        "AI",
         "Memory"
       ],
-      "tickers": [
-        "$GLW"
-      ],
+      "tickers": [],
       "is_retweet": false,
-      "has_media": true,
-      "media": [
-        "https://pbs.twimg.com/media/HMylrkqaAAApKkj.jpg"
-      ],
-      "quoted_tweet": null
+      "has_media": false,
+      "media": [],
+      "quoted_tweet": {
+        "id": "2076876646037307471",
+        "author": "xiaomustock",
+        "name": "川沐｜Trumoo🐮",
+        "text": "克服恐惧的最好办法就是面对恐惧，\n海力士不行，整个AI产业链都在一起崩。\n刚抄了南海2x，成本51.5。\n甭管什么Ai几把概念，都是和存储一荣俱荣 https://t.co/AcCG2Xr7xK",
+        "created_at": "Tue Jul 14 03:49:13 +0000 2026",
+        "url": "https://x.com/xiaomustock/status/2076876646037307471",
+        "has_media": true,
+        "media_urls": [
+          "https://pbs.twimg.com/media/HNKMTJ_bwAA_qjl.jpg"
+        ],
+        "media_posters": [
+          "https://pbs.twimg.com/media/HNKMTJ_bwAA_qjl.jpg"
+        ]
+      }
     },
     {
-      "id": "2075199849507762279",
-      "title": "Nothing like an internal $META memo getting published. Showing AI ramping as usual: - LTAs signed with Samsung and $SND…",
-      "summary": "Nothing like an internal $META memo getting published. Showing AI ramping as usual: - LTAs signed with Samsung and $SNDK for memory - LTAs signed with Sumitomo Electric for fiber optics - Expected to deploy 7GW compute infra this year, and doubling in 2027. - as much as $145B ca…",
-      "link": "https://x.com/aleabitoreddit/status/2075199849507762279",
-      "source": "Serenity / 白毛股神",
-      "source_id": "serenity",
-      "handle": "aleabitoreddit",
-      "lane": "AI supply chain",
-      "published": "2026-07-09T12:46:14+00:00",
-      "published_ts": 1783601174,
-      "metrics": {
-        "likes": 1895,
-        "retweets": 207,
-        "replies": 273,
-        "views": 399873,
-        "hot_score": 5497
-      },
-      "categories": [
-        "AI",
-        "Memory"
-      ],
-      "tickers": [
-        "$META",
-        "$SNDK"
-      ],
-      "is_retweet": false,
-      "has_media": true,
-      "media": [
-        "https://pbs.twimg.com/media/HMyXJ1Ya8AAkpAg.jpg",
-        "https://pbs.twimg.com/media/HMyXJ1bbAAAHZs0.jpg"
-      ],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2075172360228114665",
-      "title": "Grok4.5发布， 三个月前xAI的状态是，通用模型落后、编程能力拉垮、核心团队出走、算力中心过剩； 三个月后，完全并购Cursor、推出Grok4.5性能重新跻身前沿闭源大模型头部、数据中心造血每年带来250亿美金现金流。 不得不说老…",
-      "summary": "Grok4.5发布， 三个月前xAI的状态是，通用模型落后、编程能力拉垮、核心团队出走、算力中心过剩； 三个月后，完全并购Cursor、推出Grok4.5性能重新跻身前沿闭源大模型头部、数据中心造血每年带来250亿美金现金流。 不得不说老马算是在AI业务上打了一个翻身仗。 基本上验证了4月份这篇推文聊到里收购Cursor对xAI/SpaceX老马生态的意义，",
-      "link": "https://x.com/qinbafrank/status/2075172360228114665",
+      "id": "2076881784537776475",
+      "title": "一张图详细了解今年走势最好的一个板块：安全软件，昨晚美股大跌还能逆势走强。安全软件走强的逻辑在于：AI Agent替代的是一部分“软件执行席位”，安全软件掌握的却是“身份、权限、数据、流量、运行行为和恢复能力”。Agent越自主，控制层越…",
+      "summary": "一张图详细了解今年走势最好的一个板块：安全软件，昨晚美股大跌还能逆势走强。安全软件走强的逻辑在于：AI Agent替代的是一部分“软件执行席位”，安全软件掌握的却是“身份、权限、数据、流量、运行行为和恢复能力”。Agent越自主，控制层越重要。 所以，安全saas控股是三件事在同时发生： 1）AI Agent、云迁移、多模态数据让攻击面大幅扩大（数据泄露、模型投毒、提示注入等新风险），这带动安全总市场继续扩容，AI 带来真正的新增预算； 2）预算从传统点工具向平台、身份、云、数据和运行时迁移； 3）企业部署AI必须同步加强“零信任”、云安全、端点检测（…",
+      "link": "https://x.com/qinbafrank/status/2076881784537776475",
       "source": "qinbafrank",
       "source_id": "qinba",
       "handle": "qinbafrank",
       "lane": "Macro + AI",
-      "published": "2026-07-09T10:57:00+00:00",
-      "published_ts": 1783594620,
+      "published": "2026-07-14T04:09:38+00:00",
+      "published_ts": 1784002178,
       "metrics": {
-        "likes": 87,
+        "likes": 37,
         "retweets": 7,
-        "replies": 37,
-        "views": 37065,
-        "hot_score": 283
+        "replies": 10,
+        "views": 12138,
+        "hot_score": 131
       },
       "categories": [
         "AI",
-        "Data centers"
+        "Risk"
       ],
       "tickers": [],
       "is_retweet": false,
       "has_media": true,
       "media": [
-        "https://pbs.twimg.com/media/HMx7TTBasAAbD-7.jpg"
+        "https://pbs.twimg.com/media/HNKQxG7bQAAMoT6.jpg"
       ],
       "quoted_tweet": {
-        "id": "2046741180063637687",
+        "id": "2060215034882785479",
         "author": "qinbafrank",
         "name": "qinbafrank",
-        "text": "SpaceX收购Cursor，对于双方及行业有什么意义？老马给xAI找到了一个破局支点，SpaceX官方宣布与Cursor达成紧密战略合作：1）Cursor将使用SpaceX/xAI的Colossus超级计算机（相当于百万级H100GPU规模的算力）来训练其新一代代码模型Composer 2.5；\n2）双方共同打造“世界上最好的编码和知识工作 AI”。\n3）Cursor授予SpaceX收购期权：今年晚些时候，SpaceX可以选择以600亿美元 收购Cursor，或者支付100亿美元作为双方合作工作的费用（类似分手费或合作对价）。\n\n上周才传出来Cursor近期在谈融资，今天Cursor卖给 xAI 了，看来独立融资失败了。\n\n这不是说是已完成的收购，而是“先深度绑定，后可选买断”的结构。之前有传闻 xAI 挖走 Cursor 两位核心高管（工程负责人 Andrew Milich 和产品负责人 Jason Ginsberg），现在合作进一步加深，对于两家意义重大。特别Xai当下联创尽走，模型和coding都大幅度落后，数据中心的使用率很低的大背景下。\n\n1、对 xAI / SpaceX当然老马生态来说：\n1）能快速补齐编码能力，xAI的Grok在通用模型上还可以，但在专业代码/编程 Agent 领域此前相对落后（Cursor 是这个赛道的领先产品，拥有优秀的产品、工程师心智份额和开发者分发）。合作后，Grok 能快速变成顶级编码Agent。\n\n2）算力变现 + 止血，xAI 自建了海量 GPU（Colossus 集群），每月运营亏损巨大（此前报道超3亿美元/月）。对外出租算力给 Cursor，是向“云算力服务商”转型的第一步，能带来新收入，同时降低数据中心成本。\n\n3）人才与数据双赢，已挖走关键人才，现在再绑定产品和编码数据，能加速 xAI 内部编程工具开发（据说 Grok Build、Grok CLI 等即将推出）。\n\n4）SpaceX 的火箭/星舰/Starlink 等工程项目高度依赖代码，引入 Cursor 能直接提升内部生产力。\n\n2对Cursor来说\n1）解决算力瓶颈：AI 训练最缺的就是 GPU，尤其在当前算力荒下，xAI 的 Colossus 是稀缺资源。Cursor 能用数万块 GPU 训练模型，加速追赶 Anthropic、OpenAI 等对手。\n\n2）高估值退出路径\nCursor 近期融资估值已在 290-500 亿美元区间，600 亿收购期权提供了一个明确的 premium 退出选项（或 100 亿合作费作为保底）。\n\n3）风险对冲\n在竞争激烈的 AI 编码赛道（OpenAI Codex、Anthropic Claude Code 等），绑定马斯克生态能获得更多资源和曝光。\n\n3、对于整个AI行业层面来说\n1）AI 基础设施竞争加剧，xAI 从“纯模型公司”转向兼具算力输出的角色，潜在竞争对手包括微软 Azure、Google Cloud、CoreWeave 等。\n\n2）人才战与并购战升级，类似此前 OpenAI/Anthropic 等也对 Cursor 的编码数据感兴趣，现在老马抢先一步深度绑定。\n\n3）整个AI从大模型，到算力设施再到编码灯各个领域竞争会更加激励、前面说到xAI联创基本上都走了、xAI近期其实陷入了一个困境。这次明显是老马找到了一个破局之道。重新给xAI在AI领域找到了一个强劲的支撑点。\n\n这应该是一笔典型的马马杠杆交易——用算力换产品、人才和期权，快速补短板，同时为 xAI 找新营收模式。当然最终是否会行使 600 亿收购权，还取决于合作成果、SpaceX IPO 进展以及市场估值变化。目前看，双方已经“绑定得很紧”，最后spacex完全收购curaor的概率不低。",
-        "created_at": "Wed Apr 22 00:01:38 +0000 2026",
-        "url": "https://x.com/qinbafrank/status/2046741180063637687",
+        "text": "AI需要数据库（MDB），需要实时可扩展、AI-native的数据云底座（SNOW），应该也需要AI需要更强、更智能的防护墙”。AI时代的安全需求不是“替代”，也会爆发式新增，逻辑在于：\n1）AI Agent、云迁移、多模态数据让攻击面大幅扩大（数据泄露、模型投毒、提示注入等新风险）；\n2）企业部署AI必须同步加强“零信任”、云安全、端点检测（EDR）、AI安全平台；\n之前大摩测AI催生的增量安全机会高达2200亿美元，远超AI可能颠覆现有厂商的负面影响。 \n\n2月中的时候，也明确聊过安全类软件是被误杀的。Agent发展很多原来的软件应用场景都会被Agent替代掉，安全是硬需求，而且agent越普及安全需求会更高。\n\n现在回看2月份这条聊安全股的推文，几乎是Call在安全从去年十月调整跌下来的最底部。当时聊到的cloudfare(net)、CrowdStrike（CRWD)）、Palo Alto Networks（PANW）、Zscaler（ZS）、Fortinet（FTNT）在过去三个月走势都很不错，CRWD接近翻倍。\n\n最近市场对于SaaS的看法不再是整体的一遍倒的负面评价，大家接受AI越发展并不是所有的软件公司都会被冲击，开始区分和筛选哪些是AI受益的软件板块，哪些是AI受损的板块。个人角度，安全应该就是AI受益而非受损的板块。",
+        "created_at": "Fri May 29 04:21:55 +0000 2026",
+        "url": "https://x.com/qinbafrank/status/2060215034882785479",
         "has_media": true,
         "media_urls": [
-          "https://pbs.twimg.com/media/HGd8QSXbAAAfNVw.jpg"
+          "https://pbs.twimg.com/media/HJdaAPhboAAimqY.jpg"
         ],
         "media_posters": [
-          "https://pbs.twimg.com/media/HGd8QSXbAAAfNVw.jpg"
+          "https://pbs.twimg.com/media/HJdaAPhboAAimqY.jpg"
         ]
       }
     },
     {
-      "id": "2075168264431276156",
-      "title": "THE PHANTOM SHELL, folks — the darkest $635 MILLION in American history, and I traced it so you don’t have to!!! There’…",
-      "summary": "THE PHANTOM SHELL, folks — the darkest $635 MILLION in American history, and I traced it so you don’t have to!!! There’s a line in Donald’s disclosure — $635,068,835, down to the DOLLAR — paid to CIC Digital, owned by his own revocable trust!!! And where does it come from??? A g…",
-      "link": "https://x.com/TrumpsPortfolio/status/2075168264431276156",
-      "source": "Trump Portfolio Tracker",
-      "source_id": "trumptracker",
-      "handle": "TrumpsPortfolio",
-      "lane": "Policy trades",
-      "published": "2026-07-09T10:40:43+00:00",
-      "published_ts": 1783593643,
+      "id": "2076878854799675593",
+      "title": "Costco deliberately pays hourly workers well above the retail average, driving turnover down to roughly 7 to 8 percent…",
+      "summary": "Costco deliberately pays hourly workers well above the retail average, driving turnover down to roughly 7 to 8 percent a year versus an industry average near 60 percent. Read more:",
+      "link": "https://x.com/unusual_whales/status/2076878854799675593",
+      "source": "unusual_whales",
+      "source_id": "whales",
+      "handle": "unusual_whales",
+      "lane": "Market tape",
+      "published": "2026-07-14T03:58:00+00:00",
+      "published_ts": 1784001480,
       "metrics": {
-        "likes": 1841,
-        "retweets": 564,
-        "replies": 49,
-        "views": 50273,
-        "hot_score": 6601
+        "likes": 86,
+        "retweets": 8,
+        "replies": 8,
+        "views": 29724,
+        "hot_score": 249
       },
       "categories": [
         "AI",
-        "Data centers",
-        "Crypto",
-        "Policy",
         "Risk"
       ],
       "tickers": [],
@@ -1029,27 +276,1301 @@
       "quoted_tweet": null
     },
     {
-      "id": "2075152535489560700",
-      "title": "去杠杆接近尾声？更准确的说法是：去杠杆接近尾声，但可能还有二次确认。昨晚美股整体风险偏好略有回暖，但宏观压力把指数按住了，半导体板块靠订单和政策消息逆势走强。费城半导体指数涨了2.23%，算是把纳指勉强托住的唯一主力。油价和美债收益率同步…",
-      "summary": "去杠杆接近尾声？更准确的说法是：去杠杆接近尾声，但可能还有二次确认。昨晚美股整体风险偏好略有回暖，但宏观压力把指数按住了，半导体板块靠订单和政策消息逆势走强。费城半导体指数涨了2.23%，算是把纳指勉强托住的唯一主力。油价和美债收益率同步上行，直接压低了风险资产的吸引力。 个人核心判断：AI硬件这条主线还没到头，但正处于“去杠杆+从拥挤交易转向订单确定性”的再定价阶段。这一轮去杠杆大概率接近尾声，但还没到完全逆转彻底松口气的时候。 1、昨晚市场主线其实就是“油价和利率上行 vs 半导体反弹”这对矛盾在拉扯。川普说停战备忘录结束，油价反弹，美债收益率上行…",
-      "link": "https://x.com/qinbafrank/status/2075152535489560700",
+      "id": "2076878377647034848",
+      "title": "RT @charliebilello: New video is up: 📈The Week in Charts - breaking down the most important charts and themes in market…",
+      "summary": "RT @charliebilello: New video is up: 📈The Week in Charts - breaking down the most important charts and themes in markets...",
+      "link": "https://x.com/charliebilello/status/2076878377647034848",
+      "source": "Charlie Bilello",
+      "source_id": "bilello",
+      "handle": "charliebilello",
+      "lane": "Market data",
+      "published": "2026-07-14T03:56:06+00:00",
+      "published_ts": 1784001366,
+      "metrics": {
+        "likes": 0,
+        "retweets": 9,
+        "replies": 0,
+        "views": 0,
+        "hot_score": 45
+      },
+      "categories": [
+        "Risk"
+      ],
+      "tickers": [],
+      "is_retweet": true,
+      "has_media": false,
+      "media": [],
+      "quoted_tweet": null
+    },
+    {
+      "id": "2076876646037307471",
+      "title": "克服恐惧的最好办法就是面对恐惧， 海力士不行，整个AI产业链都在一起崩。 刚抄了南海2x，成本51.5。 甭管什么Ai几把概念，都是和存储一荣俱荣",
+      "summary": "克服恐惧的最好办法就是面对恐惧， 海力士不行，整个AI产业链都在一起崩。 刚抄了南海2x，成本51.5。 甭管什么Ai几把概念，都是和存储一荣俱荣",
+      "link": "https://x.com/xiaomustock/status/2076876646037307471",
+      "source": "川沐 / Trumoo",
+      "source_id": "trumoo",
+      "handle": "xiaomustock",
+      "lane": "Semis trading",
+      "published": "2026-07-14T03:49:13+00:00",
+      "published_ts": 1784000953,
+      "metrics": {
+        "likes": 186,
+        "retweets": 3,
+        "replies": 42,
+        "views": 124741,
+        "hot_score": 553
+      },
+      "categories": [
+        "AI",
+        "Memory"
+      ],
+      "tickers": [],
+      "is_retweet": false,
+      "has_media": true,
+      "media": [
+        "https://pbs.twimg.com/media/HNKMTJ_bwAA_qjl.jpg"
+      ],
+      "quoted_tweet": null
+    },
+    {
+      "id": "2076875030508839375",
+      "title": "56% chance Strait of Hormuz traffic returns to normal by December, 31, per Polymarket:",
+      "summary": "56% chance Strait of Hormuz traffic returns to normal by December, 31, per Polymarket:",
+      "link": "https://x.com/unusual_whales/status/2076875030508839375",
+      "source": "unusual_whales",
+      "source_id": "whales",
+      "handle": "unusual_whales",
+      "lane": "Market tape",
+      "published": "2026-07-14T03:42:48+00:00",
+      "published_ts": 1784000568,
+      "metrics": {
+        "likes": 119,
+        "retweets": 10,
+        "replies": 45,
+        "views": 89447,
+        "hot_score": 422
+      },
+      "categories": [
+        "AI"
+      ],
+      "tickers": [],
+      "is_retweet": false,
+      "has_media": true,
+      "media": [
+        "https://pbs.twimg.com/media/HNKKxErbwAAScML.jpg"
+      ],
+      "quoted_tweet": null
+    },
+    {
+      "id": "2076872293892911317",
+      "title": "RT @charliebilello: If you took a penalty kick in a World Cup match, do you think you would score?",
+      "summary": "RT @charliebilello: If you took a penalty kick in a World Cup match, do you think you would score?",
+      "link": "https://x.com/charliebilello/status/2076872293892911317",
+      "source": "Charlie Bilello",
+      "source_id": "bilello",
+      "handle": "charliebilello",
+      "lane": "Market data",
+      "published": "2026-07-14T03:31:55+00:00",
+      "published_ts": 1783999915,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "views": 0,
+        "hot_score": 5
+      },
+      "categories": [],
+      "tickers": [],
+      "is_retweet": true,
+      "has_media": false,
+      "media": [],
+      "quoted_tweet": null
+    },
+    {
+      "id": "2076872266701262873",
+      "title": "RT @charliebilello: January 2025: \"Don't worry about the $2 trillion deficit and the rising national debt. We are going…",
+      "summary": "RT @charliebilello: January 2025: \"Don't worry about the $2 trillion deficit and the rising national debt. We are going to grow our way out…",
+      "link": "https://x.com/charliebilello/status/2076872266701262873",
+      "source": "Charlie Bilello",
+      "source_id": "bilello",
+      "handle": "charliebilello",
+      "lane": "Market data",
+      "published": "2026-07-14T03:31:49+00:00",
+      "published_ts": 1783999909,
+      "metrics": {
+        "likes": 0,
+        "retweets": 81,
+        "replies": 0,
+        "views": 0,
+        "hot_score": 405
+      },
+      "categories": [],
+      "tickers": [],
+      "is_retweet": true,
+      "has_media": false,
+      "media": [],
+      "quoted_tweet": null
+    },
+    {
+      "id": "2076871790325051547",
+      "title": "71% chance there is a Fed rate hike in 2026, per Polymarket:",
+      "summary": "71% chance there is a Fed rate hike in 2026, per Polymarket:",
+      "link": "https://x.com/unusual_whales/status/2076871790325051547",
+      "source": "unusual_whales",
+      "source_id": "whales",
+      "handle": "unusual_whales",
+      "lane": "Market tape",
+      "published": "2026-07-14T03:29:55+00:00",
+      "published_ts": 1783999795,
+      "metrics": {
+        "likes": 224,
+        "retweets": 11,
+        "replies": 51,
+        "views": 97937,
+        "hot_score": 651
+      },
+      "categories": [
+        "Macro"
+      ],
+      "tickers": [],
+      "is_retweet": false,
+      "has_media": true,
+      "media": [
+        "https://pbs.twimg.com/media/HNKH1CKbgAABcJo.jpg"
+      ],
+      "quoted_tweet": null
+    },
+    {
+      "id": "2076870986410992053",
+      "title": "RT @charliebilello: The ratio of the US Stock Market’s Value to GDP (aka the “Buffett Indicator\") has moved up to a new…",
+      "summary": "RT @charliebilello: The ratio of the US Stock Market’s Value to GDP (aka the “Buffett Indicator\") has moved up to a new record high at 234%…",
+      "link": "https://x.com/charliebilello/status/2076870986410992053",
+      "source": "Charlie Bilello",
+      "source_id": "bilello",
+      "handle": "charliebilello",
+      "lane": "Market data",
+      "published": "2026-07-14T03:26:44+00:00",
+      "published_ts": 1783999604,
+      "metrics": {
+        "likes": 0,
+        "retweets": 109,
+        "replies": 0,
+        "views": 0,
+        "hot_score": 545
+      },
+      "categories": [],
+      "tickers": [],
+      "is_retweet": true,
+      "has_media": false,
+      "media": [],
+      "quoted_tweet": null
+    },
+    {
+      "id": "2076870948465070263",
+      "title": "RT @charliebilello: The Interest Expense on US Public Debt hit $1.35 trillion over the last 12 months, another record h…",
+      "summary": "RT @charliebilello: The Interest Expense on US Public Debt hit $1.35 trillion over the last 12 months, another record high. If it continues…",
+      "link": "https://x.com/charliebilello/status/2076870948465070263",
+      "source": "Charlie Bilello",
+      "source_id": "bilello",
+      "handle": "charliebilello",
+      "lane": "Market data",
+      "published": "2026-07-14T03:26:35+00:00",
+      "published_ts": 1783999595,
+      "metrics": {
+        "likes": 0,
+        "retweets": 165,
+        "replies": 0,
+        "views": 0,
+        "hot_score": 825
+      },
+      "categories": [],
+      "tickers": [],
+      "is_retweet": true,
+      "has_media": false,
+      "media": [],
+      "quoted_tweet": null
+    },
+    {
+      "id": "2076870931964694694",
+      "title": "RT @charliebilello: Companies were quick to raise prices when tariffs increased their costs. Now that tens of billions…",
+      "summary": "RT @charliebilello: Companies were quick to raise prices when tariffs increased their costs. Now that tens of billions are being refunded,…",
+      "link": "https://x.com/charliebilello/status/2076870931964694694",
+      "source": "Charlie Bilello",
+      "source_id": "bilello",
+      "handle": "charliebilello",
+      "lane": "Market data",
+      "published": "2026-07-14T03:26:31+00:00",
+      "published_ts": 1783999591,
+      "metrics": {
+        "likes": 0,
+        "retweets": 36,
+        "replies": 0,
+        "views": 0,
+        "hot_score": 180
+      },
+      "categories": [
+        "AI",
+        "Policy"
+      ],
+      "tickers": [],
+      "is_retweet": true,
+      "has_media": false,
+      "media": [],
+      "quoted_tweet": null
+    },
+    {
+      "id": "2076870546336194908",
+      "title": "RT @charliebilello: 2026 Fiscal Year to Date: The Federal Government has taken in $4.15 trillion and spent $5.52 trilli…",
+      "summary": "RT @charliebilello: 2026 Fiscal Year to Date: The Federal Government has taken in $4.15 trillion and spent $5.52 trillion. Don't try this…",
+      "link": "https://x.com/charliebilello/status/2076870546336194908",
+      "source": "Charlie Bilello",
+      "source_id": "bilello",
+      "handle": "charliebilello",
+      "lane": "Market data",
+      "published": "2026-07-14T03:24:59+00:00",
+      "published_ts": 1783999499,
+      "metrics": {
+        "likes": 0,
+        "retweets": 23,
+        "replies": 0,
+        "views": 0,
+        "hot_score": 115
+      },
+      "categories": [
+        "Macro",
+        "Policy"
+      ],
+      "tickers": [],
+      "is_retweet": true,
+      "has_media": false,
+      "media": [],
+      "quoted_tweet": null
+    },
+    {
+      "id": "2076870506049863711",
+      "title": "RT @charliebilello: 41% of American men under 30 believe they could score on a penalty kick at the World Cup if given t…",
+      "summary": "RT @charliebilello: 41% of American men under 30 believe they could score on a penalty kick at the World Cup if given the chance. Every co…",
+      "link": "https://x.com/charliebilello/status/2076870506049863711",
+      "source": "Charlie Bilello",
+      "source_id": "bilello",
+      "handle": "charliebilello",
+      "lane": "Market data",
+      "published": "2026-07-14T03:24:49+00:00",
+      "published_ts": 1783999489,
+      "metrics": {
+        "likes": 0,
+        "retweets": 21,
+        "replies": 0,
+        "views": 0,
+        "hot_score": 105
+      },
+      "categories": [],
+      "tickers": [],
+      "is_retweet": true,
+      "has_media": false,
+      "media": [],
+      "quoted_tweet": null
+    },
+    {
+      "id": "2076870354212175872",
+      "title": "川普说要对 经霍尔木兹海峡运输的货物收取20%的“安全费用”，伊朗说要收一起收但你收20%太黑了。这是给伊朗一个助攻么？之前聊到美伊冲突再起，这次核心还是霍尔木兹海峡的控制权。 1、川普昨天的表态：霍尔木兹海峡必须开放、美国可能直接“接管…",
+      "summary": "川普说要对 经霍尔木兹海峡运输的货物收取20%的“安全费用”，伊朗说要收一起收但你收20%太黑了。这是给伊朗一个助攻么？之前聊到美伊冲突再起，这次核心还是霍尔木兹海峡的控制权。 1、川普昨天的表态：霍尔木兹海峡必须开放、美国可能直接“接管”或主导海峡安全、美国将重新实施对伊朗的封锁、海湾产油国应为美国提供的安全保护支付费用。能看出来美国核心还是要明确谁拥有海峡安全安排的主导权，试图决定谁能进出伊朗港口、谁承担安保成本。 2、但也能看出来双方还是克制 美军军事行动目标限定为削弱伊朗攻击商船和封控海峡的能力，还没有把这一轮行动升级为全面摧毁伊朗国家能力（德…",
+      "link": "https://x.com/qinbafrank/status/2076870354212175872",
       "source": "qinbafrank",
       "source_id": "qinba",
       "handle": "qinbafrank",
       "lane": "Macro + AI",
-      "published": "2026-07-09T09:38:13+00:00",
-      "published_ts": 1783589893,
+      "published": "2026-07-14T03:24:13+00:00",
+      "published_ts": 1783999453,
       "metrics": {
-        "likes": 107,
-        "retweets": 19,
-        "replies": 28,
-        "views": 35322,
+        "likes": 25,
+        "retweets": 0,
+        "replies": 15,
+        "views": 17243,
+        "hot_score": 82
+      },
+      "categories": [],
+      "tickers": [],
+      "is_retweet": false,
+      "has_media": true,
+      "media": [
+        "https://pbs.twimg.com/media/HNKGlCFaQAAti62.jpg"
+      ],
+      "quoted_tweet": {
+        "id": "2076185072613597214",
+        "author": "qinbafrank",
+        "name": "qinbafrank",
+        "text": "美伊冲突再起，核心是什么？核心美国想突破伊朗对霍尔木兹海峡的控制力，而伊朗对此则毫不退让。看周三凌晨伊朗对三艘商船发动袭击时商船的位置就能看出来，这三艘商船基本上处于霍尔木兹海峡靠近阿曼一侧的南线航路，而伊朗指定的航线则是在海峡北侧靠近伊朗。这就是揭示了这次冲突的起因：美国鼓动商船（不然商船也不敢行动）寻求开辟出不受伊朗人控制的南侧航道，被伊朗发现，而伊朗人头铁地寻求用武力事实上控制海峡。\n\n1、所以当前最尖锐的问题不是核设施，而是霍尔木兹海峡“谁说了算”：\n1）川普理解的开放是“国际水道恢复正常、所有航道无条件开放”；\n2）伊朗理解的是“伊朗负责保障安全，因此船舶必须服从伊朗指定的航线和管理”。\n\n2、双方都存在“用有限升级换取更好条件”的诱因：\n1）美国希望通过军事打击证明红线可信，但又面临高油价、汽油价格和11月国会中期选举压力；\n2）伊朗需要制裁解除和经济恢复，却又不愿公开表现为在美国轰炸后退让\n\n其实双方都在算计一件事：\n只要报复规模可控，就可以先打一下、提高对方成本，再回到谈判桌上。\n\n3、美国的寻求航线的突破举动，意图为何：\n1）川普可能还没接受一个残酷的现实：已经无法将霍尔木兹海峡恢复战前的状态；\n2）还要时不时展现强硬，安抚国内的反对声音和情绪，为支持率和大选。\n\n美国拥有绝对空中和远程打击优势，但伊朗依然保留了足以制造全球能源冲击的非对称能力。对川普来说，要么变相买回海峡的国际航权（给伊朗支付巨额资金让伊朗放弃控制权），要么彻底摧毁伊朗政权和军事实力（现在看起来川普也无意到这一步）。\n\n4、后续怎么看？\n1）边打边谈、反复短暂停火，这应该是当前的基准情景。双方通过阿曼、卡塔尔、巴基斯坦保持沟通。\n\n双方都有继续谈判的经济和政治需要，但又都没有能力接受对方的核心条件。那就会出现“打一下、停一下、再谈一下”。\n\n2）再之后阿曼提出的折中方案最后是可能性最大的：国际航行权不受影响，但可设立区域共同管理、安全、环保和导航服务机制，服务费有明确服务对应，不能被视为“过路费”。\n\n这样可以包装成各方都能接受的方案：美国可以说海峡保持国际通行；\n伊朗可以说自身安全管理权得到承认\n\n3）8月中旬是一个关键节点\n6月设定的60天谈判窗口将在这一时期接近终点。如果届时只有海峡临时安排、没有核材料路线图，川普不得不采用“制裁＋局部军事打击”的方式延长谈判。\n\n4）对市场的影响\n核心还是油价，只要油价不持续长时间保持80-85区间甚至更高价位（短期上去摸一下影响不大），那么对市场来说还就是扰动。\n\n本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
+        "created_at": "Sun Jul 12 06:01:09 +0000 2026",
+        "url": "https://x.com/qinbafrank/status/2076185072613597214",
+        "has_media": true,
+        "media_urls": [
+          "https://pbs.twimg.com/media/HNAXUSMbsAA4xds.jpg",
+          "https://pbs.twimg.com/media/HNAXUSZawAACVcy.jpg"
+        ],
+        "media_posters": [
+          "https://pbs.twimg.com/media/HNAXUSMbsAA4xds.jpg",
+          "https://pbs.twimg.com/media/HNAXUSZawAACVcy.jpg"
+        ]
+      }
+    },
+    {
+      "id": "2076860930718302553",
+      "title": "保持有一定数量的散户涨跌都赚不到钱对国家生产活动很重要，各行各业需要他们专心干活，不伤国本。",
+      "summary": "保持有一定数量的散户涨跌都赚不到钱对国家生产活动很重要，各行各业需要他们专心干活，不伤国本。",
+      "link": "https://x.com/xiaomustock/status/2076860930718302553",
+      "source": "川沐 / Trumoo",
+      "source_id": "trumoo",
+      "handle": "xiaomustock",
+      "lane": "Semis trading",
+      "published": "2026-07-14T02:46:46+00:00",
+      "published_ts": 1783997206,
+      "metrics": {
+        "likes": 135,
+        "retweets": 7,
+        "replies": 24,
+        "views": 43294,
         "hot_score": 372
+      },
+      "categories": [
+        "Risk"
+      ],
+      "tickers": [],
+      "is_retweet": false,
+      "has_media": true,
+      "media": [
+        "https://pbs.twimg.com/media/HNJ-Ad9aEAAS5Lw.jpg"
+      ],
+      "quoted_tweet": null
+    },
+    {
+      "id": "2076856960759058817",
+      "title": "These schools focus on life skills, call teachers “guides” or “coaches,” and use AI tutors that tailor the curriculum t…",
+      "summary": "These schools focus on life skills, call teachers “guides” or “coaches,” and use AI tutors that tailor the curriculum to each child. Read more:",
+      "link": "https://x.com/unusual_whales/status/2076856960759058817",
+      "source": "unusual_whales",
+      "source_id": "whales",
+      "handle": "unusual_whales",
+      "lane": "Market tape",
+      "published": "2026-07-14T02:31:00+00:00",
+      "published_ts": 1783996260,
+      "metrics": {
+        "likes": 49,
+        "retweets": 3,
+        "replies": 11,
+        "views": 46552,
+        "hot_score": 170
+      },
+      "categories": [
+        "AI"
+      ],
+      "tickers": [],
+      "is_retweet": false,
+      "has_media": false,
+      "media": [],
+      "quoted_tweet": null
+    },
+    {
+      "id": "2076846994614792663",
+      "title": "So Jensen himself went out to do damage control with $NVDA delays reports apparently: 1. Jensen Huang said no delays: -…",
+      "summary": "So Jensen himself went out to do damage control with $NVDA delays reports apparently: 1. Jensen Huang said no delays: - 800V and rack-to-rack optical interconnects is progressing fully in line with the original plan with no material delay. - Debunked the rumor that the next-gene…",
+      "link": "https://x.com/aleabitoreddit/status/2076846994614792663",
+      "source": "Serenity / 白毛股神",
+      "source_id": "serenity",
+      "handle": "aleabitoreddit",
+      "lane": "AI supply chain",
+      "published": "2026-07-14T01:51:24+00:00",
+      "published_ts": 1783993884,
+      "metrics": {
+        "likes": 856,
+        "retweets": 60,
+        "replies": 81,
+        "views": 276195,
+        "hot_score": 2369
+      },
+      "categories": [
+        "AI",
+        "Semis"
+      ],
+      "tickers": [
+        "$NVDA"
+      ],
+      "is_retweet": false,
+      "has_media": true,
+      "media": [
+        "https://pbs.twimg.com/media/HNJwpofaoAAfYqR.png",
+        "https://pbs.twimg.com/media/HNJxDQcbsAAQscO.jpg"
+      ],
+      "quoted_tweet": {
+        "id": "2076266613675069628",
+        "author": "aleabitoreddit",
+        "name": "Serenity",
+        "text": "Apparently there’s a new popular trend to bearpost trillion dollar companies.\n\nLike $NVDA or $TSM.\n\nBy finding isolating technical details, then blowing it out of proportions by claiming their whole program is delayed.\n\n-> if the company doesn’t respond, stock prices/sentiment are damaged. \n\n-> if the company issues a response, they can’t go into detail since supply chains are confidential… but people still doubt them\n\n-> Poster gain more impressions, then does it again with more views the next time.\n\nDon’t quite think this is very healthy, with more folks copying that playbook. Especially around incentive structures.",
+        "created_at": "Sun Jul 12 11:25:10 +0000 2026",
+        "url": "https://x.com/aleabitoreddit/status/2076266613675069628",
+        "has_media": false,
+        "media_urls": [],
+        "media_posters": []
+      }
+    },
+    {
+      "id": "2076839550119444702",
+      "title": "",
+      "summary": "",
+      "link": "https://x.com/qinbafrank/status/2076839550119444702",
+      "source": "qinbafrank",
+      "source_id": "qinba",
+      "handle": "qinbafrank",
+      "lane": "Macro + AI",
+      "published": "2026-07-14T01:21:49+00:00",
+      "published_ts": 1783992109,
+      "metrics": {
+        "likes": 26,
+        "retweets": 5,
+        "replies": 6,
+        "views": 12380,
+        "hot_score": 95
+      },
+      "categories": [],
+      "tickers": [],
+      "is_retweet": false,
+      "has_media": false,
+      "media": [],
+      "quoted_tweet": null
+    },
+    {
+      "id": "2076833887037063204",
+      "title": "RT @Beth_Kindig: Meta $META is expanding its Hyperion data center in Louisiana to 5GW, taking its planned investment in…",
+      "summary": "RT @Beth_Kindig: Meta $META is expanding its Hyperion data center in Louisiana to 5GW, taking its planned investment in the facility to ove…",
+      "link": "https://x.com/Beth_Kindig/status/2076833887037063204",
+      "source": "Beth Kindig",
+      "source_id": "kindig",
+      "handle": "Beth_Kindig",
+      "lane": "AI equities",
+      "published": "2026-07-14T00:59:19+00:00",
+      "published_ts": 1783990759,
+      "metrics": {
+        "likes": 0,
+        "retweets": 12,
+        "replies": 0,
+        "views": 0,
+        "hot_score": 60
+      },
+      "categories": [
+        "Data centers",
+        "Crypto"
+      ],
+      "tickers": [
+        "$META"
+      ],
+      "is_retweet": true,
+      "has_media": false,
+      "media": [],
+      "quoted_tweet": null
+    },
+    {
+      "id": "2076833867193839748",
+      "title": "RT @Beth_Kindig: Nvidia $NVDA says a Vera Rubin NVL72 rack paired with a Groq 3 LPX rack can deliver up to 35X higher t…",
+      "summary": "RT @Beth_Kindig: Nvidia $NVDA says a Vera Rubin NVL72 rack paired with a Groq 3 LPX rack can deliver up to 35X higher token throughput per…",
+      "link": "https://x.com/Beth_Kindig/status/2076833867193839748",
+      "source": "Beth Kindig",
+      "source_id": "kindig",
+      "handle": "Beth_Kindig",
+      "lane": "AI equities",
+      "published": "2026-07-14T00:59:14+00:00",
+      "published_ts": 1783990754,
+      "metrics": {
+        "likes": 0,
+        "retweets": 25,
+        "replies": 0,
+        "views": 0,
+        "hot_score": 125
+      },
+      "categories": [
+        "AI",
+        "Semis",
+        "Crypto"
+      ],
+      "tickers": [
+        "$NVDA"
+      ],
+      "is_retweet": true,
+      "has_media": false,
+      "media": [],
+      "quoted_tweet": null
+    },
+    {
+      "id": "2076832402304086472",
+      "title": "MU这里跌破将引发第二轮中线资金离场，这部分资金有不少是800附近才进场的。这轮是最早一批主力落袋，而且是部分落袋。现在新买家要等这波彻底走干净才能有所作为。就像前领导还在，也不好发挥，确认前领导走干净了，才能搞自己的",
+      "summary": "MU这里跌破将引发第二轮中线资金离场，这部分资金有不少是800附近才进场的。这轮是最早一批主力落袋，而且是部分落袋。现在新买家要等这波彻底走干净才能有所作为。就像前领导还在，也不好发挥，确认前领导走干净了，才能搞自己的",
+      "link": "https://x.com/maojietrading/status/2076832402304086472",
+      "source": "猫姐美股交易",
+      "source_id": "maojie",
+      "handle": "maojietrading",
+      "lane": "US equity trading",
+      "published": "2026-07-14T00:53:25+00:00",
+      "published_ts": 1783990405,
+      "metrics": {
+        "likes": 50,
+        "retweets": 4,
+        "replies": 0,
+        "views": 16752,
+        "hot_score": 136
+      },
+      "categories": [
+        "Risk"
+      ],
+      "tickers": [],
+      "is_retweet": false,
+      "has_media": false,
+      "media": [],
+      "quoted_tweet": {
+        "id": "2076686840153739611",
+        "author": "Sinus84",
+        "name": "Johnny, CFA | 极数 Algo",
+        "text": "📊 美股 Price Volume Leaders @ 11:14 AM ET\n\n直接看当天个股成交额排行，观察资金集中方向。\n\n关注点：\n• 今天谁最吸金\n• 哪些板块最强\n• 热门股的持续性\n\n#美股 #资金流向 #交易策略 https://t.co/FmGQZVvxn9",
+        "created_at": "Mon Jul 13 15:15:00 +0000 2026",
+        "url": "https://x.com/Sinus84/status/2076686840153739611",
+        "has_media": true,
+        "media_urls": [
+          "https://pbs.twimg.com/media/HNHfooTWEAAvRiC.jpg"
+        ],
+        "media_posters": [
+          "https://pbs.twimg.com/media/HNHfooTWEAAvRiC.jpg"
+        ]
+      }
+    },
+    {
+      "id": "2076826683357942110",
+      "title": "让你们别碰7709，一个个死都不信",
+      "summary": "让你们别碰7709，一个个死都不信",
+      "link": "https://x.com/ShanghaoJin/status/2076826683357942110",
+      "source": "Herman Jin",
+      "source_id": "herman",
+      "handle": "ShanghaoJin",
+      "lane": "FICC + tech",
+      "published": "2026-07-14T00:30:41+00:00",
+      "published_ts": 1783989041,
+      "metrics": {
+        "likes": 34,
+        "retweets": 0,
+        "replies": 11,
+        "views": 8993,
+        "hot_score": 87
+      },
+      "categories": [],
+      "tickers": [],
+      "is_retweet": false,
+      "has_media": false,
+      "media": [],
+      "quoted_tweet": null
+    },
+    {
+      "id": "2076826441493418305",
+      "title": "我发现那些买了000660的人其实都挺无感 哭爹喊娘的基本都是带着杠杆的，买7709的",
+      "summary": "我发现那些买了000660的人其实都挺无感 哭爹喊娘的基本都是带着杠杆的，买7709的",
+      "link": "https://x.com/ShanghaoJin/status/2076826441493418305",
+      "source": "Herman Jin",
+      "source_id": "herman",
+      "handle": "ShanghaoJin",
+      "lane": "FICC + tech",
+      "published": "2026-07-14T00:29:43+00:00",
+      "published_ts": 1783988983,
+      "metrics": {
+        "likes": 117,
+        "retweets": 3,
+        "replies": 26,
+        "views": 54669,
+        "hot_score": 329
+      },
+      "categories": [
+        "Risk"
+      ],
+      "tickers": [],
+      "is_retweet": false,
+      "has_media": false,
+      "media": [],
+      "quoted_tweet": {
+        "id": "2076652153540927778",
+        "author": "ShanghaoJin",
+        "name": "Herman Jin",
+        "text": "拜托明天可以再来一下，让还有一口气的杠杆盘散户彻底死绝",
+        "created_at": "Mon Jul 13 12:57:10 +0000 2026",
+        "url": "https://x.com/ShanghaoJin/status/2076652153540927778",
+        "has_media": false,
+        "media_urls": [],
+        "media_posters": []
+      }
+    },
+    {
+      "id": "2076808331453415674",
+      "title": "TLDR of Innolight investor relations takeaways: 1. \"Overall, 1.6T market demand has not contracted; instead, 800G deman…",
+      "summary": "TLDR of Innolight investor relations takeaways: 1. \"Overall, 1.6T market demand has not contracted; instead, 800G demand has increased significantly compared with previous expectations\" Prob most important takeaway as a whole was 800G demand revision (also longer tail demand). W…",
+      "link": "https://x.com/aleabitoreddit/status/2076808331453415674",
+      "source": "Serenity / 白毛股神",
+      "source_id": "serenity",
+      "handle": "aleabitoreddit",
+      "lane": "AI supply chain",
+      "published": "2026-07-13T23:17:46+00:00",
+      "published_ts": 1783984666,
+      "metrics": {
+        "likes": 602,
+        "retweets": 23,
+        "replies": 107,
+        "views": 174913,
+        "hot_score": 1600
+      },
+      "categories": [
+        "AI",
+        "Semis",
+        "Data centers",
+        "Policy",
+        "Risk"
+      ],
+      "tickers": [
+        "$AAOI",
+        "$COHR",
+        "$JBL",
+        "$LITE",
+        "$SIVE"
+      ],
+      "is_retweet": false,
+      "has_media": false,
+      "media": [],
+      "quoted_tweet": null
+    },
+    {
+      "id": "2076776599672746152",
+      "title": "Meta $META is expanding its Hyperion data center in Louisiana to 5GW, taking its planned investment in the facility to…",
+      "summary": "Meta $META is expanding its Hyperion data center in Louisiana to 5GW, taking its planned investment in the facility to over $50 billion. $NVDA $AVGO $AMD",
+      "link": "https://x.com/Beth_Kindig/status/2076776599672746152",
+      "source": "Beth Kindig",
+      "source_id": "kindig",
+      "handle": "Beth_Kindig",
+      "lane": "AI equities",
+      "published": "2026-07-13T21:11:40+00:00",
+      "published_ts": 1783977100,
+      "metrics": {
+        "likes": 130,
+        "retweets": 12,
+        "replies": 24,
+        "views": 25126,
+        "hot_score": 369
+      },
+      "categories": [
+        "Semis",
+        "Data centers"
+      ],
+      "tickers": [
+        "$AMD",
+        "$AVGO",
+        "$META",
+        "$NVDA"
+      ],
+      "is_retweet": false,
+      "has_media": false,
+      "media": [],
+      "quoted_tweet": null
+    },
+    {
+      "id": "2076771858389619099",
+      "title": "There’s a real story in the Trump-sons defense reporting — but get the number right. It’s not “$3.2 billion netted.” It…",
+      "summary": "There’s a real story in the Trump-sons defense reporting — but get the number right. It’s not “$3.2 billion netted.” It’s roughly $3.7 billion in federal funds flowing to ~10 companies tied to Don Jr. and Eric",
+      "link": "https://x.com/TrumpsPortfolio/status/2076771858389619099",
+      "source": "Trump Portfolio Tracker",
+      "source_id": "trumptracker",
+      "handle": "TrumpsPortfolio",
+      "lane": "Policy trades",
+      "published": "2026-07-13T20:52:50+00:00",
+      "published_ts": 1783975970,
+      "metrics": {
+        "likes": 946,
+        "retweets": 224,
+        "replies": 10,
+        "views": 27139,
+        "hot_score": 3049
+      },
+      "categories": [
+        "Macro",
+        "Policy"
+      ],
+      "tickers": [],
+      "is_retweet": false,
+      "has_media": false,
+      "media": [],
+      "quoted_tweet": {
+        "id": "2076661142651339259",
+        "author": "DemocraticWins",
+        "name": "Democratic Wins Media",
+        "text": "BREAKING: Stunning new reporting just revealed that defense contracting firms connected to Donald Trump's sons, Eric and Don Jr., have netted $3.2 billion in Pentagon contracts. This is brazen corruption. The American people deserve answers. https://t.co/VzGxzW5lLS",
+        "created_at": "Mon Jul 13 13:32:53 +0000 2026",
+        "url": "https://x.com/DemocraticWins/status/2076661142651339259",
+        "has_media": true,
+        "media_urls": [
+          "https://pbs.twimg.com/media/HNHH8ZAXQAAGvYE.jpg",
+          "https://pbs.twimg.com/media/HNHIR95WUAA2-g6.jpg"
+        ],
+        "media_posters": [
+          "https://pbs.twimg.com/media/HNHH8ZAXQAAGvYE.jpg",
+          "https://pbs.twimg.com/media/HNHIR95WUAA2-g6.jpg"
+        ]
+      }
+    },
+    {
+      "id": "2076748688559587338",
+      "title": "Morgan Stanley note on CPO today. Key participants include: - $SIVE, $COHR, and $LITE in laser supply - Broadcom and Nv…",
+      "summary": "Morgan Stanley note on CPO today. Key participants include: - $SIVE, $COHR, and $LITE in laser supply - Broadcom and Nvidia in switch platforms - Lightmatter, Ayar Labs, Marvell/Celestial, and POET in optical engines and photonics, - $TSM, $GFS, and $TSEM in silicon photonics fo…",
+      "link": "https://x.com/aleabitoreddit/status/2076748688559587338",
+      "source": "Serenity / 白毛股神",
+      "source_id": "serenity",
+      "handle": "aleabitoreddit",
+      "lane": "AI supply chain",
+      "published": "2026-07-13T19:20:46+00:00",
+      "published_ts": 1783970446,
+      "metrics": {
+        "likes": 1736,
+        "retweets": 139,
+        "replies": 286,
+        "views": 287040,
+        "hot_score": 4740
+      },
+      "categories": [
+        "Data centers",
+        "Policy"
+      ],
+      "tickers": [
+        "$COHR",
+        "$GFS",
+        "$LITE",
+        "$SIVE",
+        "$TSEM",
+        "$TSM"
+      ],
+      "is_retweet": false,
+      "has_media": true,
+      "media": [
+        "https://pbs.twimg.com/media/HNIX67ba0AAXstD.jpg",
+        "https://pbs.twimg.com/media/HNIX67abgAAk2Qp.jpg"
+      ],
+      "quoted_tweet": null
+    },
+    {
+      "id": "2076728737991913542",
+      "title": "美银这个报告里的情景推演，最大的意义就是梳理了未来潜在风险，不一定都会发生，但可以做到心中有数。",
+      "summary": "美银这个报告里的情景推演，最大的意义就是梳理了未来潜在风险，不一定都会发生，但可以做到心中有数。",
+      "link": "https://x.com/qinbafrank/status/2076728737991913542",
+      "source": "qinbafrank",
+      "source_id": "qinba",
+      "handle": "qinbafrank",
+      "lane": "Macro + AI",
+      "published": "2026-07-13T18:01:29+00:00",
+      "published_ts": 1783965689,
+      "metrics": {
+        "likes": 79,
+        "retweets": 10,
+        "replies": 9,
+        "views": 31310,
+        "hot_score": 248
+      },
+      "categories": [],
+      "tickers": [],
+      "is_retweet": false,
+      "has_media": true,
+      "media": [
+        "https://pbs.twimg.com/media/HNIFx5gbAAAtDVN.jpg"
+      ],
+      "quoted_tweet": {
+        "id": "2076527991862300949",
+        "author": "qinbafrank",
+        "name": "qinbafrank",
+        "text": "怎么理解美银上周最新一期《The Flow Show》报告，标题也足够吸睛：“No landing, no cut, no hike, no sweep, no bears 没有着陆、没有削减、没有加息、没有横扫、也没有空头”。美银这一份报告描述了一个基本面尚未转坏、趋势尚未破坏，但仓位和共识已高度饱和的市场。\n\n容易被误读成“完全看空美股”，个人角度更准确的理解是：\n1）战术层面偏谨慎\n Bull & Bear 9.5意味着不应继续增加杠杆和追逐最拥挤的交易。\n\n2）趋势层面仍未转空。\nMAGS、AUD/JPY、股票资金流和AI资本开支仍支撑风险资产。\n\n3）风险收益已经明显不对称。\n  市场继续上涨需要四个“No”大体同时成立；市场出现较大调整，只需要其中一个重要假设被证伪。\n\n4）下一阶段更可能是轮动，而不是所有资产同步上涨。\n商品、新兴市场、小盘价值、消费者、软件和现金流型科技，可能相对纯AI硬件拥挤交易更有吸引力。\n\n5）真正的系统性风险触发器不是估值本身。\n更值得担心的是实际利率失控、AI融资约束、日本利率冲击以及套息交易逆转。\n\n对美股组合最贴合本期报告的定位是：\n保留高质量核心仓位，减少杠杆和低质量高估值敞口；\n不过度追涨半导体和AI资本品；\n配置现金或长债尾部对冲；\n等待小盘价值、消费、EM等轮动方向得到价格确认。\n\n此内容由@BITstocks_CN赞助，买美股上BIT—16000+ 只美股与 ETF，真实持仓，享股息分红。",
+        "created_at": "Mon Jul 13 04:43:47 +0000 2026",
+        "url": "https://x.com/qinbafrank/status/2076527991862300949",
+        "has_media": true,
+        "media_urls": [
+          "https://pbs.twimg.com/media/HNFPM0yaYAAafJE.jpg"
+        ],
+        "media_posters": [
+          "https://pbs.twimg.com/media/HNFPM0yaYAAafJE.jpg"
+        ]
+      }
+    },
+    {
+      "id": "2076709566067229123",
+      "title": "Trump just declared a 20% toll on Hormuz cargo and a US “blockade” on Iran — a move that risks squeezing oil supply and…",
+      "summary": "Trump just declared a 20% toll on Hormuz cargo and a US “blockade” on Iran — a move that risks squeezing oil supply and spiking crude prices. He holds between $500,000 and $1 million in Exxon Mobil. The man declaring the blockade owns the oil company that profits when it tighten…",
+      "link": "https://x.com/TrumpsPortfolio/status/2076709566067229123",
+      "source": "Trump Portfolio Tracker",
+      "source_id": "trumptracker",
+      "handle": "TrumpsPortfolio",
+      "lane": "Policy trades",
+      "published": "2026-07-13T16:45:18+00:00",
+      "published_ts": 1783961118,
+      "metrics": {
+        "likes": 707,
+        "retweets": 223,
+        "replies": 26,
+        "views": 19140,
+        "hot_score": 2574
+      },
+      "categories": [
+        "Policy",
+        "Risk"
+      ],
+      "tickers": [],
+      "is_retweet": false,
+      "has_media": true,
+      "media": [
+        "https://pbs.twimg.com/media/HNH0VcZWIAA4V8T.jpg"
+      ],
+      "quoted_tweet": null
+    },
+    {
+      "id": "2076697280443261185",
+      "title": "Nvidia $NVDA says a Vera Rubin NVL72 rack paired with a Groq 3 LPX rack can deliver up to 35X higher token throughput p…",
+      "summary": "Nvidia $NVDA says a Vera Rubin NVL72 rack paired with a Groq 3 LPX rack can deliver up to 35X higher token throughput per MW, creating up to a 10X revenue opportunity for AI factories versus Blackwell. Meanwhile, acquiring 1 TB of HBM through Blackwell GPUs costs more than 5X as…",
+      "link": "https://x.com/Beth_Kindig/status/2076697280443261185",
+      "source": "Beth Kindig",
+      "source_id": "kindig",
+      "handle": "Beth_Kindig",
+      "lane": "AI equities",
+      "published": "2026-07-13T15:56:29+00:00",
+      "published_ts": 1783958189,
+      "metrics": {
+        "likes": 282,
+        "retweets": 25,
+        "replies": 30,
+        "views": 30380,
+        "hot_score": 749
       },
       "categories": [
         "AI",
         "Memory",
         "Semis",
+        "Risk"
+      ],
+      "tickers": [
+        "$NVDA"
+      ],
+      "is_retweet": false,
+      "has_media": false,
+      "media": [],
+      "quoted_tweet": null
+    },
+    {
+      "id": "2076687385593868334",
+      "title": "周一开盘QQQ测试笨猫关键点位后拉起反弹，目前非存储类走得都不错，我们Q3观察池list里的个股大部分也在上涨 周末油管公开复盘视频分享两根QQQ关键点位，本周是多方控场的标志。同时分享了我们list个股之一IBM，仍在上升通道里。MU和…",
+      "summary": "周一开盘QQQ测试笨猫关键点位后拉起反弹，目前非存储类走得都不错，我们Q3观察池list里的个股大部分也在上涨 周末油管公开复盘视频分享两根QQQ关键点位，本周是多方控场的标志。同时分享了我们list个股之一IBM，仍在上升通道里。MU和SNDK观点不变，守住点位很重要 分化还在，但好消息是有所缓和",
+      "link": "https://x.com/maojietrading/status/2076687385593868334",
+      "source": "猫姐美股交易",
+      "source_id": "maojie",
+      "handle": "maojietrading",
+      "lane": "US equity trading",
+      "published": "2026-07-13T15:17:10+00:00",
+      "published_ts": 1783955830,
+      "metrics": {
+        "likes": 73,
+        "retweets": 1,
+        "replies": 1,
+        "views": 13518,
+        "hot_score": 165
+      },
+      "categories": [
+        "Memory"
+      ],
+      "tickers": [],
+      "is_retweet": false,
+      "has_media": false,
+      "media": [],
+      "quoted_tweet": null
+    },
+    {
+      "id": "2076685515668267150",
+      "title": "RT @ShanghaoJin: 大厂CDS有整体变宽趋势，这才是前方冰雨落地 打打仗、放放导弹、Fed恐吓一下，这都是疥癣之疾 btw我有eq但没裸跑",
+      "summary": "RT @ShanghaoJin: 大厂CDS有整体变宽趋势，这才是前方冰雨落地 打打仗、放放导弹、Fed恐吓一下，这都是疥癣之疾 btw我有eq但没裸跑",
+      "link": "https://x.com/ShanghaoJin/status/2076685515668267150",
+      "source": "Herman Jin",
+      "source_id": "herman",
+      "handle": "ShanghaoJin",
+      "lane": "FICC + tech",
+      "published": "2026-07-13T15:09:44+00:00",
+      "published_ts": 1783955384,
+      "metrics": {
+        "likes": 0,
+        "retweets": 11,
+        "replies": 0,
+        "views": 0,
+        "hot_score": 55
+      },
+      "categories": [
+        "Macro"
+      ],
+      "tickers": [],
+      "is_retweet": true,
+      "has_media": true,
+      "media": [
+        "https://pbs.twimg.com/media/HNEegvOaIAAGBdZ.jpg"
+      ],
+      "quoted_tweet": null
+    },
+    {
+      "id": "2076685070388355087",
+      "title": "邻居太吵，你打电话报警 警察打不过邻居，还收你财产20%出警费？ 你是怎么想出如此溜的主意的？",
+      "summary": "邻居太吵，你打电话报警 警察打不过邻居，还收你财产20%出警费？ 你是怎么想出如此溜的主意的？",
+      "link": "https://x.com/ShanghaoJin/status/2076685070388355087",
+      "source": "Herman Jin",
+      "source_id": "herman",
+      "handle": "ShanghaoJin",
+      "lane": "FICC + tech",
+      "published": "2026-07-13T15:07:58+00:00",
+      "published_ts": 1783955278,
+      "metrics": {
+        "likes": 63,
+        "retweets": 1,
+        "replies": 18,
+        "views": 32294,
+        "hot_score": 181
+      },
+      "categories": [],
+      "tickers": [],
+      "is_retweet": false,
+      "has_media": false,
+      "media": [],
+      "quoted_tweet": {
+        "id": "2076672540886573529",
+        "author": "TrumpTruthOnX",
+        "name": "Commentary Donald J. Trump Truth Social Posts On X",
+        "text": "The Hormuz Strait is OPEN, and will remain OPEN, with or without Iran. We are reinstating the THE IRANIAN BLOCKADE, so named because it is only stopping Iran’s ships or customers from entering or leaving. All other countries will have fair and open use of the Strait. The U.S.A. will be, from this point forward, known as “THE GUARDIAN OF THE HORMUZ STRAIT,” but as such, and as a matter of FAIRNESS, will be reimbursed, at the rate of 20% on all cargo shipped, for any and all costs necessary to do the job of providing safety and security to this very volatile section of the World. The process and formation will begin immediately. Thank you for your attention to this matter! President DONALD J. TRUMP\n\n( TS: Jul 13 2026, 10:16 AM ET )",
+        "created_at": "Mon Jul 13 14:18:11 +0000 2026",
+        "url": "https://x.com/TrumpTruthOnX/status/2076672540886573529",
+        "has_media": true,
+        "media_urls": [
+          "https://video.twimg.com/ext_tw_video/2076672497903398913/pu/vid/avc1/320x340/TJXNhQqH-9teVxnD.mp4?tag=12"
+        ],
+        "media_posters": [
+          "https://pbs.twimg.com/ext_tw_video_thumb/2076672497903398913/pu/img/Cj1ObwKQHhAmPk0_.jpg"
+        ]
+      }
+    },
+    {
+      "id": "2076655054631882992",
+      "title": "RT @ShanghaoJin: @RYANHINGSHING 不一定会deleverage完的 vol skewness没有恢复，但是软件不涨了（最严重受伤的momentum平了） deleverage确实没有必要追求接在最低得底上，也…",
+      "summary": "RT @ShanghaoJin: @RYANHINGSHING 不一定会deleverage完的 vol skewness没有恢复，但是软件不涨了（最严重受伤的momentum平了） deleverage确实没有必要追求接在最低得底上，也追求不了那么精确的",
+      "link": "https://x.com/ShanghaoJin/status/2076655054631882992",
+      "source": "Herman Jin",
+      "source_id": "herman",
+      "handle": "ShanghaoJin",
+      "lane": "FICC + tech",
+      "published": "2026-07-13T13:08:42+00:00",
+      "published_ts": 1783948122,
+      "metrics": {
+        "likes": 0,
+        "retweets": 4,
+        "replies": 0,
+        "views": 2,
+        "hot_score": 20
+      },
+      "categories": [
+        "Risk"
+      ],
+      "tickers": [],
+      "is_retweet": true,
+      "has_media": false,
+      "media": [],
+      "quoted_tweet": null
+    },
+    {
+      "id": "2076654003455398067",
+      "title": "台积电6月营收月报： 1）6月单月营收4426.8亿元新台币，同比去年6月增幅67.9% ； 2）2026年1至6月半年营收合计约2.40万亿元新台币，较去年同期增长35.6%。 这里值得注意的一点： 35.6%半年同比增速与6月67.9…",
+      "summary": "台积电6月营收月报： 1）6月单月营收4426.8亿元新台币，同比去年6月增幅67.9% ； 2）2026年1至6月半年营收合计约2.40万亿元新台币，较去年同期增长35.6%。 这里值得注意的一点： 35.6%半年同比增速与6月67.9%的同比增速之间存在明显落差，这意味着去年下半年起台积电的营收增速已明显提速。 而且过往规律显示，台积电营收通常呈现\"下半年强于上半年\"的季节性特征，叠加当前AI需求持续超预期的产业背景，下半年营收有望延续强劲增势",
+      "link": "https://x.com/qinbafrank/status/2076654003455398067",
+      "source": "qinbafrank",
+      "source_id": "qinba",
+      "handle": "qinbafrank",
+      "lane": "Macro + AI",
+      "published": "2026-07-13T13:04:31+00:00",
+      "published_ts": 1783947871,
+      "metrics": {
+        "likes": 72,
+        "retweets": 6,
+        "replies": 26,
+        "views": 43921,
+        "hot_score": 243
+      },
+      "categories": [
+        "AI"
+      ],
+      "tickers": [],
+      "is_retweet": false,
+      "has_media": true,
+      "media": [
+        "https://pbs.twimg.com/media/HNHBz0DawAAZM2E.jpg"
+      ],
+      "quoted_tweet": {
+        "id": "2076520435676860661",
+        "author": "qinbafrank",
+        "name": "qinbafrank",
+        "text": "本周迎来7月第一个分水岭，上周一有聊过对于7月走势推演：标普大概率高位震荡，纳指和半导体波动显著放大。真正的分水岭是7月14日的6月CPI、随后Q2财报开启和月底的议息会议。现在回看上周的波动确实不小，今天刚开盘又是一记闷棍。聊聊我的理解：\n1、今早上市场的闷棍来自两个原因：\n1）周末美国和伊朗再次互相发动攻击，伊朗宣称关闭霍尔木兹海峡。这就导致了“能源供应冲击—通胀预期上升—加息预期上升—美债收益率上涨—科技股估值承压”的传导链条。 而且今天早上油价、十年美债收益率、美元指数同步上行，市场自然也会承压。\n\n关于美伊冲突再起，昨天这里https://t.co/BvYG2n7hKt有详细聊过：双方都在算计一件事： 只要报复规模可控，就可以先打一下、提高对方成本，再回到谈判桌上。为什么这么说？你看美伊周末的攻击范围：美国打击的伊朗在波斯湾沿岸的军事基地和设施，没有攻击伊朗内部和德黑兰以及能源设施；伊朗打击的是美军在波斯湾各国的军事基地，其实这些基地三月之后基本上被放弃了，人员、装备早都撤走。双方还是在控制冲突的规模，没有进一步升级。\n\n2）海力士的大跌\n是韩国投资证券一个分析师披露海力士2026年Q2营业利润预计 60.4万亿韩元（环比 +61%，同比 +556%），但比市场普遍共识（65万亿韩元）低约 8%。主要原因是海力士的 HBM（高带宽内存）收入占比高于同行，导致其 ASP（平均售价）涨幅低于市场平均水平。导致海力士大跌\n\n实质上跟上周三星披露2季度业绩预告表现是一样的https://t.co/2Sc4snSS9h，业绩增长度很强，但是市场预期也都整体抬起来了。\n\n2、本周的第一个分水岭\n本周影响市场的几条主线：\nCPI、PPI数据；\n沃什在国会的听证会；\n财报季开启，第一枪在周三的阿斯麦和周四的台积电（今天下午公布6月月度营收）；\n\n1）周二公布的cpi数据\n6月广义 CPI 和核心cpi同比大概率低于5月，关键是与市场预期的偏离度。广义cpi走弱利好估值和久期资产，油价下跌市场也知道通胀会回落，但关键是看广义cpi和核心cpi回落的斜率（看环比）。特别是核心cpi环比要能低于0.3% ，否则市场担心回落速度过慢。\n意义在于让市场确认通胀开始回落，最好当然是回落斜率快于预期。这也是前面说到，7月14号的cpi是7月的第一个分水岭。\n\n2）沃什的听证会\n这将为市场提供又一次观察其政策思路的窗口，值得注意的是，周二听证会开场前90分钟，最新CPI数据就将正式公布，沃什几乎无法回避关于美国通胀走势的相关提问，这也让本次听证会的关注度大幅提升。\n\n3）阿斯麦和台积电的财报关注点\n阿斯麦重点关注\n其EUV和High-NA EUV系统的订单情况。这是ASML最重要的前瞻指标，能反映2027年及以后的半导体资本开支需求；\n全年2026指引更新：此前指引营收€36-40亿区间，市场会关注是否维持或上调；\nHigh-NA EUV推进情况：下一代光刻机的采用进度和客户反馈，这是长期增长的关键驱动；\n\n台积电重点关注：\n—AI/HPC需求强度，管理层会如何描述“AI需求是否依然extremely robust”，重点看HPC（高性能计算）营收占比和同比/环比增长。\n—CoWoS先进封装产能，这是当前AI芯片（尤其是NVIDIA等）最紧缺的环节。市场会重点关注：CoWoS产能扩张进度和利用率是否仍有供需缺口（NVIDIA reportedly占了很大份额），这被视为检验“AI资本开支是否有天花板”的重要信号\n—全年2026营收指引更新：此前指引“超过30%”同比增长，市场期待是否上修（部分券商已预期上调）。\n—资本开支（Capex）：此前上调至$52-56亿区间高位，关注是否进一步增加以支持先进制程和CoWoS扩张。\n—整体AI基础设施周期展望：管理层对2026下半年及2027年的需求看法。\n\n当然对于财报季最关键是还是下旬的超大云厂商的业绩报告。\n\n3、本周需要重点关注的几个点\n1）看布伦特油价。 80美元是近期情绪分水岭；持续高于85美元，市场会开始担心能源冲击重新扩散到服务和商品价格。当然油价最终还是看美伊双方博弈的情况；\n\n2）看美国10年期收益率。\n 4.60%附近是科技股估值压力位（去年这里https://t.co/RtNpMzswae就有聊过4.6%是十年美债收益率的一个阈值）；\n站上4.65%—4.70%，纳指更容易被下沙，反弹难度明显增加；\n回到4.50%以下，科技股才更容易持续修复。\n\n3）看台积电、ASML和海力士能否出现分化。\n 如果台积电和ASML指引仍强，而海力士止跌，说明近期主要是仓位和获利了结；\n如果三者同时转弱，则要警惕AI硬件板块从短期调整演变为盈利预期下修。\n\n整体来说，周一至周二CPI公布前，市场仍会压低高估值科技和半导体仓位。只要布伦特油价没有持续突破80—85美元、核心CPI没有明显高于0.3%环比，10年期收益率大概率会在4.50%—4.65%之间震荡，市场有机会在周二或周三出现止跌和修复修复。\n\n最终周二CPI和周四台积电，是决定方向的两个最关键节点。\n\n本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
+        "created_at": "Mon Jul 13 04:13:46 +0000 2026",
+        "url": "https://x.com/qinbafrank/status/2076520435676860661",
+        "has_media": false,
+        "media_urls": [],
+        "media_posters": []
+      }
+    },
+    {
+      "id": "2076652153540927778",
+      "title": "拜托明天可以再来一下，让还有一口气的杠杆盘散户彻底死绝",
+      "summary": "拜托明天可以再来一下，让还有一口气的杠杆盘散户彻底死绝",
+      "link": "https://x.com/ShanghaoJin/status/2076652153540927778",
+      "source": "Herman Jin",
+      "source_id": "herman",
+      "handle": "ShanghaoJin",
+      "lane": "FICC + tech",
+      "published": "2026-07-13T12:57:10+00:00",
+      "published_ts": 1783947430,
+      "metrics": {
+        "likes": 203,
+        "retweets": 10,
+        "replies": 43,
+        "views": 144608,
+        "hot_score": 643
+      },
+      "categories": [
+        "Risk"
+      ],
+      "tickers": [],
+      "is_retweet": false,
+      "has_media": false,
+      "media": [],
+      "quoted_tweet": {
+        "id": "2076614648670064723",
+        "author": "BlueBluebiu11",
+        "name": "一些蓝",
+        "text": "韩国金融监督院：韩国7月13日全市场累计超 120 万杠杆散户账户触及保证金追缴，其中约 32–36 万账户被券商全额强制平仓（本金清零、部分倒欠券商负债）\n\n最好的夏天，哎。",
+        "created_at": "Mon Jul 13 10:28:08 +0000 2026",
+        "url": "https://x.com/BlueBluebiu11/status/2076614648670064723",
+        "has_media": false,
+        "media_urls": [],
+        "media_posters": []
+      }
+    },
+    {
+      "id": "2076635982263136691",
+      "title": "Donald Trump owns stock in Boeing. Two of its 737 MAX jets crashed and killed 346 people. It later admitted to a crimin…",
+      "summary": "Donald Trump owns stock in Boeing. Two of its 737 MAX jets crashed and killed 346 people. It later admitted to a criminal fraud conspiracy over how it hid the flaw from regulators. In 2024 a door plug blew off a MAX in midair. The President owns it — while the FAA he controls is…",
+      "link": "https://x.com/TrumpsPortfolio/status/2076635982263136691",
+      "source": "Trump Portfolio Tracker",
+      "source_id": "trumptracker",
+      "handle": "TrumpsPortfolio",
+      "lane": "Policy trades",
+      "published": "2026-07-13T11:52:54+00:00",
+      "published_ts": 1783943574,
+      "metrics": {
+        "likes": 569,
+        "retweets": 118,
+        "replies": 10,
+        "views": 21368,
+        "hot_score": 1759
+      },
+      "categories": [
+        "AI",
+        "Policy"
+      ],
+      "tickers": [],
+      "is_retweet": false,
+      "has_media": false,
+      "media": [],
+      "quoted_tweet": null
+    },
+    {
+      "id": "2076613920769663136",
+      "title": "看到字节哥说海力士6月底已经清仓，很惭愧之前这里秀的时候也只是移动止盈了一点，剩下的仓位也是大幅回撤，所幸7709都是3月份4月初买的成本还可以。今天在60左右又开始硬着头皮买了些，还买了些海力士正股。为什么买？ 1、这是压缩式去杠杆 2…",
+      "summary": "看到字节哥说海力士6月底已经清仓，很惭愧之前这里秀的时候也只是移动止盈了一点，剩下的仓位也是大幅回撤，所幸7709都是3月份4月初买的成本还可以。今天在60左右又开始硬着头皮买了些，还买了些海力士正股。为什么买？ 1、这是压缩式去杠杆 2、今天海力士大跌主要因素是KIS（韩国投资证券）最新SK海力士（SK hynix）报告梳理认为其二季度利润60万亿韩元，低于市场共识8%。甚至高于调低了对海力士26年和27年全年的业绩预测。 但是很多人忽略的是KIS维持对海力士的买入评级甚至目标价依然维持在380万韩元。",
+      "link": "https://x.com/qinbafrank/status/2076613920769663136",
+      "source": "qinbafrank",
+      "source_id": "qinba",
+      "handle": "qinbafrank",
+      "lane": "Macro + AI",
+      "published": "2026-07-13T10:25:14+00:00",
+      "published_ts": 1783938314,
+      "metrics": {
+        "likes": 132,
+        "retweets": 6,
+        "replies": 33,
+        "views": 61522,
+        "hot_score": 388
+      },
+      "categories": [
+        "Memory",
+        "Risk"
+      ],
+      "tickers": [],
+      "is_retweet": false,
+      "has_media": false,
+      "media": [],
+      "quoted_tweet": {
+        "id": "2068930849668743401",
+        "author": "qinbafrank",
+        "name": "qinbafrank",
+        "text": "4月初硬着头皮抄的这一笔7709现在9X了，事到如今只悔恨的当时抄少了😢",
+        "created_at": "Mon Jun 22 05:35:28 +0000 2026",
+        "url": "https://x.com/qinbafrank/status/2068930849668743401",
+        "has_media": false,
+        "media_urls": [],
+        "media_posters": []
+      }
+    },
+    {
+      "id": "2076609911106977882",
+      "title": "Here is the full analysis of the company",
+      "summary": "Here is the full analysis of the company",
+      "link": "https://x.com/TrumpsPortfolio/status/2076609911106977882",
+      "source": "Trump Portfolio Tracker",
+      "source_id": "trumptracker",
+      "handle": "TrumpsPortfolio",
+      "lane": "Policy trades",
+      "published": "2026-07-13T10:09:19+00:00",
+      "published_ts": 1783937359,
+      "metrics": {
+        "likes": 9,
+        "retweets": 0,
+        "replies": 0,
+        "views": 3738,
+        "hot_score": 21
+      },
+      "categories": [],
+      "tickers": [],
+      "is_retweet": false,
+      "has_media": false,
+      "media": [],
+      "quoted_tweet": null
+    },
+    {
+      "id": "2076600826680721497",
+      "title": "I decided to do a deep dive into Encore Capital Group. Trump holds the company in his portfolio. It’s a controversial h…",
+      "summary": "I decided to do a deep dive into Encore Capital Group. Trump holds the company in his portfolio. It’s a controversial holding and it appears undervalued across multiple metrics. If the economy does poorly this will do well. Stock is up significantly which indicates we are headin…",
+      "link": "https://x.com/TrumpsPortfolio/status/2076600826680721497",
+      "source": "Trump Portfolio Tracker",
+      "source_id": "trumptracker",
+      "handle": "TrumpsPortfolio",
+      "lane": "Policy trades",
+      "published": "2026-07-13T09:33:13+00:00",
+      "published_ts": 1783935193,
+      "metrics": {
+        "likes": 354,
+        "retweets": 133,
+        "replies": 10,
+        "views": 22502,
+        "hot_score": 1405
+      },
+      "categories": [
+        "Policy"
+      ],
+      "tickers": [],
+      "is_retweet": false,
+      "has_media": true,
+      "media": [
+        "https://pbs.twimg.com/media/HNGRcCdW4AA1J_y.jpg"
+      ],
+      "quoted_tweet": {
+        "id": "2076391303412379761",
+        "author": "TrumpsPortfolio",
+        "name": "Donald Trump Portfolio Tracker",
+        "text": "Buried in Donald Trump’s financial disclosure: Encore Capital Group.\n\nIt’s one of the largest debt collectors in America — it buys up people’s defaulted debt for pennies on the dollar, then comes after them for the full amount.\n\nThe President owns a piece of it. \n\nHe profits when Americans can’t pay their bills.",
+        "created_at": "Sun Jul 12 19:40:38 +0000 2026",
+        "url": "https://x.com/TrumpsPortfolio/status/2076391303412379761",
+        "has_media": false,
+        "media_urls": [],
+        "media_posters": []
+      }
+    },
+    {
+      "id": "2076595765443510740",
+      "title": "Donald Trump owns between $500,000 and $1 million in McKesson. Never heard of it? It’s one of the three companies that…",
+      "summary": "Donald Trump owns between $500,000 and $1 million in McKesson. Never heard of it? It’s one of the three companies that flooded America with opioids. In 2021 McKesson, Cardinal Health and AmerisourceBergen paid $21 billion to settle claims their pill distribution fueled the overd…",
+      "link": "https://x.com/TrumpsPortfolio/status/2076595765443510740",
+      "source": "Trump Portfolio Tracker",
+      "source_id": "trumptracker",
+      "handle": "TrumpsPortfolio",
+      "lane": "Policy trades",
+      "published": "2026-07-13T09:13:06+00:00",
+      "published_ts": 1783933986,
+      "metrics": {
+        "likes": 1678,
+        "retweets": 609,
+        "replies": 13,
+        "views": 28863,
+        "hot_score": 6442
+      },
+      "categories": [
+        "AI",
+        "Policy"
+      ],
+      "tickers": [],
+      "is_retweet": false,
+      "has_media": false,
+      "media": [],
+      "quoted_tweet": null
+    },
+    {
+      "id": "2076595046430978445",
+      "title": "本周美股7.13财报周，大银行定调子，台积电+阿斯麦决定拐点是否将至，万众期待极其重要！ 我的重点关注如下： 周二（7月14日） 盘前 $JPM 摩根大通（美股银行龙头，财报风向标） $C 花旗银行 $BAC 美国银行 $WFC 富国银行…",
+      "summary": "本周美股7.13财报周，大银行定调子，台积电+阿斯麦决定拐点是否将至，万众期待极其重要！ 我的重点关注如下： 周二（7月14日） 盘前 $JPM 摩根大通（美股银行龙头，财报风向标） $C 花旗银行 $BAC 美国银行 $WFC 富国银行 $FAST Fastenal 工业周期标杆 $ERIC 爱立信（类似诺基亚的夕阳红） 盘后 $AEHR 半导体设备小盘网红股 周三（7月15日） 盘前 $ASML 阿斯麦（全球光刻设备绝对龙头，半导体核心权重） $BLK 贝莱德（全球最大资管，资金流向风向标） $MS 摩根士丹利 投行龙头 $JNJ 强生 医药防御龙…",
+      "link": "https://x.com/artinmemes/status/2076595046430978445",
+      "source": "美股OK哥",
+      "source_id": "okbro",
+      "handle": "artinmemes",
+      "lane": "Asia semis",
+      "published": "2026-07-13T09:10:14+00:00",
+      "published_ts": 1783933814,
+      "metrics": {
+        "likes": 25,
+        "retweets": 4,
+        "replies": 30,
+        "views": 8234,
+        "hot_score": 108
+      },
+      "categories": [
+        "Semis"
+      ],
+      "tickers": [
+        "$ABT",
+        "$AEHR",
+        "$ASML",
+        "$BAC",
+        "$BLK",
+        "$ERIC",
+        "$FAST",
+        "$GE"
+      ],
+      "is_retweet": false,
+      "has_media": true,
+      "media": [
+        "https://pbs.twimg.com/media/HNGJIZwbUAAQ-Ae.jpg"
+      ],
+      "quoted_tweet": null
+    },
+    {
+      "id": "2076589362339528766",
+      "title": "AI时代创意IP的“清算基础设施”终于有人在做了，看到@KorProtocol宣布完成750万美元A轮融资，由1kx和BlockchainCapital领投，投后估值1亿美元，Republic、Animoca、Solana、Avalanc…",
+      "summary": "AI时代创意IP的“清算基础设施”终于有人在做了，看到@KorProtocol宣布完成750万美元A轮融资，由1kx和BlockchainCapital领投，投后估值1亿美元，Republic、Animoca、Solana、Avalanche等一众机构跟投。这条消息其实挺有意思的，不是单纯的融资新闻，而是AI内容爆发后，底层权利基础设施终于开始被认真定价了。 AI把内容生产成本打到接近零，但它解决不了几个最根本的问题：这是谁的？谁能用？钱怎么分？ 传统娱乐行业本来就权属混乱、授权慢、版税到账拖几年，AI 一来直接把矛盾放大了十倍。KOR 做的就是把这个…",
+      "link": "https://x.com/qinbafrank/status/2076589362339528766",
+      "source": "qinbafrank",
+      "source_id": "qinba",
+      "handle": "qinbafrank",
+      "lane": "Macro + AI",
+      "published": "2026-07-13T08:47:39+00:00",
+      "published_ts": 1783932459,
+      "metrics": {
+        "likes": 23,
+        "retweets": 4,
+        "replies": 19,
+        "views": 21788,
+        "hot_score": 106
+      },
+      "categories": [
+        "AI",
         "Data centers",
         "Macro"
       ],
@@ -1057,6 +1578,155 @@
       "is_retweet": false,
       "has_media": false,
       "media": [],
+      "quoted_tweet": {
+        "id": "2074530475088163123",
+        "author": "djlittyritty",
+        "name": "Ritty",
+        "text": "It's a privilege that I step into the role of KOR’s CEO.\n\nWe're building the clearinghouse for talent in the AI economy: the system that lets artists get discovered, matched to the right label or agency, and paid the moment a deal lands. AI has made it possible for anyone to create at a professional level. However, the infrastructure connecting that talent to opportunity hasn't kept up, and closing that gap is a responsibility I hold seriously.\n\nWith the support of our team and the partners who believed in this early, I've taken on this role to make sure we meet what the industry actually needs: a system that works at the speed and scale entertainment now demands.\n\nThe foundation we've built is strong. Six products. Institutional partners across music and entertainment. And a settlement layer built on @base, because it's the only place shipping the infrastructure a clearinghouse like this requires.\n\nMy focus from here:\n\n1. Bringing established artists, labels, and entertainment companies onto Base\n2. Building alongside the Base community and team. Our mission to bring real-world industries onchain is the same one they're building toward.\n3. Shipping the products and tech that make the clearinghouse useful from day one, with more to share in the weeks ahead.\n\nExcited for this next chapter!",
+        "created_at": "Tue Jul 07 16:26:22 +0000 2026",
+        "url": "https://x.com/djlittyritty/status/2074530475088163123",
+        "has_media": false,
+        "media_urls": [],
+        "media_posters": []
+      }
+    },
+    {
+      "id": "2076585478808281292",
+      "title": "过去一个月利润最高50%全还回去， 还倒贴13%，棒子是真该死呐，一群精神病。",
+      "summary": "过去一个月利润最高50%全还回去， 还倒贴13%，棒子是真该死呐，一群精神病。",
+      "link": "https://x.com/xiaomustock/status/2076585478808281292",
+      "source": "川沐 / Trumoo",
+      "source_id": "trumoo",
+      "handle": "xiaomustock",
+      "lane": "Semis trading",
+      "published": "2026-07-13T08:32:13+00:00",
+      "published_ts": 1783931533,
+      "metrics": {
+        "likes": 674,
+        "retweets": 20,
+        "replies": 81,
+        "views": 187991,
+        "hot_score": 1716
+      },
+      "categories": [],
+      "tickers": [],
+      "is_retweet": false,
+      "has_media": true,
+      "media": [
+        "https://pbs.twimg.com/media/HNGDe9qbQAAl9Ah.jpg"
+      ],
+      "quoted_tweet": null
+    },
+    {
+      "id": "2076562621915070740",
+      "title": "看了下英语翻译太刺激，还是删了吧",
+      "summary": "看了下英语翻译太刺激，还是删了吧",
+      "link": "https://x.com/ShanghaoJin/status/2076562621915070740",
+      "source": "Herman Jin",
+      "source_id": "herman",
+      "handle": "ShanghaoJin",
+      "lane": "FICC + tech",
+      "published": "2026-07-13T07:01:24+00:00",
+      "published_ts": 1783926084,
+      "metrics": {
+        "likes": 3,
+        "retweets": 0,
+        "replies": 2,
+        "views": 9789,
+        "hot_score": 17
+      },
+      "categories": [],
+      "tickers": [],
+      "is_retweet": false,
+      "has_media": false,
+      "media": [],
+      "quoted_tweet": null
+    },
+    {
+      "id": "2076553346870370710",
+      "title": "韩国这帮疯子跳楼了",
+      "summary": "韩国这帮疯子跳楼了",
+      "link": "https://x.com/xiaomustock/status/2076553346870370710",
+      "source": "川沐 / Trumoo",
+      "source_id": "trumoo",
+      "handle": "xiaomustock",
+      "lane": "Semis trading",
+      "published": "2026-07-13T06:24:33+00:00",
+      "published_ts": 1783923873,
+      "metrics": {
+        "likes": 401,
+        "retweets": 21,
+        "replies": 80,
+        "views": 193535,
+        "hot_score": 1180
+      },
+      "categories": [],
+      "tickers": [],
+      "is_retweet": false,
+      "has_media": true,
+      "media": [
+        "https://pbs.twimg.com/amplify_video_thumb/2076553271414796288/img/KwV25PKEsl27gHSH.jpg"
+      ],
+      "quoted_tweet": null
+    },
+    {
+      "id": "2076528239946727864",
+      "title": "There’s a company in Donald Trump’s financial disclosure called Chemed. You’ve never heard of it. Here’s what it does.…",
+      "summary": "There’s a company in Donald Trump’s financial disclosure called Chemed. You’ve never heard of it. Here’s what it does. Chemed owns VITAS, the largest for-profit hospice chain in America. Hospice: end-of-life care for the dying. In 2017, VITAS paid the U.S. government $75 million…",
+      "link": "https://x.com/TrumpsPortfolio/status/2076528239946727864",
+      "source": "Trump Portfolio Tracker",
+      "source_id": "trumptracker",
+      "handle": "TrumpsPortfolio",
+      "lane": "Policy trades",
+      "published": "2026-07-13T04:44:47+00:00",
+      "published_ts": 1783917887,
+      "metrics": {
+        "likes": 3744,
+        "retweets": 1751,
+        "replies": 69,
+        "views": 72558,
+        "hot_score": 16384
+      },
+      "categories": [
+        "AI",
+        "Macro",
+        "Policy"
+      ],
+      "tickers": [],
+      "is_retweet": false,
+      "has_media": false,
+      "media": [],
+      "quoted_tweet": null
+    },
+    {
+      "id": "2076527991862300949",
+      "title": "怎么理解美银上周最新一期《The Flow Show》报告，标题也足够吸睛：“No landing, no cut, no hike, no sweep, no bears 没有着陆、没有削减、没有加息、没有横扫、也没有空头”。美银这一份…",
+      "summary": "怎么理解美银上周最新一期《The Flow Show》报告，标题也足够吸睛：“No landing, no cut, no hike, no sweep, no bears 没有着陆、没有削减、没有加息、没有横扫、也没有空头”。美银这一份报告描述了一个基本面尚未转坏、趋势尚未破坏，但仓位和共识已高度饱和的市场。 容易被误读成“完全看空美股”，个人角度更准确的理解是： 1）战术层面偏谨慎 Bull & Bear 9.5意味着不应继续增加杠杆和追逐最拥挤的交易。 2）趋势层面仍未转空。 MAGS、AUD/JPY、股票资金流和AI资本开支仍支撑风险资产。 3…",
+      "link": "https://x.com/qinbafrank/status/2076527991862300949",
+      "source": "qinbafrank",
+      "source_id": "qinba",
+      "handle": "qinbafrank",
+      "lane": "Macro + AI",
+      "published": "2026-07-13T04:43:47+00:00",
+      "published_ts": 1783917827,
+      "metrics": {
+        "likes": 61,
+        "retweets": 9,
+        "replies": 23,
+        "views": 59383,
+        "hot_score": 249
+      },
+      "categories": [
+        "AI",
+        "Semis",
+        "Risk"
+      ],
+      "tickers": [],
+      "is_retweet": false,
+      "has_media": true,
+      "media": [
+        "https://pbs.twimg.com/media/HNFPM0yaYAAafJE.jpg"
+      ],
       "quoted_tweet": {
         "id": "2075067198570475727",
         "author": "qinbafrank",
@@ -1074,151 +1744,654 @@
       }
     },
     {
-      "id": "2075106084793286733",
-      "title": "这些炒股炒的已经家破人亡了， 韩国估计集体返贫， 再跌10%海力士都跌40%了， 加仓猛干海力士的好时机。",
-      "summary": "这些炒股炒的已经家破人亡了， 韩国估计集体返贫， 再跌10%海力士都跌40%了， 加仓猛干海力士的好时机。",
-      "link": "https://x.com/xiaomustock/status/2075106084793286733",
-      "source": "川沐 / Trumoo",
-      "source_id": "trumoo",
-      "handle": "xiaomustock",
-      "lane": "Semis trading",
-      "published": "2026-07-09T06:33:38+00:00",
-      "published_ts": 1783578818,
+      "id": "2076519993613980154",
+      "title": "麻蛋，周五的单被套了，看看海力士能让我输多少，7月22财报",
+      "summary": "麻蛋，周五的单被套了，看看海力士能让我输多少，7月22财报",
+      "link": "https://x.com/artinmemes/status/2076519993613980154",
+      "source": "美股OK哥",
+      "source_id": "okbro",
+      "handle": "artinmemes",
+      "lane": "Asia semis",
+      "published": "2026-07-13T04:12:01+00:00",
+      "published_ts": 1783915921,
       "metrics": {
-        "likes": 260,
-        "retweets": 9,
-        "replies": 52,
-        "views": 231556,
-        "hot_score": 848
+        "likes": 26,
+        "retweets": 0,
+        "replies": 20,
+        "views": 13361,
+        "hot_score": 85
       },
       "categories": [
-        "Memory",
-        "Risk"
+        "Memory"
       ],
       "tickers": [],
       "is_retweet": false,
       "has_media": true,
       "media": [
-        "https://pbs.twimg.com/media/HMxB9JiaoAEckVB.jpg",
-        "https://pbs.twimg.com/media/HMxB9JmbwAAPYjS.jpg"
+        "https://pbs.twimg.com/media/HNFHMaGa0AA4O4h.jpg"
       ],
       "quoted_tweet": null
     },
     {
-      "id": "2075105961203904667",
-      "title": "彭博报道Meta计划100亿美金建设其在加拿大的第一个数据中心，验证了之前这篇推文到的：1、Meta不会退出其前沿大模型的开发，还要继续追赶。 2、进军云业务，还要继续资本开支。",
-      "summary": "彭博报道Meta计划100亿美金建设其在加拿大的第一个数据中心，验证了之前这篇推文到的：1、Meta不会退出其前沿大模型的开发，还要继续追赶。 2、进军云业务，还要继续资本开支。",
-      "link": "https://x.com/qinbafrank/status/2075105961203904667",
-      "source": "qinbafrank",
-      "source_id": "qinba",
-      "handle": "qinbafrank",
-      "lane": "Macro + AI",
-      "published": "2026-07-09T06:33:09+00:00",
-      "published_ts": 1783578789,
+      "id": "2076494944374505827",
+      "title": "RT @Beth_Kindig: Micron $MU broke ground on its $9.3 billion fab expansion in Hiroshima, Japan, with the first equipmen…",
+      "summary": "RT @Beth_Kindig: Micron $MU broke ground on its $9.3 billion fab expansion in Hiroshima, Japan, with the first equipment for the expansion…",
+      "link": "https://x.com/Beth_Kindig/status/2076494944374505827",
+      "source": "Beth Kindig",
+      "source_id": "kindig",
+      "handle": "Beth_Kindig",
+      "lane": "AI equities",
+      "published": "2026-07-13T02:32:28+00:00",
+      "published_ts": 1783909948,
       "metrics": {
-        "likes": 43,
-        "retweets": 2,
-        "replies": 18,
-        "views": 31871,
-        "hot_score": 145
+        "likes": 0,
+        "retweets": 15,
+        "replies": 0,
+        "views": 0,
+        "hot_score": 75
+      },
+      "categories": [
+        "Memory",
+        "Crypto"
+      ],
+      "tickers": [
+        "$MU"
+      ],
+      "is_retweet": true,
+      "has_media": false,
+      "media": [],
+      "quoted_tweet": null
+    },
+    {
+      "id": "2076494915060523338",
+      "title": "RT @Beth_Kindig: Samsung is said to be “aggressively” negotiating DRAM price hikes of up to 20% QoQ for Q3, with LPDDR…",
+      "summary": "RT @Beth_Kindig: Samsung is said to be “aggressively” negotiating DRAM price hikes of up to 20% QoQ for Q3, with LPDDR hikes suggested to e…",
+      "link": "https://x.com/Beth_Kindig/status/2076494915060523338",
+      "source": "Beth Kindig",
+      "source_id": "kindig",
+      "handle": "Beth_Kindig",
+      "lane": "AI equities",
+      "published": "2026-07-13T02:32:21+00:00",
+      "published_ts": 1783909941,
+      "metrics": {
+        "likes": 0,
+        "retweets": 10,
+        "replies": 0,
+        "views": 0,
+        "hot_score": 50
       },
       "categories": [
         "AI",
-        "Data centers"
+        "Memory",
+        "Crypto",
+        "Policy"
+      ],
+      "tickers": [],
+      "is_retweet": true,
+      "has_media": false,
+      "media": [],
+      "quoted_tweet": null
+    },
+    {
+      "id": "2076494885050278327",
+      "title": "RT @Beth_Kindig: SK Hynix has reportedly removed price caps in its long-term memory supply agreements, unlike Micron, w…",
+      "summary": "RT @Beth_Kindig: SK Hynix has reportedly removed price caps in its long-term memory supply agreements, unlike Micron, which will allow spot…",
+      "link": "https://x.com/Beth_Kindig/status/2076494885050278327",
+      "source": "Beth Kindig",
+      "source_id": "kindig",
+      "handle": "Beth_Kindig",
+      "lane": "AI equities",
+      "published": "2026-07-13T02:32:14+00:00",
+      "published_ts": 1783909934,
+      "metrics": {
+        "likes": 0,
+        "retweets": 15,
+        "replies": 0,
+        "views": 0,
+        "hot_score": 75
+      },
+      "categories": [
+        "Memory",
+        "Crypto",
+        "Policy"
+      ],
+      "tickers": [],
+      "is_retweet": true,
+      "has_media": false,
+      "media": [],
+      "quoted_tweet": null
+    },
+    {
+      "id": "2076494831388348514",
+      "title": "RT @Beth_Kindig: Amazon has reportedly increased its custom silicon shipment forecast by 20-30% for Q3 versus its origi…",
+      "summary": "RT @Beth_Kindig: Amazon has reportedly increased its custom silicon shipment forecast by 20-30% for Q3 versus its original plan, with this…",
+      "link": "https://x.com/Beth_Kindig/status/2076494831388348514",
+      "source": "Beth Kindig",
+      "source_id": "kindig",
+      "handle": "Beth_Kindig",
+      "lane": "AI equities",
+      "published": "2026-07-13T02:32:01+00:00",
+      "published_ts": 1783909921,
+      "metrics": {
+        "likes": 0,
+        "retweets": 17,
+        "replies": 0,
+        "views": 0,
+        "hot_score": 85
+      },
+      "categories": [
+        "Crypto"
+      ],
+      "tickers": [],
+      "is_retweet": true,
+      "has_media": false,
+      "media": [],
+      "quoted_tweet": null
+    },
+    {
+      "id": "2076467953995071881",
+      "title": "Just a semi recap TLDR: - $GLW glass bridge per Morgan Stanley has potential, but hard to displace FAU (like FOCI) in s…",
+      "summary": "Just a semi recap TLDR: - $GLW glass bridge per Morgan Stanley has potential, but hard to displace FAU (like FOCI) in short term - $SPCX Starlink Gen 3 is scaling to 100,000 units (10x prev gen) creating possible capacity constraints for suppliers of switches to CCL. - PCB suppl…",
+      "link": "https://x.com/aleabitoreddit/status/2076467953995071881",
+      "source": "Serenity / 白毛股神",
+      "source_id": "serenity",
+      "handle": "aleabitoreddit",
+      "lane": "AI supply chain",
+      "published": "2026-07-13T00:45:13+00:00",
+      "published_ts": 1783903513,
+      "metrics": {
+        "likes": 1956,
+        "retweets": 162,
+        "replies": 193,
+        "views": 563150,
+        "hot_score": 5415
+      },
+      "categories": [
+        "AI",
+        "Memory",
+        "Semis",
+        "Data centers",
+        "Policy"
+      ],
+      "tickers": [
+        "$AAPL",
+        "$AMKR",
+        "$AVGO",
+        "$GLW",
+        "$INTC",
+        "$META",
+        "$MU",
+        "$NVDA"
+      ],
+      "is_retweet": false,
+      "has_media": false,
+      "media": [],
+      "quoted_tweet": null
+    },
+    {
+      "id": "2076456824153547171",
+      "title": "High-earner families are ditching traditional schools for life skills and AI, per WSJ",
+      "summary": "High-earner families are ditching traditional schools for life skills and AI, per WSJ",
+      "link": "https://x.com/unusual_whales/status/2076456824153547171",
+      "source": "unusual_whales",
+      "source_id": "whales",
+      "handle": "unusual_whales",
+      "lane": "Market tape",
+      "published": "2026-07-13T00:01:00+00:00",
+      "published_ts": 1783900860,
+      "metrics": {
+        "likes": 7706,
+        "retweets": 459,
+        "replies": 214,
+        "views": 777231,
+        "hot_score": 18421
+      },
+      "categories": [
+        "AI"
+      ],
+      "tickers": [],
+      "is_retweet": false,
+      "has_media": false,
+      "media": [],
+      "quoted_tweet": null
+    },
+    {
+      "id": "2076391303412379761",
+      "title": "Buried in Donald Trump’s financial disclosure: Encore Capital Group. It’s one of the largest debt collectors in America…",
+      "summary": "Buried in Donald Trump’s financial disclosure: Encore Capital Group. It’s one of the largest debt collectors in America — it buys up people’s defaulted debt for pennies on the dollar, then comes after them for the full amount. The President owns a piece of it. He profits when Am…",
+      "link": "https://x.com/TrumpsPortfolio/status/2076391303412379761",
+      "source": "Trump Portfolio Tracker",
+      "source_id": "trumptracker",
+      "handle": "TrumpsPortfolio",
+      "lane": "Policy trades",
+      "published": "2026-07-12T19:40:38+00:00",
+      "published_ts": 1783885238,
+      "metrics": {
+        "likes": 8179,
+        "retweets": 3665,
+        "replies": 129,
+        "views": 182709,
+        "hot_score": 34994
+      },
+      "categories": [
+        "Policy"
+      ],
+      "tickers": [],
+      "is_retweet": false,
+      "has_media": false,
+      "media": [],
+      "quoted_tweet": null
+    },
+    {
+      "id": "2076372905450188998",
+      "title": "Looks like the Strait of Hormuz is open for the 50th time this year per Trump. I’m getting tired looking at macro.",
+      "summary": "Looks like the Strait of Hormuz is open for the 50th time this year per Trump. I’m getting tired looking at macro.",
+      "link": "https://x.com/aleabitoreddit/status/2076372905450188998",
+      "source": "Serenity / 白毛股神",
+      "source_id": "serenity",
+      "handle": "aleabitoreddit",
+      "lane": "AI supply chain",
+      "published": "2026-07-12T18:27:32+00:00",
+      "published_ts": 1783880852,
+      "metrics": {
+        "likes": 1424,
+        "retweets": 46,
+        "replies": 210,
+        "views": 371542,
+        "hot_score": 3659
+      },
+      "categories": [
+        "AI",
+        "Policy"
       ],
       "tickers": [],
       "is_retweet": false,
       "has_media": true,
       "media": [
-        "https://pbs.twimg.com/media/HMxB3p2aYAARXeK.jpg"
+        "https://pbs.twimg.com/media/HNDCJuBboAAkhQ5.jpg"
       ],
+      "quoted_tweet": null
+    },
+    {
+      "id": "2076266613675069628",
+      "title": "Apparently there’s a new popular trend to bearpost trillion dollar companies. Like $NVDA or $TSM. By finding isolating…",
+      "summary": "Apparently there’s a new popular trend to bearpost trillion dollar companies. Like $NVDA or $TSM. By finding isolating technical details, then blowing it out of proportions by claiming their whole program is delayed. -> if the company doesn’t respond, stock prices/sentiment are…",
+      "link": "https://x.com/aleabitoreddit/status/2076266613675069628",
+      "source": "Serenity / 白毛股神",
+      "source_id": "serenity",
+      "handle": "aleabitoreddit",
+      "lane": "AI supply chain",
+      "published": "2026-07-12T11:25:10+00:00",
+      "published_ts": 1783855510,
+      "metrics": {
+        "likes": 1862,
+        "retweets": 86,
+        "replies": 233,
+        "views": 638659,
+        "hot_score": 4887
+      },
+      "categories": [
+        "AI",
+        "Semis",
+        "Policy"
+      ],
+      "tickers": [
+        "$NVDA",
+        "$TSM"
+      ],
+      "is_retweet": false,
+      "has_media": false,
+      "media": [],
+      "quoted_tweet": null
+    },
+    {
+      "id": "2076248337863639506",
+      "title": "So there's a IBK Research report on Boston Dynamics value chains from last month. Just a summary: IBK maps these compan…",
+      "summary": "So there's a IBK Research report on Boston Dynamics value chains from last month. Just a summary: IBK maps these companies to Atlas as suppliers: - Hwashin (010690) / body, arms, legs - LG Energy (373220) / battery - Hyundai Autoever (307950) / integration - Hyundai Mobis (01233…",
+      "link": "https://x.com/aleabitoreddit/status/2076248337863639506",
+      "source": "Serenity / 白毛股神",
+      "source_id": "serenity",
+      "handle": "aleabitoreddit",
+      "lane": "AI supply chain",
+      "published": "2026-07-12T10:12:33+00:00",
+      "published_ts": 1783851153,
+      "metrics": {
+        "likes": 744,
+        "retweets": 67,
+        "replies": 113,
+        "views": 305950,
+        "hot_score": 2241
+      },
+      "categories": [
+        "AI",
+        "Policy"
+      ],
+      "tickers": [
+        "$CCXI",
+        "$TSLA",
+        "$XPEV"
+      ],
+      "is_retweet": false,
+      "has_media": true,
+      "media": [
+        "https://pbs.twimg.com/media/HNBI_zMaYAAUaCi.jpg",
+        "https://pbs.twimg.com/media/HNBJXpEacAA1zA3.jpg"
+      ],
+      "quoted_tweet": null
+    },
+    {
+      "id": "2076219546516738356",
+      "title": "RT @Sinus84: $META 盘中表现强劲，当前价格达到$664.22，盘中累计涨幅高达+5.18%。…",
+      "summary": "RT @Sinus84: $META 盘中表现强劲，当前价格达到$664.22，盘中累计涨幅高达+5.18%。…",
+      "link": "https://x.com/maojietrading/status/2076219546516738356",
+      "source": "猫姐美股交易",
+      "source_id": "maojie",
+      "handle": "maojietrading",
+      "lane": "US equity trading",
+      "published": "2026-07-12T08:18:08+00:00",
+      "published_ts": 1783844288,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2,
+        "replies": 0,
+        "views": 1820,
+        "hot_score": 11
+      },
+      "categories": [],
+      "tickers": [
+        "$META"
+      ],
+      "is_retweet": true,
+      "has_media": true,
+      "media": [
+        "https://pbs.twimg.com/media/HM4gtP4WkAAPTEN.png"
+      ],
+      "quoted_tweet": null
+    },
+    {
+      "id": "2076101734515286240",
+      "title": "Bitget的新玩法让我灵机一动 以后是不是可以工作日买卖美股rToken，周末质押借出u来炒币了 毕竟周末大盘休市，美股代币相对没波动，但川普一搞事情，btc肯定会动 以前这个玩法不现实，两个平台来回倒，加上出金时间根本赶不上，现在BG…",
+      "summary": "Bitget的新玩法让我灵机一动 以后是不是可以工作日买卖美股rToken，周末质押借出u来炒币了 毕竟周末大盘休市，美股代币相对没波动，但川普一搞事情，btc肯定会动 以前这个玩法不现实，两个平台来回倒，加上出金时间根本赶不上，现在BG一个统一账户直接搞定，太tm方便了，还没有t+1，资金利用率拉满，真一份钱循环发 BG现在搞双轨制还是有意思的，一方面直连美股，另一方面美股代币rToken 但最后美股代币除了监管的差别，其他已经和实股没啥区别，甚至比实股还方便灵活2倍，大家很快就会用脚投票了",
+      "link": "https://x.com/artinmemes/status/2076101734515286240",
+      "source": "美股OK哥",
+      "source_id": "okbro",
+      "handle": "artinmemes",
+      "lane": "Asia semis",
+      "published": "2026-07-12T00:30:00+00:00",
+      "published_ts": 1783816200,
+      "metrics": {
+        "likes": 16,
+        "retweets": 0,
+        "replies": 22,
+        "views": 9469,
+        "hot_score": 63
+      },
+      "categories": [
+        "AI",
+        "Crypto"
+      ],
+      "tickers": [],
+      "is_retweet": false,
+      "has_media": false,
+      "media": [],
       "quoted_tweet": {
-        "id": "2072902811675922742",
-        "author": "qinbafrank",
-        "name": "qinbafrank",
-        "text": "Meta计划出售算力会因此退出前沿大模型的开发么？后续能够扭转市场预期和情绪的关键事件及信号是哪些？小扎在昨天Meta内部会上核承认过去四个月AI智能体开发进度慢于预期，重组效果未达预期，但公司仍对未来3-6个月的AI回报持乐观态度，并计划继续推进相关投资和调整。简单说，就是承认进度低于预期，同时对未来乐观并但并不会缩减投资还是会按计划进行。\n\n周二彭博爆出来Meta计划出售算力，市场担心的几个点：1）算力是不是过剩了2）meta出售算力是为了更高效的变现还是自身AI进展不及预期，更担心meta会不会退出前沿大模型的开发？\n3）Meta会不会缩减资本开支？。\n所以昨晚小扎的回应相当于回答了后面两个问题，确实进展不及预期、但是还是按计划投资（近期不会缩减开支），当然小扎的讲话其实有一个前提就是期待未来3-6个月内AI回报会变得更好、隐含意思就是未来半年AI回报还没变好、可能就要再调整了。\n\n聊聊几个问题：\n1、Meta会放弃前沿AI大模型么？\n个人角度完全不会，Meta 的 AI 不是独立 ToB 软件，而是深嵌在广告、推荐、Reels、Instagram、WhatsApp、Messenger、AI 眼镜和未来 agents 里的系统能力。它不是单纯问答机器人公司，而是一个超大规模消费互联网分发网络。对 Meta 来说，模型质量、推理成本、延迟、个性化、内容理解和广告转化率是同一条价值链，不能长期交给第三方 API，就是不能被别人卡脖子。\n\nMeta未来真正有有价值和差异的是 “自有模型 + 自有用户场景 + 自有广告/社交数据闭环 + 自有推理基础设施”\n\n当然问题是AI进展低于预期，但只要还有希望个人觉得小扎很难这么快就认输。\n\n2、Mete会不会做云？\n也算顺理成章，毕竟Meta在算力上的投入这么巨大，自己做云的意义在于：\n1）闲置产能货币化：Jefferies调研数据显示，Meta当前内部基础设施的利用率约为65%，尚有35%的闲置产能。美银指出，企业AI需求能够帮助吸收任何过剩的算力，如果Meta建设的速度超过了内部使用速度。\n\n2）改善自由现金流：出售闲置算力\"有助于将其庞大的AI基础设施投资货币化，并改善自由现金流预期\"。\n\n3）降低过度投资的尾部风险：如果面向消费者的AI产品需要更长时间才能规模化，企业AI需求可以提供一条更稳定的收入来源，同时减轻利润率压力。\n\n企业级AI可能成为Meta的重大新收入来源，帮助其将不断增长的计算能力货币化。即使Meta只获得企业AI市场的较小份额，鉴于其已部署的基础设施规模，也能产生有意义的收入。这为Meta提供了广告业务之外的收入多元化——广告虽然利润丰厚，但对经济周期高度敏感。\n\n能够优化meta的投资回报率，当然更务实的角度，也是一种财务纪律和利用率管理。\n\n3、Meta带来的市场忧虑什么时间会散去？\n这可能是大家最关心的，Meta出售算力只是一个催化剂和诱发因素，实质上还是对超高拥挤、高杠杆交易的清算，6月中有聊到这是市场真正的风险https://t.co/Y8HCF7qmWk。\n\n当然再往深了看，市场真正的担忧是三层：\n第一，模型公司是不是烧钱买算力，但收入跟不上？\n第二，云厂商是不是 CapEx 过度前置，未来算力价格会塌？\n第三，AI infra 链条是不是在给未来不存在的需求建产能？\n\n当然核心大家还是担心AI 基建投了这么多钱，到底有没有足够收入承接？如果没有足够的收入承接、最后就是算力过剩、Capex缩减。\n\n要想扭转这个局面，让市场重新提振信心。最硬的证据不是创始人出来讲话，而是收入。\n\n如果 OpenAI、Anthropic、Google Gemini、Microsoft Copilot/Azure AI、AWS Bedrock、企业 agents 的收入继续大超预期，市场会重新理解整个链条：\n不是算力过剩，而是 AI 应用收入正在追赶算力供给。\n\n真正能在中期扭转市场预期的第一权重，是 AI 需求端持续大超预期，核心就是大模型ARR和超大云厂商业绩持续超预期。\n可以把这个拆成四个联动指标，而不是一个指标：\n1）大模型ARR 持续上修 ；\n2）hyperscaler 云收入持续加速；\n3）backlog/RPO 继续扩大 ；\n4）AI 云价格和毛利不崩。\n\n这四个指标同时成立，Meta出售云算力就会被重新解释为“稀缺资产变现”；\n\n如果这四个中有两个以上开始转弱，Meta 出售云算力就会被市场解释为“AI 基建过建的第一张牌倒下”。\n\n下图一是从个人角度看后续能够扭转市场情绪和预期的关键事件及信号的权重排序图：最高权重不是 Meta 自己澄清，而是 AI 需求端收入、订单、价格、毛利连续验证；Meta 披露外售容量占比和自研模型进展属于必要但次一级信号。\n\n6月初在这里https://t.co/NKmXIo8Mnm有聊到：只有当基本面（AI 商业化增速）真出问题，调整后才需要等更多逆转信号。因为基本面出问题会让所有逻辑都要重置，也不是完全推倒重来，但市场影响很大，如果迟迟看不到产业上的进展，调整幅度就容易从小级别演化成种级别的幅度。然后市场就等等待产业给新证据，证明它重回快速增长、规模和增速又超预期，信心才能回来。\n\n此内容由@BITstocks_CN 赞助，买美股上BIT—16000+ 只美股与 ETF，真实持仓，享股息分红。",
-        "created_at": "Fri Jul 03 04:38:37 +0000 2026",
-        "url": "https://x.com/qinbafrank/status/2072902811675922742",
+        "id": "2075534940767453494",
+        "author": "Bitget_zh",
+        "name": "Bitget中文",
+        "text": "Bitget 质押借贷｜无需卖出rToken，即可解锁流动性\n\n现已支持26种热门美股及ETF代币作为抵押品，包括 rNVDA、rAAPL、rGOOGL、rTSLA、rQQQ 等。\n\n持仓不动，畅借USDT、USDC及100+种加密资产。\n\n⚡ 实时结算\n🔁 随借随还\n✅ 无隐藏费用\n\n立即借贷 👉 https://t.co/QXFnHgsxbx https://t.co/stNakjXgJM",
+        "created_at": "Fri Jul 10 10:57:46 +0000 2026",
+        "url": "https://x.com/Bitget_zh/status/2075534940767453494",
         "has_media": true,
         "media_urls": [
-          "https://pbs.twimg.com/media/HMRuDhtbEAA2QX2.jpg"
+          "https://pbs.twimg.com/media/HM3HrWVbIAADEAo.jpg"
         ],
         "media_posters": [
-          "https://pbs.twimg.com/media/HMRuDhtbEAA2QX2.jpg"
+          "https://pbs.twimg.com/media/HM3HrWVbIAADEAo.jpg"
         ]
       }
     },
     {
-      "id": "2075098378145616208",
-      "title": "注明下“压缩式去杠杆”提法和文章第一部分内容大部分来自“贝叶斯之美，第二第三部分是个人思考内容。正好昨天也在思考这一波并不是宏观有问题、基本面出问题的去杠杆行情，也是6月中说高仓位、高杠杆状态下，产业风吹草动就容易引发去杠杆行情是一致的。…",
-      "summary": "注明下“压缩式去杠杆”提法和文章第一部分内容大部分来自“贝叶斯之美，第二第三部分是个人思考内容。正好昨天也在思考这一波并不是宏观有问题、基本面出问题的去杠杆行情，也是6月中说高仓位、高杠杆状态下，产业风吹草动就容易引发去杠杆行情是一致的。贝叶斯之美的“压缩式去杠杆” 提法更鲜明、分析更深入。需要注明出处。",
-      "link": "https://x.com/qinbafrank/status/2075098378145616208",
-      "source": "qinbafrank",
-      "source_id": "qinba",
-      "handle": "qinbafrank",
-      "lane": "Macro + AI",
-      "published": "2026-07-09T06:03:01+00:00",
-      "published_ts": 1783576981,
+      "id": "2075952208982716592",
+      "title": "这什么情况？中银香港都开始倒查交易明细了？",
+      "summary": "这什么情况？中银香港都开始倒查交易明细了？",
+      "link": "https://x.com/artinmemes/status/2075952208982716592",
+      "source": "美股OK哥",
+      "source_id": "okbro",
+      "handle": "artinmemes",
+      "lane": "Asia semis",
+      "published": "2026-07-11T14:35:50+00:00",
+      "published_ts": 1783780550,
       "metrics": {
-        "likes": 7,
-        "retweets": 1,
-        "replies": 0,
-        "views": 6526,
-        "hot_score": 25
+        "likes": 191,
+        "retweets": 17,
+        "replies": 38,
+        "views": 156415,
+        "hot_score": 661
       },
-      "categories": [
-        "Risk"
-      ],
+      "categories": [],
       "tickers": [],
       "is_retweet": false,
       "has_media": true,
       "media": [
-        "https://pbs.twimg.com/media/HMw6-KqbsAAjx1z.jpg",
-        "https://pbs.twimg.com/media/HMw6-KqbsAEA7RN.jpg"
+        "https://pbs.twimg.com/media/HM9Dco9bkAAQEL2.jpg"
       ],
       "quoted_tweet": null
     },
     {
-      "id": "2075067198570475727",
-      "title": "压缩式去杠杆走到哪一步了？之前也有聊过，近期市场调整的本质是高估值高杠杆高仓位成长板块的去杠杆。核心是宏观环境没有恶化到触发衰退交易，但也没有好到让美联储转向宽松。在缺乏宽松保护伞的背景下，高估值成长板块（尤其是半导体等高beta品种）的…",
-      "summary": "压缩式去杠杆走到哪一步了？之前也有聊过，近期市场调整的本质是高估值高杠杆高仓位成长板块的去杠杆。核心是宏观环境没有恶化到触发衰退交易，但也没有好到让美联储转向宽松。在缺乏宽松保护伞的背景下，高估值成长板块（尤其是半导体等高beta品种）的高杠杆、拥挤交易，被长端利率、油价扰动以及财报季前的避险情绪共同触发，形成了去杠杆压力，可以称之为压缩式去杠杆。 1、什么叫压缩式去杠杆？ 近期全球半导体板块的急速杀跌，并非传统意义上的基本面崩塌，而是典型的“压缩式去杠杆”。其核心在于：当一个板块在注意力驱动的牛市中，被叙事、衍生品、杠杆工具和拥挤资金共同推高后，一旦…",
-      "link": "https://x.com/qinbafrank/status/2075067198570475727",
-      "source": "qinbafrank",
-      "source_id": "qinba",
-      "handle": "qinbafrank",
-      "lane": "Macro + AI",
-      "published": "2026-07-09T03:59:07+00:00",
-      "published_ts": 1783569547,
+      "id": "2075694299841503694",
+      "title": "Many thousands of Costco’s U.S. hourly workers have over $1 million in their 401(k) accounts, per WSJ",
+      "summary": "Many thousands of Costco’s U.S. hourly workers have over $1 million in their 401(k) accounts, per WSJ",
+      "link": "https://x.com/unusual_whales/status/2075694299841503694",
+      "source": "unusual_whales",
+      "source_id": "whales",
+      "handle": "unusual_whales",
+      "lane": "Market tape",
+      "published": "2026-07-10T21:31:00+00:00",
+      "published_ts": 1783719060,
       "metrics": {
-        "likes": 103,
-        "retweets": 16,
-        "replies": 23,
-        "views": 80000,
-        "hot_score": 389
+        "likes": 30200,
+        "retweets": 1270,
+        "replies": 401,
+        "views": 3214103,
+        "hot_score": 67651
+      },
+      "categories": [],
+      "tickers": [],
+      "is_retweet": false,
+      "has_media": false,
+      "media": [],
+      "quoted_tweet": null
+    },
+    {
+      "id": "2075624852736922104",
+      "title": "BREAKING: Phoebe Gates’, Bill Gates' daughter, shopping app reportedly claimed commissions for sales it didn’t generate…",
+      "summary": "BREAKING: Phoebe Gates’, Bill Gates' daughter, shopping app reportedly claimed commissions for sales it didn’t generate, per Bloomberg",
+      "link": "https://x.com/unusual_whales/status/2075624852736922104",
+      "source": "unusual_whales",
+      "source_id": "whales",
+      "handle": "unusual_whales",
+      "lane": "Market tape",
+      "published": "2026-07-10T16:55:02+00:00",
+      "published_ts": 1783702502,
+      "metrics": {
+        "likes": 2315,
+        "retweets": 109,
+        "replies": 114,
+        "views": 380900,
+        "hot_score": 5669
       },
       "categories": [
-        "Memory",
-        "Semis",
-        "Macro",
-        "Risk"
+        "AI"
+      ],
+      "tickers": [],
+      "is_retweet": false,
+      "has_media": false,
+      "media": [],
+      "quoted_tweet": null
+    },
+    {
+      "id": "2075592861538787606",
+      "title": "段永平一开始说只买5%，现在又到7，估计最后会买到10% 不过尽管如此喊单，股价依然没啥起色，而且德银从4月到7月，一直喊做空泡泡玛特，给的目标价是140，理由是增速放缓labubu审美疲劳 关键时间点就看8月底，半年报能不能打德银的脸",
+      "summary": "段永平一开始说只买5%，现在又到7，估计最后会买到10% 不过尽管如此喊单，股价依然没啥起色，而且德银从4月到7月，一直喊做空泡泡玛特，给的目标价是140，理由是增速放缓labubu审美疲劳 关键时间点就看8月底，半年报能不能打德银的脸",
+      "link": "https://x.com/artinmemes/status/2075592861538787606",
+      "source": "美股OK哥",
+      "source_id": "okbro",
+      "handle": "artinmemes",
+      "lane": "Asia semis",
+      "published": "2026-07-10T14:47:55+00:00",
+      "published_ts": 1783694875,
+      "metrics": {
+        "likes": 24,
+        "retweets": 1,
+        "replies": 18,
+        "views": 21143,
+        "hot_score": 92
+      },
+      "categories": [],
+      "tickers": [],
+      "is_retweet": false,
+      "has_media": true,
+      "media": [
+        "https://pbs.twimg.com/media/HM37x7naIAAxslb.jpg"
+      ],
+      "quoted_tweet": null
+    },
+    {
+      "id": "2075585210734035323",
+      "title": "MU日线出现买点预警，我们club会员专属的禅动买卖点指标日线买卖点如图，下方黄框灰色信号出现买点预警，正式确认需要下周了 上方黄框为本次回调的卖点确认，在6月25日价格1253附近，之前6月22日也预警过一次",
+      "summary": "MU日线出现买点预警，我们club会员专属的禅动买卖点指标日线买卖点如图，下方黄框灰色信号出现买点预警，正式确认需要下周了 上方黄框为本次回调的卖点确认，在6月25日价格1253附近，之前6月22日也预警过一次",
+      "link": "https://x.com/maojietrading/status/2075585210734035323",
+      "source": "猫姐美股交易",
+      "source_id": "maojie",
+      "handle": "maojietrading",
+      "lane": "US equity trading",
+      "published": "2026-07-10T14:17:31+00:00",
+      "published_ts": 1783693051,
+      "metrics": {
+        "likes": 110,
+        "retweets": 2,
+        "replies": 1,
+        "views": 26361,
+        "hot_score": 257
+      },
+      "categories": [
+        "AI"
       ],
       "tickers": [],
       "is_retweet": false,
       "has_media": true,
       "media": [
-        "https://pbs.twimg.com/media/HMwenUwaYAAYc3B.jpg"
+        "https://pbs.twimg.com/media/HM31HCHagAAFQy3.jpg"
       ],
-      "quoted_tweet": {
-        "id": "2074357003556884498",
-        "author": "qinbafrank",
-        "name": "qinbafrank",
-        "text": "三星二季度业绩预告利润都超市预期，营收只是略低于市场最乐观的预期但也远超平均预期。为何还大跌？\n1）不是业绩不够好，而是市场跑在了业绩的前面。就是典型的‘卖事实’逻辑——投资者早已将极高的预期充分定价。当估值被拉伸、轮动全面展开时，即便强劲的业绩也不足以满足市场。\n\n2）也是昨天推文里聊到的：“本季财报季的关键点是预期已经很高，容错率变低。预期非常高，意味着市场不只是要公司 beat，还要公司大幅度raise”。\n\n再说说存储板块，5月份这里有聊过https://t.co/4SoC1im7zT按照现有几大存储厂商扩产的节奏来看，新产线投产可能要到27年下半年了，产能大规模释放就到28年了。未来一年，存储还是属于紧缺的状态。\n\n当下市场的状态跌的写照：高位、高杠杆、拥挤，又到了财报季，都知道市场预期很高，也都担心哪家财报放个炸弹，所以有避险。\n\n核心还是昨天推文聊到的：\n如果谷歌云、aws、微软云等几大云厂商继续大超预期，那么市场还会确实AI商业化经过一季度的拐点之后还是继续在加速的。同时几家CSP也要再次确认capex没有减缓。\n\n当然两大模型厂商官方披露的最新年化ARR数据也是非常关键核心的影响变量，看增速情况。\n\n昨天到今天的一个思考是https://t.co/CDcXb2n2FN，CSP业绩会是AI商业化进程关键的指标，权重能跟闭源大模型厂商同等重要，未来甚至更高。因为企业采用AI进程成本工程化阶段，很多高频、中低价值场景会转向高性价比token，这一部分商业价值其实是从闭源大模型身上切出来的，最终会沉淀在CSP的业绩上。CSP（云厂商）将成为最全最综合展示AI商业化进程的载体了。",
-        "created_at": "Tue Jul 07 04:57:03 +0000 2026",
-        "url": "https://x.com/qinbafrank/status/2074357003556884498",
-        "has_media": false,
-        "media_urls": [],
-        "media_posters": []
-      }
+      "quoted_tweet": null
+    },
+    {
+      "id": "2075582619258143185",
+      "title": "竞价到182了，有戏",
+      "summary": "竞价到182了，有戏",
+      "link": "https://x.com/artinmemes/status/2075582619258143185",
+      "source": "美股OK哥",
+      "source_id": "okbro",
+      "handle": "artinmemes",
+      "lane": "Asia semis",
+      "published": "2026-07-10T14:07:13+00:00",
+      "published_ts": 1783692433,
+      "metrics": {
+        "likes": 6,
+        "retweets": 0,
+        "replies": 4,
+        "views": 4662,
+        "hot_score": 20
+      },
+      "categories": [],
+      "tickers": [],
+      "is_retweet": false,
+      "has_media": true,
+      "media": [
+        "https://pbs.twimg.com/media/HM3zUSQaUAAUhTt.jpg"
+      ],
+      "quoted_tweet": null
+    },
+    {
+      "id": "2075518024808083475",
+      "title": "今天按计划韩股尾盘又干进去一些海力士，周一我能赢吗",
+      "summary": "今天按计划韩股尾盘又干进去一些海力士，周一我能赢吗",
+      "link": "https://x.com/artinmemes/status/2075518024808083475",
+      "source": "美股OK哥",
+      "source_id": "okbro",
+      "handle": "artinmemes",
+      "lane": "Asia semis",
+      "published": "2026-07-10T09:50:33+00:00",
+      "published_ts": 1783677033,
+      "metrics": {
+        "likes": 27,
+        "retweets": 0,
+        "replies": 22,
+        "views": 22085,
+        "hot_score": 98
+      },
+      "categories": [
+        "Memory"
+      ],
+      "tickers": [],
+      "is_retweet": false,
+      "has_media": false,
+      "media": [],
+      "quoted_tweet": null
+    },
+    {
+      "id": "2075477936829002151",
+      "title": "RT @Sinus84: $AMD 盘中表现强劲，当前价格为$551.41，盘中累计上涨+6.57%，显示出极高的买入动能。 技术分析层面，AMD今日开盘价$532.66，盘中一路向上突破，当前价格位于日内高点$559.50附近，显示出买…",
+      "summary": "RT @Sinus84: $AMD 盘中表现强劲，当前价格为$551.41，盘中累计上涨+6.57%，显示出极高的买入动能。 技术分析层面，AMD今日开盘价$532.66，盘中一路向上突破，当前价格位于日内高点$559.50附近，显示出买方力量占据绝对主导。与大盘（QQQ……",
+      "link": "https://x.com/maojietrading/status/2075477936829002151",
+      "source": "猫姐美股交易",
+      "source_id": "maojie",
+      "handle": "maojietrading",
+      "lane": "US equity trading",
+      "published": "2026-07-10T07:11:15+00:00",
+      "published_ts": 1783667475,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "views": 1760,
+        "hot_score": 6
+      },
+      "categories": [
+        "Semis"
+      ],
+      "tickers": [
+        "$AMD"
+      ],
+      "is_retweet": true,
+      "has_media": false,
+      "media": [],
+      "quoted_tweet": null
+    },
+    {
+      "id": "2075477891123691928",
+      "title": "RT @Sinus84:",
+      "summary": "RT @Sinus84:",
+      "link": "https://x.com/maojietrading/status/2075477891123691928",
+      "source": "猫姐美股交易",
+      "source_id": "maojie",
+      "handle": "maojietrading",
+      "lane": "US equity trading",
+      "published": "2026-07-10T07:11:04+00:00",
+      "published_ts": 1783667464,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "views": 1695,
+        "hot_score": 6
+      },
+      "categories": [],
+      "tickers": [],
+      "is_retweet": true,
+      "has_media": false,
+      "media": [],
+      "quoted_tweet": null
     },
     {
       "id": "2075033205229629556",
@@ -1232,11 +2405,11 @@
       "published": "2026-07-09T01:44:03+00:00",
       "published_ts": 1783561443,
       "metrics": {
-        "likes": 63,
+        "likes": 67,
         "retweets": 0,
         "replies": 2,
-        "views": 13569,
-        "hot_score": 141
+        "views": 17308,
+        "hot_score": 153
       },
       "categories": [
         "Risk"
@@ -1248,56 +2421,6 @@
         "https://pbs.twimg.com/media/HMv_sbvbQAAvNPI.jpg",
         "https://pbs.twimg.com/media/HMv_sbvboAAOk9O.jpg"
       ],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2075023702018621717",
-      "title": "RT @PeterMallouk: Bear markets pale in comparison to bull markets, both in market movement and duration. A good reminde…",
-      "summary": "RT @PeterMallouk: Bear markets pale in comparison to bull markets, both in market movement and duration. A good reminder for every long-ter…",
-      "link": "https://x.com/charliebilello/status/2075023702018621717",
-      "source": "Charlie Bilello",
-      "source_id": "bilello",
-      "handle": "charliebilello",
-      "lane": "Market data",
-      "published": "2026-07-09T01:06:17+00:00",
-      "published_ts": 1783559177,
-      "metrics": {
-        "likes": 0,
-        "retweets": 79,
-        "replies": 0,
-        "views": 11642,
-        "hot_score": 406
-      },
-      "categories": [],
-      "tickers": [],
-      "is_retweet": true,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2075016895850529267",
-      "title": "总认购资金量已经和SpaceX差不多了",
-      "summary": "总认购资金量已经和SpaceX差不多了",
-      "link": "https://x.com/artinmemes/status/2075016895850529267",
-      "source": "美股OK哥",
-      "source_id": "okbro",
-      "handle": "artinmemes",
-      "lane": "Asia semis",
-      "published": "2026-07-09T00:39:14+00:00",
-      "published_ts": 1783557554,
-      "metrics": {
-        "likes": 16,
-        "retweets": 0,
-        "replies": 2,
-        "views": 9532,
-        "hot_score": 43
-      },
-      "categories": [],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
       "quoted_tweet": null
     },
     {
@@ -1315,8 +2438,8 @@
         "likes": 240,
         "retweets": 12,
         "replies": 44,
-        "views": 74468,
-        "hot_score": 658
+        "views": 78998,
+        "hot_score": 662
       },
       "categories": [
         "AI",
@@ -1326,138 +2449,6 @@
       ],
       "tickers": [],
       "is_retweet": false,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2075012966739538178",
-      "title": "RT @charliebilello: The First Half of 2026: -EM/International &gt; US -Small/Mid Caps &gt; Large Caps -Value &gt; Growt…",
-      "summary": "RT @charliebilello: The First Half of 2026: -EM/International &gt; US -Small/Mid Caps &gt; Large Caps -Value &gt; Growth -Magnificent 7 down on the…",
-      "link": "https://x.com/charliebilello/status/2075012966739538178",
-      "source": "Charlie Bilello",
-      "source_id": "bilello",
-      "handle": "charliebilello",
-      "lane": "Market data",
-      "published": "2026-07-09T00:23:37+00:00",
-      "published_ts": 1783556617,
-      "metrics": {
-        "likes": 0,
-        "retweets": 38,
-        "replies": 0,
-        "views": 3,
-        "hot_score": 190
-      },
-      "categories": [
-        "Policy",
-        "Risk"
-      ],
-      "tickers": [],
-      "is_retweet": true,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2075012934929948695",
-      "title": "RT @charliebilello: At the start of the year, the bond market was pricing in 2 Fed rate CUTS. Today it's pricing in 1 t…",
-      "summary": "RT @charliebilello: At the start of the year, the bond market was pricing in 2 Fed rate CUTS. Today it's pricing in 1 to 2 Fed rate HIKES.…",
-      "link": "https://x.com/charliebilello/status/2075012934929948695",
-      "source": "Charlie Bilello",
-      "source_id": "bilello",
-      "handle": "charliebilello",
-      "lane": "Market data",
-      "published": "2026-07-09T00:23:30+00:00",
-      "published_ts": 1783556610,
-      "metrics": {
-        "likes": 0,
-        "retweets": 47,
-        "replies": 0,
-        "views": 6,
-        "hot_score": 235
-      },
-      "categories": [
-        "Macro"
-      ],
-      "tickers": [],
-      "is_retweet": true,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2075012904131166259",
-      "title": "RT @charliebilello: US Small Caps were up over 22% in the first half of 2026, their best first half performance since 1…",
-      "summary": "RT @charliebilello: US Small Caps were up over 22% in the first half of 2026, their best first half performance since 1991. Their outperfor…",
-      "link": "https://x.com/charliebilello/status/2075012904131166259",
-      "source": "Charlie Bilello",
-      "source_id": "bilello",
-      "handle": "charliebilello",
-      "lane": "Market data",
-      "published": "2026-07-09T00:23:22+00:00",
-      "published_ts": 1783556602,
-      "metrics": {
-        "likes": 0,
-        "retweets": 38,
-        "replies": 0,
-        "views": 2,
-        "hot_score": 190
-      },
-      "categories": [],
-      "tickers": [],
-      "is_retweet": true,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2074997390520545338",
-      "title": "RT @charliebilello: Global Central Bank Update: -New Zealand hiked rates for the first time in 3 years, 25 bps increase…",
-      "summary": "RT @charliebilello: Global Central Bank Update: -New Zealand hiked rates for the first time in 3 years, 25 bps increase to 2.50%.",
-      "link": "https://x.com/charliebilello/status/2074997390520545338",
-      "source": "Charlie Bilello",
-      "source_id": "bilello",
-      "handle": "charliebilello",
-      "lane": "Market data",
-      "published": "2026-07-08T23:21:44+00:00",
-      "published_ts": 1783552904,
-      "metrics": {
-        "likes": 0,
-        "retweets": 52,
-        "replies": 0,
-        "views": 5,
-        "hot_score": 260
-      },
-      "categories": [],
-      "tickers": [],
-      "is_retweet": true,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2074997376167612816",
-      "title": "RT @charliebilello: The Japanese Yen is at its lowest level since 1986 against the US Dollar, losing 54% of its value f…",
-      "summary": "RT @charliebilello: The Japanese Yen is at its lowest level since 1986 against the US Dollar, losing 54% of its value from the 2011 peak.…",
-      "link": "https://x.com/charliebilello/status/2074997376167612816",
-      "source": "Charlie Bilello",
-      "source_id": "bilello",
-      "handle": "charliebilello",
-      "lane": "Market data",
-      "published": "2026-07-08T23:21:40+00:00",
-      "published_ts": 1783552900,
-      "metrics": {
-        "likes": 0,
-        "retweets": 113,
-        "replies": 0,
-        "views": 5,
-        "hot_score": 565
-      },
-      "categories": [
-        "AI"
-      ],
-      "tickers": [],
-      "is_retweet": true,
       "has_media": false,
       "media": [],
       "quoted_tweet": null
@@ -1474,11 +2465,11 @@
       "published": "2026-07-08T22:36:42+00:00",
       "published_ts": 1783550202,
       "metrics": {
-        "likes": 3179,
-        "retweets": 471,
-        "replies": 70,
-        "views": 703904,
-        "hot_score": 9283
+        "likes": 3866,
+        "retweets": 616,
+        "replies": 92,
+        "views": 926241,
+        "hot_score": 11404
       },
       "categories": [],
       "tickers": [],
@@ -1486,609 +2477,6 @@
       "has_media": false,
       "media": [],
       "quoted_tweet": null
-    },
-    {
-      "id": "2074979055410266452",
-      "title": "Wow, looks like Elon + xAI at $SPCX managed to build an Anthropic Opus-level LLM with Grok 4.5. That’s much more cost e…",
-      "summary": "Wow, looks like Elon + xAI at $SPCX managed to build an Anthropic Opus-level LLM with Grok 4.5. That’s much more cost efficient as well… Kinda emulating what Chinese vendors have been doing to compete on pricing + adoption. (Which is an ideal thing given Chinese model growth amo…",
-      "link": "https://x.com/aleabitoreddit/status/2074979055410266452",
-      "source": "Serenity / 白毛股神",
-      "source_id": "serenity",
-      "handle": "aleabitoreddit",
-      "lane": "AI supply chain",
-      "published": "2026-07-08T22:08:52+00:00",
-      "published_ts": 1783548532,
-      "metrics": {
-        "likes": 2079,
-        "retweets": 152,
-        "replies": 262,
-        "views": 390448,
-        "hot_score": 5570
-      },
-      "categories": [
-        "AI"
-      ],
-      "tickers": [
-        "$SPCX"
-      ],
-      "is_retweet": false,
-      "has_media": true,
-      "media": [
-        "https://pbs.twimg.com/media/HMvOc30aYAARSbY.jpg",
-        "https://pbs.twimg.com/media/HMvOc37bwAAKHa8.jpg"
-      ],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2074965761345642660",
-      "title": "$META to build a new $10B DC in Canada to expand AI capacity. So much for the media framing of “Meta Compute”as overbui…",
-      "summary": "$META to build a new $10B DC in Canada to expand AI capacity. So much for the media framing of “Meta Compute”as overbuilding and cutting capex.",
-      "link": "https://x.com/aleabitoreddit/status/2074965761345642660",
-      "source": "Serenity / 白毛股神",
-      "source_id": "serenity",
-      "handle": "aleabitoreddit",
-      "lane": "AI supply chain",
-      "published": "2026-07-08T21:16:03+00:00",
-      "published_ts": 1783545363,
-      "metrics": {
-        "likes": 1402,
-        "retweets": 127,
-        "replies": 206,
-        "views": 304214,
-        "hot_score": 3949
-      },
-      "categories": [
-        "AI",
-        "Data centers"
-      ],
-      "tickers": [
-        "$META"
-      ],
-      "is_retweet": false,
-      "has_media": true,
-      "media": [
-        "https://pbs.twimg.com/media/HMvCXHqaEAAxPzv.jpg"
-      ],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2074955917594886549",
-      "title": "Trump owns defense contractors. $1.5 trillion is going to benefit them significantly. War is coming.",
-      "summary": "Trump owns defense contractors. $1.5 trillion is going to benefit them significantly. War is coming.",
-      "link": "https://x.com/TrumpsPortfolio/status/2074955917594886549",
-      "source": "Trump Portfolio Tracker",
-      "source_id": "trumptracker",
-      "handle": "TrumpsPortfolio",
-      "lane": "Policy trades",
-      "published": "2026-07-08T20:36:56+00:00",
-      "published_ts": 1783543016,
-      "metrics": {
-        "likes": 919,
-        "retweets": 82,
-        "replies": 17,
-        "views": 44574,
-        "hot_score": 2309
-      },
-      "categories": [
-        "Policy"
-      ],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": {
-        "id": "2074889407807508979",
-        "author": "zerohedge",
-        "name": "zerohedge",
-        "text": "*Trump: We're Going to Be Asking for $1.5T Coming Up for U.S. Military",
-        "created_at": "Wed Jul 08 16:12:39 +0000 2026",
-        "url": "https://x.com/zerohedge/status/2074889407807508979",
-        "has_media": false,
-        "media_urls": [],
-        "media_posters": []
-      }
-    },
-    {
-      "id": "2074951295027568736",
-      "title": "Let’s put it this way: Retail thinks a 30-60% drop is a “falling knife” where bagholders will never recover. And they e…",
-      "summary": "Let’s put it this way: Retail thinks a 30-60% drop is a “falling knife” where bagholders will never recover. And they end up panic selling after seeing swiggly line TAs and people comparing valuable chokepoints to memes. I see it as long term ownership over: - the next hyperscal…",
-      "link": "https://x.com/aleabitoreddit/status/2074951295027568736",
-      "source": "Serenity / 白毛股神",
-      "source_id": "serenity",
-      "handle": "aleabitoreddit",
-      "lane": "AI supply chain",
-      "published": "2026-07-08T20:18:34+00:00",
-      "published_ts": 1783541914,
-      "metrics": {
-        "likes": 2503,
-        "retweets": 179,
-        "replies": 274,
-        "views": 998409,
-        "hot_score": 6675
-      },
-      "categories": [
-        "AI",
-        "Crypto",
-        "Risk"
-      ],
-      "tickers": [
-        "$AXTI",
-        "$CCXI",
-        "$NBIS",
-        "$SIVE"
-      ],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": {
-        "id": "2074778487928553573",
-        "author": "Laila54623",
-        "name": "Laila",
-        "text": "@aleabitoreddit 白毛股神，能不能给我点心理按摩，NBIS是否今晚能止跌？它已经亏了我太多了，接近腰斩了",
-        "created_at": "Wed Jul 08 08:51:53 +0000 2026",
-        "url": "https://x.com/Laila54623/status/2074778487928553573",
-        "has_media": false,
-        "media_urls": [],
-        "media_posters": []
-      }
-    },
-    {
-      "id": "2074949191806177711",
-      "title": "TeraWulf recently signed a 20-year data center lease with Anthropic for 400MW of capacity, with first power delivery ex…",
-      "summary": "TeraWulf recently signed a 20-year data center lease with Anthropic for 400MW of capacity, with first power delivery expected in 2H 2027, with the lease expected to generate around $19 billion in revenue. $WULF $AVGO $GOOG $NVDA",
-      "link": "https://x.com/Beth_Kindig/status/2074949191806177711",
-      "source": "Beth Kindig",
-      "source_id": "kindig",
-      "handle": "Beth_Kindig",
-      "lane": "AI equities",
-      "published": "2026-07-08T20:10:12+00:00",
-      "published_ts": 1783541412,
-      "metrics": {
-        "likes": 170,
-        "retweets": 16,
-        "replies": 32,
-        "views": 24630,
-        "hot_score": 476
-      },
-      "categories": [
-        "Semis",
-        "Data centers"
-      ],
-      "tickers": [
-        "$AVGO",
-        "$GOOG",
-        "$NVDA",
-        "$WULF"
-      ],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2074930768451878912",
-      "title": "Trump: \"I predicted everything. I've been right about everything. And I have been for a long time. That's how I got to…",
-      "summary": "Trump: \"I predicted everything. I've been right about everything. And I have been for a long time. That's how I got to be president three times. That's how I won three elections. I did very well in the second one, won it. It was a rigged election.\"",
-      "link": "https://x.com/unusual_whales/status/2074930768451878912",
-      "source": "unusual_whales",
-      "source_id": "whales",
-      "handle": "unusual_whales",
-      "lane": "Market tape",
-      "published": "2026-07-08T18:57:00+00:00",
-      "published_ts": 1783537020,
-      "metrics": {
-        "likes": 1698,
-        "retweets": 116,
-        "replies": 234,
-        "views": 365972,
-        "hot_score": 4575
-      },
-      "categories": [
-        "Policy"
-      ],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2074920702071988422",
-      "title": "Trump says Iran may kill him: \"I may be gone too, because I'm their number one target.\"",
-      "summary": "Trump says Iran may kill him: \"I may be gone too, because I'm their number one target.\"",
-      "link": "https://x.com/unusual_whales/status/2074920702071988422",
-      "source": "unusual_whales",
-      "source_id": "whales",
-      "handle": "unusual_whales",
-      "lane": "Market tape",
-      "published": "2026-07-08T18:17:00+00:00",
-      "published_ts": 1783534620,
-      "metrics": {
-        "likes": 2778,
-        "retweets": 112,
-        "replies": 287,
-        "views": 404220,
-        "hot_score": 6807
-      },
-      "categories": [
-        "Policy"
-      ],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2074906140610109521",
-      "title": "Trump would love to do this because it profits him and his family. They probably placed some trades on energy companies…",
-      "summary": "Trump would love to do this because it profits him and his family. They probably placed some trades on energy companies right before he said this.",
-      "link": "https://x.com/TrumpsPortfolio/status/2074906140610109521",
-      "source": "Trump Portfolio Tracker",
-      "source_id": "trumptracker",
-      "handle": "TrumpsPortfolio",
-      "lane": "Policy trades",
-      "published": "2026-07-08T17:19:08+00:00",
-      "published_ts": 1783531148,
-      "metrics": {
-        "likes": 514,
-        "retweets": 43,
-        "replies": 14,
-        "views": 30110,
-        "hot_score": 1287
-      },
-      "categories": [
-        "AI",
-        "Policy"
-      ],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": {
-        "id": "2074867578850197890",
-        "author": "DeItaone",
-        "name": "*Walter Bloomberg",
-        "text": "TRUMP: MAYBE WE'LL DO SOME THINGS THAT COULD INCREASE THE OIL PRICE.",
-        "created_at": "Wed Jul 08 14:45:54 +0000 2026",
-        "url": "https://x.com/DeItaone/status/2074867578850197890",
-        "has_media": false,
-        "media_urls": [],
-        "media_posters": []
-      }
-    },
-    {
-      "id": "2074905602682445950",
-      "title": "Trump: In one day, we can knock down every single bridge in Iran. Their electric plants, where they make their electric…",
-      "summary": "Trump: In one day, we can knock down every single bridge in Iran. Their electric plants, where they make their electricity, if we have to, we’ll take them out.",
-      "link": "https://x.com/unusual_whales/status/2074905602682445950",
-      "source": "unusual_whales",
-      "source_id": "whales",
-      "handle": "unusual_whales",
-      "lane": "Market tape",
-      "published": "2026-07-08T17:17:00+00:00",
-      "published_ts": 1783531020,
-      "metrics": {
-        "likes": 1081,
-        "retweets": 61,
-        "replies": 117,
-        "views": 302120,
-        "hot_score": 2886
-      },
-      "categories": [
-        "Policy",
-        "Risk"
-      ],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2074900569484099795",
-      "title": "\"Ken Griffin of Citadel bought all 138 condos in a Miami tower, only to tear the building down,\" per Bloomberg.",
-      "summary": "\"Ken Griffin of Citadel bought all 138 condos in a Miami tower, only to tear the building down,\" per Bloomberg.",
-      "link": "https://x.com/unusual_whales/status/2074900569484099795",
-      "source": "unusual_whales",
-      "source_id": "whales",
-      "handle": "unusual_whales",
-      "lane": "Market tape",
-      "published": "2026-07-08T16:57:00+00:00",
-      "published_ts": 1783529820,
-      "metrics": {
-        "likes": 4529,
-        "retweets": 161,
-        "replies": 170,
-        "views": 679142,
-        "hot_score": 10533
-      },
-      "categories": [
-        "Risk"
-      ],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2074880537844408453",
-      "title": "How much you want to bet Trump and his pals went net short the market yesterday before Trump blasted out that Iran war…",
-      "summary": "How much you want to bet Trump and his pals went net short the market yesterday before Trump blasted out that Iran war is resuming. I would bet millions. And I bet they are covering right now and going long as some fake and good news is about to come out.",
-      "link": "https://x.com/TrumpsPortfolio/status/2074880537844408453",
-      "source": "Trump Portfolio Tracker",
-      "source_id": "trumptracker",
-      "handle": "TrumpsPortfolio",
-      "lane": "Policy trades",
-      "published": "2026-07-08T15:37:24+00:00",
-      "published_ts": 1783525044,
-      "metrics": {
-        "likes": 513,
-        "retweets": 39,
-        "replies": 16,
-        "views": 22161,
-        "hot_score": 1259
-      },
-      "categories": [
-        "Policy",
-        "Risk"
-      ],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2074861937578451198",
-      "title": "Please read the article here",
-      "summary": "Please read the article here",
-      "link": "https://x.com/TrumpsPortfolio/status/2074861937578451198",
-      "source": "Trump Portfolio Tracker",
-      "source_id": "trumptracker",
-      "handle": "TrumpsPortfolio",
-      "lane": "Policy trades",
-      "published": "2026-07-08T14:23:29+00:00",
-      "published_ts": 1783520609,
-      "metrics": {
-        "likes": 14,
-        "retweets": 0,
-        "replies": 0,
-        "views": 4371,
-        "hot_score": 32
-      },
-      "categories": [],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2074853877502103732",
-      "title": "今天发现了一个牛逼的AI应用，本来是用于给面试者AI打分的，还有心理侧写和撒谎判断 我把几个美股大佬的发言传进去，有意外收获 感觉会成为新的炒股分析利器",
-      "summary": "今天发现了一个牛逼的AI应用，本来是用于给面试者AI打分的，还有心理侧写和撒谎判断 我把几个美股大佬的发言传进去，有意外收获 感觉会成为新的炒股分析利器",
-      "link": "https://x.com/artinmemes/status/2074853877502103732",
-      "source": "美股OK哥",
-      "source_id": "okbro",
-      "handle": "artinmemes",
-      "lane": "Asia semis",
-      "published": "2026-07-08T13:51:27+00:00",
-      "published_ts": 1783518687,
-      "metrics": {
-        "likes": 184,
-        "retweets": 43,
-        "replies": 22,
-        "views": 44442,
-        "hot_score": 649
-      },
-      "categories": [
-        "AI"
-      ],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": true,
-      "media": [
-        "https://pbs.twimg.com/amplify_video_thumb/2074851825338204160/img/LPoQ8yk4RaAQsdvh.jpg"
-      ],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2074853711529275399",
-      "title": "明天看来海公公要硬起来了。",
-      "summary": "明天看来海公公要硬起来了。",
-      "link": "https://x.com/xiaomustock/status/2074853711529275399",
-      "source": "川沐 / Trumoo",
-      "source_id": "trumoo",
-      "handle": "xiaomustock",
-      "lane": "Semis trading",
-      "published": "2026-07-08T13:50:48+00:00",
-      "published_ts": 1783518648,
-      "metrics": {
-        "likes": 170,
-        "retweets": 2,
-        "replies": 44,
-        "views": 117930,
-        "hot_score": 511
-      },
-      "categories": [],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": true,
-      "media": [
-        "https://pbs.twimg.com/media/HMtcczVbwAAhQcf.jpg"
-      ],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2074853384906264662",
-      "title": "活过来了，终于反弹了，韩股总不可能天天熔断吧。 AI总不可能不搞了吧。 机器人和agent都是半吊子智障阶段。",
-      "summary": "活过来了，终于反弹了，韩股总不可能天天熔断吧。 AI总不可能不搞了吧。 机器人和agent都是半吊子智障阶段。",
-      "link": "https://x.com/xiaomustock/status/2074853384906264662",
-      "source": "川沐 / Trumoo",
-      "source_id": "trumoo",
-      "handle": "xiaomustock",
-      "lane": "Semis trading",
-      "published": "2026-07-08T13:49:30+00:00",
-      "published_ts": 1783518570,
-      "metrics": {
-        "likes": 233,
-        "retweets": 6,
-        "replies": 59,
-        "views": 118478,
-        "hot_score": 673
-      },
-      "categories": [
-        "AI"
-      ],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": true,
-      "media": [
-        "https://pbs.twimg.com/media/HMtcJ2jaAAA9HJv.jpg"
-      ],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2074852579163476334",
-      "title": "THE CEASEFIRE IS DEAD AND THE DIVIDEND IS ALIVE, folks!!! This morning Donald stood in Ankara and declared the Iran war…",
-      "summary": "THE CEASEFIRE IS DEAD AND THE DIVIDEND IS ALIVE, folks!!! This morning Donald stood in Ankara and declared the Iran war back ON — oil jumped 6.3% by breakfast — and I just published the FULL long-form investigation in my newsletter on exactly who benefits, every company, every d…",
-      "link": "https://x.com/TrumpsPortfolio/status/2074852579163476334",
-      "source": "Trump Portfolio Tracker",
-      "source_id": "trumptracker",
-      "handle": "TrumpsPortfolio",
-      "lane": "Policy trades",
-      "published": "2026-07-08T13:46:18+00:00",
-      "published_ts": 1783518378,
-      "metrics": {
-        "likes": 772,
-        "retweets": 201,
-        "replies": 23,
-        "views": 20489,
-        "hot_score": 2592
-      },
-      "categories": [
-        "AI",
-        "Data centers",
-        "Macro",
-        "Policy",
-        "Risk"
-      ],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": true,
-      "media": [
-        "https://pbs.twimg.com/media/HMtbVxqWMAAzRtM.jpg"
-      ],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2074838397341065516",
-      "title": "Blue Origin reportedly raising $10B at a $130B valuation per NYT. Seems pretty positive for $RKLB, $ASTS, and other spa…",
-      "summary": "Blue Origin reportedly raising $10B at a $130B valuation per NYT. Seems pretty positive for $RKLB, $ASTS, and other space names in terms of relative valuation anchoring. If SpaceX and Blue Origin is able to set such high valuations.",
-      "link": "https://x.com/aleabitoreddit/status/2074838397341065516",
-      "source": "Serenity / 白毛股神",
-      "source_id": "serenity",
-      "handle": "aleabitoreddit",
-      "lane": "AI supply chain",
-      "published": "2026-07-08T12:49:57+00:00",
-      "published_ts": 1783514997,
-      "metrics": {
-        "likes": 1668,
-        "retweets": 152,
-        "replies": 287,
-        "views": 435010,
-        "hot_score": 4818
-      },
-      "categories": [
-        "AI"
-      ],
-      "tickers": [
-        "$ASTS",
-        "$RKLB"
-      ],
-      "is_retweet": false,
-      "has_media": true,
-      "media": [
-        "https://pbs.twimg.com/media/HMtNvCIaIAATsrG.jpg"
-      ],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2074799339680202869",
-      "title": "Trump: “Spain is a terrible partner in NATO. They don't participate. They don't pay. Cut off all trade with Spain” Tbh…",
-      "summary": "Trump: “Spain is a terrible partner in NATO. They don't participate. They don't pay. Cut off all trade with Spain” Tbh no clue what’s going on anymore…",
-      "link": "https://x.com/aleabitoreddit/status/2074799339680202869",
-      "source": "Serenity / 白毛股神",
-      "source_id": "serenity",
-      "handle": "aleabitoreddit",
-      "lane": "AI supply chain",
-      "published": "2026-07-08T10:14:45+00:00",
-      "published_ts": 1783505685,
-      "metrics": {
-        "likes": 1181,
-        "retweets": 35,
-        "replies": 205,
-        "views": 367775,
-        "hot_score": 3109
-      },
-      "categories": [
-        "AI",
-        "Policy"
-      ],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": true,
-      "media": [
-        "https://pbs.twimg.com/media/HMsrADEboAAXTJD.jpg"
-      ],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2074796670551031899",
-      "title": "这是正主@Gate @jheioff 查一下这个盗币怎么做到的， 我本以为有了谷歌验证已经是天下无敌， 查查是不是内部人作案，不然不可能突破这么多安全项拿到这么多资料信息。",
-      "summary": "这是正主@Gate @jheioff 查一下这个盗币怎么做到的， 我本以为有了谷歌验证已经是天下无敌， 查查是不是内部人作案，不然不可能突破这么多安全项拿到这么多资料信息。",
-      "link": "https://x.com/xiaomustock/status/2074796670551031899",
-      "source": "川沐 / Trumoo",
-      "source_id": "trumoo",
-      "handle": "xiaomustock",
-      "lane": "Semis trading",
-      "published": "2026-07-08T10:04:08+00:00",
-      "published_ts": 1783505048,
-      "metrics": {
-        "likes": 259,
-        "retweets": 16,
-        "replies": 56,
-        "views": 278698,
-        "hot_score": 932
-      },
-      "categories": [],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": true,
-      "media": [
-        "https://pbs.twimg.com/media/HMsokq7bYAAH70y.jpg"
-      ],
-      "quoted_tweet": {
-        "id": "2074795308022964606",
-        "author": "jheioff",
-        "name": "第一美少女",
-        "text": "隔了几天没看gate，今天一看我人懵逼了，头皮凉了，我的 Gate 账户被盗，约 170 万美元资产被提空。\n我本人实名账户，已设置手机验证、Google Authenticator、邮箱验证；期间我的手机没有收到任何短信验证码，我也从未向任何人提供视频、手持身份证照片或登录录屏。\n但我邮箱里显示 7 月 4 日出现“重置登录密码邮箱验证”“重置安全项-补充资料”，7 月 5 日出现“账户邮箱更换提醒”。Gate 客服也确认：更换安全项通常需要实名本人提供手持照片或登录屏幕。另外我没有开api和api提现权限。\n\n请 Gate 立即说明：是谁提交了这些资料？为何在我未收到短信、未提供视频/手持身份证/录屏的情况下，安全项和邮箱可以被重置？请立刻冻结相关链上地址、公开处理进展并给出赔付方案。\n\n下面是具体被盗链接\nhttps://t.co/O6QSpfHIvF\nhttps://t.co/O6QSpfHIvF\nhttps://t.co/O6QSpfHIvF\nhttps://t.co/REbosO84C0\nhttps://t.co/dOENZ99GIw",
-        "created_at": "Wed Jul 08 09:58:43 +0000 2026",
-        "url": "https://x.com/jheioff/status/2074795308022964606",
-        "has_media": true,
-        "media_urls": [
-          "https://pbs.twimg.com/media/HMsmveWasAA4hE9.jpg",
-          "https://pbs.twimg.com/media/HMsmxiNbcAAqghH.jpg",
-          "https://pbs.twimg.com/media/HMsnTL5bkAAop3N.jpg"
-        ],
-        "media_posters": [
-          "https://pbs.twimg.com/media/HMsmveWasAA4hE9.jpg",
-          "https://pbs.twimg.com/media/HMsmxiNbcAAqghH.jpg",
-          "https://pbs.twimg.com/media/HMsnTL5bkAAop3N.jpg"
-        ]
-      }
     },
     {
       "id": "2074791883344413078",
@@ -2105,7 +2493,7 @@
         "likes": 0,
         "retweets": 1,
         "replies": 0,
-        "views": 1797,
+        "views": 1972,
         "hot_score": 6
       },
       "categories": [
@@ -2115,267 +2503,6 @@
       "is_retweet": true,
       "has_media": false,
       "media": [],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2074791831624442331",
-      "title": "有朋友刚在@Gate 被盗了170万美金， 账户资金被提空了，百分之百真实， 注意资金安全。",
-      "summary": "有朋友刚在@Gate 被盗了170万美金， 账户资金被提空了，百分之百真实， 注意资金安全。",
-      "link": "https://x.com/xiaomustock/status/2074791831624442331",
-      "source": "川沐 / Trumoo",
-      "source_id": "trumoo",
-      "handle": "xiaomustock",
-      "lane": "Semis trading",
-      "published": "2026-07-08T09:44:55+00:00",
-      "published_ts": 1783503895,
-      "metrics": {
-        "likes": 486,
-        "retweets": 32,
-        "replies": 134,
-        "views": 252433,
-        "hot_score": 1518
-      },
-      "categories": [],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": true,
-      "media": [
-        "https://pbs.twimg.com/media/HMskK-oawAEcRZv.jpg",
-        "https://pbs.twimg.com/media/HMskK-oawAA7hdF.jpg"
-      ],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2074647607276871789",
-      "title": "周二盘后检查数据，趋势很明显了，即我们最近两周强调的板块切换和普涨的初始，目前资金从半导体和存储出来后并没有流出美股市场，而是继续留在美股市场里并转移到其他板块 板块轮动切换的时期人心浮躁，最重要的是稳固内核，即我们上周五油管复盘视频分享…",
-      "summary": "周二盘后检查数据，趋势很明显了，即我们最近两周强调的板块切换和普涨的初始，目前资金从半导体和存储出来后并没有流出美股市场，而是继续留在美股市场里并转移到其他板块 板块轮动切换的时期人心浮躁，最重要的是稳固内核，即我们上周五油管复盘视频分享的定锚原则，这确实很难做到，一起共勉吧！",
-      "link": "https://x.com/maojietrading/status/2074647607276871789",
-      "source": "猫姐美股交易",
-      "source_id": "maojie",
-      "handle": "maojietrading",
-      "lane": "US equity trading",
-      "published": "2026-07-08T00:11:49+00:00",
-      "published_ts": 1783469509,
-      "metrics": {
-        "likes": 72,
-        "retweets": 1,
-        "replies": 2,
-        "views": 16188,
-        "hot_score": 167
-      },
-      "categories": [
-        "Memory",
-        "Semis"
-      ],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": true,
-      "media": [
-        "https://pbs.twimg.com/media/HMqgi0HaEAA2pJK.jpg"
-      ],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2074621228883890495",
-      "title": "Broadcom announced on Monday that it has expanded its partnership with Apple until 2031 to develop and supply custom ch…",
-      "summary": "Broadcom announced on Monday that it has expanded its partnership with Apple until 2031 to develop and supply custom chips, with it said to cover multiple future generations of Apple hardware. $AVGO $AAPL",
-      "link": "https://x.com/Beth_Kindig/status/2074621228883890495",
-      "source": "Beth Kindig",
-      "source_id": "kindig",
-      "handle": "Beth_Kindig",
-      "lane": "AI equities",
-      "published": "2026-07-07T22:27:00+00:00",
-      "published_ts": 1783463220,
-      "metrics": {
-        "likes": 272,
-        "retweets": 12,
-        "replies": 26,
-        "views": 33004,
-        "hot_score": 663
-      },
-      "categories": [
-        "AI",
-        "Semis",
-        "Data centers"
-      ],
-      "tickers": [
-        "$AAPL",
-        "$AVGO"
-      ],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2074605990658376093",
-      "title": "AI data center startup Crusoe is in talks to raise $3 billion in funding at a valuation in the $30 billion range, or tr…",
-      "summary": "AI data center startup Crusoe is in talks to raise $3 billion in funding at a valuation in the $30 billion range, or triple its prior valuation from last year. $NVDA $MSFT $META",
-      "link": "https://x.com/Beth_Kindig/status/2074605990658376093",
-      "source": "Beth Kindig",
-      "source_id": "kindig",
-      "handle": "Beth_Kindig",
-      "lane": "AI equities",
-      "published": "2026-07-07T21:26:27+00:00",
-      "published_ts": 1783459587,
-      "metrics": {
-        "likes": 129,
-        "retweets": 9,
-        "replies": 28,
-        "views": 63874,
-        "hot_score": 394
-      },
-      "categories": [
-        "AI",
-        "Semis",
-        "Data centers"
-      ],
-      "tickers": [
-        "$META",
-        "$MSFT",
-        "$NVDA"
-      ],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2074510519231504549",
-      "title": "我说大兄弟们，别纠缠这几个前期热门个股了好吗？😂😤",
-      "summary": "我说大兄弟们，别纠缠这几个前期热门个股了好吗？😂😤",
-      "link": "https://x.com/maojietrading/status/2074510519231504549",
-      "source": "猫姐美股交易",
-      "source_id": "maojie",
-      "handle": "maojietrading",
-      "lane": "US equity trading",
-      "published": "2026-07-07T15:07:04+00:00",
-      "published_ts": 1783436824,
-      "metrics": {
-        "likes": 67,
-        "retweets": 1,
-        "replies": 3,
-        "views": 17691,
-        "hot_score": 159
-      },
-      "categories": [],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": true,
-      "media": [
-        "https://pbs.twimg.com/media/HMokUGqa4AEqZ-g.jpg"
-      ],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2074503872962535687",
-      "title": "交易最大的魔障不是市场走势，而是自性。例如我们重申了好几个月的XLP, XLV等多样化持仓，今天继续上涨，和纳指是很好的对冲；近期本猫点名的多个与存储和半导体相反的热门板块和个股，周二表现也不错 然并卵，还是一大票同学非要和MU, 半导体…",
-      "summary": "交易最大的魔障不是市场走势，而是自性。例如我们重申了好几个月的XLP, XLV等多样化持仓，今天继续上涨，和纳指是很好的对冲；近期本猫点名的多个与存储和半导体相反的热门板块和个股，周二表现也不错 然并卵，还是一大票同学非要和MU, 半导体纠缠，报复性交易和不甘心，是交易的坏习惯啊。。。",
-      "link": "https://x.com/maojietrading/status/2074503872962535687",
-      "source": "猫姐美股交易",
-      "source_id": "maojie",
-      "handle": "maojietrading",
-      "lane": "US equity trading",
-      "published": "2026-07-07T14:40:40+00:00",
-      "published_ts": 1783435240,
-      "metrics": {
-        "likes": 75,
-        "retweets": 3,
-        "replies": 1,
-        "views": 17315,
-        "hot_score": 183
-      },
-      "categories": [
-        "Memory",
-        "Semis"
-      ],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2074359765963305166",
-      "title": "爬梯子真是不方便，发一段X弄半天都失败，好容易成功了发现两段稍微发重了，不管怎么样，意思不变",
-      "summary": "爬梯子真是不方便，发一段X弄半天都失败，好容易成功了发现两段稍微发重了，不管怎么样，意思不变",
-      "link": "https://x.com/maojietrading/status/2074359765963305166",
-      "source": "猫姐美股交易",
-      "source_id": "maojie",
-      "handle": "maojietrading",
-      "lane": "US equity trading",
-      "published": "2026-07-07T05:08:02+00:00",
-      "published_ts": 1783400882,
-      "metrics": {
-        "likes": 14,
-        "retweets": 0,
-        "replies": 0,
-        "views": 4223,
-        "hot_score": 32
-      },
-      "categories": [],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2074310368323854805",
-      "title": "三星Q2财报没超预期，甚至略低于预期 Q2利润是89.4万亿，看似同比高，但是6月底，韩国主流券商里，KB把预期下调到90，Kiwoom下调到89，Hana和Daishin维持91、92 哎，还是7月30看他们电话会吧",
-      "summary": "三星Q2财报没超预期，甚至略低于预期 Q2利润是89.4万亿，看似同比高，但是6月底，韩国主流券商里，KB把预期下调到90，Kiwoom下调到89，Hana和Daishin维持91、92 哎，还是7月30看他们电话会吧",
-      "link": "https://x.com/artinmemes/status/2074310368323854805",
-      "source": "美股OK哥",
-      "source_id": "okbro",
-      "handle": "artinmemes",
-      "lane": "Asia semis",
-      "published": "2026-07-07T01:51:45+00:00",
-      "published_ts": 1783389105,
-      "metrics": {
-        "likes": 37,
-        "retweets": 0,
-        "replies": 12,
-        "views": 26547,
-        "hot_score": 112
-      },
-      "categories": [
-        "AI",
-        "Memory"
-      ],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2074304378660687916",
-      "title": "周一美股市场还是按照笨猫上周五油管美股复盘视频所述的情况在走，即资金从存储/半导体抽离后进入其他板块并形成短期资金重点，甚至一定程度恢复了普涨我们6/26更新的个股list涨幅都不错，每天开盘也会给club小伙伴更新主力资金重点切换极快，…",
-      "summary": "周一美股市场还是按照笨猫上周五油管美股复盘视频所述的情况在走，即资金从存储/半导体抽离后进入其他板块并形成短期资金重点，甚至一定程度恢复了普涨我们6/26更新的个股list涨幅都不错，每天开盘也会给club小伙伴更新主力资金重点切换极快，我们 我们6/26更新的个股list涨幅都不错，每天开盘也会给club小伙伴更新当日资金重点，目前主力资金重点切换极快，主要是高利率情况下机构/大户融资和资金成本高所导致的，大家都要吃饭，没办法，只能适应",
-      "link": "https://x.com/maojietrading/status/2074304378660687916",
-      "source": "猫姐美股交易",
-      "source_id": "maojie",
-      "handle": "maojietrading",
-      "lane": "US equity trading",
-      "published": "2026-07-07T01:27:57+00:00",
-      "published_ts": 1783387677,
-      "metrics": {
-        "likes": 44,
-        "retweets": 1,
-        "replies": 2,
-        "views": 17667,
-        "hot_score": 112
-      },
-      "categories": [
-        "Memory",
-        "Semis"
-      ],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": true,
-      "media": [
-        "https://pbs.twimg.com/media/HMloRyYaUAAsaDr.jpg"
-      ],
       "quoted_tweet": null
     },
     {
@@ -2390,154 +2517,13 @@
       "published": "2026-07-06T19:41:16+00:00",
       "published_ts": 1783366876,
       "metrics": {
-        "likes": 104,
-        "retweets": 8,
-        "replies": 7,
-        "views": 52544,
-        "hot_score": 307
+        "likes": 111,
+        "retweets": 9,
+        "replies": 9,
+        "views": 55576,
+        "hot_score": 331
       },
       "categories": [],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2074139558401523927",
-      "title": "美股版本之子leopold的基金也确定了海力士的认购意向，崔泰源要开心了",
-      "summary": "美股版本之子leopold的基金也确定了海力士的认购意向，崔泰源要开心了",
-      "link": "https://x.com/artinmemes/status/2074139558401523927",
-      "source": "美股OK哥",
-      "source_id": "okbro",
-      "handle": "artinmemes",
-      "lane": "Asia semis",
-      "published": "2026-07-06T14:33:01+00:00",
-      "published_ts": 1783348381,
-      "metrics": {
-        "likes": 33,
-        "retweets": 1,
-        "replies": 3,
-        "views": 15369,
-        "hot_score": 89
-      },
-      "categories": [
-        "Memory"
-      ],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": true,
-      "media": [
-        "https://pbs.twimg.com/media/HMjSgdWa4AA4ndB.jpg",
-        "https://pbs.twimg.com/media/HMjSrxKbwAANReE.png"
-      ],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2074117745512456253",
-      "title": "海力士刚竟然把认购截止提前一天，到7月8就拉闸了，说明抢的机构很多啊，我估计起码3倍超募 要是明早三星再传好消息，韩股又是美美的一天了",
-      "summary": "海力士刚竟然把认购截止提前一天，到7月8就拉闸了，说明抢的机构很多啊，我估计起码3倍超募 要是明早三星再传好消息，韩股又是美美的一天了",
-      "link": "https://x.com/artinmemes/status/2074117745512456253",
-      "source": "美股OK哥",
-      "source_id": "okbro",
-      "handle": "artinmemes",
-      "lane": "Asia semis",
-      "published": "2026-07-06T13:06:20+00:00",
-      "published_ts": 1783343180,
-      "metrics": {
-        "likes": 272,
-        "retweets": 11,
-        "replies": 49,
-        "views": 128236,
-        "hot_score": 776
-      },
-      "categories": [
-        "Memory"
-      ],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2073988187899519273",
-      "title": "这几天和国内私募的小伙伴聊，这波存储不少人从头吃到尾，原因倒也不是交易策略多好，而是墙内境外投资额度和美元资金安排都很难搞，有时还得向券商融资等等各种办法，但问题是一旦卖出，再重新把资金和额度安排起来很麻烦，所以干脆拿着，拿着拿着就吃了几…",
-      "summary": "这几天和国内私募的小伙伴聊，这波存储不少人从头吃到尾，原因倒也不是交易策略多好，而是墙内境外投资额度和美元资金安排都很难搞，有时还得向券商融资等等各种办法，但问题是一旦卖出，再重新把资金和额度安排起来很麻烦，所以干脆拿着，拿着拿着就吃了几乎一整波😂😅 有时麻烦反而是个好事。",
-      "link": "https://x.com/maojietrading/status/2073988187899519273",
-      "source": "猫姐美股交易",
-      "source_id": "maojie",
-      "handle": "maojietrading",
-      "lane": "US equity trading",
-      "published": "2026-07-06T04:31:31+00:00",
-      "published_ts": 1783312291,
-      "metrics": {
-        "likes": 85,
-        "retweets": 2,
-        "replies": 2,
-        "views": 20505,
-        "hot_score": 202
-      },
-      "categories": [
-        "Memory"
-      ],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2073970823703183415",
-      "title": "虽然我已经卖了海力士，但别看韩股今天跌的猛，明天是三星的Q2财报 我看了下，各大韩国证券公司已经下调预期了，感觉就是为了让三星超预期 因为一旦低于预期，杀伤力可比meta猛多了，海力士adr不好卖 财阀社会盘根错节你懂的，这周韩国媒体可是…",
-      "summary": "虽然我已经卖了海力士，但别看韩股今天跌的猛，明天是三星的Q2财报 我看了下，各大韩国证券公司已经下调预期了，感觉就是为了让三星超预期 因为一旦低于预期，杀伤力可比meta猛多了，海力士adr不好卖 财阀社会盘根错节你懂的，这周韩国媒体可是渲染“韩国周”，不能轻易拉稀",
-      "link": "https://x.com/artinmemes/status/2073970823703183415",
-      "source": "美股OK哥",
-      "source_id": "okbro",
-      "handle": "artinmemes",
-      "lane": "Asia semis",
-      "published": "2026-07-06T03:22:31+00:00",
-      "published_ts": 1783308151,
-      "metrics": {
-        "likes": 221,
-        "retweets": 17,
-        "replies": 20,
-        "views": 106968,
-        "hot_score": 653
-      },
-      "categories": [
-        "Memory",
-        "Risk"
-      ],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": true,
-      "media": [
-        "https://pbs.twimg.com/media/HMg4JBBakAAewvP.jpg"
-      ],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2073688042699960657",
-      "title": "看了下几大韩国证券公司研报里，现在海力士的目标价 韩华：430万 KB、新韩、未来：420万 NH：410万 几乎一水都是强烈推买入，相比现价差不多翻倍 相比之下，国际投行像UBS，昨天目标价也就加到320万而已 来说说，你下周会冲海力士吗",
-      "summary": "看了下几大韩国证券公司研报里，现在海力士的目标价 韩华：430万 KB、新韩、未来：420万 NH：410万 几乎一水都是强烈推买入，相比现价差不多翻倍 相比之下，国际投行像UBS，昨天目标价也就加到320万而已 来说说，你下周会冲海力士吗",
-      "link": "https://x.com/artinmemes/status/2073688042699960657",
-      "source": "美股OK哥",
-      "source_id": "okbro",
-      "handle": "artinmemes",
-      "lane": "Asia semis",
-      "published": "2026-07-05T08:38:51+00:00",
-      "published_ts": 1783240731,
-      "metrics": {
-        "likes": 92,
-        "retweets": 10,
-        "replies": 22,
-        "views": 39248,
-        "hot_score": 295
-      },
-      "categories": [
-        "Memory"
-      ],
       "tickers": [],
       "is_retweet": false,
       "has_media": false,
@@ -2556,11 +2542,11 @@
       "published": "2026-07-02T16:08:31+00:00",
       "published_ts": 1783008511,
       "metrics": {
-        "likes": 849,
-        "retweets": 147,
-        "replies": 123,
-        "views": 266583,
-        "hot_score": 2822
+        "likes": 858,
+        "retweets": 153,
+        "replies": 124,
+        "views": 270187,
+        "hot_score": 2875
       },
       "categories": [],
       "tickers": [],
@@ -2583,11 +2569,11 @@
       "published": "2026-07-02T06:56:05+00:00",
       "published_ts": 1782975365,
       "metrics": {
-        "likes": 209,
+        "likes": 214,
         "retweets": 33,
         "replies": 102,
-        "views": 77945,
-        "hot_score": 762
+        "views": 78610,
+        "hot_score": 773
       },
       "categories": [
         "Risk"
@@ -2621,10 +2607,10 @@
       "published_ts": 1782843766,
       "metrics": {
         "likes": 142,
-        "retweets": 16,
+        "retweets": 17,
         "replies": 9,
-        "views": 37395,
-        "hot_score": 410
+        "views": 38243,
+        "hot_score": 416
       },
       "categories": [
         "AI"
@@ -2647,11 +2633,11 @@
       "published": "2026-06-30T06:30:59+00:00",
       "published_ts": 1782801059,
       "metrics": {
-        "likes": 276,
+        "likes": 281,
         "retweets": 22,
         "replies": 103,
-        "views": 45058,
-        "hot_score": 810
+        "views": 45418,
+        "hot_score": 820
       },
       "categories": [],
       "tickers": [],
@@ -2672,11 +2658,11 @@
       "published": "2026-06-27T13:04:19+00:00",
       "published_ts": 1782565459,
       "metrics": {
-        "likes": 83,
+        "likes": 84,
         "retweets": 6,
         "replies": 38,
-        "views": 46727,
-        "hot_score": 280
+        "views": 47080,
+        "hot_score": 283
       },
       "categories": [],
       "tickers": [],
@@ -2712,10 +2698,10 @@
       "published_ts": 1782404726,
       "metrics": {
         "likes": 18,
-        "retweets": 2,
+        "retweets": 4,
         "replies": 2,
-        "views": 23914,
-        "hot_score": 71
+        "views": 24731,
+        "hot_score": 82
       },
       "categories": [],
       "tickers": [],
@@ -2754,11 +2740,11 @@
       "published": "2026-06-25T16:25:25+00:00",
       "published_ts": 1782404725,
       "metrics": {
-        "likes": 94,
-        "retweets": 12,
+        "likes": 93,
+        "retweets": 11,
         "replies": 25,
-        "views": 42553,
-        "hot_score": 315
+        "views": 43261,
+        "hot_score": 309
       },
       "categories": [
         "AI",
@@ -2807,11 +2793,11 @@
       "published": "2026-06-25T00:56:20+00:00",
       "published_ts": 1782348980,
       "metrics": {
-        "likes": 178,
-        "retweets": 13,
+        "likes": 181,
+        "retweets": 14,
         "replies": 88,
-        "views": 121836,
-        "hot_score": 630
+        "views": 122819,
+        "hot_score": 642
       },
       "categories": [
         "AI",
@@ -2835,11 +2821,11 @@
       "published": "2026-06-24T10:52:41+00:00",
       "published_ts": 1782298361,
       "metrics": {
-        "likes": 98,
+        "likes": 99,
         "retweets": 0,
-        "replies": 83,
-        "views": 31203,
-        "hot_score": 310
+        "replies": 82,
+        "views": 31316,
+        "hot_score": 311
       },
       "categories": [
         "Crypto"
@@ -2862,11 +2848,11 @@
       "published": "2026-06-23T13:35:32+00:00",
       "published_ts": 1782221732,
       "metrics": {
-        "likes": 83,
-        "retweets": 13,
+        "likes": 82,
+        "retweets": 12,
         "replies": 13,
-        "views": 45513,
-        "hot_score": 289
+        "views": 46106,
+        "hot_score": 283
       },
       "categories": [],
       "tickers": [],
@@ -2887,11 +2873,11 @@
       "published": "2026-06-23T04:23:44+00:00",
       "published_ts": 1782188624,
       "metrics": {
-        "likes": 66,
+        "likes": 67,
         "retweets": 9,
         "replies": 63,
-        "views": 32412,
-        "hot_score": 272
+        "views": 32559,
+        "hot_score": 274
       },
       "categories": [
         "AI"
@@ -2917,7 +2903,7 @@
         "likes": 98,
         "retweets": 6,
         "replies": 70,
-        "views": 22495,
+        "views": 22590,
         "hot_score": 318
       },
       "categories": [
@@ -2944,7 +2930,7 @@
         "likes": 153,
         "retweets": 7,
         "replies": 112,
-        "views": 69559,
+        "views": 69692,
         "hot_score": 522
       },
       "categories": [
@@ -2997,11 +2983,11 @@
       "published": "2025-10-08T20:19:20+00:00",
       "published_ts": 1759954760,
       "metrics": {
-        "likes": 1018,
+        "likes": 1024,
         "retweets": 63,
         "replies": 35,
-        "views": 584549,
-        "hot_score": 2886
+        "views": 589371,
+        "hot_score": 2898
       },
       "categories": [],
       "tickers": [],
@@ -3036,11 +3022,11 @@
       "published": "2025-08-12T02:06:04+00:00",
       "published_ts": 1754964364,
       "metrics": {
-        "likes": 907,
+        "likes": 912,
         "retweets": 62,
         "replies": 57,
-        "views": 318056,
-        "hot_score": 2499
+        "views": 320477,
+        "hot_score": 2511
       },
       "categories": [],
       "tickers": [],
@@ -3062,10 +3048,10 @@
       "published_ts": 1742402426,
       "metrics": {
         "likes": 0,
-        "retweets": 892,
+        "retweets": 889,
         "replies": 0,
         "views": 29,
-        "hot_score": 4460
+        "hot_score": 4445
       },
       "categories": [
         "AI"
@@ -3088,11 +3074,11 @@
       "published": "2024-10-11T21:08:15+00:00",
       "published_ts": 1728680895,
       "metrics": {
-        "likes": 1228,
-        "retweets": 121,
+        "likes": 1232,
+        "retweets": 120,
         "replies": 49,
-        "views": 461972,
-        "hot_score": 3571
+        "views": 464434,
+        "hot_score": 3577
       },
       "categories": [
         "AI",
@@ -3116,7 +3102,7 @@
           "name": "summary_large_image",
           "title": "Dario Amodei — Machines of Loving Grace",
           "description": "How AI Could Transform the World for the Better",
-          "image_url": "https://pbs.twimg.com/card_img/2073997949630398464/kKkmNcGg?format=jpg&name=600x600",
+          "image_url": "https://pbs.twimg.com/card_img/2076544179400736768/C8Kgpcmz?format=jpg&name=600x600",
           "url": "https://darioamodei.com/machines-of-loving-grace",
           "domain": "darioamodei.com"
         }
@@ -3200,6 +3186,31 @@
       ],
       "tickers": [],
       "is_retweet": true,
+      "has_media": false,
+      "media": [],
+      "quoted_tweet": null
+    },
+    {
+      "id": "2076260409221456071",
+      "title": "",
+      "summary": "",
+      "link": "https://x.com/aleabitoreddit/status/2076260409221456071",
+      "source": "Serenity / 白毛股神",
+      "source_id": "serenity",
+      "handle": "aleabitoreddit",
+      "lane": "AI supply chain",
+      "published": "",
+      "published_ts": 0,
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "views": 0,
+        "hot_score": 0
+      },
+      "categories": [],
+      "tickers": [],
+      "is_retweet": false,
       "has_media": false,
       "media": [],
       "quoted_tweet": null
