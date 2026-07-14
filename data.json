@@ -1,8 +1,244 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-14T12:07:10.723665+00:00",
-  "generated_ts": 1784030830,
+  "generated_at": "2026-07-14T13:07:17.499750+00:00",
+  "generated_ts": 1784034437,
   "articles": [
+    {
+      "id": "2077016203357192314",
+      "title": "RT @charliebilello: If you took a penalty kick in a World Cup match, do you think you would score?",
+      "summary": "RT @charliebilello: If you took a penalty kick in a World Cup match, do you think you would score?",
+      "link": "https://x.com/charliebilello/status/2077016203357192314",
+      "source": "Charlie Bilello",
+      "source_id": "bilello",
+      "handle": "charliebilello",
+      "lane": "Market data",
+      "published": "2026-07-14T13:03:46+00:00",
+      "published_ts": 1784034226,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "views": 0,
+        "hot_score": 5
+      },
+      "categories": [],
+      "tickers": [],
+      "is_retweet": true,
+      "has_media": false,
+      "media": [],
+      "quoted_tweet": null
+    },
+    {
+      "id": "2077014498754584577",
+      "title": "BREAKING: The US sent out $49.1 billion in tariff refunds in June to businesses, per YF",
+      "summary": "BREAKING: The US sent out $49.1 billion in tariff refunds in June to businesses, per YF",
+      "link": "https://x.com/unusual_whales/status/2077014498754584577",
+      "source": "unusual_whales",
+      "source_id": "whales",
+      "handle": "unusual_whales",
+      "lane": "Market tape",
+      "published": "2026-07-14T12:57:00+00:00",
+      "published_ts": 1784033820,
+      "metrics": {
+        "likes": 136,
+        "retweets": 18,
+        "replies": 70,
+        "views": 42906,
+        "hot_score": 474
+      },
+      "categories": [],
+      "tickers": [],
+      "is_retweet": false,
+      "has_media": false,
+      "media": [],
+      "quoted_tweet": null
+    },
+    {
+      "id": "2077013860536459673",
+      "title": "Monetary policy should be restrictive until the 13% additional inflation we've had since January 2020 above the 2% tren…",
+      "summary": "Monetary policy should be restrictive until the 13% additional inflation we've had since January 2020 above the 2% trendline is erased. There's no point in having a 2% inflation target if you're not going to adhere to it. The Fed should be hiking rates to attack this scourge.",
+      "link": "https://x.com/charliebilello/status/2077013860536459673",
+      "source": "Charlie Bilello",
+      "source_id": "bilello",
+      "handle": "charliebilello",
+      "lane": "Market data",
+      "published": "2026-07-14T12:54:28+00:00",
+      "published_ts": 1784033668,
+      "metrics": {
+        "likes": 41,
+        "retweets": 7,
+        "replies": 14,
+        "views": 9535,
+        "hot_score": 140
+      },
+      "categories": [
+        "Macro"
+      ],
+      "tickers": [],
+      "is_retweet": false,
+      "has_media": true,
+      "media": [
+        "https://pbs.twimg.com/media/HNMI8IGWAAEsCNv.png"
+      ],
+      "quoted_tweet": null
+    },
+    {
+      "id": "2077010510273204639",
+      "title": "64. As in 64 consecutive months with US inflation above the Fed's 2% target. The Fed has lost all credibility when it c…",
+      "summary": "64. As in 64 consecutive months with US inflation above the Fed's 2% target. The Fed has lost all credibility when it comes to fighting inflation.",
+      "link": "https://x.com/charliebilello/status/2077010510273204639",
+      "source": "Charlie Bilello",
+      "source_id": "bilello",
+      "handle": "charliebilello",
+      "lane": "Market data",
+      "published": "2026-07-14T12:41:09+00:00",
+      "published_ts": 1784032869,
+      "metrics": {
+        "likes": 88,
+        "retweets": 24,
+        "replies": 22,
+        "views": 14025,
+        "hot_score": 332
+      },
+      "categories": [
+        "Macro",
+        "Policy"
+      ],
+      "tickers": [],
+      "is_retweet": false,
+      "has_media": true,
+      "media": [
+        "https://pbs.twimg.com/media/HNMF6TZXcAAzT0d.jpg"
+      ],
+      "quoted_tweet": null
+    },
+    {
+      "id": "2077008835730886943",
+      "title": "Price changes over last year (June CPI report) Fuel Oil: +42.9% Gasoline: +26.7% Electricity: +4.0% Apparel: +3.9% Over…",
+      "summary": "Price changes over last year (June CPI report) Fuel Oil: +42.9% Gasoline: +26.7% Electricity: +4.0% Apparel: +3.9% Overall CPI: +3.5% Food away from home: +3.4% Transportation: +3.4% Shelter: +3.3% Gas Utilities: +3.0% Medical Care: +2.9% Food at home: +2.7% New Cars: +0.5% Used…",
+      "link": "https://x.com/charliebilello/status/2077008835730886943",
+      "source": "Charlie Bilello",
+      "source_id": "bilello",
+      "handle": "charliebilello",
+      "lane": "Market data",
+      "published": "2026-07-14T12:34:30+00:00",
+      "published_ts": 1784032470,
+      "metrics": {
+        "likes": 46,
+        "retweets": 13,
+        "replies": 13,
+        "views": 14530,
+        "hot_score": 184
+      },
+      "categories": [
+        "Macro",
+        "Policy"
+      ],
+      "tickers": [],
+      "is_retweet": false,
+      "has_media": false,
+      "media": [],
+      "quoted_tweet": null
+    },
+    {
+      "id": "2077008363842658763",
+      "title": "BREAKING: US CPI YoY: 3.5%, forecast: 3.8%, previous: 4.2%",
+      "summary": "BREAKING: US CPI YoY: 3.5%, forecast: 3.8%, previous: 4.2%",
+      "link": "https://x.com/unusual_whales/status/2077008363842658763",
+      "source": "unusual_whales",
+      "source_id": "whales",
+      "handle": "unusual_whales",
+      "lane": "Market tape",
+      "published": "2026-07-14T12:32:37+00:00",
+      "published_ts": 1784032357,
+      "metrics": {
+        "likes": 618,
+        "retweets": 50,
+        "replies": 104,
+        "views": 125157,
+        "hot_score": 1715
+      },
+      "categories": [
+        "Macro"
+      ],
+      "tickers": [],
+      "is_retweet": false,
+      "has_media": false,
+      "media": [],
+      "quoted_tweet": null
+    },
+    {
+      "id": "2077008322973381081",
+      "title": "今晚cpi全部都大幅度低于预期，7月第一个分水岭顺利过关。",
+      "summary": "今晚cpi全部都大幅度低于预期，7月第一个分水岭顺利过关。",
+      "link": "https://x.com/qinbafrank/status/2077008322973381081",
+      "source": "qinbafrank",
+      "source_id": "qinba",
+      "handle": "qinbafrank",
+      "lane": "Macro + AI",
+      "published": "2026-07-14T12:32:27+00:00",
+      "published_ts": 1784032347,
+      "metrics": {
+        "likes": 46,
+        "retweets": 6,
+        "replies": 9,
+        "views": 13940,
+        "hot_score": 144
+      },
+      "categories": [
+        "Macro"
+      ],
+      "tickers": [],
+      "is_retweet": false,
+      "has_media": true,
+      "media": [
+        "https://pbs.twimg.com/media/HNMED3AbUAA3ArX.jpg"
+      ],
+      "quoted_tweet": {
+        "id": "2076998727592743164",
+        "author": "qinbafrank",
+        "name": "qinbafrank",
+        "text": "怎么看马上要公布的6月美国cpi数据？1）广义cpi同比环比低于前值基本上是预期之内，通胀回落是共识、甚至环比出现负值也是预期。核心是看能不能低于预期；\n2）关键是看核心cpi、同比环比能不能也低于预期。核心是看跟预期的偏离度\n3）如果美伊一直保持停火状态，那么今晚通胀数据符合预期就能带动市场情绪提振。但是当下美伊冲突再起，油价又反弹了。那么今晚通胀数据要低于预期才能过关，否则市场会担心通胀下降不够快，还有担心再被油价带起来的隐忧。",
+        "created_at": "Tue Jul 14 11:54:20 +0000 2026",
+        "url": "https://x.com/qinbafrank/status/2076998727592743164",
+        "has_media": true,
+        "media_urls": [
+          "https://pbs.twimg.com/media/HNL7VSzaIAASi6s.jpg",
+          "https://pbs.twimg.com/media/HNL7VS7bcAAnu6K.jpg"
+        ],
+        "media_posters": [
+          "https://pbs.twimg.com/media/HNL7VSzaIAASi6s.jpg",
+          "https://pbs.twimg.com/media/HNL7VS7bcAAnu6K.jpg"
+        ]
+      }
+    },
+    {
+      "id": "2077004433154621730",
+      "title": "BREAKING: US Representative John James filed a financial disclosure reporting the purchase of up to $50,000 in SpaceX,…",
+      "summary": "BREAKING: US Representative John James filed a financial disclosure reporting the purchase of up to $50,000 in SpaceX, $SPCX, stock.",
+      "link": "https://x.com/unusual_whales/status/2077004433154621730",
+      "source": "unusual_whales",
+      "source_id": "whales",
+      "handle": "unusual_whales",
+      "lane": "Market tape",
+      "published": "2026-07-14T12:17:00+00:00",
+      "published_ts": 1784031420,
+      "metrics": {
+        "likes": 268,
+        "retweets": 23,
+        "replies": 76,
+        "views": 102064,
+        "hot_score": 829
+      },
+      "categories": [],
+      "tickers": [
+        "$SPCX"
+      ],
+      "is_retweet": false,
+      "has_media": false,
+      "media": [],
+      "quoted_tweet": null
+    },
     {
       "id": "2077000007119462876",
       "title": "Dude has made billions in months dumping his crypto holdings onto his supporters.",
@@ -15,11 +251,11 @@
       "published": "2026-07-14T11:59:25+00:00",
       "published_ts": 1784030365,
       "metrics": {
-        "likes": 50,
-        "retweets": 4,
-        "replies": 4,
-        "views": 2927,
-        "hot_score": 126
+        "likes": 327,
+        "retweets": 26,
+        "replies": 11,
+        "views": 12049,
+        "hot_score": 807
       },
       "categories": [
         "Crypto"
@@ -56,11 +292,11 @@
       "published": "2026-07-14T11:57:00+00:00",
       "published_ts": 1784030220,
       "metrics": {
-        "likes": 172,
-        "retweets": 19,
-        "replies": 56,
-        "views": 41214,
-        "hot_score": 536
+        "likes": 1411,
+        "retweets": 140,
+        "replies": 137,
+        "views": 158494,
+        "hot_score": 3817
       },
       "categories": [],
       "tickers": [],
@@ -81,11 +317,11 @@
       "published": "2026-07-14T11:54:20+00:00",
       "published_ts": 1784030060,
       "metrics": {
-        "likes": 2,
+        "likes": 15,
         "retweets": 0,
-        "replies": 3,
-        "views": 3292,
-        "hot_score": 10
+        "replies": 14,
+        "views": 26371,
+        "hot_score": 70
       },
       "categories": [
         "Macro"
@@ -121,11 +357,11 @@
       "published": "2026-07-14T11:37:00+00:00",
       "published_ts": 1784029020,
       "metrics": {
-        "likes": 295,
-        "retweets": 30,
-        "replies": 52,
-        "views": 69594,
-        "hot_score": 861
+        "likes": 594,
+        "retweets": 48,
+        "replies": 54,
+        "views": 115395,
+        "hot_score": 1597
       },
       "categories": [
         "AI"
@@ -148,11 +384,11 @@
       "published": "2026-07-14T11:17:00+00:00",
       "published_ts": 1784027820,
       "metrics": {
-        "likes": 523,
-        "retweets": 51,
-        "replies": 120,
-        "views": 91017,
-        "hot_score": 1512
+        "likes": 1317,
+        "retweets": 120,
+        "replies": 172,
+        "views": 149293,
+        "hot_score": 3555
       },
       "categories": [],
       "tickers": [],
@@ -173,11 +409,11 @@
       "published": "2026-07-14T10:57:00+00:00",
       "published_ts": 1784026620,
       "metrics": {
-        "likes": 388,
-        "retweets": 24,
-        "replies": 122,
-        "views": 96300,
-        "hot_score": 1114
+        "likes": 572,
+        "retweets": 31,
+        "replies": 157,
+        "views": 132097,
+        "hot_score": 1588
       },
       "categories": [],
       "tickers": [],
@@ -198,11 +434,11 @@
       "published": "2026-07-14T10:37:15+00:00",
       "published_ts": 1784025435,
       "metrics": {
-        "likes": 17,
+        "likes": 22,
         "retweets": 3,
         "replies": 9,
-        "views": 9351,
-        "hot_score": 67
+        "views": 12772,
+        "hot_score": 80
       },
       "categories": [
         "AI",
@@ -244,42 +480,17 @@
       "published": "2026-07-14T10:37:00+00:00",
       "published_ts": 1784025420,
       "metrics": {
-        "likes": 1974,
-        "retweets": 201,
-        "replies": 123,
-        "views": 210622,
-        "hot_score": 5286
+        "likes": 3792,
+        "retweets": 394,
+        "replies": 185,
+        "views": 359498,
+        "hot_score": 10098
       },
       "categories": [
         "Policy"
       ],
       "tickers": [],
       "is_retweet": false,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2076969009787064634",
-      "title": "RT @ShanghaoJin: @cherryPayment 我准备连续一个月等看不到你说sive了，就去把他买回来",
-      "summary": "RT @ShanghaoJin: @cherryPayment 我准备连续一个月等看不到你说sive了，就去把他买回来",
-      "link": "https://x.com/ShanghaoJin/status/2076969009787064634",
-      "source": "Herman Jin",
-      "source_id": "herman",
-      "handle": "ShanghaoJin",
-      "lane": "FICC + tech",
-      "published": "2026-07-14T09:56:14+00:00",
-      "published_ts": 1784022974,
-      "metrics": {
-        "likes": 0,
-        "retweets": 4,
-        "replies": 0,
-        "views": 0,
-        "hot_score": 20
-      },
-      "categories": [],
-      "tickers": [],
-      "is_retweet": true,
       "has_media": false,
       "media": [],
       "quoted_tweet": null
@@ -296,11 +507,11 @@
       "published": "2026-07-14T09:25:20+00:00",
       "published_ts": 1784021120,
       "metrics": {
-        "likes": 431,
-        "retweets": 78,
-        "replies": 13,
-        "views": 11277,
-        "hot_score": 1276
+        "likes": 527,
+        "retweets": 87,
+        "replies": 14,
+        "views": 13497,
+        "hot_score": 1516
       },
       "categories": [
         "Macro",
@@ -324,11 +535,11 @@
       "published": "2026-07-14T08:34:09+00:00",
       "published_ts": 1784018049,
       "metrics": {
-        "likes": 79,
-        "retweets": 7,
-        "replies": 23,
-        "views": 19643,
-        "hot_score": 235
+        "likes": 99,
+        "retweets": 8,
+        "replies": 27,
+        "views": 25904,
+        "hot_score": 290
       },
       "categories": [
         "Risk"
@@ -353,11 +564,11 @@
       "published": "2026-07-14T08:01:37+00:00",
       "published_ts": 1784016097,
       "metrics": {
-        "likes": 26,
-        "retweets": 4,
+        "likes": 29,
+        "retweets": 5,
         "replies": 9,
-        "views": 16445,
-        "hot_score": 97
+        "views": 18032,
+        "hot_score": 110
       },
       "categories": [
         "AI",
@@ -391,11 +602,11 @@
       "published": "2026-07-14T07:33:31+00:00",
       "published_ts": 1784014411,
       "metrics": {
-        "likes": 15,
+        "likes": 16,
         "retweets": 0,
         "replies": 2,
-        "views": 12885,
-        "hot_score": 44
+        "views": 14324,
+        "hot_score": 48
       },
       "categories": [],
       "tickers": [],
@@ -416,11 +627,11 @@
       "published": "2026-07-14T07:20:43+00:00",
       "published_ts": 1784013643,
       "metrics": {
-        "likes": 207,
-        "retweets": 13,
-        "replies": 35,
-        "views": 113519,
-        "hot_score": 627
+        "likes": 224,
+        "retweets": 16,
+        "replies": 37,
+        "views": 128486,
+        "hot_score": 693
       },
       "categories": [
         "Memory",
@@ -464,8 +675,8 @@
         "likes": 9,
         "retweets": 1,
         "replies": 5,
-        "views": 13321,
-        "hot_score": 41
+        "views": 14110,
+        "hot_score": 42
       },
       "categories": [],
       "tickers": [],
@@ -502,11 +713,11 @@
       "published": "2026-07-14T06:59:26+00:00",
       "published_ts": 1784012366,
       "metrics": {
-        "likes": 85,
-        "retweets": 9,
-        "replies": 16,
-        "views": 24878,
-        "hot_score": 255
+        "likes": 88,
+        "retweets": 10,
+        "replies": 18,
+        "views": 27470,
+        "hot_score": 271
       },
       "categories": [
         "AI"
@@ -545,11 +756,11 @@
       "published": "2026-07-14T05:41:15+00:00",
       "published_ts": 1784007675,
       "metrics": {
-        "likes": 96,
-        "retweets": 13,
-        "replies": 45,
-        "views": 169642,
-        "hot_score": 471
+        "likes": 98,
+        "retweets": 14,
+        "replies": 48,
+        "views": 187140,
+        "hot_score": 501
       },
       "categories": [
         "Risk"
@@ -584,11 +795,11 @@
       "published": "2026-07-14T05:33:39+00:00",
       "published_ts": 1784007219,
       "metrics": {
-        "likes": 152,
-        "retweets": 3,
+        "likes": 155,
+        "retweets": 4,
         "replies": 33,
-        "views": 63470,
-        "hot_score": 415
+        "views": 66686,
+        "hot_score": 429
       },
       "categories": [],
       "tickers": [],
@@ -611,11 +822,11 @@
       "published": "2026-07-14T05:29:48+00:00",
       "published_ts": 1784006988,
       "metrics": {
-        "likes": 326,
-        "retweets": 10,
-        "replies": 130,
-        "views": 66361,
-        "hot_score": 898
+        "likes": 349,
+        "retweets": 14,
+        "replies": 132,
+        "views": 70899,
+        "hot_score": 970
       },
       "categories": [],
       "tickers": [],
@@ -639,8 +850,8 @@
         "likes": 58,
         "retweets": 0,
         "replies": 35,
-        "views": 26384,
-        "hot_score": 177
+        "views": 27680,
+        "hot_score": 178
       },
       "categories": [],
       "tickers": [],
@@ -661,11 +872,11 @@
       "published": "2026-07-14T05:03:56+00:00",
       "published_ts": 1784005436,
       "metrics": {
-        "likes": 91,
+        "likes": 93,
         "retweets": 2,
         "replies": 25,
-        "views": 68990,
-        "hot_score": 285
+        "views": 72460,
+        "hot_score": 293
       },
       "categories": [],
       "tickers": [],
@@ -702,11 +913,11 @@
       "published": "2026-07-14T04:41:29+00:00",
       "published_ts": 1784004089,
       "metrics": {
-        "likes": 265,
-        "retweets": 13,
+        "likes": 270,
+        "retweets": 14,
         "replies": 35,
-        "views": 137619,
-        "hot_score": 767
+        "views": 143489,
+        "hot_score": 788
       },
       "categories": [
         "Memory"
@@ -734,31 +945,6 @@
       }
     },
     {
-      "id": "2076887159596794033",
-      "title": "Phia, the shopping startup co-founded by Phoebe Gates and Sophia Kianni, has been accused of ‘cookie stuffing.' Read mo…",
-      "summary": "Phia, the shopping startup co-founded by Phoebe Gates and Sophia Kianni, has been accused of ‘cookie stuffing.' Read more:",
-      "link": "https://x.com/unusual_whales/status/2076887159596794033",
-      "source": "unusual_whales",
-      "source_id": "whales",
-      "handle": "unusual_whales",
-      "lane": "Market tape",
-      "published": "2026-07-14T04:31:00+00:00",
-      "published_ts": 1784003460,
-      "metrics": {
-        "likes": 51,
-        "retweets": 8,
-        "replies": 10,
-        "views": 51274,
-        "hot_score": 203
-      },
-      "categories": [],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": null
-    },
-    {
       "id": "2076886212716134783",
       "title": "后面只希望存储反弹一波整体稳住撸一发， 存储稳住别的概念才有机会。 找未来还有10倍以上营收增长预期的标， 2x这种短撸一下没毛病，长拿命就没了。",
       "summary": "后面只希望存储反弹一波整体稳住撸一发， 存储稳住别的概念才有机会。 找未来还有10倍以上营收增长预期的标， 2x这种短撸一下没毛病，长拿命就没了。",
@@ -770,11 +956,11 @@
       "published": "2026-07-14T04:27:14+00:00",
       "published_ts": 1784003234,
       "metrics": {
-        "likes": 103,
+        "likes": 105,
         "retweets": 5,
         "replies": 13,
-        "views": 62925,
-        "hot_score": 306
+        "views": 65888,
+        "hot_score": 313
       },
       "categories": [
         "Memory"
@@ -796,50 +982,6 @@
         ],
         "media_posters": [
           "https://pbs.twimg.com/media/HNKMTJ_bwAA_qjl.jpg"
-        ]
-      }
-    },
-    {
-      "id": "2076881784537776475",
-      "title": "一张图详细了解今年走势最好的一个板块：安全软件，昨晚美股大跌还能逆势走强。安全软件走强的逻辑在于：AI Agent替代的是一部分“软件执行席位”，安全软件掌握的却是“身份、权限、数据、流量、运行行为和恢复能力”。Agent越自主，控制层越…",
-      "summary": "一张图详细了解今年走势最好的一个板块：安全软件，昨晚美股大跌还能逆势走强。安全软件走强的逻辑在于：AI Agent替代的是一部分“软件执行席位”，安全软件掌握的却是“身份、权限、数据、流量、运行行为和恢复能力”。Agent越自主，控制层越重要。 所以，安全saas控股是三件事在同时发生： 1）AI Agent、云迁移、多模态数据让攻击面大幅扩大（数据泄露、模型投毒、提示注入等新风险），这带动安全总市场继续扩容，AI 带来真正的新增预算； 2）预算从传统点工具向平台、身份、云、数据和运行时迁移； 3）企业部署AI必须同步加强“零信任”、云安全、端点检测（…",
-      "link": "https://x.com/qinbafrank/status/2076881784537776475",
-      "source": "qinbafrank",
-      "source_id": "qinba",
-      "handle": "qinbafrank",
-      "lane": "Macro + AI",
-      "published": "2026-07-14T04:09:38+00:00",
-      "published_ts": 1784002178,
-      "metrics": {
-        "likes": 61,
-        "retweets": 15,
-        "replies": 20,
-        "views": 23765,
-        "hot_score": 240
-      },
-      "categories": [
-        "AI",
-        "Risk"
-      ],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": true,
-      "media": [
-        "https://pbs.twimg.com/media/HNKQxG7bQAAMoT6.jpg"
-      ],
-      "quoted_tweet": {
-        "id": "2060215034882785479",
-        "author": "qinbafrank",
-        "name": "qinbafrank",
-        "text": "AI需要数据库（MDB），需要实时可扩展、AI-native的数据云底座（SNOW），应该也需要AI需要更强、更智能的防护墙”。AI时代的安全需求不是“替代”，也会爆发式新增，逻辑在于：\n1）AI Agent、云迁移、多模态数据让攻击面大幅扩大（数据泄露、模型投毒、提示注入等新风险）；\n2）企业部署AI必须同步加强“零信任”、云安全、端点检测（EDR）、AI安全平台；\n之前大摩测AI催生的增量安全机会高达2200亿美元，远超AI可能颠覆现有厂商的负面影响。 \n\n2月中的时候，也明确聊过安全类软件是被误杀的。Agent发展很多原来的软件应用场景都会被Agent替代掉，安全是硬需求，而且agent越普及安全需求会更高。\n\n现在回看2月份这条聊安全股的推文，几乎是Call在安全从去年十月调整跌下来的最底部。当时聊到的cloudfare(net)、CrowdStrike（CRWD)）、Palo Alto Networks（PANW）、Zscaler（ZS）、Fortinet（FTNT）在过去三个月走势都很不错，CRWD接近翻倍。\n\n最近市场对于SaaS的看法不再是整体的一遍倒的负面评价，大家接受AI越发展并不是所有的软件公司都会被冲击，开始区分和筛选哪些是AI受益的软件板块，哪些是AI受损的板块。个人角度，安全应该就是AI受益而非受损的板块。",
-        "created_at": "Fri May 29 04:21:55 +0000 2026",
-        "url": "https://x.com/qinbafrank/status/2060215034882785479",
-        "has_media": true,
-        "media_urls": [
-          "https://pbs.twimg.com/media/HJdaAPhboAAimqY.jpg"
-        ],
-        "media_posters": [
-          "https://pbs.twimg.com/media/HJdaAPhboAAimqY.jpg"
         ]
       }
     },
@@ -882,11 +1024,11 @@
       "published": "2026-07-14T03:49:13+00:00",
       "published_ts": 1784000953,
       "metrics": {
-        "likes": 263,
+        "likes": 268,
         "retweets": 7,
         "replies": 47,
-        "views": 322800,
-        "hot_score": 930
+        "views": 336534,
+        "hot_score": 954
       },
       "categories": [
         "AI",
@@ -898,31 +1040,6 @@
       "media": [
         "https://pbs.twimg.com/media/HNKMTJ_bwAA_qjl.jpg"
       ],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2076872293892911317",
-      "title": "RT @charliebilello: If you took a penalty kick in a World Cup match, do you think you would score?",
-      "summary": "RT @charliebilello: If you took a penalty kick in a World Cup match, do you think you would score?",
-      "link": "https://x.com/charliebilello/status/2076872293892911317",
-      "source": "Charlie Bilello",
-      "source_id": "bilello",
-      "handle": "charliebilello",
-      "lane": "Market data",
-      "published": "2026-07-14T03:31:55+00:00",
-      "published_ts": 1783999915,
-      "metrics": {
-        "likes": 0,
-        "retweets": 1,
-        "replies": 0,
-        "views": 0,
-        "hot_score": 5
-      },
-      "categories": [],
-      "tickers": [],
-      "is_retweet": true,
-      "has_media": false,
-      "media": [],
       "quoted_tweet": null
     },
     {
@@ -938,10 +1055,10 @@
       "published_ts": 1783999909,
       "metrics": {
         "likes": 0,
-        "retweets": 120,
+        "retweets": 133,
         "replies": 0,
         "views": 0,
-        "hot_score": 600
+        "hot_score": 665
       },
       "categories": [],
       "tickers": [],
@@ -963,10 +1080,10 @@
       "published_ts": 1783999604,
       "metrics": {
         "likes": 0,
-        "retweets": 134,
+        "retweets": 136,
         "replies": 0,
         "views": 0,
-        "hot_score": 670
+        "hot_score": 680
       },
       "categories": [],
       "tickers": [],
@@ -988,91 +1105,10 @@
       "published_ts": 1783999595,
       "metrics": {
         "likes": 0,
-        "retweets": 202,
+        "retweets": 207,
         "replies": 0,
         "views": 0,
-        "hot_score": 1010
-      },
-      "categories": [],
-      "tickers": [],
-      "is_retweet": true,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2076870931964694694",
-      "title": "RT @charliebilello: Companies were quick to raise prices when tariffs increased their costs. Now that tens of billions…",
-      "summary": "RT @charliebilello: Companies were quick to raise prices when tariffs increased their costs. Now that tens of billions are being refunded,…",
-      "link": "https://x.com/charliebilello/status/2076870931964694694",
-      "source": "Charlie Bilello",
-      "source_id": "bilello",
-      "handle": "charliebilello",
-      "lane": "Market data",
-      "published": "2026-07-14T03:26:31+00:00",
-      "published_ts": 1783999591,
-      "metrics": {
-        "likes": 0,
-        "retweets": 39,
-        "replies": 0,
-        "views": 0,
-        "hot_score": 195
-      },
-      "categories": [
-        "AI",
-        "Policy"
-      ],
-      "tickers": [],
-      "is_retweet": true,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2076870546336194908",
-      "title": "RT @charliebilello: 2026 Fiscal Year to Date: The Federal Government has taken in $4.15 trillion and spent $5.52 trilli…",
-      "summary": "RT @charliebilello: 2026 Fiscal Year to Date: The Federal Government has taken in $4.15 trillion and spent $5.52 trillion. Don't try this…",
-      "link": "https://x.com/charliebilello/status/2076870546336194908",
-      "source": "Charlie Bilello",
-      "source_id": "bilello",
-      "handle": "charliebilello",
-      "lane": "Market data",
-      "published": "2026-07-14T03:24:59+00:00",
-      "published_ts": 1783999499,
-      "metrics": {
-        "likes": 0,
-        "retweets": 28,
-        "replies": 0,
-        "views": 0,
-        "hot_score": 140
-      },
-      "categories": [
-        "Macro",
-        "Policy"
-      ],
-      "tickers": [],
-      "is_retweet": true,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2076870506049863711",
-      "title": "RT @charliebilello: 41% of American men under 30 believe they could score on a penalty kick at the World Cup if given t…",
-      "summary": "RT @charliebilello: 41% of American men under 30 believe they could score on a penalty kick at the World Cup if given the chance. Every co…",
-      "link": "https://x.com/charliebilello/status/2076870506049863711",
-      "source": "Charlie Bilello",
-      "source_id": "bilello",
-      "handle": "charliebilello",
-      "lane": "Market data",
-      "published": "2026-07-14T03:24:49+00:00",
-      "published_ts": 1783999489,
-      "metrics": {
-        "likes": 0,
-        "retweets": 23,
-        "replies": 0,
-        "views": 0,
-        "hot_score": 115
+        "hot_score": 1035
       },
       "categories": [],
       "tickers": [],
@@ -1093,11 +1129,11 @@
       "published": "2026-07-14T02:46:46+00:00",
       "published_ts": 1783997206,
       "metrics": {
-        "likes": 157,
+        "likes": 158,
         "retweets": 7,
-        "replies": 25,
-        "views": 53918,
-        "hot_score": 427
+        "replies": 26,
+        "views": 54936,
+        "hot_score": 431
       },
       "categories": [
         "Risk"
@@ -1122,11 +1158,11 @@
       "published": "2026-07-14T01:51:24+00:00",
       "published_ts": 1783993884,
       "metrics": {
-        "likes": 1269,
-        "retweets": 93,
-        "replies": 99,
-        "views": 439592,
-        "hot_score": 3541
+        "likes": 1308,
+        "retweets": 96,
+        "replies": 102,
+        "views": 461298,
+        "hot_score": 3659
       },
       "categories": [
         "AI",
@@ -1226,11 +1262,11 @@
       "published": "2026-07-14T00:53:25+00:00",
       "published_ts": 1783990405,
       "metrics": {
-        "likes": 60,
+        "likes": 62,
         "retweets": 5,
         "replies": 0,
-        "views": 21975,
-        "hot_score": 166
+        "views": 22720,
+        "hot_score": 171
       },
       "categories": [
         "Risk"
@@ -1267,11 +1303,11 @@
       "published": "2026-07-14T00:30:41+00:00",
       "published_ts": 1783989041,
       "metrics": {
-        "likes": 45,
+        "likes": 48,
         "retweets": 0,
         "replies": 11,
-        "views": 12402,
-        "hot_score": 113
+        "views": 12698,
+        "hot_score": 119
       },
       "categories": [],
       "tickers": [],
@@ -1292,11 +1328,11 @@
       "published": "2026-07-14T00:29:43+00:00",
       "published_ts": 1783988983,
       "metrics": {
-        "likes": 133,
+        "likes": 135,
         "retweets": 3,
         "replies": 28,
-        "views": 71269,
-        "hot_score": 380
+        "views": 72535,
+        "hot_score": 385
       },
       "categories": [
         "Risk"
@@ -1329,11 +1365,11 @@
       "published": "2026-07-13T23:17:46+00:00",
       "published_ts": 1783984666,
       "metrics": {
-        "likes": 776,
-        "retweets": 30,
+        "likes": 800,
+        "retweets": 33,
         "replies": 114,
-        "views": 239350,
-        "hot_score": 2055
+        "views": 250320,
+        "hot_score": 2129
       },
       "categories": [
         "AI",
@@ -1366,11 +1402,11 @@
       "published": "2026-07-13T21:11:40+00:00",
       "published_ts": 1783977100,
       "metrics": {
-        "likes": 145,
+        "likes": 148,
         "retweets": 13,
         "replies": 25,
-        "views": 27813,
-        "hot_score": 407
+        "views": 28220,
+        "hot_score": 414
       },
       "categories": [
         "Semis",
@@ -1399,11 +1435,11 @@
       "published": "2026-07-13T20:52:50+00:00",
       "published_ts": 1783975970,
       "metrics": {
-        "likes": 1297,
-        "retweets": 313,
+        "likes": 1357,
+        "retweets": 325,
         "replies": 12,
-        "views": 33012,
-        "hot_score": 4204
+        "views": 34102,
+        "hot_score": 4385
       },
       "categories": [
         "Macro",
@@ -1443,11 +1479,11 @@
       "published": "2026-07-13T19:20:46+00:00",
       "published_ts": 1783970446,
       "metrics": {
-        "likes": 1907,
-        "retweets": 155,
+        "likes": 1921,
+        "retweets": 156,
         "replies": 295,
-        "views": 358841,
-        "hot_score": 5242
+        "views": 370078,
+        "hot_score": 5287
       },
       "categories": [
         "Data centers",
@@ -1481,11 +1517,11 @@
       "published": "2026-07-13T16:45:18+00:00",
       "published_ts": 1783961118,
       "metrics": {
-        "likes": 758,
-        "retweets": 237,
+        "likes": 769,
+        "retweets": 239,
         "replies": 26,
-        "views": 20412,
-        "hot_score": 2747
+        "views": 20625,
+        "hot_score": 2779
       },
       "categories": [
         "Policy",
@@ -1511,11 +1547,11 @@
       "published": "2026-07-13T15:56:29+00:00",
       "published_ts": 1783958189,
       "metrics": {
-        "likes": 299,
+        "likes": 302,
         "retweets": 27,
         "replies": 30,
-        "views": 32494,
-        "hot_score": 795
+        "views": 32781,
+        "hot_score": 801
       },
       "categories": [
         "AI",
@@ -1546,7 +1582,7 @@
         "likes": 78,
         "retweets": 1,
         "replies": 1,
-        "views": 14552,
+        "views": 14726,
         "hot_score": 176
       },
       "categories": [
@@ -1570,11 +1606,11 @@
       "published": "2026-07-13T15:07:58+00:00",
       "published_ts": 1783955278,
       "metrics": {
-        "likes": 67,
+        "likes": 68,
         "retweets": 1,
         "replies": 18,
-        "views": 36155,
-        "hot_score": 193
+        "views": 36553,
+        "hot_score": 195
       },
       "categories": [],
       "tickers": [],
@@ -1636,11 +1672,11 @@
       "published": "2026-07-13T12:57:10+00:00",
       "published_ts": 1783947430,
       "metrics": {
-        "likes": 208,
+        "likes": 209,
         "retweets": 10,
         "replies": 45,
-        "views": 165528,
-        "hot_score": 676
+        "views": 167224,
+        "hot_score": 680
       },
       "categories": [
         "Risk"
@@ -1673,11 +1709,11 @@
       "published": "2026-07-13T11:52:54+00:00",
       "published_ts": 1783943574,
       "metrics": {
-        "likes": 586,
+        "likes": 589,
         "retweets": 121,
         "replies": 10,
-        "views": 22179,
-        "hot_score": 1809
+        "views": 22313,
+        "hot_score": 1815
       },
       "categories": [
         "AI",
@@ -1704,7 +1740,7 @@
         "likes": 9,
         "retweets": 0,
         "replies": 0,
-        "views": 3812,
+        "views": 3821,
         "hot_score": 21
       },
       "categories": [],
@@ -1726,11 +1762,11 @@
       "published": "2026-07-13T09:33:13+00:00",
       "published_ts": 1783935193,
       "metrics": {
-        "likes": 356,
+        "likes": 357,
         "retweets": 133,
         "replies": 10,
-        "views": 23007,
-        "hot_score": 1410
+        "views": 23082,
+        "hot_score": 1412
       },
       "categories": [
         "Policy"
@@ -1765,11 +1801,11 @@
       "published": "2026-07-13T09:13:06+00:00",
       "published_ts": 1783933986,
       "metrics": {
-        "likes": 1714,
-        "retweets": 613,
+        "likes": 1717,
+        "retweets": 612,
         "replies": 13,
-        "views": 30051,
-        "hot_score": 6536
+        "views": 30327,
+        "hot_score": 6537
       },
       "categories": [
         "AI",
@@ -1796,7 +1832,7 @@
         "likes": 25,
         "retweets": 4,
         "replies": 33,
-        "views": 8676,
+        "views": 8738,
         "hot_score": 111
       },
       "categories": [
@@ -1831,11 +1867,11 @@
       "published": "2026-07-13T08:32:13+00:00",
       "published_ts": 1783931533,
       "metrics": {
-        "likes": 693,
+        "likes": 694,
         "retweets": 21,
         "replies": 82,
-        "views": 197073,
-        "hot_score": 1770
+        "views": 197817,
+        "hot_score": 1772
       },
       "categories": [],
       "tickers": [],
@@ -1844,6 +1880,31 @@
       "media": [
         "https://pbs.twimg.com/media/HNGDe9qbQAAl9Ah.jpg"
       ],
+      "quoted_tweet": null
+    },
+    {
+      "id": "2076562621915070740",
+      "title": "看了下英语翻译太刺激，还是删了吧",
+      "summary": "看了下英语翻译太刺激，还是删了吧",
+      "link": "https://x.com/ShanghaoJin/status/2076562621915070740",
+      "source": "Herman Jin",
+      "source_id": "herman",
+      "handle": "ShanghaoJin",
+      "lane": "FICC + tech",
+      "published": "2026-07-13T07:01:24+00:00",
+      "published_ts": 1783926084,
+      "metrics": {
+        "likes": 4,
+        "retweets": 0,
+        "replies": 2,
+        "views": 10454,
+        "hot_score": 20
+      },
+      "categories": [],
+      "tickers": [],
+      "is_retweet": false,
+      "has_media": false,
+      "media": [],
       "quoted_tweet": null
     },
     {
@@ -1861,7 +1922,7 @@
         "likes": 26,
         "retweets": 0,
         "replies": 20,
-        "views": 13627,
+        "views": 13675,
         "hot_score": 85
       },
       "categories": [
@@ -2003,11 +2064,11 @@
       "published": "2026-07-13T00:45:13+00:00",
       "published_ts": 1783903513,
       "metrics": {
-        "likes": 1981,
+        "likes": 1984,
         "retweets": 166,
         "replies": 194,
-        "views": 583819,
-        "hot_score": 5486
+        "views": 587177,
+        "hot_score": 5492
       },
       "categories": [
         "AI",
@@ -2043,11 +2104,11 @@
       "published": "2026-07-12T18:27:32+00:00",
       "published_ts": 1783880852,
       "metrics": {
-        "likes": 1438,
+        "likes": 1442,
         "retweets": 47,
         "replies": 210,
-        "views": 384485,
-        "hot_score": 3705
+        "views": 386587,
+        "hot_score": 3715
       },
       "categories": [
         "AI",
@@ -2073,11 +2134,11 @@
       "published": "2026-07-12T11:25:10+00:00",
       "published_ts": 1783855510,
       "metrics": {
-        "likes": 1882,
+        "likes": 1885,
         "retweets": 88,
-        "replies": 234,
-        "views": 775192,
-        "hot_score": 4938
+        "replies": 235,
+        "views": 793404,
+        "hot_score": 4945
       },
       "categories": [
         "AI",
@@ -2105,11 +2166,11 @@
       "published": "2026-07-12T10:12:33+00:00",
       "published_ts": 1783851153,
       "metrics": {
-        "likes": 744,
+        "likes": 745,
         "retweets": 67,
         "replies": 113,
-        "views": 311570,
-        "hot_score": 2247
+        "views": 312331,
+        "hot_score": 2250
       },
       "categories": [
         "AI",
@@ -2143,7 +2204,7 @@
         "likes": 0,
         "retweets": 2,
         "replies": 0,
-        "views": 1830,
+        "views": 1833,
         "hot_score": 11
       },
       "categories": [],
@@ -2172,7 +2233,7 @@
         "likes": 16,
         "retweets": 0,
         "replies": 22,
-        "views": 9539,
+        "views": 9555,
         "hot_score": 63
       },
       "categories": [
@@ -2214,7 +2275,7 @@
         "likes": 192,
         "retweets": 17,
         "replies": 38,
-        "views": 156631,
+        "views": 156656,
         "hot_score": 663
       },
       "categories": [],
@@ -2224,58 +2285,6 @@
       "media": [
         "https://pbs.twimg.com/media/HM9Dco9bkAAQEL2.jpg"
       ],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2075694299841503694",
-      "title": "Many thousands of Costco’s U.S. hourly workers have over $1 million in their 401(k) accounts, per WSJ",
-      "summary": "Many thousands of Costco’s U.S. hourly workers have over $1 million in their 401(k) accounts, per WSJ",
-      "link": "https://x.com/unusual_whales/status/2075694299841503694",
-      "source": "unusual_whales",
-      "source_id": "whales",
-      "handle": "unusual_whales",
-      "lane": "Market tape",
-      "published": "2026-07-10T21:31:00+00:00",
-      "published_ts": 1783719060,
-      "metrics": {
-        "likes": 30242,
-        "retweets": 1273,
-        "replies": 403,
-        "views": 3235189,
-        "hot_score": 67752
-      },
-      "categories": [],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2075624852736922104",
-      "title": "BREAKING: Phoebe Gates’, Bill Gates' daughter, shopping app reportedly claimed commissions for sales it didn’t generate…",
-      "summary": "BREAKING: Phoebe Gates’, Bill Gates' daughter, shopping app reportedly claimed commissions for sales it didn’t generate, per Bloomberg",
-      "link": "https://x.com/unusual_whales/status/2075624852736922104",
-      "source": "unusual_whales",
-      "source_id": "whales",
-      "handle": "unusual_whales",
-      "lane": "Market tape",
-      "published": "2026-07-10T16:55:02+00:00",
-      "published_ts": 1783702502,
-      "metrics": {
-        "likes": 2370,
-        "retweets": 113,
-        "replies": 116,
-        "views": 407701,
-        "hot_score": 5828
-      },
-      "categories": [
-        "AI"
-      ],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
       "quoted_tweet": null
     },
     {
@@ -2293,7 +2302,7 @@
         "likes": 25,
         "retweets": 1,
         "replies": 18,
-        "views": 21170,
+        "views": 21177,
         "hot_score": 94
       },
       "categories": [],
@@ -2320,7 +2329,7 @@
         "likes": 111,
         "retweets": 2,
         "replies": 1,
-        "views": 26536,
+        "views": 26581,
         "hot_score": 259
       },
       "categories": [
@@ -2349,7 +2358,7 @@
         "likes": 6,
         "retweets": 0,
         "replies": 4,
-        "views": 4676,
+        "views": 4681,
         "hot_score": 20
       },
       "categories": [],
@@ -2376,7 +2385,7 @@
         "likes": 27,
         "retweets": 0,
         "replies": 22,
-        "views": 22110,
+        "views": 22118,
         "hot_score": 98
       },
       "categories": [
@@ -2403,7 +2412,7 @@
         "likes": 0,
         "retweets": 1,
         "replies": 0,
-        "views": 1764,
+        "views": 1766,
         "hot_score": 6
       },
       "categories": [
@@ -2432,7 +2441,7 @@
         "likes": 0,
         "retweets": 1,
         "replies": 0,
-        "views": 1700,
+        "views": 1702,
         "hot_score": 6
       },
       "categories": [],
@@ -2457,7 +2466,7 @@
         "likes": 69,
         "retweets": 0,
         "replies": 2,
-        "views": 17361,
+        "views": 17373,
         "hot_score": 157
       },
       "categories": [
@@ -2487,7 +2496,7 @@
         "likes": 3867,
         "retweets": 616,
         "replies": 92,
-        "views": 926859,
+        "views": 926938,
         "hot_score": 11406
       },
       "categories": [],
@@ -2512,7 +2521,7 @@
         "likes": 0,
         "retweets": 1,
         "replies": 0,
-        "views": 1975,
+        "views": 1977,
         "hot_score": 6
       },
       "categories": [
@@ -2536,11 +2545,11 @@
       "published": "2026-07-06T19:41:16+00:00",
       "published_ts": 1783366876,
       "metrics": {
-        "likes": 111,
+        "likes": 112,
         "retweets": 9,
         "replies": 9,
-        "views": 55753,
-        "hot_score": 331
+        "views": 55781,
+        "hot_score": 333
       },
       "categories": [],
       "tickers": [],
@@ -2561,11 +2570,11 @@
       "published": "2026-07-02T16:08:31+00:00",
       "published_ts": 1783008511,
       "metrics": {
-        "likes": 858,
+        "likes": 859,
         "retweets": 153,
         "replies": 124,
-        "views": 270291,
-        "hot_score": 2875
+        "views": 270305,
+        "hot_score": 2877
       },
       "categories": [],
       "tickers": [],
@@ -2591,7 +2600,7 @@
         "likes": 214,
         "retweets": 33,
         "replies": 102,
-        "views": 78678,
+        "views": 78687,
         "hot_score": 773
       },
       "categories": [
@@ -2625,11 +2634,11 @@
       "published": "2026-06-30T18:22:46+00:00",
       "published_ts": 1782843766,
       "metrics": {
-        "likes": 142,
+        "likes": 143,
         "retweets": 17,
         "replies": 9,
-        "views": 38295,
-        "hot_score": 416
+        "views": 38306,
+        "hot_score": 418
       },
       "categories": [
         "AI"
@@ -2655,7 +2664,7 @@
         "likes": 281,
         "retweets": 21,
         "replies": 103,
-        "views": 45461,
+        "views": 45470,
         "hot_score": 815
       },
       "categories": [],
@@ -2680,7 +2689,7 @@
         "likes": 84,
         "retweets": 6,
         "replies": 38,
-        "views": 47110,
+        "views": 47116,
         "hot_score": 283
       },
       "categories": [],
@@ -2719,7 +2728,7 @@
         "likes": 18,
         "retweets": 4,
         "replies": 2,
-        "views": 24795,
+        "views": 24809,
         "hot_score": 82
       },
       "categories": [],
@@ -2762,7 +2771,7 @@
         "likes": 93,
         "retweets": 11,
         "replies": 25,
-        "views": 43312,
+        "views": 43322,
         "hot_score": 309
       },
       "categories": [
@@ -2815,7 +2824,7 @@
         "likes": 181,
         "retweets": 14,
         "replies": 88,
-        "views": 122900,
+        "views": 122915,
         "hot_score": 642
       },
       "categories": [
@@ -2843,7 +2852,7 @@
         "likes": 99,
         "retweets": 0,
         "replies": 82,
-        "views": 31323,
+        "views": 31327,
         "hot_score": 311
       },
       "categories": [
@@ -2870,7 +2879,7 @@
         "likes": 82,
         "retweets": 11,
         "replies": 13,
-        "views": 46145,
+        "views": 46154,
         "hot_score": 278
       },
       "categories": [],
@@ -2895,7 +2904,7 @@
         "likes": 67,
         "retweets": 9,
         "replies": 63,
-        "views": 32580,
+        "views": 32584,
         "hot_score": 274
       },
       "categories": [
@@ -2922,7 +2931,7 @@
         "likes": 98,
         "retweets": 6,
         "replies": 70,
-        "views": 22595,
+        "views": 22598,
         "hot_score": 318
       },
       "categories": [
@@ -2949,7 +2958,7 @@
         "likes": 153,
         "retweets": 7,
         "replies": 112,
-        "views": 69700,
+        "views": 69703,
         "hot_score": 522
       },
       "categories": [
@@ -3005,7 +3014,7 @@
         "likes": 1024,
         "retweets": 63,
         "replies": 35,
-        "views": 589523,
+        "views": 589565,
         "hot_score": 2898
       },
       "categories": [],
@@ -3044,7 +3053,7 @@
         "likes": 912,
         "retweets": 62,
         "replies": 57,
-        "views": 320561,
+        "views": 320579,
         "hot_score": 2511
       },
       "categories": [],
@@ -3093,11 +3102,11 @@
       "published": "2024-10-11T21:08:15+00:00",
       "published_ts": 1728680895,
       "metrics": {
-        "likes": 1231,
+        "likes": 1230,
         "retweets": 120,
         "replies": 49,
-        "views": 464529,
-        "hot_score": 3575
+        "views": 464555,
+        "hot_score": 3573
       },
       "categories": [
         "AI",
@@ -3140,10 +3149,10 @@
       "published_ts": 1727288346,
       "metrics": {
         "likes": 0,
-        "retweets": 556,
+        "retweets": 557,
         "replies": 0,
         "views": 18,
-        "hot_score": 2780
+        "hot_score": 2785
       },
       "categories": [
         "AI",
