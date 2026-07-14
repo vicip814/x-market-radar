@@ -1,8 +1,113 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-14T21:46:41.084833+00:00",
-  "generated_ts": 1784065601,
+  "generated_at": "2026-07-14T23:03:21.979585+00:00",
+  "generated_ts": 1784070201,
   "articles": [
+    {
+      "id": "2077162410448953641",
+      "title": "RT @ShanghaoJin: @BabybusFL 杠杆etf换标的，一边爆仓，一边爆涨 前几天有人卖了7709买SKNY；这几天有些韭菜去买SKUU SKDD",
+      "summary": "RT @ShanghaoJin: @BabybusFL 杠杆etf换标的，一边爆仓，一边爆涨 前几天有人卖了7709买SKNY；这几天有些韭菜去买SKUU SKDD",
+      "link": "https://x.com/ShanghaoJin/status/2077162410448953641",
+      "source": "Herman Jin",
+      "source_id": "herman",
+      "handle": "ShanghaoJin",
+      "lane": "FICC + tech",
+      "published": "2026-07-14T22:44:45+00:00",
+      "published_ts": 1784069085,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "views": 0,
+        "hot_score": 5
+      },
+      "categories": [
+        "Risk"
+      ],
+      "tickers": [],
+      "is_retweet": true,
+      "has_media": false,
+      "media": [],
+      "quoted_tweet": null
+    },
+    {
+      "id": "2077158950932213883",
+      "title": "According to Fortune, the share of unemployed Americans who are new workforce entrants peaked at 13.3% in July before s…",
+      "summary": "According to Fortune, the share of unemployed Americans who are new workforce entrants peaked at 13.3% in July before settling at 10.6% in February, still higher than at any point during the Great Recession. Read more:",
+      "link": "https://x.com/unusual_whales/status/2077158950932213883",
+      "source": "unusual_whales",
+      "source_id": "whales",
+      "handle": "unusual_whales",
+      "lane": "Market tape",
+      "published": "2026-07-14T22:31:00+00:00",
+      "published_ts": 1784068260,
+      "metrics": {
+        "likes": 11,
+        "retweets": 2,
+        "replies": 1,
+        "views": 16213,
+        "hot_score": 49
+      },
+      "categories": [],
+      "tickers": [],
+      "is_retweet": false,
+      "has_media": false,
+      "media": [],
+      "quoted_tweet": null
+    },
+    {
+      "id": "2077151414912999612",
+      "title": "RT @charliebilello: Price changes over last year (June CPI report) Fuel Oil: +42.9% Gasoline: +26.7% Electricity: +4.0%…",
+      "summary": "RT @charliebilello: Price changes over last year (June CPI report) Fuel Oil: +42.9% Gasoline: +26.7% Electricity: +4.0% Apparel: +3.9% Over…",
+      "link": "https://x.com/charliebilello/status/2077151414912999612",
+      "source": "Charlie Bilello",
+      "source_id": "bilello",
+      "handle": "charliebilello",
+      "lane": "Market data",
+      "published": "2026-07-14T22:01:03+00:00",
+      "published_ts": 1784066463,
+      "metrics": {
+        "likes": 0,
+        "retweets": 71,
+        "replies": 0,
+        "views": 0,
+        "hot_score": 355
+      },
+      "categories": [
+        "Macro",
+        "Policy"
+      ],
+      "tickers": [],
+      "is_retweet": true,
+      "has_media": false,
+      "media": [],
+      "quoted_tweet": null
+    },
+    {
+      "id": "2077150645895807234",
+      "title": "XBOX CEO Asha Sharma cited the company’s financial health for the layoffs. Read more:",
+      "summary": "XBOX CEO Asha Sharma cited the company’s financial health for the layoffs. Read more:",
+      "link": "https://x.com/unusual_whales/status/2077150645895807234",
+      "source": "unusual_whales",
+      "source_id": "whales",
+      "handle": "unusual_whales",
+      "lane": "Market tape",
+      "published": "2026-07-14T21:58:00+00:00",
+      "published_ts": 1784066280,
+      "metrics": {
+        "likes": 19,
+        "retweets": 1,
+        "replies": 5,
+        "views": 25329,
+        "hot_score": 73
+      },
+      "categories": [],
+      "tickers": [],
+      "is_retweet": false,
+      "has_media": false,
+      "media": [],
+      "quoted_tweet": null
+    },
     {
       "id": "2077143851173851522",
       "title": "Democrat Hakeem Jeffries has said he will oppose the bid to cut off US aid to Israel, per POLITICO",
@@ -15,11 +120,11 @@
       "published": "2026-07-14T21:31:00+00:00",
       "published_ts": 1784064660,
       "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0,
-        "views": 0,
-        "hot_score": 0
+        "likes": 339,
+        "retweets": 38,
+        "replies": 100,
+        "views": 114689,
+        "hot_score": 1082
       },
       "categories": [
         "AI"
@@ -42,11 +147,11 @@
       "published": "2026-07-14T21:09:00+00:00",
       "published_ts": 1784063340,
       "metrics": {
-        "likes": 273,
-        "retweets": 22,
-        "replies": 72,
-        "views": 78601,
-        "hot_score": 806
+        "likes": 672,
+        "retweets": 37,
+        "replies": 136,
+        "views": 207825,
+        "hot_score": 1872
       },
       "categories": [
         "AI"
@@ -69,11 +174,11 @@
       "published": "2026-07-14T20:58:00+00:00",
       "published_ts": 1784062680,
       "metrics": {
-        "likes": 149,
-        "retweets": 16,
-        "replies": 22,
-        "views": 78405,
-        "hot_score": 478
+        "likes": 224,
+        "retweets": 18,
+        "replies": 24,
+        "views": 112982,
+        "hot_score": 674
       },
       "categories": [
         "AI"
@@ -96,11 +201,11 @@
       "published": "2026-07-14T20:53:06+00:00",
       "published_ts": 1784062386,
       "metrics": {
-        "likes": 22,
+        "likes": 30,
         "retweets": 0,
-        "replies": 15,
-        "views": 16059,
-        "hot_score": 75
+        "replies": 19,
+        "views": 22478,
+        "hot_score": 101
       },
       "categories": [
         "AI"
@@ -125,11 +230,11 @@
       "published": "2026-07-14T20:31:00+00:00",
       "published_ts": 1784061060,
       "metrics": {
-        "likes": 397,
-        "retweets": 33,
-        "replies": 49,
-        "views": 112582,
-        "hot_score": 1120
+        "likes": 449,
+        "retweets": 34,
+        "replies": 51,
+        "views": 136623,
+        "hot_score": 1255
       },
       "categories": [
         "AI"
@@ -139,45 +244,6 @@
       "has_media": false,
       "media": [],
       "quoted_tweet": null
-    },
-    {
-      "id": "2077126497253695638",
-      "title": "According to the Interactive Advertising Bureau, the U.S. digital economy has reached $4.9 trillion, accounting for 18%…",
-      "summary": "According to the Interactive Advertising Bureau, the U.S. digital economy has reached $4.9 trillion, accounting for 18% of GDP and supporting 28.4 million jobs.",
-      "link": "https://x.com/unusual_whales/status/2077126497253695638",
-      "source": "unusual_whales",
-      "source_id": "whales",
-      "handle": "unusual_whales",
-      "lane": "Market tape",
-      "published": "2026-07-14T20:22:02+00:00",
-      "published_ts": 1784060522,
-      "metrics": {
-        "likes": 197,
-        "retweets": 17,
-        "replies": 24,
-        "views": 172877,
-        "hot_score": 675
-      },
-      "categories": [],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": {
-        "id": "2077065390295769103",
-        "author": "YDaftary",
-        "name": "Yash Daftary",
-        "text": "We just killed the 9-5.\n\nToday, FanBasis becomes @Commas: where you make money on the internet.\n\nHere’s how you get paid: https://t.co/pflZ0g4Doj",
-        "created_at": "Tue Jul 14 16:19:13 +0000 2026",
-        "url": "https://x.com/YDaftary/status/2077065390295769103",
-        "has_media": true,
-        "media_urls": [
-          "https://video.twimg.com/amplify_video/2077065220279656448/vid/avc1/480x270/GdEpJDUEf1pWAa9q.mp4?tag=28"
-        ],
-        "media_posters": [
-          "https://pbs.twimg.com/amplify_video_thumb/2077065220279656448/img/t67se2eQ4gjfFWZi.jpg"
-        ]
-      }
     },
     {
       "id": "2077123703226413448",
@@ -191,11 +257,11 @@
       "published": "2026-07-14T20:10:56+00:00",
       "published_ts": 1784059856,
       "metrics": {
-        "likes": 25,
-        "retweets": 1,
-        "replies": 4,
-        "views": 13145,
-        "hot_score": 72
+        "likes": 38,
+        "retweets": 2,
+        "replies": 6,
+        "views": 20120,
+        "hot_score": 112
       },
       "categories": [
         "AI",
@@ -223,62 +289,6 @@
       }
     },
     {
-      "id": "2077120619368579318",
-      "title": "At close: 🥗🥗🥗",
-      "summary": "At close: 🥗🥗🥗",
-      "link": "https://x.com/unusual_whales/status/2077120619368579318",
-      "source": "unusual_whales",
-      "source_id": "whales",
-      "handle": "unusual_whales",
-      "lane": "Market tape",
-      "published": "2026-07-14T19:58:41+00:00",
-      "published_ts": 1784059121,
-      "metrics": {
-        "likes": 577,
-        "retweets": 28,
-        "replies": 42,
-        "views": 171220,
-        "hot_score": 1507
-      },
-      "categories": [],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": true,
-      "media": [
-        "https://pbs.twimg.com/media/HNNqMVkbEAACL_b.jpg"
-      ],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2077116270483529769",
-      "title": "BREAKING: We have just launched a free trial of the Unusual Whales API. The Unusual Whales API gives full access to liv…",
-      "summary": "BREAKING: We have just launched a free trial of the Unusual Whales API. The Unusual Whales API gives full access to live options, equities, prediction market data, and much more. Check it out here:",
-      "link": "https://x.com/unusual_whales/status/2077116270483529769",
-      "source": "unusual_whales",
-      "source_id": "whales",
-      "handle": "unusual_whales",
-      "lane": "Market tape",
-      "published": "2026-07-14T19:41:24+00:00",
-      "published_ts": 1784058084,
-      "metrics": {
-        "likes": 97,
-        "retweets": 6,
-        "replies": 24,
-        "views": 126056,
-        "hot_score": 374
-      },
-      "categories": [
-        "Data centers"
-      ],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": true,
-      "media": [
-        "https://pbs.twimg.com/media/HNNmO65aMAAgIpT.jpg"
-      ],
-      "quoted_tweet": null
-    },
-    {
       "id": "2077112728960020666",
       "title": "RT @tbpn: \"If you think work is hard, try boredom. It's way more psychologically taxing than hard work.\" @morganhousel…",
       "summary": "RT @tbpn: \"If you think work is hard, try boredom. It's way more psychologically taxing than hard work.\" @morganhousel explains why some f…",
@@ -293,7 +303,7 @@
         "likes": 0,
         "retweets": 24,
         "replies": 0,
-        "views": 3610,
+        "views": 3905,
         "hot_score": 123
       },
       "categories": [
@@ -301,37 +311,6 @@
       ],
       "tickers": [],
       "is_retweet": true,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2077110128956879212",
-      "title": "US official says Nvidia, $NVDA, has begun shipping powerful H200 AI chips to China, per Reuters",
-      "summary": "US official says Nvidia, $NVDA, has begun shipping powerful H200 AI chips to China, per Reuters",
-      "link": "https://x.com/unusual_whales/status/2077110128956879212",
-      "source": "unusual_whales",
-      "source_id": "whales",
-      "handle": "unusual_whales",
-      "lane": "Market tape",
-      "published": "2026-07-14T19:17:00+00:00",
-      "published_ts": 1784056620,
-      "metrics": {
-        "likes": 391,
-        "retweets": 38,
-        "replies": 66,
-        "views": 135035,
-        "hot_score": 1173
-      },
-      "categories": [
-        "AI",
-        "Semis",
-        "Data centers"
-      ],
-      "tickers": [
-        "$NVDA"
-      ],
-      "is_retweet": false,
       "has_media": false,
       "media": [],
       "quoted_tweet": null
@@ -348,11 +327,11 @@
       "published": "2026-07-14T18:51:04+00:00",
       "published_ts": 1784055064,
       "metrics": {
-        "likes": 416,
-        "retweets": 52,
-        "replies": 9,
-        "views": 18039,
-        "hot_score": 1119
+        "likes": 437,
+        "retweets": 57,
+        "replies": 10,
+        "views": 19325,
+        "hot_score": 1188
       },
       "categories": [
         "Policy"
@@ -375,11 +354,11 @@
       "published": "2026-07-14T18:10:55+00:00",
       "published_ts": 1784052655,
       "metrics": {
-        "likes": 31,
-        "retweets": 1,
+        "likes": 35,
+        "retweets": 2,
         "replies": 3,
-        "views": 9033,
-        "hot_score": 79
+        "views": 9631,
+        "hot_score": 92
       },
       "categories": [
         "Macro"
@@ -402,11 +381,11 @@
       "published": "2026-07-14T18:05:38+00:00",
       "published_ts": 1784052338,
       "metrics": {
-        "likes": 98,
-        "retweets": 15,
-        "replies": 25,
-        "views": 33254,
-        "hot_score": 329
+        "likes": 120,
+        "retweets": 16,
+        "replies": 26,
+        "views": 35853,
+        "hot_score": 381
       },
       "categories": [
         "Macro"
@@ -446,7 +425,7 @@
         "likes": 0,
         "retweets": 3,
         "replies": 0,
-        "views": 8,
+        "views": 9,
         "hot_score": 15
       },
       "categories": [],
@@ -470,11 +449,11 @@
       "published": "2026-07-14T17:13:53+00:00",
       "published_ts": 1784049233,
       "metrics": {
-        "likes": 31,
+        "likes": 37,
         "retweets": 1,
         "replies": 10,
-        "views": 27228,
-        "hot_score": 104
+        "views": 31777,
+        "hot_score": 120
       },
       "categories": [],
       "tickers": [],
@@ -505,11 +484,11 @@
       "published": "2026-07-14T17:09:08+00:00",
       "published_ts": 1784048948,
       "metrics": {
-        "likes": 69,
+        "likes": 80,
         "retweets": 3,
-        "replies": 9,
-        "views": 57477,
-        "hot_score": 219
+        "replies": 10,
+        "views": 66930,
+        "hot_score": 251
       },
       "categories": [
         "Memory"
@@ -535,7 +514,7 @@
         "likes": 0,
         "retweets": 34,
         "replies": 0,
-        "views": 8128,
+        "views": 8506,
         "hot_score": 178
       },
       "categories": [
@@ -588,11 +567,11 @@
       "published": "2026-07-14T16:32:29+00:00",
       "published_ts": 1784046749,
       "metrics": {
-        "likes": 64,
+        "likes": 67,
         "retweets": 6,
         "replies": 2,
-        "views": 28325,
-        "hot_score": 188
+        "views": 29780,
+        "hot_score": 195
       },
       "categories": [],
       "tickers": [],
@@ -613,11 +592,11 @@
       "published": "2026-07-14T16:27:00+00:00",
       "published_ts": 1784046420,
       "metrics": {
-        "likes": 397,
-        "retweets": 69,
+        "likes": 418,
+        "retweets": 70,
         "replies": 15,
-        "views": 17504,
-        "hot_score": 1171
+        "views": 18293,
+        "hot_score": 1219
       },
       "categories": [
         "Policy"
@@ -640,11 +619,11 @@
       "published": "2026-07-14T16:19:21+00:00",
       "published_ts": 1784045961,
       "metrics": {
-        "likes": 89,
-        "retweets": 10,
-        "replies": 21,
-        "views": 35815,
-        "hot_score": 284
+        "likes": 101,
+        "retweets": 12,
+        "replies": 22,
+        "views": 41627,
+        "hot_score": 325
       },
       "categories": [],
       "tickers": [],
@@ -654,47 +633,6 @@
         "https://pbs.twimg.com/media/HNM3_VAa0AAXjdY.jpg"
       ],
       "quoted_tweet": null
-    },
-    {
-      "id": "2077058899992285259",
-      "title": "美股安全软件板块为何今天这么强势？还没看到具体的催化事件，今天白天这篇推文应该没有这么大的能量吧🤔。不过昨天逆势走强也能看出端倪。",
-      "summary": "美股安全软件板块为何今天这么强势？还没看到具体的催化事件，今天白天这篇推文应该没有这么大的能量吧🤔。不过昨天逆势走强也能看出端倪。",
-      "link": "https://x.com/qinbafrank/status/2077058899992285259",
-      "source": "qinbafrank",
-      "source_id": "qinba",
-      "handle": "qinbafrank",
-      "lane": "Macro + AI",
-      "published": "2026-07-14T15:53:26+00:00",
-      "published_ts": 1784044406,
-      "metrics": {
-        "likes": 62,
-        "retweets": 5,
-        "replies": 34,
-        "views": 33106,
-        "hot_score": 216
-      },
-      "categories": [],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": true,
-      "media": [
-        "https://pbs.twimg.com/media/HNMyD3VaoAAISW-.jpg"
-      ],
-      "quoted_tweet": {
-        "id": "2076881784537776475",
-        "author": "qinbafrank",
-        "name": "qinbafrank",
-        "text": "一张图详细了解今年走势最好的一个板块：安全软件，昨晚美股大跌还能逆势走强。安全软件走强的逻辑在于：AI Agent替代的是一部分“软件执行席位”，安全软件掌握的却是“身份、权限、数据、流量、运行行为和恢复能力”。Agent越自主，控制层越重要。  \n\n所以，安全saas控股是三件事在同时发生：\n1）AI Agent、云迁移、多模态数据让攻击面大幅扩大（数据泄露、模型投毒、提示注入等新风险），这带动安全总市场继续扩容，AI 带来真正的新增预算；\n2）预算从传统点工具向平台、身份、云、数据和运行时迁移；\n3）企业部署AI必须同步加强“零信任”、云安全、端点检测（EDR）、AI安全平台；\n\nAI不是简单增加一个新的安全产品，而是让整个企业重新建立一层AI控制系统。这套控制系统包含：身份和权限、数据访问、云和工作负载、网络与API、模型和Agent运行时、SOC检测与自动响应，业务恢复和回滚。\n\n未来三到五年，广义AI相关安全预算达到数百亿美元甚至近千亿美金。\n\n我应该是最早就在说到安全软件是最被错杀的软件版块，1月底这里https://t.co/9ypsSbGh9F有聊过；\n2月中这里https://t.co/Jyo4FVhBcZ还详细梳理过看好的安全软件公司、到现在基本上都翻倍了。特别说明下Crwd在6月底拆股了（1拆4）。\n转发引用的推文在5月下旬又聊过一次。",
-        "created_at": "Tue Jul 14 04:09:38 +0000 2026",
-        "url": "https://x.com/qinbafrank/status/2076881784537776475",
-        "has_media": true,
-        "media_urls": [
-          "https://pbs.twimg.com/media/HNKQxG7bQAAMoT6.jpg"
-        ],
-        "media_posters": [
-          "https://pbs.twimg.com/media/HNKQxG7bQAAMoT6.jpg"
-        ]
-      }
     },
     {
       "id": "2077055927786885527",
@@ -708,11 +646,11 @@
       "published": "2026-07-14T15:41:37+00:00",
       "published_ts": 1784043697,
       "metrics": {
-        "likes": 173,
-        "retweets": 28,
-        "replies": 66,
-        "views": 73767,
-        "hot_score": 625
+        "likes": 188,
+        "retweets": 29,
+        "replies": 68,
+        "views": 84050,
+        "hot_score": 673
       },
       "categories": [
         "AI",
@@ -754,11 +692,11 @@
       "published": "2026-07-14T15:00:00+00:00",
       "published_ts": 1784041200,
       "metrics": {
-        "likes": 166,
-        "retweets": 40,
+        "likes": 177,
+        "retweets": 43,
         "replies": 23,
-        "views": 30934,
-        "hot_score": 585
+        "views": 32392,
+        "hot_score": 624
       },
       "categories": [],
       "tickers": [],
@@ -781,11 +719,11 @@
       "published": "2026-07-14T14:57:21+00:00",
       "published_ts": 1784041041,
       "metrics": {
-        "likes": 1050,
-        "retweets": 75,
-        "replies": 196,
-        "views": 231990,
-        "hot_score": 2902
+        "likes": 1117,
+        "retweets": 80,
+        "replies": 198,
+        "views": 256764,
+        "hot_score": 3088
       },
       "categories": [
         "AI"
@@ -816,11 +754,11 @@
       "published": "2026-07-14T14:38:09+00:00",
       "published_ts": 1784039889,
       "metrics": {
-        "likes": 107,
-        "retweets": 9,
+        "likes": 120,
+        "retweets": 13,
         "replies": 34,
-        "views": 52429,
-        "hot_score": 345
+        "views": 57874,
+        "hot_score": 396
       },
       "categories": [],
       "tickers": [],
@@ -858,11 +796,11 @@
       "published": "2026-07-14T14:35:50+00:00",
       "published_ts": 1784039750,
       "metrics": {
-        "likes": 892,
-        "retweets": 62,
-        "replies": 185,
-        "views": 185004,
-        "hot_score": 2464
+        "likes": 936,
+        "retweets": 63,
+        "replies": 186,
+        "views": 194350,
+        "hot_score": 2567
       },
       "categories": [
         "AI",
@@ -882,32 +820,33 @@
       "quoted_tweet": null
     },
     {
-      "id": "2077035436925465076",
-      "title": "The most absurd number in CPI? According to the US Government, the cost of health insurance has declined 31% over the l…",
-      "summary": "The most absurd number in CPI? According to the US Government, the cost of health insurance has declined 31% over the last 4 years...",
-      "link": "https://x.com/charliebilello/status/2077035436925465076",
-      "source": "Charlie Bilello",
-      "source_id": "bilello",
-      "handle": "charliebilello",
-      "lane": "Market data",
-      "published": "2026-07-14T14:20:12+00:00",
-      "published_ts": 1784038812,
+      "id": "2077020949896171658",
+      "title": "坑的就是爹。。。美股市场近期热点切换以天为单位😂😤 近期我们不断的提示，这张图是昨天周一开盘的，当时存储和半导体跌出xiang，果真次日转头。 这类市场切忌沉于每天追涨杀跌里，必须坚持以点位为准+笨猫近几周增加的3H-4H时间周期确认有效…",
+      "summary": "坑的就是爹。。。美股市场近期热点切换以天为单位😂😤 近期我们不断的提示，这张图是昨天周一开盘的，当时存储和半导体跌出xiang，果真次日转头。 这类市场切忌沉于每天追涨杀跌里，必须坚持以点位为准+笨猫近几周增加的3H-4H时间周期确认有效这两个前提，以免被骗线。",
+      "link": "https://x.com/maojietrading/status/2077020949896171658",
+      "source": "猫姐美股交易",
+      "source_id": "maojie",
+      "handle": "maojietrading",
+      "lane": "US equity trading",
+      "published": "2026-07-14T13:22:38+00:00",
+      "published_ts": 1784035358,
       "metrics": {
-        "likes": 1686,
-        "retweets": 279,
-        "replies": 212,
-        "views": 179978,
-        "hot_score": 5158
+        "likes": 45,
+        "retweets": 1,
+        "replies": 3,
+        "views": 8606,
+        "hot_score": 106
       },
       "categories": [
-        "Macro",
-        "Policy"
+        "Memory",
+        "Semis",
+        "Risk"
       ],
       "tickers": [],
       "is_retweet": false,
       "has_media": true,
       "media": [
-        "https://pbs.twimg.com/media/HNMcobLWUAEE9I1.png"
+        "https://pbs.twimg.com/media/HNMPATUacAANU4C.png"
       ],
       "quoted_tweet": null
     },
@@ -923,11 +862,11 @@
       "published": "2026-07-14T13:21:29+00:00",
       "published_ts": 1784035289,
       "metrics": {
-        "likes": 913,
-        "retweets": 157,
+        "likes": 996,
+        "retweets": 165,
         "replies": 26,
-        "views": 59011,
-        "hot_score": 2696
+        "views": 64569,
+        "hot_score": 2907
       },
       "categories": [
         "Macro",
@@ -965,11 +904,11 @@
       "published": "2026-07-14T13:08:59+00:00",
       "published_ts": 1784034539,
       "metrics": {
-        "likes": 185,
-        "retweets": 4,
+        "likes": 188,
+        "retweets": 6,
         "replies": 30,
-        "views": 117093,
-        "hot_score": 537
+        "views": 120842,
+        "hot_score": 556
       },
       "categories": [],
       "tickers": [],
@@ -991,51 +930,6 @@
       }
     },
     {
-      "id": "2077008322973381081",
-      "title": "今晚cpi全部都大幅度低于预期，7月第一个分水岭顺利过关。",
-      "summary": "今晚cpi全部都大幅度低于预期，7月第一个分水岭顺利过关。",
-      "link": "https://x.com/qinbafrank/status/2077008322973381081",
-      "source": "qinbafrank",
-      "source_id": "qinba",
-      "handle": "qinbafrank",
-      "lane": "Macro + AI",
-      "published": "2026-07-14T12:32:27+00:00",
-      "published_ts": 1784032347,
-      "metrics": {
-        "likes": 108,
-        "retweets": 11,
-        "replies": 47,
-        "views": 54991,
-        "hot_score": 372
-      },
-      "categories": [
-        "Macro"
-      ],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": true,
-      "media": [
-        "https://pbs.twimg.com/media/HNMED3AbUAA3ArX.jpg"
-      ],
-      "quoted_tweet": {
-        "id": "2076998727592743164",
-        "author": "qinbafrank",
-        "name": "qinbafrank",
-        "text": "怎么看马上要公布的6月美国cpi数据？1）广义cpi同比环比低于前值基本上是预期之内，通胀回落是共识、甚至环比出现负值也是预期。核心是看能不能低于预期；\n2）关键是看核心cpi、同比环比能不能也低于预期。核心是看跟预期的偏离度\n3）如果美伊一直保持停火状态，那么今晚通胀数据符合预期就能带动市场情绪提振。但是当下美伊冲突再起，油价又反弹了。那么今晚通胀数据要低于预期才能过关，否则市场会担心通胀下降不够快，还有担心再被油价带起来的隐忧。",
-        "created_at": "Tue Jul 14 11:54:20 +0000 2026",
-        "url": "https://x.com/qinbafrank/status/2076998727592743164",
-        "has_media": true,
-        "media_urls": [
-          "https://pbs.twimg.com/media/HNL7VSzaIAASi6s.jpg",
-          "https://pbs.twimg.com/media/HNL7VS7bcAAnu6K.jpg"
-        ],
-        "media_posters": [
-          "https://pbs.twimg.com/media/HNL7VSzaIAASi6s.jpg",
-          "https://pbs.twimg.com/media/HNL7VS7bcAAnu6K.jpg"
-        ]
-      }
-    },
-    {
       "id": "2077000007119462876",
       "title": "Dude has made billions in months dumping his crypto holdings onto his supporters.",
       "summary": "Dude has made billions in months dumping his crypto holdings onto his supporters.",
@@ -1047,11 +941,11 @@
       "published": "2026-07-14T11:59:25+00:00",
       "published_ts": 1784030365,
       "metrics": {
-        "likes": 1191,
-        "retweets": 72,
+        "likes": 1229,
+        "retweets": 74,
         "replies": 14,
-        "views": 26559,
-        "hot_score": 2782
+        "views": 26972,
+        "hot_score": 2868
       },
       "categories": [
         "Crypto"
@@ -1077,92 +971,6 @@
       }
     },
     {
-      "id": "2076998727592743164",
-      "title": "怎么看马上要公布的6月美国cpi数据？1）广义cpi同比环比低于前值基本上是预期之内，通胀回落是共识、甚至环比出现负值也是预期。核心是看能不能低于预期； 2）关键是看核心cpi、同比环比能不能也低于预期。核心是看跟预期的偏离度 3）如果美…",
-      "summary": "怎么看马上要公布的6月美国cpi数据？1）广义cpi同比环比低于前值基本上是预期之内，通胀回落是共识、甚至环比出现负值也是预期。核心是看能不能低于预期； 2）关键是看核心cpi、同比环比能不能也低于预期。核心是看跟预期的偏离度 3）如果美伊一直保持停火状态，那么今晚通胀数据符合预期就能带动市场情绪提振。但是当下美伊冲突再起，油价又反弹了。那么今晚通胀数据要低于预期才能过关，否则市场会担心通胀下降不够快，还有担心再被油价带起来的隐忧。",
-      "link": "https://x.com/qinbafrank/status/2076998727592743164",
-      "source": "qinbafrank",
-      "source_id": "qinba",
-      "handle": "qinbafrank",
-      "lane": "Macro + AI",
-      "published": "2026-07-14T11:54:20+00:00",
-      "published_ts": 1784030060,
-      "metrics": {
-        "likes": 24,
-        "retweets": 2,
-        "replies": 29,
-        "views": 74823,
-        "hot_score": 161
-      },
-      "categories": [
-        "Macro"
-      ],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": true,
-      "media": [
-        "https://pbs.twimg.com/media/HNL7VSzaIAASi6s.jpg",
-        "https://pbs.twimg.com/media/HNL7VS7bcAAnu6K.jpg"
-      ],
-      "quoted_tweet": {
-        "id": "2076520435676860661",
-        "author": "qinbafrank",
-        "name": "qinbafrank",
-        "text": "本周迎来7月第一个分水岭，上周一有聊过对于7月走势推演：标普大概率高位震荡，纳指和半导体波动显著放大。真正的分水岭是7月14日的6月CPI、随后Q2财报开启和月底的议息会议。现在回看上周的波动确实不小，今天刚开盘又是一记闷棍。聊聊我的理解：\n1、今早上市场的闷棍来自两个原因：\n1）周末美国和伊朗再次互相发动攻击，伊朗宣称关闭霍尔木兹海峡。这就导致了“能源供应冲击—通胀预期上升—加息预期上升—美债收益率上涨—科技股估值承压”的传导链条。 而且今天早上油价、十年美债收益率、美元指数同步上行，市场自然也会承压。\n\n关于美伊冲突再起，昨天这里https://t.co/BvYG2n7hKt有详细聊过：双方都在算计一件事： 只要报复规模可控，就可以先打一下、提高对方成本，再回到谈判桌上。为什么这么说？你看美伊周末的攻击范围：美国打击的伊朗在波斯湾沿岸的军事基地和设施，没有攻击伊朗内部和德黑兰以及能源设施；伊朗打击的是美军在波斯湾各国的军事基地，其实这些基地三月之后基本上被放弃了，人员、装备早都撤走。双方还是在控制冲突的规模，没有进一步升级。\n\n2）海力士的大跌\n是韩国投资证券一个分析师披露海力士2026年Q2营业利润预计 60.4万亿韩元（环比 +61%，同比 +556%），但比市场普遍共识（65万亿韩元）低约 8%。主要原因是海力士的 HBM（高带宽内存）收入占比高于同行，导致其 ASP（平均售价）涨幅低于市场平均水平。导致海力士大跌\n\n实质上跟上周三星披露2季度业绩预告表现是一样的https://t.co/2Sc4snSS9h，业绩增长度很强，但是市场预期也都整体抬起来了。\n\n2、本周的第一个分水岭\n本周影响市场的几条主线：\nCPI、PPI数据；\n沃什在国会的听证会；\n财报季开启，第一枪在周三的阿斯麦和周四的台积电（今天下午公布6月月度营收）；\n\n1）周二公布的cpi数据\n6月广义 CPI 和核心cpi同比大概率低于5月，关键是与市场预期的偏离度。广义cpi走弱利好估值和久期资产，油价下跌市场也知道通胀会回落，但关键是看广义cpi和核心cpi回落的斜率（看环比）。特别是核心cpi环比要能低于0.3% ，否则市场担心回落速度过慢。\n意义在于让市场确认通胀开始回落，最好当然是回落斜率快于预期。这也是前面说到，7月14号的cpi是7月的第一个分水岭。\n\n2）沃什的听证会\n这将为市场提供又一次观察其政策思路的窗口，值得注意的是，周二听证会开场前90分钟，最新CPI数据就将正式公布，沃什几乎无法回避关于美国通胀走势的相关提问，这也让本次听证会的关注度大幅提升。\n\n3）阿斯麦和台积电的财报关注点\n阿斯麦重点关注\n其EUV和High-NA EUV系统的订单情况。这是ASML最重要的前瞻指标，能反映2027年及以后的半导体资本开支需求；\n全年2026指引更新：此前指引营收€36-40亿区间，市场会关注是否维持或上调；\nHigh-NA EUV推进情况：下一代光刻机的采用进度和客户反馈，这是长期增长的关键驱动；\n\n台积电重点关注：\n—AI/HPC需求强度，管理层会如何描述“AI需求是否依然extremely robust”，重点看HPC（高性能计算）营收占比和同比/环比增长。\n—CoWoS先进封装产能，这是当前AI芯片（尤其是NVIDIA等）最紧缺的环节。市场会重点关注：CoWoS产能扩张进度和利用率是否仍有供需缺口（NVIDIA reportedly占了很大份额），这被视为检验“AI资本开支是否有天花板”的重要信号\n—全年2026营收指引更新：此前指引“超过30%”同比增长，市场期待是否上修（部分券商已预期上调）。\n—资本开支（Capex）：此前上调至$52-56亿区间高位，关注是否进一步增加以支持先进制程和CoWoS扩张。\n—整体AI基础设施周期展望：管理层对2026下半年及2027年的需求看法。\n\n当然对于财报季最关键是还是下旬的超大云厂商的业绩报告。\n\n3、本周需要重点关注的几个点\n1）看布伦特油价。 80美元是近期情绪分水岭；持续高于85美元，市场会开始担心能源冲击重新扩散到服务和商品价格。当然油价最终还是看美伊双方博弈的情况；\n\n2）看美国10年期收益率。\n 4.60%附近是科技股估值压力位（去年这里https://t.co/RtNpMzswae就有聊过4.6%是十年美债收益率的一个阈值）；\n站上4.65%—4.70%，纳指更容易被下沙，反弹难度明显增加；\n回到4.50%以下，科技股才更容易持续修复。\n\n3）看台积电、ASML和海力士能否出现分化。\n 如果台积电和ASML指引仍强，而海力士止跌，说明近期主要是仓位和获利了结；\n如果三者同时转弱，则要警惕AI硬件板块从短期调整演变为盈利预期下修。\n\n整体来说，周一至周二CPI公布前，市场仍会压低高估值科技和半导体仓位。只要布伦特油价没有持续突破80—85美元、核心CPI没有明显高于0.3%环比，10年期收益率大概率会在4.50%—4.65%之间震荡，市场有机会在周二或周三出现止跌和修复修复。\n\n最终周二CPI和周四台积电，是决定方向的两个最关键节点。\n\n本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
-        "created_at": "Mon Jul 13 04:13:46 +0000 2026",
-        "url": "https://x.com/qinbafrank/status/2076520435676860661",
-        "has_media": false,
-        "media_urls": [],
-        "media_posters": []
-      }
-    },
-    {
-      "id": "2076979332657070387",
-      "title": "刚开始接触股票资产的同学，其实可以好好看看Bitget推出的的TradFi科普一百问Module 2《资产百科：股票》 模块，这个节点补课其实挺及时的。我也看了下内容讲得比较系统： 1）股票到底是什么、是怎么运作的； 2）企业为什么要发行…",
-      "summary": "刚开始接触股票资产的同学，其实可以好好看看Bitget推出的的TradFi科普一百问Module 2《资产百科：股票》 模块，这个节点补课其实挺及时的。我也看了下内容讲得比较系统： 1）股票到底是什么、是怎么运作的； 2）企业为什么要发行股票（本质上不是为了圈钱那么简单）； 3）股价涨跌到底受哪些因素驱动； 4）不同类型股票的区别； 5）以及在现在这个多资产时代，为什么懂股票越来越重要。 对很多从纯币市过来的玩家来说，这块内容其实特别有针对性。 加密货币更多是流动性、叙事和情绪驱动的： 而美股本质上是公司现金流、盈利能力和资本配置的博弈。 很多时候 c…",
-      "link": "https://x.com/qinbafrank/status/2076979332657070387",
-      "source": "qinbafrank",
-      "source_id": "qinba",
-      "handle": "qinbafrank",
-      "lane": "Macro + AI",
-      "published": "2026-07-14T10:37:15+00:00",
-      "published_ts": 1784025435,
-      "metrics": {
-        "likes": 35,
-        "retweets": 6,
-        "replies": 14,
-        "views": 20153,
-        "hot_score": 134
-      },
-      "categories": [
-        "AI",
-        "Semis",
-        "Macro",
-        "Crypto",
-        "Risk"
-      ],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": {
-        "id": "2075550611312202164",
-        "author": "Bitget_TradFi",
-        "name": "Bitget TradFi",
-        "text": "TradFi 101 just got a rewarding upgrade!\n\nWhat’s new:\n- Learning journey badges\n- Rewards section unlocked\n\nModule 2: Stocks is now live! Complete it for a chance to win from a share of $300,000 across all modules!\n\nNew modules every week. Up to 11 lucky draw chances in total!",
-        "created_at": "Fri Jul 10 12:00:02 +0000 2026",
-        "url": "https://x.com/Bitget_TradFi/status/2075550611312202164",
-        "has_media": false,
-        "media_urls": [],
-        "media_posters": [],
-        "card": {
-          "name": "unified_card",
-          "url": "https://twitter.com",
-          "domain": "twitter.com"
-        }
-      }
-    },
-    {
       "id": "2076961231508742281",
       "title": "Trump announced he’s hosting a UFC event on the White House grounds. He also owns stock in TKO Group — the company that…",
       "summary": "Trump announced he’s hosting a UFC event on the White House grounds. He also owns stock in TKO Group — the company that owns the UFC. So the President is turning federal property into a promotional platform for a company he has a financial stake in, run by his ally Dana White. I…",
@@ -1174,11 +982,11 @@
       "published": "2026-07-14T09:25:20+00:00",
       "published_ts": 1784021120,
       "metrics": {
-        "likes": 743,
-        "retweets": 118,
+        "likes": 750,
+        "retweets": 119,
         "replies": 16,
-        "views": 19286,
-        "hot_score": 2111
+        "views": 19481,
+        "hot_score": 2130
       },
       "categories": [
         "Macro",
@@ -1202,11 +1010,11 @@
       "published": "2026-07-14T08:34:09+00:00",
       "published_ts": 1784018049,
       "metrics": {
-        "likes": 155,
-        "retweets": 9,
+        "likes": 158,
+        "retweets": 11,
         "replies": 57,
-        "views": 43501,
-        "hot_score": 455
+        "views": 44354,
+        "hot_score": 472
       },
       "categories": [
         "Risk"
@@ -1218,155 +1026,6 @@
         "https://pbs.twimg.com/media/HNLLshragAAyXfa.jpg"
       ],
       "quoted_tweet": null
-    },
-    {
-      "id": "2076940164363059232",
-      "title": "昨晚大科技里微软、亚马逊都能逆势的，算是比较强势了，为何？个人角度应也是之前说的这个逻辑：企业采用AI已经从“买最强模型”阶段，进入“工程化部署 + 多模型 + 私有数据系统”阶段。这个阶段，云服务商（CSP）从“卖算力/卖API的中间商…",
-      "summary": "昨晚大科技里微软、亚马逊都能逆势的，算是比较强势了，为何？个人角度应也是之前说的这个逻辑：企业采用AI已经从“买最强模型”阶段，进入“工程化部署 + 多模型 + 私有数据系统”阶段。这个阶段，云服务商（CSP）从“卖算力/卖API的中间商”，升级成了“AI操作系统层”。他们能提供私有化部署、多模型编排、数据安全、权限管理、工具调用框架等一整套基础设施，这正是大企业现在最缺的。 微软和 亚马逊是目前企业级云/AI基础设施最成熟的两家。他们在私有部署、合规、安全、企业级集成上优势明显。当然也是他们之前跌的很多，被压制的很充分。 这个逻辑上周这里 今天上午的…",
-      "link": "https://x.com/qinbafrank/status/2076940164363059232",
-      "source": "qinbafrank",
-      "source_id": "qinba",
-      "handle": "qinbafrank",
-      "lane": "Macro + AI",
-      "published": "2026-07-14T08:01:37+00:00",
-      "published_ts": 1784016097,
-      "metrics": {
-        "likes": 33,
-        "retweets": 6,
-        "replies": 11,
-        "views": 22333,
-        "hot_score": 129
-      },
-      "categories": [
-        "AI",
-        "Risk"
-      ],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": {
-        "id": "2076839550119444702",
-        "author": "qinbafrank",
-        "name": "qinbafrank",
-        "text": "https://t.co/8UczGnWDhb",
-        "created_at": "Tue Jul 14 01:21:49 +0000 2026",
-        "url": "https://x.com/qinbafrank/status/2076839550119444702",
-        "has_media": false,
-        "media_urls": [],
-        "media_posters": []
-      }
-    },
-    {
-      "id": "2076933092225523958",
-      "title": "7709今天成交额225亿港币，资产规模484亿港币，这么恐怖的换手率",
-      "summary": "7709今天成交额225亿港币，资产规模484亿港币，这么恐怖的换手率",
-      "link": "https://x.com/qinbafrank/status/2076933092225523958",
-      "source": "qinbafrank",
-      "source_id": "qinba",
-      "handle": "qinbafrank",
-      "lane": "Macro + AI",
-      "published": "2026-07-14T07:33:31+00:00",
-      "published_ts": 1784014411,
-      "metrics": {
-        "likes": 16,
-        "retweets": 0,
-        "replies": 2,
-        "views": 18080,
-        "hot_score": 52
-      },
-      "categories": [],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2076929872077943154",
-      "title": "韩国监管出手，海力士正股和7709今天都放巨量，能看出来是有一大票资金进去争抢带血的筹码、底部正在形成，这一波去杠杆应该是到了尾声。",
-      "summary": "韩国监管出手，海力士正股和7709今天都放巨量，能看出来是有一大票资金进去争抢带血的筹码、底部正在形成，这一波去杠杆应该是到了尾声。",
-      "link": "https://x.com/qinbafrank/status/2076929872077943154",
-      "source": "qinbafrank",
-      "source_id": "qinba",
-      "handle": "qinbafrank",
-      "lane": "Macro + AI",
-      "published": "2026-07-14T07:20:43+00:00",
-      "published_ts": 1784013643,
-      "metrics": {
-        "likes": 279,
-        "retweets": 21,
-        "replies": 47,
-        "views": 183119,
-        "hot_score": 893
-      },
-      "categories": [
-        "Memory",
-        "Risk"
-      ],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": true,
-      "media": [
-        "https://pbs.twimg.com/media/HNK8tZvbwAAIxcW.jpg",
-        "https://pbs.twimg.com/media/HNK8tZubgAAlr57.jpg"
-      ],
-      "quoted_tweet": {
-        "id": "2076904839939031220",
-        "author": "qinbafrank",
-        "name": "qinbafrank",
-        "text": "韩国国家队F4出手了，韩国企划财政部、金融委员会、韩国银行、金融监督院等核心部门已全面介入市场稳定工作。金融当局之前已要求：\n1）证券公司 提交自身投资者保护对策\n2）各大资产管理公司（资管公司） 提交单股杠杆ETF市场波动降低整改方案。\n重点瞄准本次波动核心的单股杠杆ETF，全面收紧杠杆乱象、加强风险管理。 \n\n今天7月14日下午3时，金融投资协会会长黄圣烨紧急召集10家综合金融投资公司（证券公司）CEO 开会，讨论单股杠杆ETF的管理与应对方案，共享股市波动扩大担忧，并听取各社解决方案。这是当局/相关机构首次召集证券公司负责人。\n同日下午3时，金融委员会副委员长权大荣主持韩国交易所金融投资业界实务人员座谈会。\n\n7月16日还将召开F4会议（企划财政部、韩国银行、金融委、金融监院首长参与），讨论单股杠杆ETF对市场的影响及制度改善方案。",
-        "created_at": "Tue Jul 14 05:41:15 +0000 2026",
-        "url": "https://x.com/qinbafrank/status/2076904839939031220",
-        "has_media": true,
-        "media_urls": [
-          "https://pbs.twimg.com/media/HNKl8V5bwAAuAKo.jpg"
-        ],
-        "media_posters": [
-          "https://pbs.twimg.com/media/HNKl8V5bwAAuAKo.jpg"
-        ]
-      }
-    },
-    {
-      "id": "2076926988871413951",
-      "title": "Deribit和SignalPlus联合发起的的“孤岛计划”期权交易大赛，应该是业内最顶格的期权交易大赛了，60万U的总奖池，值得关注下。 根据官方最新公布的规则，现在不需要你有多大的资金量，只需要存入 1 美元，或者仅仅交易 1 次，就…",
-      "summary": "Deribit和SignalPlus联合发起的的“孤岛计划”期权交易大赛，应该是业内最顶格的期权交易大赛了，60万U的总奖池，值得关注下。 根据官方最新公布的规则，现在不需要你有多大的资金量，只需要存入 1 美元，或者仅仅交易 1 次，就能直接获取抽取私人岛屿的资格。绝对值得去撸个毛。 大赛报名链接：",
-      "link": "https://x.com/qinbafrank/status/2076926988871413951",
-      "source": "qinbafrank",
-      "source_id": "qinba",
-      "handle": "qinbafrank",
-      "lane": "Macro + AI",
-      "published": "2026-07-14T07:09:16+00:00",
-      "published_ts": 1784012956,
-      "metrics": {
-        "likes": 14,
-        "retweets": 1,
-        "replies": 5,
-        "views": 16674,
-        "hot_score": 54
-      },
-      "categories": [],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": {
-        "id": "2076655596955132397",
-        "author": "DeribitCN",
-        "name": "Deribit華語",
-        "text": "拥有你的第一座私人岛屿，只需要存1美元，或交易一次。就这么简单。🏝️\n\n立即报名 → 免费获得 1 张 HYPE 期权 · 再抽 600U\n\n存款并持有7天 → 必获得30U 或1 SOL 或瓜分 200U 或 Insta360相机（价值600U)\n\n完成首笔交易 → 每天抽 1 人得 20U 手续费返佣，赛后抽 Swatch（价值 400U）。\n\n👉 零门槛任务，立即报名参与：https://t.co/4tngphAOPW",
-        "created_at": "Mon Jul 13 13:10:51 +0000 2026",
-        "url": "https://x.com/DeribitCN/status/2076655596955132397",
-        "has_media": true,
-        "media_urls": [
-          "https://pbs.twimg.com/media/HNHDQgyXgAAy-V3.jpg",
-          "https://pbs.twimg.com/media/HNHDQgvXoAA3rYq.jpg"
-        ],
-        "media_posters": [
-          "https://pbs.twimg.com/media/HNHDQgyXgAAy-V3.jpg",
-          "https://pbs.twimg.com/media/HNHDQgvXoAA3rYq.jpg"
-        ]
-      }
     },
     {
       "id": "2076924514127261973",
@@ -1383,8 +1042,8 @@
         "likes": 103,
         "retweets": 13,
         "replies": 36,
-        "views": 38635,
-        "hot_score": 345
+        "views": 39268,
+        "hot_score": 346
       },
       "categories": [
         "AI"
@@ -1423,11 +1082,11 @@
       "published": "2026-07-14T05:33:39+00:00",
       "published_ts": 1784007219,
       "metrics": {
-        "likes": 164,
+        "likes": 165,
         "retweets": 4,
-        "replies": 33,
-        "views": 77548,
-        "hot_score": 458
+        "replies": 34,
+        "views": 77965,
+        "hot_score": 461
       },
       "categories": [],
       "tickers": [],
@@ -1450,11 +1109,11 @@
       "published": "2026-07-14T05:29:48+00:00",
       "published_ts": 1784006988,
       "metrics": {
-        "likes": 422,
+        "likes": 426,
         "retweets": 18,
-        "replies": 169,
-        "views": 200153,
-        "hot_score": 1303
+        "replies": 170,
+        "views": 204626,
+        "hot_score": 1316
       },
       "categories": [],
       "tickers": [],
@@ -1475,11 +1134,11 @@
       "published": "2026-07-14T05:26:30+00:00",
       "published_ts": 1784006790,
       "metrics": {
-        "likes": 63,
+        "likes": 65,
         "retweets": 0,
         "replies": 58,
-        "views": 33558,
-        "hot_score": 217
+        "views": 33837,
+        "hot_score": 221
       },
       "categories": [],
       "tickers": [],
@@ -1500,11 +1159,11 @@
       "published": "2026-07-14T01:51:24+00:00",
       "published_ts": 1783993884,
       "metrics": {
-        "likes": 1483,
-        "retweets": 113,
-        "replies": 110,
-        "views": 560845,
-        "hot_score": 4141
+        "likes": 1499,
+        "retweets": 114,
+        "replies": 111,
+        "views": 568156,
+        "hot_score": 4179
       },
       "categories": [
         "AI",
@@ -1532,6 +1191,47 @@
       }
     },
     {
+      "id": "2076832402304086472",
+      "title": "MU这里跌破将引发第二轮中线资金离场，这部分资金有不少是800附近才进场的。这轮是最早一批主力落袋，而且是部分落袋。现在新买家要等这波彻底走干净才能有所作为。就像前领导还在，也不好发挥，确认前领导走干净了，才能搞自己的",
+      "summary": "MU这里跌破将引发第二轮中线资金离场，这部分资金有不少是800附近才进场的。这轮是最早一批主力落袋，而且是部分落袋。现在新买家要等这波彻底走干净才能有所作为。就像前领导还在，也不好发挥，确认前领导走干净了，才能搞自己的",
+      "link": "https://x.com/maojietrading/status/2076832402304086472",
+      "source": "猫姐美股交易",
+      "source_id": "maojie",
+      "handle": "maojietrading",
+      "lane": "US equity trading",
+      "published": "2026-07-14T00:53:25+00:00",
+      "published_ts": 1783990405,
+      "metrics": {
+        "likes": 67,
+        "retweets": 5,
+        "replies": 0,
+        "views": 27821,
+        "hot_score": 186
+      },
+      "categories": [
+        "Risk"
+      ],
+      "tickers": [],
+      "is_retweet": false,
+      "has_media": false,
+      "media": [],
+      "quoted_tweet": {
+        "id": "2076686840153739611",
+        "author": "Sinus84",
+        "name": "Johnny, CFA | 极数 Algo",
+        "text": "📊 美股 Price Volume Leaders @ 11:14 AM ET\n\n直接看当天个股成交额排行，观察资金集中方向。\n\n关注点：\n• 今天谁最吸金\n• 哪些板块最强\n• 热门股的持续性\n\n#美股 #资金流向 #交易策略 https://t.co/FmGQZVvxn9",
+        "created_at": "Mon Jul 13 15:15:00 +0000 2026",
+        "url": "https://x.com/Sinus84/status/2076686840153739611",
+        "has_media": true,
+        "media_urls": [
+          "https://pbs.twimg.com/media/HNHfooTWEAAvRiC.jpg"
+        ],
+        "media_posters": [
+          "https://pbs.twimg.com/media/HNHfooTWEAAvRiC.jpg"
+        ]
+      }
+    },
+    {
       "id": "2076826683357942110",
       "title": "让你们别碰7709，一个个死都不信",
       "summary": "让你们别碰7709，一个个死都不信",
@@ -1546,7 +1246,7 @@
         "likes": 50,
         "retweets": 0,
         "replies": 11,
-        "views": 14401,
+        "views": 14546,
         "hot_score": 125
       },
       "categories": [],
@@ -1568,11 +1268,11 @@
       "published": "2026-07-14T00:29:43+00:00",
       "published_ts": 1783988983,
       "metrics": {
-        "likes": 136,
+        "likes": 137,
         "retweets": 3,
         "replies": 28,
-        "views": 78757,
-        "hot_score": 393
+        "views": 79160,
+        "hot_score": 396
       },
       "categories": [
         "Risk"
@@ -1605,11 +1305,11 @@
       "published": "2026-07-13T23:17:46+00:00",
       "published_ts": 1783984666,
       "metrics": {
-        "likes": 867,
+        "likes": 871,
         "retweets": 39,
         "replies": 116,
-        "views": 305429,
-        "hot_score": 2350
+        "views": 308919,
+        "hot_score": 2361
       },
       "categories": [
         "AI",
@@ -1642,11 +1342,11 @@
       "published": "2026-07-13T20:52:50+00:00",
       "published_ts": 1783975970,
       "metrics": {
-        "likes": 1659,
-        "retweets": 390,
+        "likes": 1666,
+        "retweets": 392,
         "replies": 12,
-        "views": 40555,
-        "hot_score": 5320
+        "views": 40924,
+        "hot_score": 5344
       },
       "categories": [
         "Macro",
@@ -1686,11 +1386,11 @@
       "published": "2026-07-13T19:20:46+00:00",
       "published_ts": 1783970446,
       "metrics": {
-        "likes": 2030,
+        "likes": 2036,
         "retweets": 170,
         "replies": 299,
-        "views": 427661,
-        "hot_score": 5636
+        "views": 431999,
+        "hot_score": 5652
       },
       "categories": [
         "Data centers",
@@ -1724,11 +1424,11 @@
       "published": "2026-07-13T16:45:18+00:00",
       "published_ts": 1783961118,
       "metrics": {
-        "likes": 798,
+        "likes": 799,
         "retweets": 249,
         "replies": 27,
-        "views": 21473,
-        "hot_score": 2889
+        "views": 21539,
+        "hot_score": 2891
       },
       "categories": [
         "Policy",
@@ -1740,6 +1440,33 @@
       "media": [
         "https://pbs.twimg.com/media/HNH0VcZWIAA4V8T.jpg"
       ],
+      "quoted_tweet": null
+    },
+    {
+      "id": "2076687385593868334",
+      "title": "周一开盘QQQ测试笨猫关键点位后拉起反弹，目前非存储类走得都不错，我们Q3观察池list里的个股大部分也在上涨 周末油管公开复盘视频分享两根QQQ关键点位，本周是多方控场的标志。同时分享了我们list个股之一IBM，仍在上升通道里。MU和…",
+      "summary": "周一开盘QQQ测试笨猫关键点位后拉起反弹，目前非存储类走得都不错，我们Q3观察池list里的个股大部分也在上涨 周末油管公开复盘视频分享两根QQQ关键点位，本周是多方控场的标志。同时分享了我们list个股之一IBM，仍在上升通道里。MU和SNDK观点不变，守住点位很重要 分化还在，但好消息是有所缓和",
+      "link": "https://x.com/maojietrading/status/2076687385593868334",
+      "source": "猫姐美股交易",
+      "source_id": "maojie",
+      "handle": "maojietrading",
+      "lane": "US equity trading",
+      "published": "2026-07-13T15:17:10+00:00",
+      "published_ts": 1783955830,
+      "metrics": {
+        "likes": 78,
+        "retweets": 1,
+        "replies": 1,
+        "views": 15978,
+        "hot_score": 177
+      },
+      "categories": [
+        "Memory"
+      ],
+      "tickers": [],
+      "is_retweet": false,
+      "has_media": false,
+      "media": [],
       "quoted_tweet": null
     },
     {
@@ -1757,8 +1484,8 @@
         "likes": 68,
         "retweets": 1,
         "replies": 18,
-        "views": 38856,
-        "hot_score": 197
+        "views": 39048,
+        "hot_score": 198
       },
       "categories": [],
       "tickers": [],
@@ -1823,7 +1550,7 @@
         "likes": 210,
         "retweets": 10,
         "replies": 45,
-        "views": 175182,
+        "views": 175706,
         "hot_score": 690
       },
       "categories": [
@@ -1857,11 +1584,11 @@
       "published": "2026-07-13T11:52:54+00:00",
       "published_ts": 1783943574,
       "metrics": {
-        "likes": 595,
+        "likes": 597,
         "retweets": 121,
         "replies": 10,
-        "views": 23092,
-        "hot_score": 1828
+        "views": 23178,
+        "hot_score": 1832
       },
       "categories": [
         "AI",
@@ -1885,11 +1612,11 @@
       "published": "2026-07-13T09:10:14+00:00",
       "published_ts": 1783933814,
       "metrics": {
-        "likes": 26,
+        "likes": 28,
         "retweets": 4,
         "replies": 33,
-        "views": 61860,
-        "hot_score": 166
+        "views": 67431,
+        "hot_score": 176
       },
       "categories": [
         "Semis"
@@ -1912,31 +1639,6 @@
       "quoted_tweet": null
     },
     {
-      "id": "2076562621915070740",
-      "title": "看了下英语翻译太刺激，还是删了吧",
-      "summary": "看了下英语翻译太刺激，还是删了吧",
-      "link": "https://x.com/ShanghaoJin/status/2076562621915070740",
-      "source": "Herman Jin",
-      "source_id": "herman",
-      "handle": "ShanghaoJin",
-      "lane": "FICC + tech",
-      "published": "2026-07-13T07:01:24+00:00",
-      "published_ts": 1783926084,
-      "metrics": {
-        "likes": 4,
-        "retweets": 0,
-        "replies": 2,
-        "views": 10800,
-        "hot_score": 20
-      },
-      "categories": [],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": null
-    },
-    {
       "id": "2076519993613980154",
       "title": "麻蛋，周五的单被套了，看看海力士能让我输多少，7月22财报",
       "summary": "麻蛋，周五的单被套了，看看海力士能让我输多少，7月22财报",
@@ -1951,7 +1653,7 @@
         "likes": 26,
         "retweets": 0,
         "replies": 20,
-        "views": 14030,
+        "views": 14066,
         "hot_score": 86
       },
       "categories": [
@@ -1980,7 +1682,7 @@
         "likes": 2012,
         "retweets": 170,
         "replies": 195,
-        "views": 607348,
+        "views": 608707,
         "hot_score": 5569
       },
       "categories": [
@@ -2020,8 +1722,8 @@
         "likes": 1452,
         "retweets": 47,
         "replies": 210,
-        "views": 401374,
-        "hot_score": 3750
+        "views": 402662,
+        "hot_score": 3751
       },
       "categories": [
         "AI",
@@ -2047,11 +1749,11 @@
       "published": "2026-07-12T11:25:10+00:00",
       "published_ts": 1783855510,
       "metrics": {
-        "likes": 1894,
+        "likes": 1896,
         "retweets": 92,
         "replies": 235,
-        "views": 881801,
-        "hot_score": 4983
+        "views": 887783,
+        "hot_score": 4987
       },
       "categories": [
         "AI",
@@ -2065,6 +1767,35 @@
       "is_retweet": false,
       "has_media": false,
       "media": [],
+      "quoted_tweet": null
+    },
+    {
+      "id": "2076219546516738356",
+      "title": "RT @Sinus84: $META 盘中表现强劲，当前价格达到$664.22，盘中累计涨幅高达+5.18%。…",
+      "summary": "RT @Sinus84: $META 盘中表现强劲，当前价格达到$664.22，盘中累计涨幅高达+5.18%。…",
+      "link": "https://x.com/maojietrading/status/2076219546516738356",
+      "source": "猫姐美股交易",
+      "source_id": "maojie",
+      "handle": "maojietrading",
+      "lane": "US equity trading",
+      "published": "2026-07-12T08:18:08+00:00",
+      "published_ts": 1783844288,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2,
+        "replies": 0,
+        "views": 1880,
+        "hot_score": 11
+      },
+      "categories": [],
+      "tickers": [
+        "$META"
+      ],
+      "is_retweet": true,
+      "has_media": true,
+      "media": [
+        "https://pbs.twimg.com/media/HM4gtP4WkAAPTEN.png"
+      ],
       "quoted_tweet": null
     },
     {
@@ -2082,7 +1813,7 @@
         "likes": 16,
         "retweets": 0,
         "replies": 22,
-        "views": 9649,
+        "views": 9655,
         "hot_score": 63
       },
       "categories": [
@@ -2110,6 +1841,58 @@
       }
     },
     {
+      "id": "2076079336977813684",
+      "title": "\"Midsize companies that employ millions of workers are now shedding jobs and relocating overseas to cut costs,\" per WSJ",
+      "summary": "\"Midsize companies that employ millions of workers are now shedding jobs and relocating overseas to cut costs,\" per WSJ",
+      "link": "https://x.com/unusual_whales/status/2076079336977813684",
+      "source": "unusual_whales",
+      "source_id": "whales",
+      "handle": "unusual_whales",
+      "lane": "Market tape",
+      "published": "2026-07-11T23:01:00+00:00",
+      "published_ts": 1783810860,
+      "metrics": {
+        "likes": 2424,
+        "retweets": 274,
+        "replies": 170,
+        "views": 398736,
+        "hot_score": 6786
+      },
+      "categories": [],
+      "tickers": [],
+      "is_retweet": false,
+      "has_media": false,
+      "media": [],
+      "quoted_tweet": null
+    },
+    {
+      "id": "2076064237412036764",
+      "title": "\"Microsoft, $MSFT, is facing backlash after announcing 4,800 layoffs, including 1,600 in its Xbox division, while USCIS…",
+      "summary": "\"Microsoft, $MSFT, is facing backlash after announcing 4,800 layoffs, including 1,600 in its Xbox division, while USCIS data shows the company has been approved to hire 2,273 foreign workers this year through the H-1B visa program,\" per FOX",
+      "link": "https://x.com/unusual_whales/status/2076064237412036764",
+      "source": "unusual_whales",
+      "source_id": "whales",
+      "handle": "unusual_whales",
+      "lane": "Market tape",
+      "published": "2026-07-11T22:01:00+00:00",
+      "published_ts": 1783807260,
+      "metrics": {
+        "likes": 9506,
+        "retweets": 1154,
+        "replies": 276,
+        "views": 639998,
+        "hot_score": 25558
+      },
+      "categories": [],
+      "tickers": [
+        "$MSFT"
+      ],
+      "is_retweet": false,
+      "has_media": false,
+      "media": [],
+      "quoted_tweet": null
+    },
+    {
       "id": "2075952208982716592",
       "title": "这什么情况？中银香港都开始倒查交易明细了？",
       "summary": "这什么情况？中银香港都开始倒查交易明细了？",
@@ -2124,7 +1907,7 @@
         "likes": 192,
         "retweets": 17,
         "replies": 38,
-        "views": 156855,
+        "views": 156868,
         "hot_score": 663
       },
       "categories": [],
@@ -2151,7 +1934,7 @@
         "likes": 25,
         "retweets": 1,
         "replies": 18,
-        "views": 21222,
+        "views": 21226,
         "hot_score": 94
       },
       "categories": [],
@@ -2160,6 +1943,35 @@
       "has_media": true,
       "media": [
         "https://pbs.twimg.com/media/HM37x7naIAAxslb.jpg"
+      ],
+      "quoted_tweet": null
+    },
+    {
+      "id": "2075585210734035323",
+      "title": "MU日线出现买点预警，我们club会员专属的禅动买卖点指标日线买卖点如图，下方黄框灰色信号出现买点预警，正式确认需要下周了 上方黄框为本次回调的卖点确认，在6月25日价格1253附近，之前6月22日也预警过一次",
+      "summary": "MU日线出现买点预警，我们club会员专属的禅动买卖点指标日线买卖点如图，下方黄框灰色信号出现买点预警，正式确认需要下周了 上方黄框为本次回调的卖点确认，在6月25日价格1253附近，之前6月22日也预警过一次",
+      "link": "https://x.com/maojietrading/status/2075585210734035323",
+      "source": "猫姐美股交易",
+      "source_id": "maojie",
+      "handle": "maojietrading",
+      "lane": "US equity trading",
+      "published": "2026-07-10T14:17:31+00:00",
+      "published_ts": 1783693051,
+      "metrics": {
+        "likes": 111,
+        "retweets": 2,
+        "replies": 1,
+        "views": 26840,
+        "hot_score": 259
+      },
+      "categories": [
+        "AI"
+      ],
+      "tickers": [],
+      "is_retweet": false,
+      "has_media": true,
+      "media": [
+        "https://pbs.twimg.com/media/HM31HCHagAAFQy3.jpg"
       ],
       "quoted_tweet": null
     },
@@ -2178,7 +1990,7 @@
         "likes": 27,
         "retweets": 0,
         "replies": 22,
-        "views": 22150,
+        "views": 22154,
         "hot_score": 98
       },
       "categories": [
@@ -2188,6 +2000,90 @@
       "is_retweet": false,
       "has_media": false,
       "media": [],
+      "quoted_tweet": null
+    },
+    {
+      "id": "2075477936829002151",
+      "title": "RT @Sinus84: $AMD 盘中表现强劲，当前价格为$551.41，盘中累计上涨+6.57%，显示出极高的买入动能。 技术分析层面，AMD今日开盘价$532.66，盘中一路向上突破，当前价格位于日内高点$559.50附近，显示出买…",
+      "summary": "RT @Sinus84: $AMD 盘中表现强劲，当前价格为$551.41，盘中累计上涨+6.57%，显示出极高的买入动能。 技术分析层面，AMD今日开盘价$532.66，盘中一路向上突破，当前价格位于日内高点$559.50附近，显示出买方力量占据绝对主导。与大盘（QQQ……",
+      "link": "https://x.com/maojietrading/status/2075477936829002151",
+      "source": "猫姐美股交易",
+      "source_id": "maojie",
+      "handle": "maojietrading",
+      "lane": "US equity trading",
+      "published": "2026-07-10T07:11:15+00:00",
+      "published_ts": 1783667475,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "views": 1785,
+        "hot_score": 6
+      },
+      "categories": [
+        "Semis"
+      ],
+      "tickers": [
+        "$AMD"
+      ],
+      "is_retweet": true,
+      "has_media": false,
+      "media": [],
+      "quoted_tweet": null
+    },
+    {
+      "id": "2075477891123691928",
+      "title": "RT @Sinus84:",
+      "summary": "RT @Sinus84:",
+      "link": "https://x.com/maojietrading/status/2075477891123691928",
+      "source": "猫姐美股交易",
+      "source_id": "maojie",
+      "handle": "maojietrading",
+      "lane": "US equity trading",
+      "published": "2026-07-10T07:11:04+00:00",
+      "published_ts": 1783667464,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "views": 1721,
+        "hot_score": 6
+      },
+      "categories": [],
+      "tickers": [],
+      "is_retweet": true,
+      "has_media": false,
+      "media": [],
+      "quoted_tweet": null
+    },
+    {
+      "id": "2075033205229629556",
+      "title": "周三美股QQQ收盘价和笨猫开盘后半小时计算出的日内收盘点位仅差0.36点😃图1为东部时间10:09分同步的截图 这类小数点后误差低于0.5的视为有效，即多方防守成功，应该持仓。目前满市场都是假信号骗线，因此我们反复强调要以4H为操作标准，…",
+      "summary": "周三美股QQQ收盘价和笨猫开盘后半小时计算出的日内收盘点位仅差0.36点😃图1为东部时间10:09分同步的截图 这类小数点后误差低于0.5的视为有效，即多方防守成功，应该持仓。目前满市场都是假信号骗线，因此我们反复强调要以4H为操作标准，防止短线追涨杀跌造成误判。 目前重点关注的个股表现均不错，MU等企稳后，大盘有望重回普涨行情！",
+      "link": "https://x.com/maojietrading/status/2075033205229629556",
+      "source": "猫姐美股交易",
+      "source_id": "maojie",
+      "handle": "maojietrading",
+      "lane": "US equity trading",
+      "published": "2026-07-09T01:44:03+00:00",
+      "published_ts": 1783561443,
+      "metrics": {
+        "likes": 69,
+        "retweets": 0,
+        "replies": 2,
+        "views": 17503,
+        "hot_score": 157
+      },
+      "categories": [
+        "Risk"
+      ],
+      "tickers": [],
+      "is_retweet": false,
+      "has_media": true,
+      "media": [
+        "https://pbs.twimg.com/media/HMv_sbvbQAAvNPI.jpg",
+        "https://pbs.twimg.com/media/HMv_sbvboAAOk9O.jpg"
+      ],
       "quoted_tweet": null
     },
     {
@@ -2205,7 +2101,7 @@
         "likes": 3871,
         "retweets": 616,
         "replies": 95,
-        "views": 927984,
+        "views": 928141,
         "hot_score": 11417
       },
       "categories": [],
@@ -2230,7 +2126,7 @@
         "likes": 112,
         "retweets": 9,
         "replies": 9,
-        "views": 56075,
+        "views": 56097,
         "hot_score": 334
       },
       "categories": [],
@@ -2255,7 +2151,7 @@
         "likes": 862,
         "retweets": 154,
         "replies": 124,
-        "views": 270451,
+        "views": 270464,
         "hot_score": 2888
       },
       "categories": [],
@@ -2319,7 +2215,7 @@
         "likes": 143,
         "retweets": 17,
         "replies": 9,
-        "views": 38379,
+        "views": 38386,
         "hot_score": 418
       },
       "categories": [
@@ -2410,7 +2306,7 @@
         "likes": 18,
         "retweets": 4,
         "replies": 2,
-        "views": 24886,
+        "views": 24890,
         "hot_score": 82
       },
       "categories": [],
@@ -2453,7 +2349,7 @@
         "likes": 94,
         "retweets": 11,
         "replies": 26,
-        "views": 43392,
+        "views": 43397,
         "hot_score": 312
       },
       "categories": [
@@ -2646,7 +2542,7 @@
         "likes": 1024,
         "retweets": 63,
         "replies": 35,
-        "views": 589913,
+        "views": 589932,
         "hot_score": 2898
       },
       "categories": [],
@@ -2685,7 +2581,7 @@
         "likes": 912,
         "retweets": 62,
         "replies": 57,
-        "views": 320756,
+        "views": 320770,
         "hot_score": 2511
       },
       "categories": [],
@@ -2737,7 +2633,7 @@
         "likes": 1231,
         "retweets": 120,
         "replies": 49,
-        "views": 464710,
+        "views": 464723,
         "hot_score": 3575
       },
       "categories": [
@@ -2885,7 +2781,7 @@
       "name": "qinbafrank",
       "lane": "Macro + AI",
       "note": "Macro liquidity, CPI/FOMC, AI ROI, semis",
-      "count": 8,
+      "count": 0,
       "url": "https://x.com/qinbafrank"
     },
     {
@@ -2903,7 +2799,7 @@
       "name": "猫姐美股交易",
       "lane": "US equity trading",
       "note": "Rotation, flows, HOOD, tactical market notes",
-      "count": 0,
+      "count": 8,
       "url": "https://x.com/maojietrading"
     },
     {
@@ -2971,7 +2867,7 @@
     }
   ],
   "errors": {
-    "maojie": "ok: false\nerror:\n  code: UNKNOWN\n  message: Browser command timed out client-side; the page may still have applied it.\n  exitCode: 1\n# AutoFix: re-run with --trace=retain-on-failure for trace artifact\n# opencli twitter tweets --trace retain-on-failure",
+    "qinba": "ok: false\nerror:\n  code: COMMAND_EXEC\n  message: 'Pre-navigation to https://x.com failed: Browser command timed out client-side; the page may still have applied it.'\n  help: Check that the site is reachable and the browser extension is running.\n  exitCode: 1",
     "kindig": "ok: false\nerror:\n  code: COMMAND_EXEC\n  message: 'Pre-navigation to https://x.com failed: Browser command timed out client-side; the page may still have applied it.'\n  help: Check that the site is reachable and the browser extension is running.\n  exitCode: 1"
   }
 }
