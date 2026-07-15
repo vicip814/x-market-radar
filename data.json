@@ -1,8 +1,155 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-15T06:36:43.137052+00:00",
-  "generated_ts": 1784097403,
+  "generated_at": "2026-07-15T11:26:56.848497+00:00",
+  "generated_ts": 1784114816,
   "articles": [
+    {
+      "id": "2077303142962573456",
+      "title": "I think I will do a deep dive on McKesson. I will analyze the stock to understand why Trump owns it. Basically do a rev…",
+      "summary": "I think I will do a deep dive on McKesson. I will analyze the stock to understand why Trump owns it. Basically do a reverse DCF to figure out what it is worth and any catalyst that could shoot up the stock price mid-term. Be on the lookout.",
+      "link": "https://x.com/TrumpsPortfolio/status/2077303142962573456",
+      "source": "Trump Portfolio Tracker",
+      "source_id": "trumptracker",
+      "handle": "TrumpsPortfolio",
+      "lane": "Policy trades",
+      "published": "2026-07-15T08:03:58+00:00",
+      "published_ts": 1784102638,
+      "metrics": {
+        "likes": 54,
+        "retweets": 8,
+        "replies": 3,
+        "views": 8977,
+        "hot_score": 159
+      },
+      "categories": [
+        "Semis",
+        "Data centers",
+        "Policy"
+      ],
+      "tickers": [],
+      "is_retweet": false,
+      "has_media": false,
+      "media": [],
+      "quoted_tweet": {
+        "id": "2076595765443510740",
+        "author": "TrumpsPortfolio",
+        "name": "Donald Trump Portfolio Tracker",
+        "text": "Donald Trump owns between $500,000 and $1 million in McKesson.\n\nNever heard of it? \n\nIt’s one of the three companies that flooded America with opioids. \n\nIn 2021 McKesson, Cardinal Health and AmerisourceBergen paid $21 billion to settle claims their pill distribution fueled the overdose epidemic. \n\nMcKesson’s share: $7.4 billion.\n\nTrump owns all three.\n\nHe holds nearly a million dollars in the company that helped drug America — while his DEA sets the quotas that let it happen.",
+        "created_at": "Mon Jul 13 09:13:06 +0000 2026",
+        "url": "https://x.com/TrumpsPortfolio/status/2076595765443510740",
+        "has_media": false,
+        "media_urls": [],
+        "media_posters": []
+      }
+    },
+    {
+      "id": "2077288640749986173",
+      "title": "Credit supply",
+      "summary": "Credit supply",
+      "link": "https://x.com/ShanghaoJin/status/2077288640749986173",
+      "source": "Herman Jin",
+      "source_id": "herman",
+      "handle": "ShanghaoJin",
+      "lane": "FICC + tech",
+      "published": "2026-07-15T07:06:20+00:00",
+      "published_ts": 1784099180,
+      "metrics": {
+        "likes": 12,
+        "retweets": 1,
+        "replies": 6,
+        "views": 9141,
+        "hot_score": 44
+      },
+      "categories": [],
+      "tickers": [],
+      "is_retweet": false,
+      "has_media": false,
+      "media": [],
+      "quoted_tweet": {
+        "id": "2077288117472727444",
+        "author": "LiCriste95341",
+        "name": "DoReMi",
+        "text": "@ShanghaoJin @kik8964 @yuntungshieh 但CDS波动是果，对应的主因呢？",
+        "created_at": "Wed Jul 15 07:04:16 +0000 2026",
+        "url": "https://x.com/LiCriste95341/status/2077288117472727444",
+        "has_media": false,
+        "media_urls": [],
+        "media_posters": []
+      }
+    },
+    {
+      "id": "2077287508514161039",
+      "title": "The consumer paid the tariff tax from higher prices and inflation and corporations get the money back. Which will likel…",
+      "summary": "The consumer paid the tariff tax from higher prices and inflation and corporations get the money back. Which will likely be used for higher bonuses for management, increase in G&amp;A, corporate buy backs and dividends. The consumer is screwed.",
+      "link": "https://x.com/TrumpsPortfolio/status/2077287508514161039",
+      "source": "Trump Portfolio Tracker",
+      "source_id": "trumptracker",
+      "handle": "TrumpsPortfolio",
+      "lane": "Policy trades",
+      "published": "2026-07-15T07:01:50+00:00",
+      "published_ts": 1784098910,
+      "metrics": {
+        "likes": 246,
+        "retweets": 40,
+        "replies": 4,
+        "views": 11873,
+        "hot_score": 707
+      },
+      "categories": [
+        "AI",
+        "Policy"
+      ],
+      "tickers": [],
+      "is_retweet": false,
+      "has_media": false,
+      "media": [],
+      "quoted_tweet": {
+        "id": "2076830790688641053",
+        "author": "WatcherGuru",
+        "name": "Watcher.Guru",
+        "text": "JUST IN: 🇺🇸 US issues $81,000,000,000 in refunds after Supreme Court ruled President Trump's tariffs illegal.",
+        "created_at": "Tue Jul 14 00:47:00 +0000 2026",
+        "url": "https://x.com/WatcherGuru/status/2076830790688641053",
+        "has_media": false,
+        "media_urls": [],
+        "media_posters": []
+      }
+    },
+    {
+      "id": "2077281133348388979",
+      "title": "别一听说delay这词就吓死 有各种你们听不动、但应该吓死的词。该吓死时候不吓死 IG spread整体在往上跑",
+      "summary": "别一听说delay这词就吓死 有各种你们听不动、但应该吓死的词。该吓死时候不吓死 IG spread整体在往上跑",
+      "link": "https://x.com/ShanghaoJin/status/2077281133348388979",
+      "source": "Herman Jin",
+      "source_id": "herman",
+      "handle": "ShanghaoJin",
+      "lane": "FICC + tech",
+      "published": "2026-07-15T06:36:30+00:00",
+      "published_ts": 1784097390,
+      "metrics": {
+        "likes": 47,
+        "retweets": 2,
+        "replies": 25,
+        "views": 23425,
+        "hot_score": 152
+      },
+      "categories": [],
+      "tickers": [],
+      "is_retweet": false,
+      "has_media": false,
+      "media": [],
+      "quoted_tweet": {
+        "id": "2077278759862853651",
+        "author": "RYANHINGSHING",
+        "name": "Ryan Leung 梁興盛, CFA",
+        "text": "如果我沒聽到幾個產業人士這樣說，我也不會轉發🤔\n\n我是覺得延遲1-2月時間不多，也可能落在Nvidia的可接受範圍內。另外出貨量更值得關心",
+        "created_at": "Wed Jul 15 06:27:04 +0000 2026",
+        "url": "https://x.com/RYANHINGSHING/status/2077278759862853651",
+        "has_media": false,
+        "media_urls": [],
+        "media_posters": []
+      }
+    },
     {
       "id": "2077275346639225074",
       "title": "这几天在上海做完医疗检查，终于回到老家，每次检查都在若干天等待结果，这个时间是最煎熬的。 近期重看溥仪《我的前半生》，不仅是大清覆亡，整个故宫，明清两朝近五百年积累的字画珠宝珍玩都在那一世败光。人生在世，重要的从来不是数字，想清这一点，交…",
@@ -15,11 +162,11 @@
       "published": "2026-07-15T06:13:31+00:00",
       "published_ts": 1784096011,
       "metrics": {
-        "likes": 11,
+        "likes": 39,
         "retweets": 0,
-        "replies": 0,
-        "views": 1461,
-        "hot_score": 23
+        "replies": 1,
+        "views": 5568,
+        "hot_score": 84
       },
       "categories": [],
       "tickers": [],
@@ -30,94 +177,6 @@
         "https://pbs.twimg.com/media/HNP25LcbIAAa-Wf.jpg"
       ],
       "quoted_tweet": null
-    },
-    {
-      "id": "2077260808309055670",
-      "title": "Stripe与顶级私募股权机构Advent International联合向PayPal提交收购要约，拟全资收购这家老牌支付巨头，交易整体估值突破530亿美元。如果收购成功这真的要重塑全球数字支付行业的格局了。",
-      "summary": "Stripe与顶级私募股权机构Advent International联合向PayPal提交收购要约，拟全资收购这家老牌支付巨头，交易整体估值突破530亿美元。如果收购成功这真的要重塑全球数字支付行业的格局了。",
-      "link": "https://x.com/qinbafrank/status/2077260808309055670",
-      "source": "qinbafrank",
-      "source_id": "qinba",
-      "handle": "qinbafrank",
-      "lane": "Macro + AI",
-      "published": "2026-07-15T05:15:44+00:00",
-      "published_ts": 1784092544,
-      "metrics": {
-        "likes": 14,
-        "retweets": 1,
-        "replies": 17,
-        "views": 12097,
-        "hot_score": 62
-      },
-      "categories": [],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": {
-        "id": "2077258857500353014",
-        "author": "CNBC",
-        "name": "CNBC",
-        "text": "Stripe, Advent offer to buy PayPal for more than $53 billion: Reuters https://t.co/5SdGZMZcPC",
-        "created_at": "Wed Jul 15 05:07:59 +0000 2026",
-        "url": "https://x.com/CNBC/status/2077258857500353014",
-        "has_media": false,
-        "media_urls": [],
-        "media_posters": [],
-        "card": {
-          "name": "summary_large_image",
-          "title": "Stripe, Advent offer to buy PayPal for more than $53 billion: Reuters",
-          "description": "Stripe and Advent International have made a joint offer to acquire PayPal Holdings Inc for $60.50 per share, in a deal that would value the payments company at more than $53 billion.",
-          "image_url": "https://pbs.twimg.com/card_img/2077258859643543552/yMdbTN9W?format=jpg&name=800x320_1",
-          "url": "https://www.cnbc.com/2026/07/15/stripe-advent-offer-to-buy-paypal-for-more-than-53-billion-reuters.html?taid=6a5715afc9c093000174c6ef&utm_campaign=trueanthem&utm_content=main&utm_medium=social&utm_source=twitter",
-          "domain": "www.cnbc.com"
-        }
-      }
-    },
-    {
-      "id": "2077259839638806616",
-      "title": "19年币安在圈内首创IEO模式的时候开始用币安APP，还翻到了当年的朋友圈，也快八年了，也算是亲眼见证了币安这么多年的发展历程。 看到了币安在19年初首创IEO模式带来当时的小阳春、然后开始大力推行合约业务、20年下半年又是推动 CEX深…",
-      "summary": "19年币安在圈内首创IEO模式的时候开始用币安APP，还翻到了当年的朋友圈，也快八年了，也算是亲眼见证了币安这么多年的发展历程。 看到了币安在19年初首创IEO模式带来当时的小阳春、然后开始大力推行合约业务、20年下半年又是推动 CEX深度介入公链与 DeFi（BNB Chain/BSC）、23-25年简化收益获取（Earn和Launchpool）、到现在大力进入股票业务，许多举措在当时是高风险创新，但通过规模效应和用户反馈快速迭代，最终被行业广泛采用。 币安的9年也是一部币市发展史，个人角度看crypto从来不是一条直线，曲折中前行。平台也一样，谁能…",
-      "link": "https://x.com/qinbafrank/status/2077259839638806616",
-      "source": "qinbafrank",
-      "source_id": "qinba",
-      "handle": "qinbafrank",
-      "lane": "Macro + AI",
-      "published": "2026-07-15T05:11:54+00:00",
-      "published_ts": 1784092314,
-      "metrics": {
-        "likes": 6,
-        "retweets": 0,
-        "replies": 8,
-        "views": 9081,
-        "hot_score": 29
-      },
-      "categories": [
-        "AI",
-        "Macro",
-        "Crypto"
-      ],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": true,
-      "media": [
-        "https://pbs.twimg.com/media/HNPo0EDbMAAaM9j.jpg"
-      ],
-      "quoted_tweet": {
-        "id": "2076978244486582687",
-        "author": "binancezh",
-        "name": "币安Binance华语",
-        "text": "这是关于9️⃣号球员的故事。\n\n从街角的一块球场开始，有过黑暗，也有过迷茫。\n\n直到越来越多的人，为我们举起了光。从一束光，到三亿星辰🌌\n\n来自币安社区的光照亮了前路，也照亮了更大的赛场！\n\n#币安九周年 我们将带着光芒继续奔赴更大的赛场—— 从加密货币平台，迈向超级金融 App🚀\n\n⬇️参与9号球员故事分享活动，币安请你看最新电影！\n发布推文或进入币安官方社区分享祝福，即有机会获得最新电影票🎬",
-        "created_at": "Tue Jul 14 10:32:56 +0000 2026",
-        "url": "https://x.com/binancezh/status/2076978244486582687",
-        "has_media": true,
-        "media_urls": [
-          "https://video.twimg.com/amplify_video/2076966547017666560/vid/avc1/480x270/Ij5TSeZZ_oX0PPQ4.mp4?tag=28"
-        ],
-        "media_posters": [
-          "https://pbs.twimg.com/amplify_video_thumb/2076966547017666560/img/VXlO3Tueyv90rqph.jpg"
-        ]
-      }
     },
     {
       "id": "2077258581657981035",
@@ -131,11 +190,11 @@
       "published": "2026-07-15T05:06:54+00:00",
       "published_ts": 1784092014,
       "metrics": {
-        "likes": 24,
+        "likes": 34,
         "retweets": 1,
         "replies": 0,
-        "views": 5368,
-        "hot_score": 58
+        "views": 9538,
+        "hot_score": 82
       },
       "categories": [],
       "tickers": [],
@@ -184,77 +243,6 @@
       "quoted_tweet": null
     },
     {
-      "id": "2077241505262313546",
-      "title": "51.5抄的78跑了40%， 非常后悔， 因为跑了一部分发现完全不知道买什么， 全市场都是垃圾股，没有比海力士更好的。",
-      "summary": "51.5抄的78跑了40%， 非常后悔， 因为跑了一部分发现完全不知道买什么， 全市场都是垃圾股，没有比海力士更好的。",
-      "link": "https://x.com/xiaomustock/status/2077241505262313546",
-      "source": "川沐 / Trumoo",
-      "source_id": "trumoo",
-      "handle": "xiaomustock",
-      "lane": "Semis trading",
-      "published": "2026-07-15T03:59:02+00:00",
-      "published_ts": 1784087942,
-      "metrics": {
-        "likes": 142,
-        "retweets": 3,
-        "replies": 34,
-        "views": 69627,
-        "hot_score": 402
-      },
-      "categories": [
-        "Memory"
-      ],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": true,
-      "media": [
-        "https://pbs.twimg.com/media/HNPYIc-bAAAyptN.jpg"
-      ],
-      "quoted_tweet": {
-        "id": "2076876646037307471",
-        "author": "xiaomustock",
-        "name": "川沐｜Trumoo🐮",
-        "text": "克服恐惧的最好办法就是面对恐惧，\n海力士不行，整个AI产业链都在一起崩。\n刚抄了南海2x，成本51.5。\n甭管什么Ai几把概念，都是和存储一荣俱荣 https://t.co/AcCG2Xr7xK",
-        "created_at": "Tue Jul 14 03:49:13 +0000 2026",
-        "url": "https://x.com/xiaomustock/status/2076876646037307471",
-        "has_media": true,
-        "media_urls": [
-          "https://pbs.twimg.com/media/HNKMTJ_bwAA_qjl.jpg"
-        ],
-        "media_posters": [
-          "https://pbs.twimg.com/media/HNKMTJ_bwAA_qjl.jpg"
-        ]
-      }
-    },
-    {
-      "id": "2077241242673656200",
-      "title": "Rubio urged other countries to join the effort as the Trump administration significantly escalates its campaign against…",
-      "summary": "Rubio urged other countries to join the effort as the Trump administration significantly escalates its campaign against the global institution. Read more:",
-      "link": "https://x.com/unusual_whales/status/2077241242673656200",
-      "source": "unusual_whales",
-      "source_id": "whales",
-      "handle": "unusual_whales",
-      "lane": "Market tape",
-      "published": "2026-07-15T03:58:00+00:00",
-      "published_ts": 1784087880,
-      "metrics": {
-        "likes": 53,
-        "retweets": 6,
-        "replies": 7,
-        "views": 36110,
-        "hot_score": 179
-      },
-      "categories": [
-        "AI",
-        "Policy"
-      ],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": null
-    },
-    {
       "id": "2077239739619610973",
       "title": "RT @ShanghaoJin: @WillJin90385 @BabybusFL AMD 的ASP高出一个档次，intc要少40% 做空真的会死的",
       "summary": "RT @ShanghaoJin: @WillJin90385 @BabybusFL AMD 的ASP高出一个档次，intc要少40% 做空真的会死的",
@@ -267,10 +255,10 @@
       "published_ts": 1784087521,
       "metrics": {
         "likes": 0,
-        "retweets": 1,
+        "retweets": 2,
         "replies": 0,
         "views": 0,
-        "hot_score": 5
+        "hot_score": 10
       },
       "categories": [
         "Semis"
@@ -304,61 +292,6 @@
       ],
       "tickers": [],
       "is_retweet": true,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2077235070247797188",
-      "title": "BREAKING: China’s economy slowed in the second quarter of this year, expanding at a 4.3% annualized pace, per AP.",
-      "summary": "BREAKING: China’s economy slowed in the second quarter of this year, expanding at a 4.3% annualized pace, per AP.",
-      "link": "https://x.com/unusual_whales/status/2077235070247797188",
-      "source": "unusual_whales",
-      "source_id": "whales",
-      "handle": "unusual_whales",
-      "lane": "Market tape",
-      "published": "2026-07-15T03:33:28+00:00",
-      "published_ts": 1784086408,
-      "metrics": {
-        "likes": 503,
-        "retweets": 28,
-        "replies": 46,
-        "views": 125545,
-        "hot_score": 1317
-      },
-      "categories": [
-        "Policy"
-      ],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2077234448123498774",
-      "title": "Williams found that Trump’s $10 billion case against the IRS was brought for an improper purpose, to gain the imprimatu…",
-      "summary": "Williams found that Trump’s $10 billion case against the IRS was brought for an improper purpose, to gain the imprimatur of judicial legitimacy for a settlement that had no viable basis in law or fact. Read more:",
-      "link": "https://x.com/unusual_whales/status/2077234448123498774",
-      "source": "unusual_whales",
-      "source_id": "whales",
-      "handle": "unusual_whales",
-      "lane": "Market tape",
-      "published": "2026-07-15T03:31:00+00:00",
-      "published_ts": 1784086260,
-      "metrics": {
-        "likes": 82,
-        "retweets": 18,
-        "replies": 4,
-        "views": 36509,
-        "hot_score": 294
-      },
-      "categories": [
-        "AI",
-        "Policy"
-      ],
-      "tickers": [],
-      "is_retweet": false,
       "has_media": false,
       "media": [],
       "quoted_tweet": null
@@ -428,11 +361,11 @@
       "published": "2026-07-15T03:08:23+00:00",
       "published_ts": 1784084903,
       "metrics": {
-        "likes": 512,
-        "retweets": 36,
-        "replies": 78,
-        "views": 146098,
-        "hot_score": 1428
+        "likes": 717,
+        "retweets": 55,
+        "replies": 93,
+        "views": 212268,
+        "hot_score": 2014
       },
       "categories": [
         "Memory"
@@ -460,11 +393,11 @@
       "published": "2026-07-15T02:59:43+00:00",
       "published_ts": 1784084383,
       "metrics": {
-        "likes": 18,
+        "likes": 24,
         "retweets": 0,
         "replies": 0,
-        "views": 5580,
-        "hot_score": 41
+        "views": 7051,
+        "hot_score": 55
       },
       "categories": [],
       "tickers": [],
@@ -475,74 +408,6 @@
         "https://pbs.twimg.com/media/HNPKjombUAAqSPG.jpg"
       ],
       "quoted_tweet": null
-    },
-    {
-      "id": "2077226143325778202",
-      "title": "Berkshire Hathaway’s 95-year-old chairman said his goal is to dispose of all of his Berkshire shares within about eight…",
-      "summary": "Berkshire Hathaway’s 95-year-old chairman said his goal is to dispose of all of his Berkshire shares within about eight years, with hope that the disposal is carried out by December 31, 2034. Read more:",
-      "link": "https://x.com/unusual_whales/status/2077226143325778202",
-      "source": "unusual_whales",
-      "source_id": "whales",
-      "handle": "unusual_whales",
-      "lane": "Market tape",
-      "published": "2026-07-15T02:58:00+00:00",
-      "published_ts": 1784084280,
-      "metrics": {
-        "likes": 69,
-        "retweets": 2,
-        "replies": 6,
-        "views": 46844,
-        "hot_score": 200
-      },
-      "categories": [
-        "AI"
-      ],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2077224581061107813",
-      "title": "超大CSP（微软、亚马逊、谷歌、Meta）的财报是7月市场的第二道分水岭，市场担忧和关心哪些点？他们的重要性在引用推文里聊到的，超大csp的业绩已经是衡量AI商业化关键指标（权重能和大模型ARR一致）。核心还是看AI需求的增长速度、收入质…",
-      "summary": "超大CSP（微软、亚马逊、谷歌、Meta）的财报是7月市场的第二道分水岭，市场担忧和关心哪些点？他们的重要性在引用推文里聊到的，超大csp的业绩已经是衡量AI商业化关键指标（权重能和大模型ARR一致）。核心还是看AI需求的增长速度、收入质量和单位经济，能否赶上资本开支、折旧、能源成本和融资需求的上升速度？简单说就是AI商业化兑现速赶不上AI资本投入和成本增长速度，大科技的自由现金流也会摆上台面。聊聊我的思考。 1、市场担忧大致可以拆成四层： 1）高预期和拥挤交易 市场已经把未来若干年的持续 Capex、芯片需求和云增长部分计入价格。几家大科技公司202…",
-      "link": "https://x.com/qinbafrank/status/2077224581061107813",
-      "source": "qinbafrank",
-      "source_id": "qinba",
-      "handle": "qinbafrank",
-      "lane": "Macro + AI",
-      "published": "2026-07-15T02:51:47+00:00",
-      "published_ts": 1784083907,
-      "metrics": {
-        "likes": 39,
-        "retweets": 3,
-        "replies": 13,
-        "views": 16053,
-        "hot_score": 122
-      },
-      "categories": [
-        "AI",
-        "Memory",
-        "Semis",
-        "Data centers",
-        "Policy"
-      ],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": {
-        "id": "2076839550119444702",
-        "author": "qinbafrank",
-        "name": "qinbafrank",
-        "text": "https://t.co/8UczGnWDhb",
-        "created_at": "Tue Jul 14 01:21:49 +0000 2026",
-        "url": "https://x.com/qinbafrank/status/2076839550119444702",
-        "has_media": false,
-        "media_urls": [],
-        "media_posters": []
-      }
     },
     {
       "id": "2077223681290571997",
@@ -582,10 +447,10 @@
       "published_ts": 1784082416,
       "metrics": {
         "likes": 0,
-        "retweets": 8,
+        "retweets": 10,
         "replies": 0,
-        "views": 8026,
-        "hot_score": 48
+        "views": 9151,
+        "hot_score": 59
       },
       "categories": [],
       "tickers": [],
@@ -607,10 +472,10 @@
       "published_ts": 1784082395,
       "metrics": {
         "likes": 0,
-        "retweets": 75,
+        "retweets": 83,
         "replies": 0,
         "views": 0,
-        "hot_score": 375
+        "hot_score": 415
       },
       "categories": [],
       "tickers": [],
@@ -620,53 +485,6 @@
         "https://pbs.twimg.com/media/HNMgbmcXcAAIrE4.png"
       ],
       "quoted_tweet": null
-    },
-    {
-      "id": "2077211772935905410",
-      "title": "长鑫能大A股王么？昨晚长鑫公布了IPO定价，发行价8.66元/股，发行股数66.88亿股，占发行后总股本约10.00%，并授予中金公司不超15.00%的超额配售选择权。如果不计算超额配售，按照发行价计算的公司上市前总市值约5792亿元。如…",
-      "summary": "长鑫能大A股王么？昨晚长鑫公布了IPO定价，发行价8.66元/股，发行股数66.88亿股，占发行后总股本约10.00%，并授予中金公司不超15.00%的超额配售选择权。如果不计算超额配售，按照发行价计算的公司上市前总市值约5792亿元。如果公司市值达到2万亿的话，股价需要涨到近30元。 长鑫今年上半年预计归母净利润为500到570亿元。如果按照全年乘以2测算，2万亿的总市值对应的动态市盈率为17.5到20倍，这么一看也不是很贵？🤔 如果长鑫要冲刺A股市值第一，则要达到2.68万亿以上，对应市盈率为25倍左右。目前科创板平均市盈率为104倍，25倍左右的…",
-      "link": "https://x.com/qinbafrank/status/2077211772935905410",
-      "source": "qinbafrank",
-      "source_id": "qinba",
-      "handle": "qinbafrank",
-      "lane": "Macro + AI",
-      "published": "2026-07-15T02:00:54+00:00",
-      "published_ts": 1784080854,
-      "metrics": {
-        "likes": 33,
-        "retweets": 4,
-        "replies": 11,
-        "views": 27097,
-        "hot_score": 124
-      },
-      "categories": [
-        "AI",
-        "Memory",
-        "Semis"
-      ],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": true,
-      "media": [
-        "https://pbs.twimg.com/media/HNO9GIOasAAryyF.jpg"
-      ],
-      "quoted_tweet": {
-        "id": "2056196246227075374",
-        "author": "qinbafrank",
-        "name": "qinbafrank",
-        "text": "A股即将迎来新股王，周末最爆的产业信息应该就是长鑫披露了最新的招股书，业绩确实很炸裂。接下来一个问题就是，该如何对长鑫估值？看到一个用美光的估值方式对计算长鑫的市值，有一定的参考性。\n1）方法一 Forward PE对标\n美光按照 26 年利润算 26 年PE14倍(市值8,172亿/预估净利润580亿)\n长鑫2026E净利润1,100亿元x14倍=15,400亿元\n\n2）方法二PS对标 美光当前PS7.7倍 长鑫2026E营收2,300亿元x7.7倍=17,710亿元估值 \n3）方法三按营收/净利润占比直接推算 长鑫营收约为美光的30%(2,300亿 vs 7,560亿) 长鑫净利润约为美光的26%(1,100亿vs4,180亿) 美光市值5.9万亿元x30% = 1.8万亿元估值\n\n这里面对长鑫26年下半年的营收估算应该是很保守了、还没考虑季度环比增速的问题。怎么看市值都将是超2万亿体量。\n\n而且长鑫还是新股，限售期长，正常来说溢价应该会更高。\n\n不得不说：\n寒武纪打开了中国硬科技科技公司5000亿市值天花板；\n工业富联&中际旭创打开了万亿天花板；\n长鑫应该会将中国硬科技企业带到几万亿市值的更高level",
-        "created_at": "Mon May 18 02:12:42 +0000 2026",
-        "url": "https://x.com/qinbafrank/status/2056196246227075374",
-        "has_media": true,
-        "media_urls": [
-          "https://pbs.twimg.com/media/HIkTlMeaMAA_zUd.jpg",
-          "https://pbs.twimg.com/media/HIkTlMebEAAt2gs.jpg"
-        ],
-        "media_posters": [
-          "https://pbs.twimg.com/media/HIkTlMeaMAA_zUd.jpg",
-          "https://pbs.twimg.com/media/HIkTlMebEAAt2gs.jpg"
-        ]
-      }
     },
     {
       "id": "2077208587005542464",
@@ -680,11 +498,11 @@
       "published": "2026-07-15T01:48:14+00:00",
       "published_ts": 1784080094,
       "metrics": {
-        "likes": 705,
-        "retweets": 38,
-        "replies": 126,
-        "views": 230586,
-        "hot_score": 1956
+        "likes": 936,
+        "retweets": 55,
+        "replies": 136,
+        "views": 307668,
+        "hot_score": 2590
       },
       "categories": [
         "AI",
@@ -719,50 +537,6 @@
       }
     },
     {
-      "id": "2077206593373098267",
-      "title": "再来详细聊聊昨晚6月通胀数据的含金量，这是一份明显偏鸽，昨晚也说到7月第一个分水岭顺利过关。但需要区分“表面降温”和“底层降温的通胀报告： 1、整体CPI环比下降0.4%，主要是汽油价格大跌造成的，不能理解为美国已经进入广泛通缩。 2、核…",
-      "summary": "再来详细聊聊昨晚6月通胀数据的含金量，这是一份明显偏鸽，昨晚也说到7月第一个分水岭顺利过关。但需要区分“表面降温”和“底层降温的通胀报告： 1、整体CPI环比下降0.4%，主要是汽油价格大跌造成的，不能理解为美国已经进入广泛通缩。 2、核心CPI环比持平比整体CPI更有意义。住房、核心商品和非住房服务均有降温，且截尾均值、中位数CPI和粘性CPI也同步走弱，说明并非完全由能源单项驱动。 1）住房是本次报告最重要、最具持续性的偏鸽信号 住房在CPI中的权重约为35.1%，6月环比上涨0.1%，为2021年1月以来最小月度涨幅；同比则由此前高位逐步回落至3…",
-      "link": "https://x.com/qinbafrank/status/2077206593373098267",
-      "source": "qinbafrank",
-      "source_id": "qinba",
-      "handle": "qinbafrank",
-      "lane": "Macro + AI",
-      "published": "2026-07-15T01:40:19+00:00",
-      "published_ts": 1784079619,
-      "metrics": {
-        "likes": 40,
-        "retweets": 3,
-        "replies": 10,
-        "views": 16106,
-        "hot_score": 121
-      },
-      "categories": [
-        "Macro",
-        "Risk"
-      ],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": true,
-      "media": [
-        "https://pbs.twimg.com/media/HNO1RfWaIAAaxrA.jpg"
-      ],
-      "quoted_tweet": {
-        "id": "2069595673113268501",
-        "author": "qinbafrank",
-        "name": "qinbafrank",
-        "text": "聊聊近期市场最为担心的年内加息可能性，上周四沃什首秀之后市场就会担心年内加息的可能性，上周末德银报告就明确说预期年内加息，然后昨天美银年内三次加息的预测更是把市场吓坏了。到底会加么？美联储加息要么就通胀太高，要么是经济过热。聊聊个人看法：\n1、当下市场强烈的加息预期来自上周fomc的点阵图和沃什的表态，上周这里https://t.co/L6Mdx4kub0有聊过：Fomc票委们的点阵图预测还是依靠备忘录签署之前的走势和数据，其实对美伊备忘录签署之后的走向并没有充分考虑、这其实反倒是一个预期差。也能理解备忘录刚刚签署，后续走势还不明朗，最稳妥的方式还是拿着之前的数据来做预测，未来还能随时在做修正。\n\n2、年内影响通胀最重要的因素还是霍尔木兹海峡被关闭后的油价，一直到5月的美国cpi就能看出来通胀反弹主力是油价驱动的能源通胀和部分商品通胀，但是跟服务业高度相关的核心通胀反弹势头还可控。而美伊停战备忘录的签署则带来的之前驱动通胀反弹的逻辑重置可能。\n\n3、下半年影响油价走势的几个因素：\n霍尔木兹海峡原油运输恢复正常；\n伊朗原油出口制裁被解除，60天许可延长或转为长期协议，伊朗出口稳定回到160万至200万桶/日 ；\n欧佩克+扩产；\n阿联酋退出欧佩克大概率也会扩产；\n各国原油补库存+新增储备需求；\n\n1）霍尔木兹海峡恢复正常、欧佩克+扩产、阿联酋扩产+，是驱动油价的反转下行的供给力量；\n2）伊朗原油出口制裁被解除也可以算出供给力量，但要看之前伊朗制裁时每天通过影子船只出口150万桶，接触制裁后产能如果还能提升，那么多出的部分就是原油市场新增的产能；\n3）各国原油补库存，之前看路透社报道伊朗战争后，全球已经消耗约4亿桶库存，同时各国新增储备建设计划可能带来约5亿桶额外需求；合计接近10亿桶潜在补库/建库需求。 这里核心看补库存的时间周期：\n2年补完10亿桶，那么约137万桶/日；\n若年补完10亿桶，约91万桶/日。\n\n整体来看，美伊备忘录签署后布伦特原油快速跌破80美元，这说明市场先砍掉的是“霍尔木兹/战争/制裁风险溢价”。如果后续船运数据确认伊朗装船、保险恢复，欧佩克+及阿联酋增产，那么Brent/WTI仍有继续向下修正空间。\n\n当然这也不是意味着油价会直线往下崩，而是：\n战争/制裁溢价快速回落 → \n低库存和补库需求托底 → \n若供给恢复进一步提升，油价再逐步下移。\n\n4、如果油价下行，那么通胀大概率也会下行。核心两者下行的斜率会有多快？\n\n同时上周space这里https://t.co/3QnCKTUPHz也有聊到劳动力市场的“世界杯效应”，美国商家为了应对世界杯的观赛潮，会在五六月招聘大量的服务人员，这个效应一直会到7月19号世界杯决赛，一旦进入淘汰赛阶段，服务业用人需求大概率会开始下降。\n\n5、当然还要考虑经济因素\n在月中这篇宏观重置逻辑里提到美国经济实际动能比大家感受观察的要更强一些，而昨晚标普全球制造业及服务业PMI均超预期，也证明了经济还是相当可以的。\n\n综合来看：\n油价下行带动通胀下行（主要看下行能多快）；\n劳动力“世界杯效应”退去就业可能的回落“\n经济基本面还是相当可以，AI大基建的溢出效应；\n沃什首秀的态度着重强调的通胀（意味着不只是看通胀下行、还要看下行的斜率，相当于他给降息设定了一个很高的门槛就是要非常接近2%才会考虑）\n\n这几点结合个人认为：\n1）年内不加息按兵不动的概率是最大的，仍然维持不加息作为基准情况来看，这对应的情景是：通胀下行但还没触及2%，劳动力市场回落但没有崩。\n\n2）当然乐观版本就是，通胀下行速度很快，劳动力市场因为“世界杯效应”退去叠加AI冲击崩掉，还是有降息的可能；\n\n3（最坏情景是：通胀下行速度并不快甚至下降到某个位置（在高于2%的区间）进入平台期了，AI大基建带动经济还有过热的趋势（意味着劳动力市场的还行），那我们担心的加息可能就真的会发生。\n\n本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
-        "created_at": "Wed Jun 24 01:37:14 +0000 2026",
-        "url": "https://x.com/qinbafrank/status/2069595673113268501",
-        "has_media": true,
-        "media_urls": [
-          "https://pbs.twimg.com/media/HLiuEzhWIAAWr3N.jpg"
-        ],
-        "media_posters": [
-          "https://pbs.twimg.com/media/HLiuEzhWIAAWr3N.jpg"
-        ]
-      }
-    },
-    {
       "id": "2077202875222982815",
       "title": "RT @charliebilello: Price Increases over last 7 years... New Cars: +22% Used Cars: +29% Groceries: +33% Shelter: +35% F…",
       "summary": "RT @charliebilello: Price Increases over last 7 years... New Cars: +22% Used Cars: +29% Groceries: +33% Shelter: +35% Family Health Insuran…",
@@ -775,10 +549,10 @@
       "published_ts": 1784078732,
       "metrics": {
         "likes": 0,
-        "retweets": 1327,
+        "retweets": 1434,
         "replies": 0,
         "views": 0,
-        "hot_score": 6635
+        "hot_score": 7170
       },
       "categories": [
         "Policy"
@@ -802,10 +576,10 @@
       "published_ts": 1784078724,
       "metrics": {
         "likes": 0,
-        "retweets": 159,
+        "retweets": 161,
         "replies": 0,
         "views": 0,
-        "hot_score": 795
+        "hot_score": 805
       },
       "categories": [
         "Macro",
@@ -829,11 +603,11 @@
       "published": "2026-07-15T00:59:43+00:00",
       "published_ts": 1784077183,
       "metrics": {
-        "likes": 103,
-        "retweets": 9,
-        "replies": 4,
-        "views": 21820,
-        "hot_score": 276
+        "likes": 121,
+        "retweets": 10,
+        "replies": 5,
+        "views": 24764,
+        "hot_score": 321
       },
       "categories": [
         "AI",
@@ -903,11 +677,11 @@
       "published": "2026-07-15T00:30:02+00:00",
       "published_ts": 1784075402,
       "metrics": {
-        "likes": 44,
+        "likes": 51,
         "retweets": 0,
-        "replies": 11,
-        "views": 20509,
-        "hot_score": 119
+        "replies": 27,
+        "views": 23921,
+        "hot_score": 152
       },
       "categories": [
         "Crypto"
@@ -940,11 +714,11 @@
       "published": "2026-07-15T00:27:03+00:00",
       "published_ts": 1784075223,
       "metrics": {
-        "likes": 55,
+        "likes": 60,
         "retweets": 4,
-        "replies": 6,
-        "views": 12082,
-        "hot_score": 148
+        "replies": 19,
+        "views": 15419,
+        "hot_score": 174
       },
       "categories": [],
       "tickers": [],
@@ -979,11 +753,11 @@
       "published": "2026-07-15T00:01:34+00:00",
       "published_ts": 1784073694,
       "metrics": {
-        "likes": 15,
+        "likes": 19,
         "retweets": 1,
         "replies": 0,
-        "views": 4719,
-        "hot_score": 39
+        "views": 5709,
+        "hot_score": 48
       },
       "categories": [],
       "tickers": [],
@@ -1004,11 +778,11 @@
       "published": "2026-07-14T23:59:52+00:00",
       "published_ts": 1784073592,
       "metrics": {
-        "likes": 82,
+        "likes": 93,
         "retweets": 2,
-        "replies": 4,
-        "views": 12869,
-        "hot_score": 190
+        "replies": 5,
+        "views": 15157,
+        "hot_score": 216
       },
       "categories": [],
       "tickers": [],
@@ -1029,11 +803,11 @@
       "published": "2026-07-14T23:11:35+00:00",
       "published_ts": 1784070695,
       "metrics": {
-        "likes": 22,
+        "likes": 24,
         "retweets": 0,
-        "replies": 22,
-        "views": 19078,
-        "hot_score": 85
+        "replies": 23,
+        "views": 21186,
+        "hot_score": 92
       },
       "categories": [],
       "tickers": [],
@@ -1053,61 +827,6 @@
       }
     },
     {
-      "id": "2077168505401876852",
-      "title": "事情还在两可之间，别太fomo。除了被杠杆etf强买起来的SKHY，市场对CPI反馈可谓乏善可陈 我偏乐观可能因为credit leg在做空，不是很担心hyperscaler被瞎解读。裸多现在确实不应该仓位过高的",
-      "summary": "事情还在两可之间，别太fomo。除了被杠杆etf强买起来的SKHY，市场对CPI反馈可谓乏善可陈 我偏乐观可能因为credit leg在做空，不是很担心hyperscaler被瞎解读。裸多现在确实不应该仓位过高的",
-      "link": "https://x.com/ShanghaoJin/status/2077168505401876852",
-      "source": "Herman Jin",
-      "source_id": "herman",
-      "handle": "ShanghaoJin",
-      "lane": "FICC + tech",
-      "published": "2026-07-14T23:08:58+00:00",
-      "published_ts": 1784070538,
-      "metrics": {
-        "likes": 147,
-        "retweets": 10,
-        "replies": 16,
-        "views": 24254,
-        "hot_score": 384
-      },
-      "categories": [
-        "Macro",
-        "Risk"
-      ],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2077162410448953641",
-      "title": "RT @ShanghaoJin: @BabybusFL 杠杆etf换标的，一边爆仓，一边爆涨 前几天有人卖了7709买SKNY；这几天有些韭菜去买SKUU SKDD",
-      "summary": "RT @ShanghaoJin: @BabybusFL 杠杆etf换标的，一边爆仓，一边爆涨 前几天有人卖了7709买SKNY；这几天有些韭菜去买SKUU SKDD",
-      "link": "https://x.com/ShanghaoJin/status/2077162410448953641",
-      "source": "Herman Jin",
-      "source_id": "herman",
-      "handle": "ShanghaoJin",
-      "lane": "FICC + tech",
-      "published": "2026-07-14T22:44:45+00:00",
-      "published_ts": 1784069085,
-      "metrics": {
-        "likes": 0,
-        "retweets": 2,
-        "replies": 0,
-        "views": 0,
-        "hot_score": 10
-      },
-      "categories": [
-        "Risk"
-      ],
-      "tickers": [],
-      "is_retweet": true,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": null
-    },
-    {
       "id": "2077151414912999612",
       "title": "RT @charliebilello: Price changes over last year (June CPI report) Fuel Oil: +42.9% Gasoline: +26.7% Electricity: +4.0%…",
       "summary": "RT @charliebilello: Price changes over last year (June CPI report) Fuel Oil: +42.9% Gasoline: +26.7% Electricity: +4.0% Apparel: +3.9% Over…",
@@ -1120,10 +839,10 @@
       "published_ts": 1784066463,
       "metrics": {
         "likes": 0,
-        "retweets": 88,
+        "retweets": 93,
         "replies": 0,
         "views": 0,
-        "hot_score": 440
+        "hot_score": 465
       },
       "categories": [
         "Macro",
@@ -1147,11 +866,11 @@
       "published": "2026-07-14T21:24:00+00:00",
       "published_ts": 1784064240,
       "metrics": {
-        "likes": 120,
-        "retweets": 6,
+        "likes": 137,
+        "retweets": 8,
         "replies": 34,
-        "views": 35289,
-        "hot_score": 339
+        "views": 39332,
+        "hot_score": 387
       },
       "categories": [
         "AI",
@@ -1180,11 +899,11 @@
       "published": "2026-07-14T21:10:59+00:00",
       "published_ts": 1784063459,
       "metrics": {
-        "likes": 179,
+        "likes": 193,
         "retweets": 17,
         "replies": 28,
-        "views": 29171,
-        "hot_score": 500
+        "views": 32437,
+        "hot_score": 531
       },
       "categories": [
         "AI",
@@ -1212,11 +931,11 @@
       "published": "2026-07-14T20:53:06+00:00",
       "published_ts": 1784062386,
       "metrics": {
-        "likes": 48,
+        "likes": 49,
         "retweets": 1,
-        "replies": 26,
-        "views": 31999,
-        "hot_score": 158
+        "replies": 27,
+        "views": 33884,
+        "hot_score": 163
       },
       "categories": [
         "AI"
@@ -1228,49 +947,6 @@
         "https://pbs.twimg.com/media/HNN2eoCXsAArjj1.png"
       ],
       "quoted_tweet": null
-    },
-    {
-      "id": "2077123703226413448",
-      "title": "未来各大巨头搞物理AI的军备竞赛的时候， 他们绝对的需求量不是gpu，cpu， 只有存储。 存储的量决定了他们能训练多少数据，因为音频数据的大小规模千倍万倍于文本图片。 未来俩年内会看到这个观点和变化。",
-      "summary": "未来各大巨头搞物理AI的军备竞赛的时候， 他们绝对的需求量不是gpu，cpu， 只有存储。 存储的量决定了他们能训练多少数据，因为音频数据的大小规模千倍万倍于文本图片。 未来俩年内会看到这个观点和变化。",
-      "link": "https://x.com/xiaomustock/status/2077123703226413448",
-      "source": "川沐 / Trumoo",
-      "source_id": "trumoo",
-      "handle": "xiaomustock",
-      "lane": "Semis trading",
-      "published": "2026-07-14T20:10:56+00:00",
-      "published_ts": 1784059856,
-      "metrics": {
-        "likes": 128,
-        "retweets": 10,
-        "replies": 16,
-        "views": 63396,
-        "hot_score": 385
-      },
-      "categories": [
-        "AI",
-        "Memory",
-        "Semis"
-      ],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": {
-        "id": "2077055927786885527",
-        "author": "xiaomustock",
-        "name": "川沐｜Trumoo🐮",
-        "text": "请发给你的韩国朋友。\nAI能干的事情过去2年，\n慢慢从一维数据到二维数据再到未来的三维数据进化，也就是文字，图片，三维视频。\n这经历的时间也才短短2年多，24年到现在26年。而存储扩产在2028年，也就是2年后，AI会发展成什么样，这些傻逼预测分析师硅谷投资客都没有考虑进去，他们只是基于现在的AI状态来分析存储未来尤其是存储2028年的未来做出当下的判断，他们都是傻逼。\n\n如果物理AI能突破，处理的资料都是视频资料，不是文字，存储数据内容从一维到三维，存储的需求量是天量。人们现在对存储的假设是基于现有AI水平来测算。\n但这些傻逼都没有考虑进去2年后AI会发展成什么样，\n现在AI视频已经可以以假乱真，\n俩年后更是不敢想象会进化到啥程度，\n如果AI能进化到理解现实物理世界，那它处理的数据全是视频数据，\n存储需求的数量级可能是百倍于现在，\n要坚信你的存储。\n试想一下AI俩年后会发展成什么样，回想过去俩年AI的进化速度和对存储需求的增长速度，不要再扔掉你们宝贵的 #海力士 $SKHYX 了。\n\nAI用量会在俩年后暴增数倍，想象你2年后使用频率，从现在一天3-5次会不会暴增到30-50次？\nAI使用群体数量俩年后会不会从1B暴增到几B？（使用群体不限于人，包括汽车，包括手机，包括机器人，甚至智能体本身…）\n\nAI现在人70%的使用是文字token，俩年后会不会进化到视频影像物理三维视频token输入输出？（这里存储数据量差别千倍万倍。）\n\n这里面的需求差别2年后会是现在的多少倍？十倍还是百倍？\n那俩年后的存储产量增量是几倍？翻倍都撑死了吧？这些傻逼预测师永远不会这么给你算，只会基于现在AI状态误导你。\n\n拿出你们290万韩元梭哈的勇气，\n190万韩元都不敢买，真去死了算了。",
-        "created_at": "Tue Jul 14 15:41:37 +0000 2026",
-        "url": "https://x.com/xiaomustock/status/2077055927786885527",
-        "has_media": true,
-        "media_urls": [
-          "https://pbs.twimg.com/media/HNMvWjcaYAAZdJ0.jpg"
-        ],
-        "media_posters": [
-          "https://pbs.twimg.com/media/HNMvWjcaYAAZdJ0.jpg"
-        ]
-      }
     },
     {
       "id": "2077112728960020666",
@@ -1287,39 +963,14 @@
         "likes": 0,
         "retweets": 26,
         "replies": 0,
-        "views": 4853,
-        "hot_score": 134
+        "views": 5068,
+        "hot_score": 135
       },
       "categories": [
         "AI"
       ],
       "tickers": [],
       "is_retweet": true,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2077105095603519625",
-      "title": "BREAKING: Warren Buffett has ended donations to the Gates Foundation following new revelations about Bill Gates' ties t…",
-      "summary": "BREAKING: Warren Buffett has ended donations to the Gates Foundation following new revelations about Bill Gates' ties to Jeffrey Epstein",
-      "link": "https://x.com/unusual_whales/status/2077105095603519625",
-      "source": "unusual_whales",
-      "source_id": "whales",
-      "handle": "unusual_whales",
-      "lane": "Market tape",
-      "published": "2026-07-14T18:57:00+00:00",
-      "published_ts": 1784055420,
-      "metrics": {
-        "likes": 13615,
-        "retweets": 802,
-        "replies": 211,
-        "views": 863333,
-        "hot_score": 31951
-      },
-      "categories": [],
-      "tickers": [],
-      "is_retweet": false,
       "has_media": false,
       "media": [],
       "quoted_tweet": null
@@ -1336,11 +987,11 @@
       "published": "2026-07-14T18:51:04+00:00",
       "published_ts": 1784055064,
       "metrics": {
-        "likes": 498,
-        "retweets": 67,
+        "likes": 511,
+        "retweets": 68,
         "replies": 10,
-        "views": 23384,
-        "hot_score": 1364
+        "views": 24448,
+        "hot_score": 1396
       },
       "categories": [
         "Policy"
@@ -1366,7 +1017,7 @@
         "likes": 40,
         "retweets": 3,
         "replies": 3,
-        "views": 11002,
+        "views": 11365,
         "hot_score": 109
       },
       "categories": [
@@ -1390,11 +1041,11 @@
       "published": "2026-07-14T18:05:38+00:00",
       "published_ts": 1784052338,
       "metrics": {
-        "likes": 159,
-        "retweets": 27,
-        "replies": 30,
-        "views": 43108,
-        "hot_score": 526
+        "likes": 166,
+        "retweets": 29,
+        "replies": 31,
+        "views": 44578,
+        "hot_score": 552
       },
       "categories": [
         "Macro"
@@ -1420,68 +1071,6 @@
       }
     },
     {
-      "id": "2077079145587294555",
-      "title": "另外说明一下啥情况100%溢价，a股和h股里，如果h股只有a股流通量的1/10或者1/20，只要概念不错基本上都是100%溢价。",
-      "summary": "另外说明一下啥情况100%溢价，a股和h股里，如果h股只有a股流通量的1/10或者1/20，只要概念不错基本上都是100%溢价。",
-      "link": "https://x.com/xiaomustock/status/2077079145587294555",
-      "source": "川沐 / Trumoo",
-      "source_id": "trumoo",
-      "handle": "xiaomustock",
-      "lane": "Semis trading",
-      "published": "2026-07-14T17:13:53+00:00",
-      "published_ts": 1784049233,
-      "metrics": {
-        "likes": 74,
-        "retweets": 3,
-        "replies": 13,
-        "views": 65511,
-        "hot_score": 241
-      },
-      "categories": [],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": {
-        "id": "2077077950504259787",
-        "author": "xiaomustock",
-        "name": "川沐｜Trumoo🐮",
-        "text": "做海力士差价收敛的长期都会死，\n看看港股和a股有几个收敛的，\n差价100%都是常事。",
-        "created_at": "Tue Jul 14 17:09:08 +0000 2026",
-        "url": "https://x.com/xiaomustock/status/2077077950504259787",
-        "has_media": false,
-        "media_urls": [],
-        "media_posters": []
-      }
-    },
-    {
-      "id": "2077077950504259787",
-      "title": "做海力士差价收敛的长期都会死， 看看港股和a股有几个收敛的， 差价100%都是常事。",
-      "summary": "做海力士差价收敛的长期都会死， 看看港股和a股有几个收敛的， 差价100%都是常事。",
-      "link": "https://x.com/xiaomustock/status/2077077950504259787",
-      "source": "川沐 / Trumoo",
-      "source_id": "trumoo",
-      "handle": "xiaomustock",
-      "lane": "Semis trading",
-      "published": "2026-07-14T17:09:08+00:00",
-      "published_ts": 1784048948,
-      "metrics": {
-        "likes": 138,
-        "retweets": 3,
-        "replies": 21,
-        "views": 133366,
-        "hot_score": 445
-      },
-      "categories": [
-        "Memory"
-      ],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": null
-    },
-    {
       "id": "2077068726005109019",
       "title": "Why I'm an Optimist, And Growing Apart Financially Youtube: Spotify:",
       "summary": "Why I'm an Optimist, And Growing Apart Financially Youtube: Spotify:",
@@ -1493,11 +1082,11 @@
       "published": "2026-07-14T16:32:29+00:00",
       "published_ts": 1784046749,
       "metrics": {
-        "likes": 83,
+        "likes": 87,
         "retweets": 6,
         "replies": 3,
-        "views": 35852,
-        "hot_score": 234
+        "views": 37491,
+        "hot_score": 244
       },
       "categories": [],
       "tickers": [],
@@ -1518,11 +1107,11 @@
       "published": "2026-07-14T16:27:00+00:00",
       "published_ts": 1784046420,
       "metrics": {
-        "likes": 473,
-        "retweets": 73,
+        "likes": 485,
+        "retweets": 75,
         "replies": 16,
-        "views": 21409,
-        "hot_score": 1348
+        "views": 22148,
+        "hot_score": 1383
       },
       "categories": [
         "Policy"
@@ -1532,120 +1121,6 @@
       "has_media": false,
       "media": [],
       "quoted_tweet": null
-    },
-    {
-      "id": "2077065422822904063",
-      "title": "盈透证券支持了稳定币的充提。",
-      "summary": "盈透证券支持了稳定币的充提。",
-      "link": "https://x.com/xiaomustock/status/2077065422822904063",
-      "source": "川沐 / Trumoo",
-      "source_id": "trumoo",
-      "handle": "xiaomustock",
-      "lane": "Semis trading",
-      "published": "2026-07-14T16:19:21+00:00",
-      "published_ts": 1784045961,
-      "metrics": {
-        "likes": 215,
-        "retweets": 17,
-        "replies": 28,
-        "views": 92545,
-        "hot_score": 635
-      },
-      "categories": [],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": true,
-      "media": [
-        "https://pbs.twimg.com/media/HNM3_VAa0AAXjdY.jpg"
-      ],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2077058899992285259",
-      "title": "美股安全软件板块为何今天这么强势？还没看到具体的催化事件，今天白天这篇推文应该没有这么大的能量吧🤔。不过昨天逆势走强也能看出端倪。",
-      "summary": "美股安全软件板块为何今天这么强势？还没看到具体的催化事件，今天白天这篇推文应该没有这么大的能量吧🤔。不过昨天逆势走强也能看出端倪。",
-      "link": "https://x.com/qinbafrank/status/2077058899992285259",
-      "source": "qinbafrank",
-      "source_id": "qinba",
-      "handle": "qinbafrank",
-      "lane": "Macro + AI",
-      "published": "2026-07-14T15:53:26+00:00",
-      "published_ts": 1784044406,
-      "metrics": {
-        "likes": 109,
-        "retweets": 8,
-        "replies": 40,
-        "views": 62779,
-        "hot_score": 360
-      },
-      "categories": [],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": true,
-      "media": [
-        "https://pbs.twimg.com/media/HNMyD3VaoAAISW-.jpg"
-      ],
-      "quoted_tweet": {
-        "id": "2076881784537776475",
-        "author": "qinbafrank",
-        "name": "qinbafrank",
-        "text": "一张图详细了解今年走势最好的一个板块：安全软件，昨晚美股大跌还能逆势走强。安全软件走强的逻辑在于：AI Agent替代的是一部分“软件执行席位”，安全软件掌握的却是“身份、权限、数据、流量、运行行为和恢复能力”。Agent越自主，控制层越重要。  \n\n所以，安全saas控股是三件事在同时发生：\n1）AI Agent、云迁移、多模态数据让攻击面大幅扩大（数据泄露、模型投毒、提示注入等新风险），这带动安全总市场继续扩容，AI 带来真正的新增预算；\n2）预算从传统点工具向平台、身份、云、数据和运行时迁移；\n3）企业部署AI必须同步加强“零信任”、云安全、端点检测（EDR）、AI安全平台；\n\nAI不是简单增加一个新的安全产品，而是让整个企业重新建立一层AI控制系统。这套控制系统包含：身份和权限、数据访问、云和工作负载、网络与API、模型和Agent运行时、SOC检测与自动响应，业务恢复和回滚。\n\n未来三到五年，广义AI相关安全预算达到数百亿美元甚至近千亿美金。\n\n我应该是最早就在说到安全软件是最被错杀的软件版块，1月底这里https://t.co/9ypsSbGh9F有聊过；\n2月中这里https://t.co/Jyo4FVhBcZ还详细梳理过看好的安全软件公司、到现在基本上都翻倍了。特别说明下Crwd在6月底拆股了（1拆4）。\n转发引用的推文在5月下旬又聊过一次。",
-        "created_at": "Tue Jul 14 04:09:38 +0000 2026",
-        "url": "https://x.com/qinbafrank/status/2076881784537776475",
-        "has_media": true,
-        "media_urls": [
-          "https://pbs.twimg.com/media/HNKQxG7bQAAMoT6.jpg"
-        ],
-        "media_posters": [
-          "https://pbs.twimg.com/media/HNKQxG7bQAAMoT6.jpg"
-        ]
-      }
-    },
-    {
-      "id": "2077055927786885527",
-      "title": "请发给你的韩国朋友。 AI能干的事情过去2年， 慢慢从一维数据到二维数据再到未来的三维数据进化，也就是文字，图片，三维视频。 这经历的时间也才短短2年多，24年到现在26年。而存储扩产在2028年，也就是2年后，AI会发展成什么样，这些傻…",
-      "summary": "请发给你的韩国朋友。 AI能干的事情过去2年， 慢慢从一维数据到二维数据再到未来的三维数据进化，也就是文字，图片，三维视频。 这经历的时间也才短短2年多，24年到现在26年。而存储扩产在2028年，也就是2年后，AI会发展成什么样，这些傻逼预测分析师硅谷投资客都没有考虑进去，他们只是基于现在的AI状态来分析存储未来尤其是存储2028年的未来做出当下的判断，他们都是傻逼。 如果物理AI能突破，处理的资料都是视频资料，不是文字，存储数据内容从一维到三维，存储的需求量是天量。人们现在对存储的假设是基于现有AI水平来测算。 但这些傻逼都没有考虑进去2年后AI会…",
-      "link": "https://x.com/xiaomustock/status/2077055927786885527",
-      "source": "川沐 / Trumoo",
-      "source_id": "trumoo",
-      "handle": "xiaomustock",
-      "lane": "Semis trading",
-      "published": "2026-07-14T15:41:37+00:00",
-      "published_ts": 1784043697,
-      "metrics": {
-        "likes": 273,
-        "retweets": 38,
-        "replies": 88,
-        "views": 155734,
-        "hot_score": 979
-      },
-      "categories": [
-        "AI",
-        "Memory"
-      ],
-      "tickers": [
-        "$SKHYX"
-      ],
-      "is_retweet": false,
-      "has_media": true,
-      "media": [
-        "https://pbs.twimg.com/media/HNMvWjcaYAAZdJ0.jpg"
-      ],
-      "quoted_tweet": {
-        "id": "2076876646037307471",
-        "author": "xiaomustock",
-        "name": "川沐｜Trumoo🐮",
-        "text": "克服恐惧的最好办法就是面对恐惧，\n海力士不行，整个AI产业链都在一起崩。\n刚抄了南海2x，成本51.5。\n甭管什么Ai几把概念，都是和存储一荣俱荣 https://t.co/AcCG2Xr7xK",
-        "created_at": "Tue Jul 14 03:49:13 +0000 2026",
-        "url": "https://x.com/xiaomustock/status/2076876646037307471",
-        "has_media": true,
-        "media_urls": [
-          "https://pbs.twimg.com/media/HNKMTJ_bwAA_qjl.jpg"
-        ],
-        "media_posters": [
-          "https://pbs.twimg.com/media/HNKMTJ_bwAA_qjl.jpg"
-        ]
-      }
     },
     {
       "id": "2077044786402660829",
@@ -1659,11 +1134,11 @@
       "published": "2026-07-14T14:57:21+00:00",
       "published_ts": 1784041041,
       "metrics": {
-        "likes": 1325,
-        "retweets": 92,
-        "replies": 210,
-        "views": 341150,
-        "hot_score": 3661
+        "likes": 1371,
+        "retweets": 93,
+        "replies": 216,
+        "views": 365975,
+        "hot_score": 3788
       },
       "categories": [
         "AI"
@@ -1694,11 +1169,11 @@
       "published": "2026-07-14T14:38:09+00:00",
       "published_ts": 1784039889,
       "metrics": {
-        "likes": 190,
-        "retweets": 20,
-        "replies": 50,
-        "views": 107567,
-        "hot_score": 637
+        "likes": 202,
+        "retweets": 24,
+        "replies": 70,
+        "views": 118125,
+        "hot_score": 712
       },
       "categories": [],
       "tickers": [],
@@ -1736,11 +1211,11 @@
       "published": "2026-07-14T14:35:50+00:00",
       "published_ts": 1784039750,
       "metrics": {
-        "likes": 1118,
-        "retweets": 80,
+        "likes": 1155,
+        "retweets": 86,
         "replies": 194,
-        "views": 245351,
-        "hot_score": 3075
+        "views": 261905,
+        "hot_score": 3195
       },
       "categories": [
         "AI",
@@ -1771,11 +1246,11 @@
       "published": "2026-07-14T13:21:29+00:00",
       "published_ts": 1784035289,
       "metrics": {
-        "likes": 1210,
-        "retweets": 188,
-        "replies": 30,
-        "views": 77163,
-        "hot_score": 3467
+        "likes": 1236,
+        "retweets": 192,
+        "replies": 32,
+        "views": 78399,
+        "hot_score": 3542
       },
       "categories": [
         "Macro",
@@ -1802,88 +1277,6 @@
       }
     },
     {
-      "id": "2077017515545526305",
-      "title": "你们此时此刻是不是百病全消，神清气爽 保守估计自己又是全银河系最牛逼的人？",
-      "summary": "你们此时此刻是不是百病全消，神清气爽 保守估计自己又是全银河系最牛逼的人？",
-      "link": "https://x.com/xiaomustock/status/2077017515545526305",
-      "source": "川沐 / Trumoo",
-      "source_id": "trumoo",
-      "handle": "xiaomustock",
-      "lane": "Semis trading",
-      "published": "2026-07-14T13:08:59+00:00",
-      "published_ts": 1784034539,
-      "metrics": {
-        "likes": 229,
-        "retweets": 11,
-        "replies": 31,
-        "views": 147889,
-        "hot_score": 691
-      },
-      "categories": [],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": true,
-      "media": [
-        "https://pbs.twimg.com/media/HNMMazQbYAAEtfb.jpg"
-      ],
-      "quoted_tweet": {
-        "id": "2076901960129855716",
-        "author": "xiaomustock",
-        "name": "川沐｜Trumoo🐮",
-        "text": "人亏钱就跟得病了一样浑身难受，赚钱了就跟吃了灵丹妙药，但大多数人的财富多少并不会影响到衣食住行，这他娘的是为什么",
-        "created_at": "Tue Jul 14 05:29:48 +0000 2026",
-        "url": "https://x.com/xiaomustock/status/2076901960129855716",
-        "has_media": false,
-        "media_urls": [],
-        "media_posters": []
-      }
-    },
-    {
-      "id": "2077008322973381081",
-      "title": "今晚cpi全部都大幅度低于预期，7月第一个分水岭顺利过关。",
-      "summary": "今晚cpi全部都大幅度低于预期，7月第一个分水岭顺利过关。",
-      "link": "https://x.com/qinbafrank/status/2077008322973381081",
-      "source": "qinbafrank",
-      "source_id": "qinba",
-      "handle": "qinbafrank",
-      "lane": "Macro + AI",
-      "published": "2026-07-14T12:32:27+00:00",
-      "published_ts": 1784032347,
-      "metrics": {
-        "likes": 117,
-        "retweets": 11,
-        "replies": 48,
-        "views": 60690,
-        "hot_score": 397
-      },
-      "categories": [
-        "Macro"
-      ],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": true,
-      "media": [
-        "https://pbs.twimg.com/media/HNMED3AbUAA3ArX.jpg"
-      ],
-      "quoted_tweet": {
-        "id": "2076998727592743164",
-        "author": "qinbafrank",
-        "name": "qinbafrank",
-        "text": "怎么看马上要公布的6月美国cpi数据？1）广义cpi同比环比低于前值基本上是预期之内，通胀回落是共识、甚至环比出现负值也是预期。核心是看能不能低于预期；\n2）关键是看核心cpi、同比环比能不能也低于预期。核心是看跟预期的偏离度\n3）如果美伊一直保持停火状态，那么今晚通胀数据符合预期就能带动市场情绪提振。但是当下美伊冲突再起，油价又反弹了。那么今晚通胀数据要低于预期才能过关，否则市场会担心通胀下降不够快，还有担心再被油价带起来的隐忧。",
-        "created_at": "Tue Jul 14 11:54:20 +0000 2026",
-        "url": "https://x.com/qinbafrank/status/2076998727592743164",
-        "has_media": true,
-        "media_urls": [
-          "https://pbs.twimg.com/media/HNL7VSzaIAASi6s.jpg",
-          "https://pbs.twimg.com/media/HNL7VS7bcAAnu6K.jpg"
-        ],
-        "media_posters": [
-          "https://pbs.twimg.com/media/HNL7VSzaIAASi6s.jpg",
-          "https://pbs.twimg.com/media/HNL7VS7bcAAnu6K.jpg"
-        ]
-      }
-    },
-    {
       "id": "2077000007119462876",
       "title": "Dude has made billions in months dumping his crypto holdings onto his supporters.",
       "summary": "Dude has made billions in months dumping his crypto holdings onto his supporters.",
@@ -1895,11 +1288,11 @@
       "published": "2026-07-14T11:59:25+00:00",
       "published_ts": 1784030365,
       "metrics": {
-        "likes": 1432,
-        "retweets": 86,
+        "likes": 1512,
+        "retweets": 91,
         "replies": 14,
-        "views": 29466,
-        "hot_score": 3337
+        "views": 30346,
+        "hot_score": 3523
       },
       "categories": [
         "Crypto"
@@ -1925,46 +1318,6 @@
       }
     },
     {
-      "id": "2076998727592743164",
-      "title": "怎么看马上要公布的6月美国cpi数据？1）广义cpi同比环比低于前值基本上是预期之内，通胀回落是共识、甚至环比出现负值也是预期。核心是看能不能低于预期； 2）关键是看核心cpi、同比环比能不能也低于预期。核心是看跟预期的偏离度 3）如果美…",
-      "summary": "怎么看马上要公布的6月美国cpi数据？1）广义cpi同比环比低于前值基本上是预期之内，通胀回落是共识、甚至环比出现负值也是预期。核心是看能不能低于预期； 2）关键是看核心cpi、同比环比能不能也低于预期。核心是看跟预期的偏离度 3）如果美伊一直保持停火状态，那么今晚通胀数据符合预期就能带动市场情绪提振。但是当下美伊冲突再起，油价又反弹了。那么今晚通胀数据要低于预期才能过关，否则市场会担心通胀下降不够快，还有担心再被油价带起来的隐忧。",
-      "link": "https://x.com/qinbafrank/status/2076998727592743164",
-      "source": "qinbafrank",
-      "source_id": "qinba",
-      "handle": "qinbafrank",
-      "lane": "Macro + AI",
-      "published": "2026-07-14T11:54:20+00:00",
-      "published_ts": 1784030060,
-      "metrics": {
-        "likes": 26,
-        "retweets": 2,
-        "replies": 29,
-        "views": 81711,
-        "hot_score": 172
-      },
-      "categories": [
-        "Macro"
-      ],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": true,
-      "media": [
-        "https://pbs.twimg.com/media/HNL7VSzaIAASi6s.jpg",
-        "https://pbs.twimg.com/media/HNL7VS7bcAAnu6K.jpg"
-      ],
-      "quoted_tweet": {
-        "id": "2076520435676860661",
-        "author": "qinbafrank",
-        "name": "qinbafrank",
-        "text": "本周迎来7月第一个分水岭，上周一有聊过对于7月走势推演：标普大概率高位震荡，纳指和半导体波动显著放大。真正的分水岭是7月14日的6月CPI、随后Q2财报开启和月底的议息会议。现在回看上周的波动确实不小，今天刚开盘又是一记闷棍。聊聊我的理解：\n1、今早上市场的闷棍来自两个原因：\n1）周末美国和伊朗再次互相发动攻击，伊朗宣称关闭霍尔木兹海峡。这就导致了“能源供应冲击—通胀预期上升—加息预期上升—美债收益率上涨—科技股估值承压”的传导链条。 而且今天早上油价、十年美债收益率、美元指数同步上行，市场自然也会承压。\n\n关于美伊冲突再起，昨天这里https://t.co/BvYG2n7hKt有详细聊过：双方都在算计一件事： 只要报复规模可控，就可以先打一下、提高对方成本，再回到谈判桌上。为什么这么说？你看美伊周末的攻击范围：美国打击的伊朗在波斯湾沿岸的军事基地和设施，没有攻击伊朗内部和德黑兰以及能源设施；伊朗打击的是美军在波斯湾各国的军事基地，其实这些基地三月之后基本上被放弃了，人员、装备早都撤走。双方还是在控制冲突的规模，没有进一步升级。\n\n2）海力士的大跌\n是韩国投资证券一个分析师披露海力士2026年Q2营业利润预计 60.4万亿韩元（环比 +61%，同比 +556%），但比市场普遍共识（65万亿韩元）低约 8%。主要原因是海力士的 HBM（高带宽内存）收入占比高于同行，导致其 ASP（平均售价）涨幅低于市场平均水平。导致海力士大跌\n\n实质上跟上周三星披露2季度业绩预告表现是一样的https://t.co/2Sc4snSS9h，业绩增长度很强，但是市场预期也都整体抬起来了。\n\n2、本周的第一个分水岭\n本周影响市场的几条主线：\nCPI、PPI数据；\n沃什在国会的听证会；\n财报季开启，第一枪在周三的阿斯麦和周四的台积电（今天下午公布6月月度营收）；\n\n1）周二公布的cpi数据\n6月广义 CPI 和核心cpi同比大概率低于5月，关键是与市场预期的偏离度。广义cpi走弱利好估值和久期资产，油价下跌市场也知道通胀会回落，但关键是看广义cpi和核心cpi回落的斜率（看环比）。特别是核心cpi环比要能低于0.3% ，否则市场担心回落速度过慢。\n意义在于让市场确认通胀开始回落，最好当然是回落斜率快于预期。这也是前面说到，7月14号的cpi是7月的第一个分水岭。\n\n2）沃什的听证会\n这将为市场提供又一次观察其政策思路的窗口，值得注意的是，周二听证会开场前90分钟，最新CPI数据就将正式公布，沃什几乎无法回避关于美国通胀走势的相关提问，这也让本次听证会的关注度大幅提升。\n\n3）阿斯麦和台积电的财报关注点\n阿斯麦重点关注\n其EUV和High-NA EUV系统的订单情况。这是ASML最重要的前瞻指标，能反映2027年及以后的半导体资本开支需求；\n全年2026指引更新：此前指引营收€36-40亿区间，市场会关注是否维持或上调；\nHigh-NA EUV推进情况：下一代光刻机的采用进度和客户反馈，这是长期增长的关键驱动；\n\n台积电重点关注：\n—AI/HPC需求强度，管理层会如何描述“AI需求是否依然extremely robust”，重点看HPC（高性能计算）营收占比和同比/环比增长。\n—CoWoS先进封装产能，这是当前AI芯片（尤其是NVIDIA等）最紧缺的环节。市场会重点关注：CoWoS产能扩张进度和利用率是否仍有供需缺口（NVIDIA reportedly占了很大份额），这被视为检验“AI资本开支是否有天花板”的重要信号\n—全年2026营收指引更新：此前指引“超过30%”同比增长，市场期待是否上修（部分券商已预期上调）。\n—资本开支（Capex）：此前上调至$52-56亿区间高位，关注是否进一步增加以支持先进制程和CoWoS扩张。\n—整体AI基础设施周期展望：管理层对2026下半年及2027年的需求看法。\n\n当然对于财报季最关键是还是下旬的超大云厂商的业绩报告。\n\n3、本周需要重点关注的几个点\n1）看布伦特油价。 80美元是近期情绪分水岭；持续高于85美元，市场会开始担心能源冲击重新扩散到服务和商品价格。当然油价最终还是看美伊双方博弈的情况；\n\n2）看美国10年期收益率。\n 4.60%附近是科技股估值压力位（去年这里https://t.co/RtNpMzswae就有聊过4.6%是十年美债收益率的一个阈值）；\n站上4.65%—4.70%，纳指更容易被下沙，反弹难度明显增加；\n回到4.50%以下，科技股才更容易持续修复。\n\n3）看台积电、ASML和海力士能否出现分化。\n 如果台积电和ASML指引仍强，而海力士止跌，说明近期主要是仓位和获利了结；\n如果三者同时转弱，则要警惕AI硬件板块从短期调整演变为盈利预期下修。\n\n整体来说，周一至周二CPI公布前，市场仍会压低高估值科技和半导体仓位。只要布伦特油价没有持续突破80—85美元、核心CPI没有明显高于0.3%环比，10年期收益率大概率会在4.50%—4.65%之间震荡，市场有机会在周二或周三出现止跌和修复修复。\n\n最终周二CPI和周四台积电，是决定方向的两个最关键节点。\n\n本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
-        "created_at": "Mon Jul 13 04:13:46 +0000 2026",
-        "url": "https://x.com/qinbafrank/status/2076520435676860661",
-        "has_media": false,
-        "media_urls": [],
-        "media_posters": []
-      }
-    },
-    {
       "id": "2076961231508742281",
       "title": "Trump announced he’s hosting a UFC event on the White House grounds. He also owns stock in TKO Group — the company that…",
       "summary": "Trump announced he’s hosting a UFC event on the White House grounds. He also owns stock in TKO Group — the company that owns the UFC. So the President is turning federal property into a promotional platform for a company he has a financial stake in, run by his ally Dana White. I…",
@@ -1976,11 +1329,11 @@
       "published": "2026-07-14T09:25:20+00:00",
       "published_ts": 1784021120,
       "metrics": {
-        "likes": 776,
+        "likes": 778,
         "retweets": 122,
         "replies": 16,
-        "views": 20322,
-        "hot_score": 2198
+        "views": 20548,
+        "hot_score": 2202
       },
       "categories": [
         "Macro",
@@ -2004,11 +1357,11 @@
       "published": "2026-07-14T08:34:09+00:00",
       "published_ts": 1784018049,
       "metrics": {
-        "likes": 176,
+        "likes": 178,
         "retweets": 14,
-        "replies": 63,
-        "views": 50111,
-        "hot_score": 535
+        "replies": 69,
+        "views": 51244,
+        "hot_score": 546
       },
       "categories": [
         "Risk"
@@ -2018,33 +1371,6 @@
       "has_media": true,
       "media": [
         "https://pbs.twimg.com/media/HNLLshragAAyXfa.jpg"
-      ],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2076902928359755987",
-      "title": "韩国看来是要从向下熔断 变成接下来向上熔断",
-      "summary": "韩国看来是要从向下熔断 变成接下来向上熔断",
-      "link": "https://x.com/xiaomustock/status/2076902928359755987",
-      "source": "川沐 / Trumoo",
-      "source_id": "trumoo",
-      "handle": "xiaomustock",
-      "lane": "Semis trading",
-      "published": "2026-07-14T05:33:39+00:00",
-      "published_ts": 1784007219,
-      "metrics": {
-        "likes": 166,
-        "retweets": 4,
-        "replies": 34,
-        "views": 81128,
-        "hot_score": 467
-      },
-      "categories": [],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": true,
-      "media": [
-        "https://pbs.twimg.com/media/HNKkM-ybcAAG6y-.jpg"
       ],
       "quoted_tweet": null
     },
@@ -2060,11 +1386,11 @@
       "published": "2026-07-14T01:51:24+00:00",
       "published_ts": 1783993884,
       "metrics": {
-        "likes": 1554,
-        "retweets": 120,
+        "likes": 1566,
+        "retweets": 121,
         "replies": 113,
-        "views": 609857,
-        "hot_score": 4321
+        "views": 623744,
+        "hot_score": 4350
       },
       "categories": [
         "AI",
@@ -2103,11 +1429,11 @@
       "published": "2026-07-13T23:17:46+00:00",
       "published_ts": 1783984666,
       "metrics": {
-        "likes": 893,
+        "likes": 901,
         "retweets": 41,
         "replies": 117,
-        "views": 329663,
-        "hot_score": 2437
+        "views": 336953,
+        "hot_score": 2460
       },
       "categories": [
         "AI",
@@ -2143,7 +1469,7 @@
         "likes": 159,
         "retweets": 12,
         "replies": 28,
-        "views": 30665,
+        "views": 30855,
         "hot_score": 436
       },
       "categories": [
@@ -2173,11 +1499,11 @@
       "published": "2026-07-13T20:52:50+00:00",
       "published_ts": 1783975970,
       "metrics": {
-        "likes": 1685,
-        "retweets": 395,
+        "likes": 1692,
+        "retweets": 398,
         "replies": 12,
-        "views": 41939,
-        "hot_score": 5398
+        "views": 42282,
+        "hot_score": 5428
       },
       "categories": [
         "Macro",
@@ -2217,11 +1543,11 @@
       "published": "2026-07-13T19:20:46+00:00",
       "published_ts": 1783970446,
       "metrics": {
-        "likes": 2066,
-        "retweets": 173,
-        "replies": 299,
-        "views": 448129,
-        "hot_score": 5744
+        "likes": 2074,
+        "retweets": 174,
+        "replies": 301,
+        "views": 455385,
+        "hot_score": 5774
       },
       "categories": [
         "Data centers",
@@ -2244,90 +1570,6 @@
       "quoted_tweet": null
     },
     {
-      "id": "2076740694484602880",
-      "title": "BREAKING: Trump administration has launched effort to ‘dismantle’ the International Criminal Court, per WSJ",
-      "summary": "BREAKING: Trump administration has launched effort to ‘dismantle’ the International Criminal Court, per WSJ",
-      "link": "https://x.com/unusual_whales/status/2076740694484602880",
-      "source": "unusual_whales",
-      "source_id": "whales",
-      "handle": "unusual_whales",
-      "lane": "Market tape",
-      "published": "2026-07-13T18:49:00+00:00",
-      "published_ts": 1783968540,
-      "metrics": {
-        "likes": 7479,
-        "retweets": 1268,
-        "replies": 556,
-        "views": 1416035,
-        "hot_score": 22354
-      },
-      "categories": [
-        "Policy"
-      ],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2076709566067229123",
-      "title": "Trump just declared a 20% toll on Hormuz cargo and a US “blockade” on Iran — a move that risks squeezing oil supply and…",
-      "summary": "Trump just declared a 20% toll on Hormuz cargo and a US “blockade” on Iran — a move that risks squeezing oil supply and spiking crude prices. He holds between $500,000 and $1 million in Exxon Mobil. The man declaring the blockade owns the oil company that profits when it tighten…",
-      "link": "https://x.com/TrumpsPortfolio/status/2076709566067229123",
-      "source": "Trump Portfolio Tracker",
-      "source_id": "trumptracker",
-      "handle": "TrumpsPortfolio",
-      "lane": "Policy trades",
-      "published": "2026-07-13T16:45:18+00:00",
-      "published_ts": 1783961118,
-      "metrics": {
-        "likes": 803,
-        "retweets": 250,
-        "replies": 27,
-        "views": 21758,
-        "hot_score": 2904
-      },
-      "categories": [
-        "Policy",
-        "Risk"
-      ],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": true,
-      "media": [
-        "https://pbs.twimg.com/media/HNH0VcZWIAA4V8T.jpg"
-      ],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2076707582845297097",
-      "title": "BREAKING: A U.S. judge has voided President Donald Trump's settlement with the IRS ‌that gave him and his companies swe…",
-      "summary": "BREAKING: A U.S. judge has voided President Donald Trump's settlement with the IRS ‌that gave him and his companies sweeping tax protections, per Reuters",
-      "link": "https://x.com/unusual_whales/status/2076707582845297097",
-      "source": "unusual_whales",
-      "source_id": "whales",
-      "handle": "unusual_whales",
-      "lane": "Market tape",
-      "published": "2026-07-13T16:37:25+00:00",
-      "published_ts": 1783960645,
-      "metrics": {
-        "likes": 32739,
-        "retweets": 2974,
-        "replies": 298,
-        "views": 1187668,
-        "hot_score": 81146
-      },
-      "categories": [
-        "Policy"
-      ],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": null
-    },
-    {
       "id": "2076697280443261185",
       "title": "Nvidia $NVDA says a Vera Rubin NVL72 rack paired with a Groq 3 LPX rack can deliver up to 35X higher token throughput p…",
       "summary": "Nvidia $NVDA says a Vera Rubin NVL72 rack paired with a Groq 3 LPX rack can deliver up to 35X higher token throughput per MW, creating up to a 10X revenue opportunity for AI factories versus Blackwell. Meanwhile, acquiring 1 TB of HBM through Blackwell GPUs costs more than 5X as…",
@@ -2342,7 +1584,7 @@
         "likes": 331,
         "retweets": 27,
         "replies": 33,
-        "views": 35120,
+        "views": 35271,
         "hot_score": 865
       },
       "categories": [
@@ -2360,34 +1602,6 @@
       "quoted_tweet": null
     },
     {
-      "id": "2076635982263136691",
-      "title": "Donald Trump owns stock in Boeing. Two of its 737 MAX jets crashed and killed 346 people. It later admitted to a crimin…",
-      "summary": "Donald Trump owns stock in Boeing. Two of its 737 MAX jets crashed and killed 346 people. It later admitted to a criminal fraud conspiracy over how it hid the flaw from regulators. In 2024 a door plug blew off a MAX in midair. The President owns it — while the FAA he controls is…",
-      "link": "https://x.com/TrumpsPortfolio/status/2076635982263136691",
-      "source": "Trump Portfolio Tracker",
-      "source_id": "trumptracker",
-      "handle": "TrumpsPortfolio",
-      "lane": "Policy trades",
-      "published": "2026-07-13T11:52:54+00:00",
-      "published_ts": 1783943574,
-      "metrics": {
-        "likes": 603,
-        "retweets": 122,
-        "replies": 10,
-        "views": 23613,
-        "hot_score": 1849
-      },
-      "categories": [
-        "AI",
-        "Policy"
-      ],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": null
-    },
-    {
       "id": "2076595046430978445",
       "title": "本周美股7.13财报周，大银行定调子，台积电+阿斯麦决定拐点是否将至，万众期待极其重要！ 我的重点关注如下： 周二（7月14日） 盘前 $JPM 摩根大通（美股银行龙头，财报风向标） $C 花旗银行 $BAC 美国银行 $WFC 富国银行…",
       "summary": "本周美股7.13财报周，大银行定调子，台积电+阿斯麦决定拐点是否将至，万众期待极其重要！ 我的重点关注如下： 周二（7月14日） 盘前 $JPM 摩根大通（美股银行龙头，财报风向标） $C 花旗银行 $BAC 美国银行 $WFC 富国银行 $FAST Fastenal 工业周期标杆 $ERIC 爱立信（类似诺基亚的夕阳红） 盘后 $AEHR 半导体设备小盘网红股 周三（7月15日） 盘前 $ASML 阿斯麦（全球光刻设备绝对龙头，半导体核心权重） $BLK 贝莱德（全球最大资管，资金流向风向标） $MS 摩根士丹利 投行龙头 $JNJ 强生 医药防御龙…",
@@ -2399,11 +1613,11 @@
       "published": "2026-07-13T09:10:14+00:00",
       "published_ts": 1783933814,
       "metrics": {
-        "likes": 34,
+        "likes": 36,
         "retweets": 5,
         "replies": 34,
-        "views": 113772,
-        "hot_score": 240
+        "views": 124287,
+        "hot_score": 255
       },
       "categories": [
         "Semis"
@@ -2440,7 +1654,7 @@
         "likes": 26,
         "retweets": 0,
         "replies": 20,
-        "views": 14293,
+        "views": 14333,
         "hot_score": 86
       },
       "categories": [
@@ -2515,34 +1729,6 @@
       "quoted_tweet": null
     },
     {
-      "id": "2076474978690883744",
-      "title": "Lindsey Graham said he was feeling unwell after calling Trump but refused to seek medical attention, joking, per Axios:…",
-      "summary": "Lindsey Graham said he was feeling unwell after calling Trump but refused to seek medical attention, joking, per Axios: \"I can't die now. I still need to do the Russia sanctions, get Iran sorted out and do Israeli-Saudi normalization.\"",
-      "link": "https://x.com/unusual_whales/status/2076474978690883744",
-      "source": "unusual_whales",
-      "source_id": "whales",
-      "handle": "unusual_whales",
-      "lane": "Market tape",
-      "published": "2026-07-13T01:13:08+00:00",
-      "published_ts": 1783905188,
-      "metrics": {
-        "likes": 6811,
-        "retweets": 250,
-        "replies": 225,
-        "views": 772698,
-        "hot_score": 15597
-      },
-      "categories": [
-        "AI",
-        "Policy"
-      ],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": null
-    },
-    {
       "id": "2076467953995071881",
       "title": "Just a semi recap TLDR: - $GLW glass bridge per Morgan Stanley has potential, but hard to displace FAU (like FOCI) in s…",
       "summary": "Just a semi recap TLDR: - $GLW glass bridge per Morgan Stanley has potential, but hard to displace FAU (like FOCI) in short term - $SPCX Starlink Gen 3 is scaling to 100,000 units (10x prev gen) creating possible capacity constraints for suppliers of switches to CCL. - PCB suppl…",
@@ -2554,11 +1740,11 @@
       "published": "2026-07-13T00:45:13+00:00",
       "published_ts": 1783903513,
       "metrics": {
-        "likes": 2017,
-        "retweets": 170,
+        "likes": 2021,
+        "retweets": 169,
         "replies": 195,
-        "views": 616775,
-        "hot_score": 5579
+        "views": 620523,
+        "hot_score": 5582
       },
       "categories": [
         "AI",
@@ -2597,7 +1783,7 @@
         "likes": 16,
         "retweets": 0,
         "replies": 22,
-        "views": 9714,
+        "views": 9739,
         "hot_score": 63
       },
       "categories": [
@@ -2639,8 +1825,8 @@
         "likes": 192,
         "retweets": 17,
         "replies": 38,
-        "views": 156981,
-        "hot_score": 663
+        "views": 157048,
+        "hot_score": 664
       },
       "categories": [],
       "tickers": [],
@@ -2666,7 +1852,7 @@
         "likes": 25,
         "retweets": 1,
         "replies": 18,
-        "views": 21260,
+        "views": 21278,
         "hot_score": 94
       },
       "categories": [],
@@ -2693,7 +1879,7 @@
         "likes": 27,
         "retweets": 0,
         "replies": 22,
-        "views": 22181,
+        "views": 22194,
         "hot_score": 98
       },
       "categories": [
@@ -2718,10 +1904,10 @@
       "published_ts": 1783550202,
       "metrics": {
         "likes": 3870,
-        "retweets": 616,
+        "retweets": 617,
         "replies": 95,
-        "views": 928754,
-        "hot_score": 11415
+        "views": 929150,
+        "hot_score": 11420
       },
       "categories": [],
       "tickers": [],
@@ -2745,7 +1931,7 @@
         "likes": 112,
         "retweets": 9,
         "replies": 9,
-        "views": 56230,
+        "views": 56284,
         "hot_score": 334
       },
       "categories": [],
@@ -2770,7 +1956,7 @@
         "likes": 862,
         "retweets": 154,
         "replies": 124,
-        "views": 270579,
+        "views": 270633,
         "hot_score": 2888
       },
       "categories": [],
@@ -2794,11 +1980,11 @@
       "published": "2026-07-02T06:56:05+00:00",
       "published_ts": 1782975365,
       "metrics": {
-        "likes": 214,
+        "likes": 215,
         "retweets": 33,
-        "replies": 103,
-        "views": 78829,
-        "hot_score": 774
+        "replies": 104,
+        "views": 78860,
+        "hot_score": 777
       },
       "categories": [
         "Risk"
@@ -2834,7 +2020,7 @@
         "likes": 142,
         "retweets": 17,
         "replies": 9,
-        "views": 38443,
+        "views": 38468,
         "hot_score": 416
       },
       "categories": [
@@ -2861,7 +2047,7 @@
         "likes": 281,
         "retweets": 21,
         "replies": 103,
-        "views": 45555,
+        "views": 45572,
         "hot_score": 815
       },
       "categories": [],
@@ -2886,7 +2072,7 @@
         "likes": 84,
         "retweets": 6,
         "replies": 38,
-        "views": 47191,
+        "views": 47205,
         "hot_score": 283
       },
       "categories": [],
@@ -2925,7 +2111,7 @@
         "likes": 18,
         "retweets": 4,
         "replies": 2,
-        "views": 24938,
+        "views": 24966,
         "hot_score": 82
       },
       "categories": [],
@@ -2968,7 +2154,7 @@
         "likes": 94,
         "retweets": 11,
         "replies": 26,
-        "views": 43446,
+        "views": 43472,
         "hot_score": 312
       },
       "categories": [
@@ -2996,7 +2182,7 @@
         "likes": 181,
         "retweets": 14,
         "replies": 88,
-        "views": 123654,
+        "views": 123729,
         "hot_score": 643
       },
       "categories": [
@@ -3024,7 +2210,7 @@
         "likes": 99,
         "retweets": 0,
         "replies": 82,
-        "views": 31340,
+        "views": 31342,
         "hot_score": 311
       },
       "categories": [
@@ -3051,7 +2237,7 @@
         "likes": 67,
         "retweets": 9,
         "replies": 63,
-        "views": 32609,
+        "views": 32612,
         "hot_score": 274
       },
       "categories": [
@@ -3078,7 +2264,7 @@
         "likes": 98,
         "retweets": 6,
         "replies": 70,
-        "views": 22611,
+        "views": 22614,
         "hot_score": 318
       },
       "categories": [
@@ -3105,7 +2291,7 @@
         "likes": 153,
         "retweets": 7,
         "replies": 112,
-        "views": 69715,
+        "views": 69718,
         "hot_score": 522
       },
       "categories": [
@@ -3114,253 +2300,6 @@
       ],
       "tickers": [],
       "is_retweet": false,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": null
-    },
-    {
-      "id": "1976026473166406031",
-      "title": "RT @tamarawinter: Driving around (where else?) SF dropping off some ✨special packages ✨. Favorite stop so far:",
-      "summary": "RT @tamarawinter: Driving around (where else?) SF dropping off some ✨special packages ✨. Favorite stop so far:",
-      "link": "https://x.com/leopoldasch/status/1976026473166406031",
-      "source": "Leopold Aschenbrenner",
-      "source_id": "leopold",
-      "handle": "leopoldasch",
-      "lane": "AI frontier",
-      "published": "2025-10-08T20:46:38+00:00",
-      "published_ts": 1759956398,
-      "metrics": {
-        "likes": 0,
-        "retweets": 23,
-        "replies": 0,
-        "views": 43,
-        "hot_score": 115
-      },
-      "categories": [],
-      "tickers": [],
-      "is_retweet": true,
-      "has_media": true,
-      "media": [
-        "https://pbs.twimg.com/media/G2w6EUgaAAIHrfq.jpg",
-        "https://pbs.twimg.com/media/G2w6EUdaAAAyZN3.jpg"
-      ],
-      "quoted_tweet": null
-    },
-    {
-      "id": "1976019603236307367",
-      "title": "Self-recommending!",
-      "summary": "Self-recommending!",
-      "link": "https://x.com/leopoldasch/status/1976019603236307367",
-      "source": "Leopold Aschenbrenner",
-      "source_id": "leopold",
-      "handle": "leopoldasch",
-      "lane": "AI frontier",
-      "published": "2025-10-08T20:19:20+00:00",
-      "published_ts": 1759954760,
-      "metrics": {
-        "likes": 1024,
-        "retweets": 63,
-        "replies": 35,
-        "views": 590215,
-        "hot_score": 2898
-      },
-      "categories": [],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": {
-        "id": "1975939240002253306",
-        "author": "stripepress",
-        "name": "Stripe Press",
-        "text": "What is intelligence? What will it take to create AGI? What happens once we succeed?\n\nThe Scaling Era: An Oral History of AI, 2019–2025 by @dwarkesh_sp and @gleech explores the questions animating those at the frontier of AI research.\n\nIt’s out today: https://t.co/au8g0XJrdH",
-        "created_at": "Wed Oct 08 15:00:00 +0000 2025",
-        "url": "https://x.com/stripepress/status/1975939240002253306",
-        "has_media": true,
-        "media_urls": [
-          "https://video.twimg.com/amplify_video/1975543624440918016/vid/avc1/320x320/NRZuD7W1ZAcrjF2x.mp4?tag=21"
-        ],
-        "media_posters": [
-          "https://pbs.twimg.com/amplify_video_thumb/1975543624440918016/img/iBxT1dvLHH_FHcYg.jpg"
-        ]
-      }
-    },
-    {
-      "id": "1955088366241767734",
-      "title": "",
-      "summary": "",
-      "link": "https://x.com/leopoldasch/status/1955088366241767734",
-      "source": "Leopold Aschenbrenner",
-      "source_id": "leopold",
-      "handle": "leopoldasch",
-      "lane": "AI frontier",
-      "published": "2025-08-12T02:06:04+00:00",
-      "published_ts": 1754964364,
-      "metrics": {
-        "likes": 912,
-        "retweets": 62,
-        "replies": 57,
-        "views": 320920,
-        "hot_score": 2511
-      },
-      "categories": [],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": null
-    },
-    {
-      "id": "1902399779457658907",
-      "title": "RT @METR_Evals: When will AI systems be able to carry out long projects independently? In new research, we find a kind…",
-      "summary": "RT @METR_Evals: When will AI systems be able to carry out long projects independently? In new research, we find a kind of “Moore’s Law for…",
-      "link": "https://x.com/leopoldasch/status/1902399779457658907",
-      "source": "Leopold Aschenbrenner",
-      "source_id": "leopold",
-      "handle": "leopoldasch",
-      "lane": "AI frontier",
-      "published": "2025-03-19T16:40:26+00:00",
-      "published_ts": 1742402426,
-      "metrics": {
-        "likes": 0,
-        "retweets": 890,
-        "replies": 0,
-        "views": 29,
-        "hot_score": 4450
-      },
-      "categories": [
-        "AI"
-      ],
-      "tickers": [],
-      "is_retweet": true,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": null
-    },
-    {
-      "id": "1844847505886040141",
-      "title": "The “compressed 21st century”: a great essay on what it might look like to make 100 years of progress in 10 years post…",
-      "summary": "The “compressed 21st century”: a great essay on what it might look like to make 100 years of progress in 10 years post AGI (if all goes well). Favorite phrase: “a country of geniuses in a datacenter”",
-      "link": "https://x.com/leopoldasch/status/1844847505886040141",
-      "source": "Leopold Aschenbrenner",
-      "source_id": "leopold",
-      "handle": "leopoldasch",
-      "lane": "AI frontier",
-      "published": "2024-10-11T21:08:15+00:00",
-      "published_ts": 1728680895,
-      "metrics": {
-        "likes": 1232,
-        "retweets": 121,
-        "replies": 49,
-        "views": 464871,
-        "hot_score": 3582
-      },
-      "categories": [
-        "AI",
-        "Data centers"
-      ],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": {
-        "id": "1844830404064288934",
-        "author": "DarioAmodei",
-        "name": "Dario Amodei",
-        "text": "Machines of Loving Grace: my essay on how AI could transform the world for the better\n\nhttps://t.co/CFGd4Sbq86",
-        "created_at": "Fri Oct 11 20:00:18 +0000 2024",
-        "url": "https://x.com/DarioAmodei/status/1844830404064288934",
-        "has_media": false,
-        "media_urls": [],
-        "media_posters": [],
-        "card": {
-          "name": "summary_large_image",
-          "title": "Dario Amodei — Machines of Loving Grace",
-          "description": "How AI Could Transform the World for the Better",
-          "image_url": "https://pbs.twimg.com/card_img/2076544179400736768/C8Kgpcmz?format=jpg&name=600x600",
-          "url": "https://darioamodei.com/machines-of-loving-grace",
-          "domain": "darioamodei.com"
-        }
-      }
-    },
-    {
-      "id": "1839006730312732749",
-      "title": "RT @IvankaTrump: Leopold Aschenbrenner’s SITUATIONAL AWARENESS predicts we are on course for Artificial General Intelli…",
-      "summary": "RT @IvankaTrump: Leopold Aschenbrenner’s SITUATIONAL AWARENESS predicts we are on course for Artificial General Intelligence (AGI) by 2027,…",
-      "link": "https://x.com/leopoldasch/status/1839006730312732749",
-      "source": "Leopold Aschenbrenner",
-      "source_id": "leopold",
-      "handle": "leopoldasch",
-      "lane": "AI frontier",
-      "published": "2024-09-25T18:19:06+00:00",
-      "published_ts": 1727288346,
-      "metrics": {
-        "likes": 0,
-        "retweets": 557,
-        "replies": 0,
-        "views": 18,
-        "hot_score": 2785
-      },
-      "categories": [
-        "AI",
-        "Policy"
-      ],
-      "tickers": [],
-      "is_retweet": true,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": null
-    },
-    {
-      "id": "1834318124939874803",
-      "title": "RT @max_a_schwarzer: what it looks like when deep learning is hitting a wall:",
-      "summary": "RT @max_a_schwarzer: what it looks like when deep learning is hitting a wall:",
-      "link": "https://x.com/leopoldasch/status/1834318124939874803",
-      "source": "Leopold Aschenbrenner",
-      "source_id": "leopold",
-      "handle": "leopoldasch",
-      "lane": "AI frontier",
-      "published": "2024-09-12T19:48:15+00:00",
-      "published_ts": 1726170495,
-      "metrics": {
-        "likes": 0,
-        "retweets": 41,
-        "replies": 0,
-        "views": 21,
-        "hot_score": 205
-      },
-      "categories": [],
-      "tickers": [],
-      "is_retweet": true,
-      "has_media": true,
-      "media": [
-        "https://pbs.twimg.com/media/GXS-EtybgAAeKeZ.png"
-      ],
-      "quoted_tweet": null
-    },
-    {
-      "id": "1834316445402235231",
-      "title": "RT @andreamiotti: OpenAI's o1 \"broke out of its host VM to restart it\" in order to solve a task. From the model card: \"…",
-      "summary": "RT @andreamiotti: OpenAI's o1 \"broke out of its host VM to restart it\" in order to solve a task. From the model card: \"the model pursued…",
-      "link": "https://x.com/leopoldasch/status/1834316445402235231",
-      "source": "Leopold Aschenbrenner",
-      "source_id": "leopold",
-      "handle": "leopoldasch",
-      "lane": "AI frontier",
-      "published": "2024-09-12T19:41:35+00:00",
-      "published_ts": 1726170095,
-      "metrics": {
-        "likes": 0,
-        "retweets": 105,
-        "replies": 0,
-        "views": 12,
-        "hot_score": 525
-      },
-      "categories": [
-        "AI"
-      ],
-      "tickers": [],
-      "is_retweet": true,
       "has_media": false,
       "media": [],
       "quoted_tweet": null
@@ -3391,7 +2330,7 @@
       "name": "Leopold Aschenbrenner",
       "lane": "AI frontier",
       "note": "AGI, AI infrastructure, Situational Awareness",
-      "count": 8,
+      "count": 0,
       "url": "https://x.com/leopoldasch"
     },
     {
@@ -3400,7 +2339,7 @@
       "name": "qinbafrank",
       "lane": "Macro + AI",
       "note": "Macro liquidity, CPI/FOMC, AI ROI, semis",
-      "count": 8,
+      "count": 0,
       "url": "https://x.com/qinbafrank"
     },
     {
@@ -3409,7 +2348,7 @@
       "name": "川沐 / Trumoo",
       "lane": "Semis trading",
       "note": "AI stocks, memory, Korea semis, options tone",
-      "count": 8,
+      "count": 0,
       "url": "https://x.com/xiaomustock"
     },
     {
@@ -3472,7 +2411,7 @@
       "name": "unusual_whales",
       "lane": "Market tape",
       "note": "Breaking market/policy headlines and options flow",
-      "count": 8,
+      "count": 0,
       "url": "https://x.com/unusual_whales"
     },
     {
@@ -3485,5 +2424,10 @@
       "url": "https://x.com/Beth_Kindig"
     }
   ],
-  "errors": {}
+  "errors": {
+    "leopold": "ok: false\nerror:\n  code: COMMAND_EXEC\n  message: >-\n    Pre-navigation to https://x.com failed: Browser connection dropped after the navigate command was dispatched; it may\n    have completed.\n  help: Check that the site is reachable and the browser extension is running.\n  exitCode: 1",
+    "qinba": "ok: false\nerror:\n  code: UNKNOWN\n  message: Browser command timed out client-side; the page may still have applied it.\n  exitCode: 1\n# AutoFix: re-run with --trace=retain-on-failure for trace artifact\n# opencli twitter tweets --trace retain-on-failure",
+    "trumoo": "ok: false\nerror:\n  code: UNKNOWN\n  message: |-\n    TypeError: Failed to fetch\n        at <anonymous>:2:26\n        at <anonymous>:6:7\n  exitCode: 1\n# AutoFix: re-run with --trace=retain-on-failure for trace artifact\n# opencli twitter tweets --trace retain-on-failure",
+    "whales": "ok: false\nerror:\n  code: UNKNOWN\n  message: |-\n    TypeError: Failed to fetch\n        at <anonymous>:2:26\n        at <anonymous>:6:7\n  exitCode: 1\n# AutoFix: re-run with --trace=retain-on-failure for trace artifact\n# opencli twitter tweets --trace retain-on-failure"
+  }
 }
