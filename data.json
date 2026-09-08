@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-08T05:20:09.591172+00:00",
-  "generated_ts": 1788844809,
+  "generated_at": "2026-09-08T06:19:47.585202+00:00",
+  "generated_ts": 1788848387,
   "articles": [
     {
       "id": "2097187696754196846",
@@ -15,11 +15,11 @@
       "published": "2026-09-08T04:58:05+00:00",
       "published_ts": 1788843485,
       "metrics": {
-        "likes": 121,
-        "retweets": 13,
-        "replies": 36,
-        "views": 37711,
-        "hot_score": 380
+        "likes": 434,
+        "retweets": 46,
+        "replies": 57,
+        "views": 65600,
+        "hot_score": 1220
       },
       "categories": [],
       "tickers": [],
@@ -40,11 +40,11 @@
       "published": "2026-09-08T04:41:00+00:00",
       "published_ts": 1788842460,
       "metrics": {
-        "likes": 10,
+        "likes": 13,
         "retweets": 1,
         "replies": 5,
-        "views": 12984,
-        "hot_score": 42
+        "views": 19258,
+        "hot_score": 55
       },
       "categories": [
         "Policy"
@@ -67,11 +67,11 @@
       "published": "2026-09-08T04:18:33+00:00",
       "published_ts": 1788841113,
       "metrics": {
-        "likes": 50,
+        "likes": 87,
         "retweets": 2,
-        "replies": 9,
-        "views": 24625,
-        "hot_score": 143
+        "replies": 12,
+        "views": 43186,
+        "hot_score": 239
       },
       "categories": [],
       "tickers": [],
@@ -120,10 +120,10 @@
       "published_ts": 1788840502,
       "metrics": {
         "likes": 0,
-        "retweets": 29,
+        "retweets": 30,
         "replies": 0,
         "views": 0,
-        "hot_score": 145
+        "hot_score": 150
       },
       "categories": [],
       "tickers": [],
@@ -147,10 +147,10 @@
       "published_ts": 1788840497,
       "metrics": {
         "likes": 0,
-        "retweets": 96,
+        "retweets": 103,
         "replies": 0,
         "views": 0,
-        "hot_score": 480
+        "hot_score": 515
       },
       "categories": [
         "Macro"
@@ -174,10 +174,10 @@
       "published_ts": 1788840492,
       "metrics": {
         "likes": 0,
-        "retweets": 86,
+        "retweets": 90,
         "replies": 0,
         "views": 0,
-        "hot_score": 430
+        "hot_score": 450
       },
       "categories": [
         "Macro"
@@ -228,10 +228,10 @@
       "published_ts": 1788840486,
       "metrics": {
         "likes": 0,
-        "retweets": 331,
+        "retweets": 344,
         "replies": 0,
         "views": 0,
-        "hot_score": 1655
+        "hot_score": 1720
       },
       "categories": [
         "Policy"
@@ -279,11 +279,11 @@
       "published": "2026-09-08T04:01:00+00:00",
       "published_ts": 1788840060,
       "metrics": {
-        "likes": 8,
+        "likes": 10,
         "retweets": 1,
-        "replies": 4,
-        "views": 20356,
-        "hot_score": 45
+        "replies": 5,
+        "views": 24241,
+        "hot_score": 54
       },
       "categories": [],
       "tickers": [],
@@ -304,11 +304,11 @@
       "published": "2026-09-08T03:47:22+00:00",
       "published_ts": 1788839242,
       "metrics": {
-        "likes": 95,
-        "retweets": 11,
-        "replies": 4,
-        "views": 24052,
-        "hot_score": 273
+        "likes": 137,
+        "retweets": 13,
+        "replies": 5,
+        "views": 32838,
+        "hot_score": 376
       },
       "categories": [
         "Memory"
@@ -338,11 +338,11 @@
       "published": "2026-09-08T03:41:48+00:00",
       "published_ts": 1788838908,
       "metrics": {
-        "likes": 48,
+        "likes": 59,
         "retweets": 1,
         "replies": 4,
-        "views": 5359,
-        "hot_score": 110
+        "views": 6359,
+        "hot_score": 133
       },
       "categories": [
         "AI",
@@ -391,11 +391,11 @@
       "published": "2026-09-08T03:31:00+00:00",
       "published_ts": 1788838260,
       "metrics": {
-        "likes": 511,
-        "retweets": 21,
-        "replies": 71,
-        "views": 85877,
-        "hot_score": 1283
+        "likes": 588,
+        "retweets": 24,
+        "replies": 75,
+        "views": 97744,
+        "hot_score": 1468
       },
       "categories": [
         "Policy"
@@ -419,10 +419,10 @@
       "published_ts": 1788838051,
       "metrics": {
         "likes": 0,
-        "retweets": 22,
+        "retweets": 23,
         "replies": 0,
         "views": 0,
-        "hot_score": 110
+        "hot_score": 115
       },
       "categories": [
         "Semis",
@@ -446,11 +446,11 @@
       "published": "2026-09-08T03:16:39+00:00",
       "published_ts": 1788837399,
       "metrics": {
-        "likes": 23,
+        "likes": 26,
         "retweets": 0,
-        "replies": 7,
-        "views": 21542,
-        "hot_score": 74
+        "replies": 8,
+        "views": 25825,
+        "hot_score": 85
       },
       "categories": [
         "Risk"
@@ -491,11 +491,11 @@
       "published": "2026-09-08T03:13:43+00:00",
       "published_ts": 1788837223,
       "metrics": {
-        "likes": 78,
+        "likes": 88,
         "retweets": 2,
         "replies": 6,
-        "views": 59905,
-        "hot_score": 231
+        "views": 76019,
+        "hot_score": 268
       },
       "categories": [
         "Semis",
@@ -536,11 +536,11 @@
       "published": "2026-09-08T02:30:16+00:00",
       "published_ts": 1788834616,
       "metrics": {
-        "likes": 31,
+        "likes": 36,
         "retweets": 0,
         "replies": 0,
-        "views": 4041,
-        "hot_score": 66
+        "views": 4728,
+        "hot_score": 76
       },
       "categories": [
         "AI"
@@ -565,11 +565,11 @@
       "published": "2026-09-08T01:37:53+00:00",
       "published_ts": 1788831473,
       "metrics": {
-        "likes": 140,
-        "retweets": 25,
+        "likes": 151,
+        "retweets": 27,
         "replies": 6,
-        "views": 9736,
-        "hot_score": 420
+        "views": 10445,
+        "hot_score": 453
       },
       "categories": [
         "AI",
@@ -594,11 +594,11 @@
       "published": "2026-09-08T01:05:48+00:00",
       "published_ts": 1788829548,
       "metrics": {
-        "likes": 50,
+        "likes": 53,
         "retweets": 5,
-        "replies": 23,
-        "views": 22941,
-        "hot_score": 170
+        "replies": 26,
+        "views": 26062,
+        "hot_score": 183
       },
       "categories": [
         "Memory"
@@ -637,11 +637,11 @@
       "published": "2026-09-08T00:53:40+00:00",
       "published_ts": 1788828820,
       "metrics": {
-        "likes": 199,
-        "retweets": 68,
+        "likes": 211,
+        "retweets": 69,
         "replies": 4,
-        "views": 10018,
-        "hot_score": 752
+        "views": 10590,
+        "hot_score": 781
       },
       "categories": [
         "Data centers",
@@ -666,11 +666,11 @@
       "published": "2026-09-07T23:54:51+00:00",
       "published_ts": 1788825291,
       "metrics": {
-        "likes": 41,
-        "retweets": 4,
-        "replies": 26,
-        "views": 21510,
-        "hot_score": 149
+        "likes": 44,
+        "retweets": 5,
+        "replies": 33,
+        "views": 22764,
+        "hot_score": 168
       },
       "categories": [
         "AI",
@@ -712,11 +712,11 @@
       "published": "2026-09-07T23:51:45+00:00",
       "published_ts": 1788825105,
       "metrics": {
-        "likes": 2708,
-        "retweets": 1267,
-        "replies": 130,
-        "views": 95505,
-        "hot_score": 11976
+        "likes": 2908,
+        "retweets": 1354,
+        "replies": 144,
+        "views": 102623,
+        "hot_score": 12832
       },
       "categories": [
         "AI",
@@ -743,11 +743,11 @@
       "published": "2026-09-07T23:15:56+00:00",
       "published_ts": 1788822956,
       "metrics": {
-        "likes": 96,
-        "retweets": 24,
+        "likes": 98,
+        "retweets": 25,
         "replies": 4,
-        "views": 8173,
-        "hot_score": 324
+        "views": 8431,
+        "hot_score": 333
       },
       "categories": [
         "AI",
@@ -899,11 +899,11 @@
       "published": "2026-09-07T23:07:12+00:00",
       "published_ts": 1788822432,
       "metrics": {
-        "likes": 105,
+        "likes": 110,
         "retweets": 5,
         "replies": 10,
-        "views": 12681,
-        "hot_score": 257
+        "views": 13236,
+        "hot_score": 268
       },
       "categories": [
         "Semis"
@@ -931,11 +931,11 @@
       "published": "2026-09-07T21:15:34+00:00",
       "published_ts": 1788815734,
       "metrics": {
-        "likes": 476,
-        "retweets": 70,
+        "likes": 493,
+        "retweets": 72,
         "replies": 7,
-        "views": 12580,
-        "hot_score": 1321
+        "views": 12852,
+        "hot_score": 1365
       },
       "categories": [
         "AI",
@@ -959,11 +959,11 @@
       "published": "2026-09-07T19:28:47+00:00",
       "published_ts": 1788809327,
       "metrics": {
-        "likes": 109,
+        "likes": 115,
         "retweets": 20,
         "replies": 19,
-        "views": 29814,
-        "hot_score": 366
+        "views": 31636,
+        "hot_score": 380
       },
       "categories": [],
       "tickers": [],
@@ -986,11 +986,11 @@
       "published": "2026-09-07T19:08:51+00:00",
       "published_ts": 1788808131,
       "metrics": {
-        "likes": 240,
+        "likes": 242,
         "retweets": 20,
         "replies": 13,
-        "views": 19983,
-        "hot_score": 612
+        "views": 20258,
+        "hot_score": 617
       },
       "categories": [
         "Semis"
@@ -999,35 +999,6 @@
         "$AMD",
         "$AVGO",
         "$NVDA"
-      ],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2097005818302607682",
-      "title": "I don’t think I want to be in this timeline anymore. We got AGI with Astra and Hunter Biden $LAPTOP in the same weekend.",
-      "summary": "I don’t think I want to be in this timeline anymore. We got AGI with Astra and Hunter Biden $LAPTOP in the same weekend.",
-      "link": "https://x.com/aleabitoreddit/status/2097005818302607682",
-      "source": "Serenity / 白毛股神",
-      "source_id": "serenity",
-      "handle": "aleabitoreddit",
-      "lane": "AI supply chain",
-      "published": "2026-09-07T16:55:22+00:00",
-      "published_ts": 1788800122,
-      "metrics": {
-        "likes": 696,
-        "retweets": 11,
-        "replies": 36,
-        "views": 212184,
-        "hot_score": 1695
-      },
-      "categories": [
-        "AI"
-      ],
-      "tickers": [
-        "$LAPTOP"
       ],
       "is_retweet": false,
       "has_media": false,
@@ -1046,11 +1017,11 @@
       "published": "2026-09-07T16:47:56+00:00",
       "published_ts": 1788799676,
       "metrics": {
-        "likes": 178,
+        "likes": 179,
         "retweets": 20,
         "replies": 10,
-        "views": 17897,
-        "hot_score": 483
+        "views": 18151,
+        "hot_score": 486
       },
       "categories": [
         "AI",
@@ -1081,11 +1052,11 @@
       "published": "2026-09-07T15:30:48+00:00",
       "published_ts": 1788795048,
       "metrics": {
-        "likes": 172,
-        "retweets": 28,
+        "likes": 178,
+        "retweets": 29,
         "replies": 4,
-        "views": 10590,
-        "hot_score": 498
+        "views": 10728,
+        "hot_score": 515
       },
       "categories": [
         "AI",
@@ -1109,11 +1080,11 @@
       "published": "2026-09-07T15:28:23+00:00",
       "published_ts": 1788794903,
       "metrics": {
-        "likes": 737,
-        "retweets": 331,
-        "replies": 68,
-        "views": 72798,
-        "hot_score": 3269
+        "likes": 776,
+        "retweets": 344,
+        "replies": 70,
+        "views": 75777,
+        "hot_score": 3417
       },
       "categories": [
         "Policy"
@@ -1138,11 +1109,11 @@
       "published": "2026-09-07T15:10:50+00:00",
       "published_ts": 1788793850,
       "metrics": {
-        "likes": 139,
+        "likes": 141,
         "retweets": 3,
-        "replies": 53,
-        "views": 26766,
-        "hot_score": 372
+        "replies": 55,
+        "views": 27422,
+        "hot_score": 379
       },
       "categories": [],
       "tickers": [],
@@ -1173,11 +1144,11 @@
       "published": "2026-09-07T14:56:30+00:00",
       "published_ts": 1788792990,
       "metrics": {
-        "likes": 45,
+        "likes": 48,
         "retweets": 1,
         "replies": 1,
-        "views": 8767,
-        "hot_score": 104
+        "views": 8977,
+        "hot_score": 110
       },
       "categories": [
         "Memory",
@@ -1256,8 +1227,8 @@
         "likes": 136,
         "retweets": 5,
         "replies": 13,
-        "views": 45178,
-        "hot_score": 355
+        "views": 46215,
+        "hot_score": 356
       },
       "categories": [
         "AI"
@@ -1280,11 +1251,11 @@
       "published": "2026-09-07T12:58:43+00:00",
       "published_ts": 1788785923,
       "metrics": {
-        "likes": 19,
+        "likes": 20,
         "retweets": 0,
         "replies": 0,
-        "views": 2453,
-        "hot_score": 40
+        "views": 2501,
+        "hot_score": 42
       },
       "categories": [],
       "tickers": [],
@@ -1305,11 +1276,11 @@
       "published": "2026-09-07T12:36:24+00:00",
       "published_ts": 1788784584,
       "metrics": {
-        "likes": 75,
+        "likes": 77,
         "retweets": 2,
         "replies": 1,
-        "views": 10489,
-        "hot_score": 171
+        "views": 10671,
+        "hot_score": 175
       },
       "categories": [],
       "tickers": [],
@@ -1330,11 +1301,11 @@
       "published": "2026-09-07T12:17:40+00:00",
       "published_ts": 1788783460,
       "metrics": {
-        "likes": 68,
+        "likes": 70,
         "retweets": 1,
-        "replies": 49,
-        "views": 32522,
-        "hot_score": 222
+        "replies": 52,
+        "views": 33062,
+        "hot_score": 230
       },
       "categories": [],
       "tickers": [],
@@ -1368,7 +1339,7 @@
         "likes": 0,
         "retweets": 16,
         "replies": 0,
-        "views": 2065,
+        "views": 2081,
         "hot_score": 82
       },
       "categories": [],
@@ -1377,131 +1348,6 @@
       "has_media": false,
       "media": [],
       "quoted_tweet": null
-    },
-    {
-      "id": "2096933313785242098",
-      "title": "Uhh chat, did we accidentally AI bottleneck-pill Warren Buffett's $BRK.B successor Greg Abel?",
-      "summary": "Uhh chat, did we accidentally AI bottleneck-pill Warren Buffett's $BRK.B successor Greg Abel?",
-      "link": "https://x.com/aleabitoreddit/status/2096933313785242098",
-      "source": "Serenity / 白毛股神",
-      "source_id": "serenity",
-      "handle": "aleabitoreddit",
-      "lane": "AI supply chain",
-      "published": "2026-09-07T12:07:15+00:00",
-      "published_ts": 1788782835,
-      "metrics": {
-        "likes": 1025,
-        "retweets": 40,
-        "replies": 70,
-        "views": 218342,
-        "hot_score": 2538
-      },
-      "categories": [
-        "AI"
-      ],
-      "tickers": [
-        "$BRK.B"
-      ],
-      "is_retweet": false,
-      "has_media": true,
-      "media": [
-        "https://pbs.twimg.com/media/HRnNhJyboAABZXe.jpg"
-      ],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2096904209371427277",
-      "title": "New report from Bloomberg on $IQE: “indium phosphide substrates is emerging as a key risk for the semiconductor industr…",
-      "summary": "New report from Bloomberg on $IQE: “indium phosphide substrates is emerging as a key risk for the semiconductor industry.” I wonder who could have guessed this last year with $AXTI?",
-      "link": "https://x.com/aleabitoreddit/status/2096904209371427277",
-      "source": "Serenity / 白毛股神",
-      "source_id": "serenity",
-      "handle": "aleabitoreddit",
-      "lane": "AI supply chain",
-      "published": "2026-09-07T10:11:36+00:00",
-      "published_ts": 1788775896,
-      "metrics": {
-        "likes": 599,
-        "retweets": 41,
-        "replies": 36,
-        "views": 255659,
-        "hot_score": 1694
-      },
-      "categories": [
-        "Semis",
-        "Risk"
-      ],
-      "tickers": [
-        "$AXTI",
-        "$IQE"
-      ],
-      "is_retweet": false,
-      "has_media": true,
-      "media": [
-        "https://pbs.twimg.com/media/HRmzQwGaYAAifrw.jpg"
-      ],
-      "quoted_tweet": {
-        "id": "2064942505553170886",
-        "author": "aleabitoreddit",
-        "name": "Serenity",
-        "text": "Oh look… a new report by Reuters shows China’s control over InP threatens the AI DC buildout.\n\nWho could have guessed $AXTI would have been a major point of failure? https://t.co/mu9sOWGHN6",
-        "created_at": "Thu Jun 11 05:27:12 +0000 2026",
-        "url": "https://x.com/aleabitoreddit/status/2064942505553170886",
-        "has_media": true,
-        "media_urls": [
-          "https://pbs.twimg.com/media/HKgmPgCawAAb5Qm.jpg",
-          "https://pbs.twimg.com/media/HKgmPgXb0AAH5qH.jpg"
-        ],
-        "media_posters": [
-          "https://pbs.twimg.com/media/HKgmPgCawAAb5Qm.jpg",
-          "https://pbs.twimg.com/media/HKgmPgXb0AAH5qH.jpg"
-        ]
-      }
-    },
-    {
-      "id": "2096890295128625153",
-      "title": "I'll let you decide that for yourself since that was an illustrative laser revenue modeling off $SIVE 100M CW DFB laser…",
-      "summary": "I'll let you decide that for yourself since that was an illustrative laser revenue modeling off $SIVE 100M CW DFB laser/year target. But... do you want to know the main reason I like laser companies so much? They don't just have to stay laser companies... just look at $LITE! If…",
-      "link": "https://x.com/aleabitoreddit/status/2096890295128625153",
-      "source": "Serenity / 白毛股神",
-      "source_id": "serenity",
-      "handle": "aleabitoreddit",
-      "lane": "AI supply chain",
-      "published": "2026-09-07T09:16:19+00:00",
-      "published_ts": 1788772579,
-      "metrics": {
-        "likes": 624,
-        "retweets": 39,
-        "replies": 38,
-        "views": 240384,
-        "hot_score": 1721
-      },
-      "categories": [
-        "AI",
-        "Data centers"
-      ],
-      "tickers": [
-        "$AAOI",
-        "$LITE",
-        "$SIVE"
-      ],
-      "is_retweet": false,
-      "has_media": true,
-      "media": [
-        "https://pbs.twimg.com/media/HRmhjLuawAA25YS.jpg",
-        "https://pbs.twimg.com/media/HRmhj9BacAAf7-O.jpg"
-      ],
-      "quoted_tweet": {
-        "id": "2096860555327803768",
-        "author": "wannabepanacea",
-        "name": "panacea",
-        "text": "@aleabitoreddit What do you think is a fair revenue multiple you would assign to $SIVE if their recent expansion is able to deliver on $625M-$1.25B of annualized revenue?",
-        "created_at": "Mon Sep 07 07:18:08 +0000 2026",
-        "url": "https://x.com/wannabepanacea/status/2096860555327803768",
-        "has_media": false,
-        "media_urls": [],
-        "media_posters": []
-      }
     },
     {
       "id": "2096864666467356743",
@@ -1518,7 +1364,7 @@
         "likes": 81,
         "retweets": 14,
         "replies": 107,
-        "views": 27348,
+        "views": 27532,
         "hot_score": 366
       },
       "categories": [
@@ -1559,55 +1405,17 @@
       "published": "2026-09-07T07:24:55+00:00",
       "published_ts": 1788765895,
       "metrics": {
-        "likes": 888,
+        "likes": 918,
         "retweets": 47,
-        "replies": 194,
-        "views": 185128,
-        "hot_score": 2390
+        "replies": 197,
+        "views": 192869,
+        "hot_score": 2460
       },
       "categories": [],
       "tickers": [],
       "is_retweet": false,
       "has_media": false,
       "media": [],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2096858276290015563",
-      "title": "Is there any other industry... Where every investor is cheering for shortages and price hikes? SED reported today that:…",
-      "summary": "Is there any other industry... Where every investor is cheering for shortages and price hikes? SED reported today that: Samsung / $SKHY \"stockpiles have fallen to less than 10 days of supply, and a severe shortage could emerge next year, according to a new forecast\" KB Securitie…",
-      "link": "https://x.com/aleabitoreddit/status/2096858276290015563",
-      "source": "Serenity / 白毛股神",
-      "source_id": "serenity",
-      "handle": "aleabitoreddit",
-      "lane": "AI supply chain",
-      "published": "2026-09-07T07:09:05+00:00",
-      "published_ts": 1788764945,
-      "metrics": {
-        "likes": 728,
-        "retweets": 49,
-        "replies": 79,
-        "views": 269688,
-        "hot_score": 2049
-      },
-      "categories": [
-        "AI",
-        "Memory",
-        "Data centers",
-        "Policy",
-        "Risk"
-      ],
-      "tickers": [
-        "$MU",
-        "$SKHY",
-        "$SNDK"
-      ],
-      "is_retweet": false,
-      "has_media": true,
-      "media": [
-        "https://pbs.twimg.com/media/HRmIEMabkAAXr64.jpg",
-        "https://pbs.twimg.com/media/HRmJORqaIAAWvfs.jpg"
-      ],
       "quoted_tweet": null
     },
     {
@@ -1625,7 +1433,7 @@
         "likes": 18,
         "retweets": 0,
         "replies": 4,
-        "views": 15314,
+        "views": 15564,
         "hot_score": 55
       },
       "categories": [
@@ -1649,11 +1457,11 @@
       "published": "2026-09-07T06:01:11+00:00",
       "published_ts": 1788760871,
       "metrics": {
-        "likes": 160,
-        "retweets": 6,
+        "likes": 162,
+        "retweets": 7,
         "replies": 74,
-        "views": 52774,
-        "hot_score": 476
+        "views": 53522,
+        "hot_score": 486
       },
       "categories": [
         "AI"
@@ -1664,46 +1472,6 @@
       "media": [
         "https://pbs.twimg.com/media/HRl57mabkAAcymd.jpg"
       ],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2096814311306129776",
-      "title": "Got curious and decided to track which thesis of mine were still up 100%+ YTD after the recent drawdown: 1. $AXTI - InP…",
-      "summary": "Got curious and decided to track which thesis of mine were still up 100%+ YTD after the recent drawdown: 1. $AXTI - InP substrates 2. $NBIS - Neoclouds 3. $MU - Memory 4. $INTC - Foundry 5. $LITE - Photonics 6. $IQE - Epiwafers 7. $AAOI - Photonics 8. $GDRZF - Venezuela 9. $AEHR…",
-      "link": "https://x.com/aleabitoreddit/status/2096814311306129776",
-      "source": "Serenity / 白毛股神",
-      "source_id": "serenity",
-      "handle": "aleabitoreddit",
-      "lane": "AI supply chain",
-      "published": "2026-09-07T04:14:23+00:00",
-      "published_ts": 1788754463,
-      "metrics": {
-        "likes": 2002,
-        "retweets": 156,
-        "replies": 94,
-        "views": 365855,
-        "hot_score": 5243
-      },
-      "categories": [
-        "AI",
-        "Memory",
-        "Semis",
-        "Data centers",
-        "Risk"
-      ],
-      "tickers": [
-        "$AAOI",
-        "$AEHR",
-        "$ALRIB",
-        "$ARM",
-        "$AXTI",
-        "$CCXI",
-        "$EWY",
-        "$GDRZF"
-      ],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
       "quoted_tweet": null
     },
     {
@@ -1721,7 +1489,7 @@
         "likes": 98,
         "retweets": 10,
         "replies": 89,
-        "views": 34501,
+        "views": 34710,
         "hot_score": 369
       },
       "categories": [
@@ -1755,11 +1523,11 @@
       "published": "2026-09-07T03:59:47+00:00",
       "published_ts": 1788753587,
       "metrics": {
-        "likes": 194,
+        "likes": 195,
         "retweets": 6,
         "replies": 18,
-        "views": 91422,
-        "hot_score": 527
+        "views": 92137,
+        "hot_score": 530
       },
       "categories": [
         "AI",
@@ -1796,7 +1564,7 @@
         "likes": 52,
         "retweets": 8,
         "replies": 41,
-        "views": 23617,
+        "views": 23717,
         "hot_score": 208
       },
       "categories": [
@@ -1835,7 +1603,7 @@
         "likes": 284,
         "retweets": 46,
         "replies": 13,
-        "views": 20585,
+        "views": 20623,
         "hot_score": 831
       },
       "categories": [
@@ -1864,7 +1632,7 @@
         "likes": 262,
         "retweets": 39,
         "replies": 17,
-        "views": 21819,
+        "views": 21893,
         "hot_score": 757
       },
       "categories": [
@@ -1891,11 +1659,11 @@
       "published": "2026-09-06T19:59:30+00:00",
       "published_ts": 1788724770,
       "metrics": {
-        "likes": 5238,
-        "retweets": 429,
-        "replies": 676,
-        "views": 466259,
-        "hot_score": 13763
+        "likes": 5249,
+        "retweets": 430,
+        "replies": 677,
+        "views": 474140,
+        "hot_score": 13799
       },
       "categories": [
         "Policy"
@@ -1923,7 +1691,7 @@
         "likes": 48,
         "retweets": 0,
         "replies": 0,
-        "views": 17040,
+        "views": 17128,
         "hot_score": 113
       },
       "categories": [
@@ -1958,11 +1726,11 @@
       "published": "2026-09-06T16:27:33+00:00",
       "published_ts": 1788712053,
       "metrics": {
-        "likes": 4809,
+        "likes": 4810,
         "retweets": 124,
-        "replies": 214,
-        "views": 1128681,
-        "hot_score": 10952
+        "replies": 213,
+        "views": 1133529,
+        "hot_score": 10953
       },
       "categories": [],
       "tickers": [],
@@ -1986,7 +1754,7 @@
         "likes": 29,
         "retweets": 1,
         "replies": 98,
-        "views": 11674,
+        "views": 11708,
         "hot_score": 172
       },
       "categories": [
@@ -2026,7 +1794,7 @@
         "likes": 230,
         "retweets": 35,
         "replies": 58,
-        "views": 94283,
+        "views": 94442,
         "hot_score": 787
       },
       "categories": [
@@ -2052,33 +1820,6 @@
       }
     },
     {
-      "id": "2096547504397697493",
-      "title": "这一轮纯meme很难，看看trump和币安人生。 一个埋了无数老炮，一个拉起来也没人跟。 一定要新玩法，才可能出来新共识。 刚牛初，不急。",
-      "summary": "这一轮纯meme很难，看看trump和币安人生。 一个埋了无数老炮，一个拉起来也没人跟。 一定要新玩法，才可能出来新共识。 刚牛初，不急。",
-      "link": "https://x.com/0xcryptowizard/status/2096547504397697493",
-      "source": "0xWizard / 巫师",
-      "source_id": "wizard",
-      "handle": "0xCryptoWizard",
-      "lane": "Crypto + market regime",
-      "published": "2026-09-06T10:34:11+00:00",
-      "published_ts": 1788690851,
-      "metrics": {
-        "likes": 485,
-        "retweets": 25,
-        "replies": 151,
-        "views": 72644,
-        "hot_score": 1318
-      },
-      "categories": [
-        "Policy"
-      ],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": null
-    },
-    {
       "id": "2096484502327714088",
       "title": "看今天宏观的热门事件核心还是在美伊博弈上：美军袭击了三艘伊朗油轮，伊朗攻击了美军军舰和油轮。距离8月中说美伊博弈有长期化趋势，现在长期化迹象越来越严重。聊几个点： 1、为什么川普最近没有TACO？个人看可能是下面三点： 1）赫格塞思应该给…",
       "summary": "看今天宏观的热门事件核心还是在美伊博弈上：美军袭击了三艘伊朗油轮，伊朗攻击了美军军舰和油轮。距离8月中说美伊博弈有长期化趋势，现在长期化迹象越来越严重。聊几个点： 1、为什么川普最近没有TACO？个人看可能是下面三点： 1）赫格塞思应该给川普信心：认为夜间护航让大部分油轮偷偷通过霍尔木兹海峡；确实有效果、但只是一部分效果； 2）贝森特让川普确信：通过更强力的制裁和封锁卡住伊朗经济命脉，会让伊朗屈服。但这需要长时间才能见效； 3）中期选举来临、川普无法轻易承认伊朗对霍尔木兹的控制权，那么遭到民主党的疯狂攻击； 这两天在想这算不算赫格塞思和贝森特给了川普“…",
@@ -2093,7 +1834,7 @@
         "likes": 102,
         "retweets": 14,
         "replies": 101,
-        "views": 57683,
+        "views": 57774,
         "hot_score": 432
       },
       "categories": [],
@@ -2130,7 +1871,7 @@
         "likes": 74,
         "retweets": 7,
         "replies": 42,
-        "views": 31334,
+        "views": 31370,
         "hot_score": 256
       },
       "categories": [
@@ -2164,11 +1905,11 @@
       "published": "2026-09-06T00:32:00+00:00",
       "published_ts": 1788654720,
       "metrics": {
-        "likes": 1579,
+        "likes": 1581,
         "retweets": 75,
         "replies": 78,
-        "views": 313853,
-        "hot_score": 3924
+        "views": 316566,
+        "hot_score": 3931
       },
       "categories": [
         "AI",
@@ -2179,43 +1920,6 @@
       "has_media": false,
       "media": [],
       "quoted_tweet": null
-    },
-    {
-      "id": "2096380249995092163",
-      "title": "接下来几个月，是 defi summer 回响，围绕币股重新构建链上基础设施。 错过了也没事，明年还有 meta world 回响，我认为大概率是跟 ai 有关。",
-      "summary": "接下来几个月，是 defi summer 回响，围绕币股重新构建链上基础设施。 错过了也没事，明年还有 meta world 回响，我认为大概率是跟 ai 有关。",
-      "link": "https://x.com/0xcryptowizard/status/2096380249995092163",
-      "source": "0xWizard / 巫师",
-      "source_id": "wizard",
-      "handle": "0xCryptoWizard",
-      "lane": "Crypto + market regime",
-      "published": "2026-09-05T23:29:35+00:00",
-      "published_ts": 1788650975,
-      "metrics": {
-        "likes": 332,
-        "retweets": 35,
-        "replies": 97,
-        "views": 69842,
-        "hot_score": 1005
-      },
-      "categories": [
-        "AI"
-      ],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": {
-        "id": "2096355010632179793",
-        "author": "theunipcs",
-        "name": "Unipcs (aka 'Bonk Guy') 🎒",
-        "text": "onchain is about to get absolutely insane\n\nyou have a very small window over the next few months to potentially change the fortunes of your bloodline forever\n\ndon't mess this up",
-        "created_at": "Sat Sep 05 21:49:17 +0000 2026",
-        "url": "https://x.com/theunipcs/status/2096355010632179793",
-        "has_media": false,
-        "media_urls": [],
-        "media_posters": []
-      }
     },
     {
       "id": "2096304772181537127",
@@ -2232,7 +1936,7 @@
         "likes": 25,
         "retweets": 2,
         "replies": 0,
-        "views": 12911,
+        "views": 12949,
         "hot_score": 72
       },
       "categories": [],
@@ -2271,8 +1975,8 @@
         "likes": 107,
         "retweets": 7,
         "replies": 6,
-        "views": 91762,
-        "hot_score": 346
+        "views": 92023,
+        "hot_score": 347
       },
       "categories": [
         "AI"
@@ -2312,7 +2016,7 @@
         "likes": 79,
         "retweets": 0,
         "replies": 11,
-        "views": 18752,
+        "views": 18782,
         "hot_score": 187
       },
       "categories": [
@@ -2339,7 +2043,7 @@
         "likes": 46,
         "retweets": 0,
         "replies": 2,
-        "views": 8287,
+        "views": 8307,
         "hot_score": 102
       },
       "categories": [],
@@ -2367,7 +2071,7 @@
         "likes": 20,
         "retweets": 0,
         "replies": 60,
-        "views": 24773,
+        "views": 24798,
         "hot_score": 124
       },
       "categories": [
@@ -2396,33 +2100,6 @@
       }
     },
     {
-      "id": "2095891782068511041",
-      "title": "Good piece on the downside of meditation. \"The point of meditation was never merely to relax or just 'clear your mind'…",
-      "summary": "Good piece on the downside of meditation. \"The point of meditation was never merely to relax or just 'clear your mind' but to wholly rearrange one’s relationship to one’s thoughts. This might make sense for a Buddhist monk pursuing the great unbinding, but not for a random Brook…",
-      "link": "https://x.com/morganhousel/status/2095891782068511041",
-      "source": "Morgan Housel",
-      "source_id": "morgan",
-      "handle": "morganhousel",
-      "lane": "Investor psychology",
-      "published": "2026-09-04T15:08:35+00:00",
-      "published_ts": 1788534515,
-      "metrics": {
-        "likes": 833,
-        "retweets": 75,
-        "replies": 67,
-        "views": 143985,
-        "hot_score": 2251
-      },
-      "categories": [
-        "Risk"
-      ],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": null
-    },
-    {
       "id": "2095857366206230679",
       "title": "担心的事情出现了，刚被沃勒压下去的加息概率瞬间又高了 除非通胀大幅低于预期，不然fed没借口不加息 川子必须得放个超级大利好了",
       "summary": "担心的事情出现了，刚被沃勒压下去的加息概率瞬间又高了 除非通胀大幅低于预期，不然fed没借口不加息 川子必须得放个超级大利好了",
@@ -2437,7 +2114,7 @@
         "likes": 47,
         "retweets": 3,
         "replies": 62,
-        "views": 50524,
+        "views": 50551,
         "hot_score": 221
       },
       "categories": [
@@ -2449,68 +2126,6 @@
       "media": [
         "https://pbs.twimg.com/media/HRX6FKYagAANZm7.jpg"
       ],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2095701610974650606",
-      "title": "牛初链上，市场犹豫谨慎，要多关注有实际数据/玩法的标的，如20-21年牛市的defi，23年的铭文（带来大量链上采用）； 牛中链上，市场自信大胆，要多关注纯概念，如20-21年的元宇宙/nft，24年的ai agent。",
-      "summary": "牛初链上，市场犹豫谨慎，要多关注有实际数据/玩法的标的，如20-21年牛市的defi，23年的铭文（带来大量链上采用）； 牛中链上，市场自信大胆，要多关注纯概念，如20-21年的元宇宙/nft，24年的ai agent。",
-      "link": "https://x.com/0xcryptowizard/status/2095701610974650606",
-      "source": "0xWizard / 巫师",
-      "source_id": "wizard",
-      "handle": "0xCryptoWizard",
-      "lane": "Crypto + market regime",
-      "published": "2026-09-04T02:32:54+00:00",
-      "published_ts": 1788489174,
-      "metrics": {
-        "likes": 358,
-        "retweets": 50,
-        "replies": 148,
-        "views": 81791,
-        "hot_score": 1195
-      },
-      "categories": [
-        "AI"
-      ],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": {
-        "id": "2094626014848856136",
-        "author": "0xcryptowizard",
-        "name": "0xWizard",
-        "text": "rwa tokenization ，很可能是这个周期创新主旋律。\n\nrh 和 bsc 会是接下来链上主战场。\n\n无它，一个强在 rwa ，一个强在 token。",
-        "created_at": "Tue Sep 01 03:18:52 +0000 2026",
-        "url": "https://x.com/0xcryptowizard/status/2094626014848856136",
-        "has_media": false,
-        "media_urls": [],
-        "media_posters": []
-      }
-    },
-    {
-      "id": "2095599433404850366",
-      "title": "Will Durrant: Psychology is a theory of human behavior. Philosophy is an ideal of human behavior. History is a record o…",
-      "summary": "Will Durrant: Psychology is a theory of human behavior. Philosophy is an ideal of human behavior. History is a record of human behavior.",
-      "link": "https://x.com/morganhousel/status/2095599433404850366",
-      "source": "Morgan Housel",
-      "source_id": "morgan",
-      "handle": "morganhousel",
-      "lane": "Investor psychology",
-      "published": "2026-09-03T19:46:53+00:00",
-      "published_ts": 1788464813,
-      "metrics": {
-        "likes": 2191,
-        "retweets": 358,
-        "replies": 52,
-        "views": 96235,
-        "hot_score": 6320
-      },
-      "categories": [],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
       "quoted_tweet": null
     },
     {
@@ -2528,7 +2143,7 @@
         "likes": 108,
         "retweets": 34,
         "replies": 43,
-        "views": 29892,
+        "views": 29897,
         "hot_score": 458
       },
       "categories": [
@@ -2568,7 +2183,7 @@
         "likes": 44,
         "retweets": 4,
         "replies": 54,
-        "views": 16733,
+        "views": 16738,
         "hot_score": 178
       },
       "categories": [
@@ -2600,7 +2215,7 @@
         "likes": 23,
         "retweets": 2,
         "replies": 21,
-        "views": 8486,
+        "views": 8490,
         "hot_score": 85
       },
       "categories": [],
@@ -2627,7 +2242,7 @@
         "likes": 43,
         "retweets": 5,
         "replies": 28,
-        "views": 8612,
+        "views": 8616,
         "hot_score": 147
       },
       "categories": [
@@ -2640,300 +2255,6 @@
       "has_media": true,
       "media": [
         "https://pbs.twimg.com/media/HRMcQKJaEAA3Tfr.jpg"
-      ],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2094654768476242114",
-      "title": "对自己，对他人，对世界，彻底的理性和诚实，是极其难得的品质。 大部分人，活在梦里，不愿意醒。 不管是对自己，对他人，对世界，都存在离谱的认知偏差，非此，无法生活。",
-      "summary": "对自己，对他人，对世界，彻底的理性和诚实，是极其难得的品质。 大部分人，活在梦里，不愿意醒。 不管是对自己，对他人，对世界，都存在离谱的认知偏差，非此，无法生活。",
-      "link": "https://x.com/0xcryptowizard/status/2094654768476242114",
-      "source": "0xWizard / 巫师",
-      "source_id": "wizard",
-      "handle": "0xCryptoWizard",
-      "lane": "Crypto + market regime",
-      "published": "2026-09-01T05:13:08+00:00",
-      "published_ts": 1788239588,
-      "metrics": {
-        "likes": 155,
-        "retweets": 11,
-        "replies": 67,
-        "views": 24270,
-        "hot_score": 456
-      },
-      "categories": [],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2094653883369058402",
-      "title": "有三种可能，要持续观察 ①下一个 uni aave 在孕育 ②机会还是回到老 defi 标的 ③只是概念，炒一波还是空气，一地鸡毛",
-      "summary": "有三种可能，要持续观察 ①下一个 uni aave 在孕育 ②机会还是回到老 defi 标的 ③只是概念，炒一波还是空气，一地鸡毛",
-      "link": "https://x.com/0xcryptowizard/status/2094653883369058402",
-      "source": "0xWizard / 巫师",
-      "source_id": "wizard",
-      "handle": "0xCryptoWizard",
-      "lane": "Crypto + market regime",
-      "published": "2026-09-01T05:09:37+00:00",
-      "published_ts": 1788239377,
-      "metrics": {
-        "likes": 49,
-        "retweets": 5,
-        "replies": 4,
-        "views": 12028,
-        "hot_score": 139
-      },
-      "categories": [],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2094626014848856136",
-      "title": "rwa tokenization ，很可能是这个周期创新主旋律。 rh 和 bsc 会是接下来链上主战场。 无它，一个强在 rwa ，一个强在 token。",
-      "summary": "rwa tokenization ，很可能是这个周期创新主旋律。 rh 和 bsc 会是接下来链上主战场。 无它，一个强在 rwa ，一个强在 token。",
-      "link": "https://x.com/0xcryptowizard/status/2094626014848856136",
-      "source": "0xWizard / 巫师",
-      "source_id": "wizard",
-      "handle": "0xCryptoWizard",
-      "lane": "Crypto + market regime",
-      "published": "2026-09-01T03:18:52+00:00",
-      "published_ts": 1788232732,
-      "metrics": {
-        "likes": 291,
-        "retweets": 23,
-        "replies": 50,
-        "views": 137216,
-        "hot_score": 884
-      },
-      "categories": [
-        "AI"
-      ],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2093328842157072551",
-      "title": "The Psychology of Money Podcast: Household debt/GDP has plunged at the same time Government debt/GDP surged. On net, we…",
-      "summary": "The Psychology of Money Podcast: Household debt/GDP has plunged at the same time Government debt/GDP surged. On net, we're about where we were 20 years ago.",
-      "link": "https://x.com/morganhousel/status/2093328842157072551",
-      "source": "Morgan Housel",
-      "source_id": "morgan",
-      "handle": "morganhousel",
-      "lane": "Investor psychology",
-      "published": "2026-08-28T13:24:22+00:00",
-      "published_ts": 1787923462,
-      "metrics": {
-        "likes": 219,
-        "retweets": 18,
-        "replies": 32,
-        "views": 35948,
-        "hot_score": 595
-      },
-      "categories": [
-        "Data centers",
-        "Policy"
-      ],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": true,
-      "media": [
-        "https://pbs.twimg.com/amplify_video_thumb/2093316511205347328/img/QkWFAKcnG8xXxpiO.jpg"
-      ],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2093183940958060939",
-      "title": "弗洛伊德是对的， 出走半生， 也还困在来时路。",
-      "summary": "弗洛伊德是对的， 出走半生， 也还困在来时路。",
-      "link": "https://x.com/0xcryptowizard/status/2093183940958060939",
-      "source": "0xWizard / 巫师",
-      "source_id": "wizard",
-      "handle": "0xCryptoWizard",
-      "lane": "Crypto + market regime",
-      "published": "2026-08-28T03:48:35+00:00",
-      "published_ts": 1787888915,
-      "metrics": {
-        "likes": 161,
-        "retweets": 10,
-        "replies": 76,
-        "views": 37921,
-        "hot_score": 485
-      },
-      "categories": [],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2092976286352462033",
-      "title": "Good line: “The longer your holding period, the more chance that something you can’t forecast occurs.”",
-      "summary": "Good line: “The longer your holding period, the more chance that something you can’t forecast occurs.”",
-      "link": "https://x.com/morganhousel/status/2092976286352462033",
-      "source": "Morgan Housel",
-      "source_id": "morgan",
-      "handle": "morganhousel",
-      "lane": "Investor psychology",
-      "published": "2026-08-27T14:03:26+00:00",
-      "published_ts": 1787839406,
-      "metrics": {
-        "likes": 452,
-        "retweets": 27,
-        "replies": 28,
-        "views": 59093,
-        "hot_score": 1126
-      },
-      "categories": [
-        "Crypto"
-      ],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2092957126063001765",
-      "title": "\"You've probably lived entire lives you've completely forgotten, because you don't write things down.\" @DylanoA4",
-      "summary": "\"You've probably lived entire lives you've completely forgotten, because you don't write things down.\" @DylanoA4",
-      "link": "https://x.com/morganhousel/status/2092957126063001765",
-      "source": "Morgan Housel",
-      "source_id": "morgan",
-      "handle": "morganhousel",
-      "lane": "Investor psychology",
-      "published": "2026-08-27T12:47:18+00:00",
-      "published_ts": 1787834838,
-      "metrics": {
-        "likes": 720,
-        "retweets": 52,
-        "replies": 34,
-        "views": 58698,
-        "hot_score": 1792
-      },
-      "categories": [
-        "Risk"
-      ],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2092485617414549954",
-      "title": "不同于很多“山寨已死”的论调。 新牛市，新趋势上限，我反而挺看好的。 纯玩热度的/社区的/梗的 meme，已经被 pump 的发射模式完全解构，变成短线博弈，持续在链上存在。 这个周期的新趋势，一定是类似结合 rwa tokenizati…",
-      "summary": "不同于很多“山寨已死”的论调。 新牛市，新趋势上限，我反而挺看好的。 纯玩热度的/社区的/梗的 meme，已经被 pump 的发射模式完全解构，变成短线博弈，持续在链上存在。 这个周期的新趋势，一定是类似结合 rwa tokenization/结合AI，这种有机制和应用的“一大类新山寨”。 这种类型的创新，因为确实有“功用”反而持久，类似 defi summer，更容易形成比较久的共识。",
-      "link": "https://x.com/0xcryptowizard/status/2092485617414549954",
-      "source": "0xWizard / 巫师",
-      "source_id": "wizard",
-      "handle": "0xCryptoWizard",
-      "lane": "Crypto + market regime",
-      "published": "2026-08-26T05:33:42+00:00",
-      "published_ts": 1787722422,
-      "metrics": {
-        "likes": 250,
-        "retweets": 23,
-        "replies": 124,
-        "views": 58742,
-        "hot_score": 797
-      },
-      "categories": [
-        "AI"
-      ],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2090797752074846331",
-      "title": "The Psychology of Money Podcast \"Be careful who you socialize with.\" - How wealthy you feel depends so much on where yo…",
-      "summary": "The Psychology of Money Podcast \"Be careful who you socialize with.\" - How wealthy you feel depends so much on where you live and who you socialize with.",
-      "link": "https://x.com/morganhousel/status/2090797752074846331",
-      "source": "Morgan Housel",
-      "source_id": "morgan",
-      "handle": "morganhousel",
-      "lane": "Investor psychology",
-      "published": "2026-08-21T13:46:43+00:00",
-      "published_ts": 1787320003,
-      "metrics": {
-        "likes": 690,
-        "retweets": 73,
-        "replies": 53,
-        "views": 57259,
-        "hot_score": 1855
-      },
-      "categories": [
-        "Data centers"
-      ],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": true,
-      "media": [
-        "https://pbs.twimg.com/amplify_video_thumb/2090794358018834433/img/NK_B4GSlRWFw_YZS.jpg"
-      ],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2089393092378198305",
-      "title": "Not saying it's acceptable, have to consider fees, incentives, etc. But a much more shocking headline would be \"Everyon…",
-      "summary": "Not saying it's acceptable, have to consider fees, incentives, etc. But a much more shocking headline would be \"Everyone who tries actively investing succeeds.\"",
-      "link": "https://x.com/morganhousel/status/2089393092378198305",
-      "source": "Morgan Housel",
-      "source_id": "morgan",
-      "handle": "morganhousel",
-      "lane": "Investor psychology",
-      "published": "2026-08-17T16:45:06+00:00",
-      "published_ts": 1786985106,
-      "metrics": {
-        "likes": 73,
-        "retweets": 3,
-        "replies": 9,
-        "views": 15660,
-        "hot_score": 185
-      },
-      "categories": [],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2089386796367184204",
-      "title": "It's not a perfect analogy but I view this as the equivalent of \"most college players don't make the NBA.\" You shouldn'…",
-      "summary": "It's not a perfect analogy but I view this as the equivalent of \"most college players don't make the NBA.\" You shouldn't expect the majority of people to succeed at a very hard thing.",
-      "link": "https://x.com/morganhousel/status/2089386796367184204",
-      "source": "Morgan Housel",
-      "source_id": "morgan",
-      "handle": "morganhousel",
-      "lane": "Investor psychology",
-      "published": "2026-08-17T16:20:05+00:00",
-      "published_ts": 1786983605,
-      "metrics": {
-        "likes": 880,
-        "retweets": 54,
-        "replies": 66,
-        "views": 82304,
-        "hot_score": 2178
-      },
-      "categories": [],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": true,
-      "media": [
-        "https://pbs.twimg.com/media/HP7-Hswa4AAG5QN.jpg"
       ],
       "quoted_tweet": null
     },
@@ -2952,7 +2273,7 @@
         "likes": 41676,
         "retweets": 910,
         "replies": 2599,
-        "views": 4582075,
+        "views": 4582118,
         "hot_score": 91001
       },
       "categories": [],
@@ -3007,7 +2328,7 @@
         "likes": 1251,
         "retweets": 76,
         "replies": 76,
-        "views": 888927,
+        "views": 888939,
         "hot_score": 3458
       },
       "categories": [],
@@ -3046,7 +2367,7 @@
         "likes": 1003,
         "retweets": 68,
         "replies": 68,
-        "views": 455213,
+        "views": 455218,
         "hot_score": 2869
       },
       "categories": [],
@@ -3098,7 +2419,7 @@
         "likes": 1319,
         "retweets": 130,
         "replies": 53,
-        "views": 639515,
+        "views": 639518,
         "hot_score": 3841
       },
       "categories": [
@@ -3183,56 +2504,6 @@
         "https://pbs.twimg.com/media/GXS-EtybgAAeKeZ.png"
       ],
       "quoted_tweet": null
-    },
-    {
-      "id": "2097019634822316470",
-      "title": "",
-      "summary": "",
-      "link": "https://x.com/aleabitoreddit/status/2097019634822316470",
-      "source": "Serenity / 白毛股神",
-      "source_id": "serenity",
-      "handle": "aleabitoreddit",
-      "lane": "AI supply chain",
-      "published": "",
-      "published_ts": 0,
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0,
-        "views": 0,
-        "hot_score": 0
-      },
-      "categories": [],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2096780048187773122",
-      "title": "",
-      "summary": "",
-      "link": "https://x.com/aleabitoreddit/status/2096780048187773122",
-      "source": "Serenity / 白毛股神",
-      "source_id": "serenity",
-      "handle": "aleabitoreddit",
-      "lane": "AI supply chain",
-      "published": "",
-      "published_ts": 0,
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0,
-        "views": 0,
-        "hot_score": 0
-      },
-      "categories": [],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": null
     }
   ],
   "sources": [
@@ -3242,7 +2513,7 @@
       "name": "Serenity / 白毛股神",
       "lane": "AI supply chain",
       "note": "AI/semi chokepoints, memory, photonics, data centers",
-      "count": 8,
+      "count": 0,
       "url": "https://x.com/aleabitoreddit"
     },
     {
@@ -3251,7 +2522,7 @@
       "name": "0xWizard / 巫师",
       "lane": "Crypto + market regime",
       "note": "Speculation cycles, AI equity risk, crypto narratives",
-      "count": 8,
+      "count": 0,
       "url": "https://x.com/0xCryptoWizard"
     },
     {
@@ -3296,7 +2567,7 @@
       "name": "Morgan Housel",
       "lane": "Investor psychology",
       "note": "Long-term thinking, behavior, financial advice",
-      "count": 8,
+      "count": 0,
       "url": "https://x.com/morganhousel"
     },
     {
@@ -3354,5 +2625,9 @@
       "url": "https://x.com/Beth_Kindig"
     }
   ],
-  "errors": {}
+  "errors": {
+    "serenity": "ok: false\nerror:\n  code: COMMAND_EXEC\n  message: Could not resolve @aleabitoreddit\n  exitCode: 1",
+    "wizard": "ok: false\nerror:\n  code: COMMAND_EXEC\n  message: 'Pre-navigation to https://x.com failed: Detached while handling command.'\n  help: Check that the site is reachable and the browser extension is running.\n  exitCode: 1",
+    "morgan": "ok: false\nerror:\n  code: UNKNOWN\n  message: Detached while handling command.\n  exitCode: 1\n# AutoFix: re-run with --trace=retain-on-failure for trace artifact\n# opencli twitter tweets --trace retain-on-failure"
+  }
 }
