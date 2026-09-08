@@ -1,8 +1,107 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-08T00:03:43.944699+00:00",
-  "generated_ts": 1788825823,
+  "generated_at": "2026-09-08T01:33:10.293877+00:00",
+  "generated_ts": 1788831190,
   "articles": [
+    {
+      "id": "2097129241234268355",
+      "title": "一个月前市场对于存储最悲观的时候这些投行都没说话，现在慢慢走出来了，都开始喊多。当时说“空存性价比不高，存储还有空间，未来越来越像大科技的走势”含金量还在提升。",
+      "summary": "一个月前市场对于存储最悲观的时候这些投行都没说话，现在慢慢走出来了，都开始喊多。当时说“空存性价比不高，存储还有空间，未来越来越像大科技的走势”含金量还在提升。",
+      "link": "https://x.com/qinbafrank/status/2097129241234268355",
+      "source": "qinbafrank",
+      "source_id": "qinba",
+      "handle": "qinbafrank",
+      "lane": "Macro + AI",
+      "published": "2026-09-08T01:05:48+00:00",
+      "published_ts": 1788829548,
+      "metrics": {
+        "likes": 12,
+        "retweets": 2,
+        "replies": 4,
+        "views": 3335,
+        "hot_score": 41
+      },
+      "categories": [
+        "Memory"
+      ],
+      "tickers": [],
+      "is_retweet": false,
+      "has_media": true,
+      "media": [
+        "https://pbs.twimg.com/media/HRp_7XDbMAAzAqX.jpg"
+      ],
+      "quoted_tweet": {
+        "id": "2087395743946674296",
+        "author": "qinbafrank",
+        "name": "qinbafrank",
+        "text": "对于前几天热议的“多光空存”，前天这里https://t.co/0wh6P9kptE最后部分聊到的不知多少人听进去了：现在这个时点空存性价比不高了。空间还有，只是最暴力丝滑的阶段过去了。未来就像大科技，甚至可能跟英伟达近两年走势很像了。 https://t.co/I82DoK3ej6",
+        "created_at": "Wed Aug 12 04:28:21 +0000 2026",
+        "url": "https://x.com/qinbafrank/status/2087395743946674296",
+        "has_media": true,
+        "media_urls": [
+          "https://pbs.twimg.com/media/HPfrW5uakAAclul.jpg"
+        ],
+        "media_posters": [
+          "https://pbs.twimg.com/media/HPfrW5uakAAclul.jpg"
+        ]
+      }
+    },
+    {
+      "id": "2097128032121033072",
+      "title": "The ANNUAL plan is at a discount. The Unusual Whales Labor Day sale is live! Get 20% off on all site. You read that rig…",
+      "summary": "The ANNUAL plan is at a discount. The Unusual Whales Labor Day sale is live! Get 20% off on all site. You read that right. Everything is 20% off. Check it out here:",
+      "link": "https://x.com/unusual_whales/status/2097128032121033072",
+      "source": "unusual_whales",
+      "source_id": "whales",
+      "handle": "unusual_whales",
+      "lane": "Market tape",
+      "published": "2026-09-08T01:01:00+00:00",
+      "published_ts": 1788829260,
+      "metrics": {
+        "likes": 11,
+        "retweets": 1,
+        "replies": 12,
+        "views": 49556,
+        "hot_score": 88
+      },
+      "categories": [],
+      "tickers": [],
+      "is_retweet": false,
+      "has_media": true,
+      "media": [
+        "https://pbs.twimg.com/media/HRfVRriakAApK1I.jpg"
+      ],
+      "quoted_tweet": null
+    },
+    {
+      "id": "2097126186497307049",
+      "title": "TRUMPRX WAS SUPPOSED TO SAVE YOUR LIFE AND INSTEAD IT'S SAVING PHARMA'S PROFIT MARGIN A website. With his own name plas…",
+      "summary": "TRUMPRX WAS SUPPOSED TO SAVE YOUR LIFE AND INSTEAD IT'S SAVING PHARMA'S PROFIT MARGIN A website. With his own name plastered on it. Launched in February promising the lowest drug prices on planet Earth for the American people The New York Times actually checked the math Some of…",
+      "link": "https://x.com/TrumpsPortfolio/status/2097126186497307049",
+      "source": "Trump Portfolio Tracker",
+      "source_id": "trumptracker",
+      "handle": "TrumpsPortfolio",
+      "lane": "Policy trades",
+      "published": "2026-09-08T00:53:40+00:00",
+      "published_ts": 1788828820,
+      "metrics": {
+        "likes": 51,
+        "retweets": 21,
+        "replies": 1,
+        "views": 4060,
+        "hot_score": 212
+      },
+      "categories": [
+        "Data centers",
+        "Crypto",
+        "Policy"
+      ],
+      "tickers": [],
+      "is_retweet": false,
+      "has_media": false,
+      "media": [],
+      "quoted_tweet": null
+    },
     {
       "id": "2097112932492652608",
       "title": "\"Gen X sees opportunity in AI. Gen Z sees fewer jobs,\" per Bloomberg",
@@ -15,11 +114,11 @@
       "published": "2026-09-08T00:01:00+00:00",
       "published_ts": 1788825660,
       "metrics": {
-        "likes": 31,
-        "retweets": 5,
-        "replies": 10,
-        "views": 18708,
-        "hot_score": 115
+        "likes": 317,
+        "retweets": 24,
+        "replies": 60,
+        "views": 82892,
+        "hot_score": 896
       },
       "categories": [
         "AI"
@@ -42,11 +141,11 @@
       "published": "2026-09-07T23:54:51+00:00",
       "published_ts": 1788825291,
       "metrics": {
-        "likes": 1,
-        "retweets": 0,
-        "replies": 0,
-        "views": 1822,
-        "hot_score": 3
+        "likes": 12,
+        "retweets": 2,
+        "replies": 8,
+        "views": 10343,
+        "hot_score": 52
       },
       "categories": [
         "AI",
@@ -88,11 +187,11 @@
       "published": "2026-09-07T23:51:45+00:00",
       "published_ts": 1788825105,
       "metrics": {
-        "likes": 16,
-        "retweets": 5,
-        "replies": 6,
-        "views": 2212,
-        "hot_score": 65
+        "likes": 385,
+        "retweets": 133,
+        "replies": 16,
+        "views": 14608,
+        "hot_score": 1465
       },
       "categories": [
         "AI",
@@ -122,8 +221,8 @@
         "likes": 0,
         "retweets": 1,
         "replies": 0,
-        "views": 25544,
-        "hot_score": 30
+        "views": 36083,
+        "hot_score": 41
       },
       "categories": [],
       "tickers": [],
@@ -144,11 +243,11 @@
       "published": "2026-09-07T23:15:56+00:00",
       "published_ts": 1788822956,
       "metrics": {
-        "likes": 25,
-        "retweets": 3,
+        "likes": 56,
+        "retweets": 8,
         "replies": 0,
-        "views": 3893,
-        "hot_score": 68
+        "views": 6099,
+        "hot_score": 158
       },
       "categories": [
         "AI",
@@ -176,10 +275,10 @@
       "published_ts": 1788822480,
       "metrics": {
         "likes": 0,
-        "retweets": 22,
+        "retweets": 23,
         "replies": 0,
         "views": 0,
-        "hot_score": 110
+        "hot_score": 115
       },
       "categories": [
         "AI",
@@ -209,10 +308,10 @@
       "published_ts": 1788822469,
       "metrics": {
         "likes": 0,
-        "retweets": 21,
+        "retweets": 23,
         "replies": 0,
         "views": 0,
-        "hot_score": 105
+        "hot_score": 115
       },
       "categories": [
         "AI",
@@ -300,11 +399,11 @@
       "published": "2026-09-07T23:07:12+00:00",
       "published_ts": 1788822432,
       "metrics": {
-        "likes": 42,
-        "retweets": 2,
-        "replies": 5,
-        "views": 5822,
-        "hot_score": 104
+        "likes": 62,
+        "retweets": 3,
+        "replies": 7,
+        "views": 8740,
+        "hot_score": 154
       },
       "categories": [
         "Semis"
@@ -332,11 +431,11 @@
       "published": "2026-09-07T23:01:00+00:00",
       "published_ts": 1788822060,
       "metrics": {
-        "likes": 497,
-        "retweets": 62,
-        "replies": 56,
-        "views": 73609,
-        "hot_score": 1433
+        "likes": 890,
+        "retweets": 119,
+        "replies": 78,
+        "views": 102185,
+        "hot_score": 2555
       },
       "categories": [],
       "tickers": [],
@@ -357,11 +456,11 @@
       "published": "2026-09-07T22:01:00+00:00",
       "published_ts": 1788818460,
       "metrics": {
-        "likes": 660,
-        "retweets": 53,
-        "replies": 70,
-        "views": 104240,
-        "hot_score": 1759
+        "likes": 870,
+        "retweets": 59,
+        "replies": 78,
+        "views": 127389,
+        "hot_score": 2240
       },
       "categories": [],
       "tickers": [],
@@ -382,11 +481,11 @@
       "published": "2026-09-07T21:15:34+00:00",
       "published_ts": 1788815734,
       "metrics": {
-        "likes": 254,
-        "retweets": 37,
-        "replies": 3,
-        "views": 8525,
-        "hot_score": 704
+        "likes": 350,
+        "retweets": 53,
+        "replies": 5,
+        "views": 10240,
+        "hot_score": 980
       },
       "categories": [
         "AI",
@@ -410,11 +509,11 @@
       "published": "2026-09-07T21:01:00+00:00",
       "published_ts": 1788814860,
       "metrics": {
-        "likes": 550,
-        "retweets": 78,
-        "replies": 94,
-        "views": 147357,
-        "hot_score": 1731
+        "likes": 634,
+        "retweets": 83,
+        "replies": 101,
+        "views": 172872,
+        "hot_score": 1956
       },
       "categories": [
         "Policy"
@@ -437,11 +536,11 @@
       "published": "2026-09-07T20:01:00+00:00",
       "published_ts": 1788811260,
       "metrics": {
-        "likes": 7467,
-        "retweets": 619,
-        "replies": 98,
-        "views": 246887,
-        "hot_score": 18373
+        "likes": 8635,
+        "retweets": 706,
+        "replies": 108,
+        "views": 281190,
+        "hot_score": 21189
       },
       "categories": [
         "AI"
@@ -450,33 +549,6 @@
       "is_retweet": false,
       "has_media": false,
       "media": [],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2097044426321215838",
-      "title": "Every week I send a letter to tens of thousands of investors covering the most important charts and themes in markets.…",
-      "summary": "Every week I send a letter to tens of thousands of investors covering the most important charts and themes in markets. Join here:",
-      "link": "https://x.com/charliebilello/status/2097044426321215838",
-      "source": "Charlie Bilello",
-      "source_id": "bilello",
-      "handle": "charliebilello",
-      "lane": "Market data",
-      "published": "2026-09-07T19:28:47+00:00",
-      "published_ts": 1788809327,
-      "metrics": {
-        "likes": 79,
-        "retweets": 15,
-        "replies": 21,
-        "views": 22141,
-        "hot_score": 276
-      },
-      "categories": [],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": true,
-      "media": [
-        "https://pbs.twimg.com/media/HRoyuTuWQAAjhyf.png"
-      ],
       "quoted_tweet": null
     },
     {
@@ -491,11 +563,11 @@
       "published": "2026-09-07T19:19:00+00:00",
       "published_ts": 1788808740,
       "metrics": {
-        "likes": 714,
-        "retweets": 36,
-        "replies": 138,
-        "views": 217094,
-        "hot_score": 1963
+        "likes": 815,
+        "retweets": 40,
+        "replies": 142,
+        "views": 240958,
+        "hot_score": 2212
       },
       "categories": [],
       "tickers": [],
@@ -516,11 +588,11 @@
       "published": "2026-09-07T19:08:51+00:00",
       "published_ts": 1788808131,
       "metrics": {
-        "likes": 209,
+        "likes": 223,
         "retweets": 18,
-        "replies": 12,
-        "views": 16376,
-        "hot_score": 536
+        "replies": 13,
+        "views": 17822,
+        "hot_score": 566
       },
       "categories": [
         "Semis"
@@ -536,35 +608,6 @@
       "quoted_tweet": null
     },
     {
-      "id": "2097035316351910251",
-      "title": "BREAKING: Trump shows a map of Canada and Mexico as part of the US:",
-      "summary": "BREAKING: Trump shows a map of Canada and Mexico as part of the US:",
-      "link": "https://x.com/unusual_whales/status/2097035316351910251",
-      "source": "unusual_whales",
-      "source_id": "whales",
-      "handle": "unusual_whales",
-      "lane": "Market tape",
-      "published": "2026-09-07T18:52:35+00:00",
-      "published_ts": 1788807155,
-      "metrics": {
-        "likes": 2831,
-        "retweets": 211,
-        "replies": 421,
-        "views": 251622,
-        "hot_score": 7389
-      },
-      "categories": [
-        "Policy"
-      ],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": true,
-      "media": [
-        "https://pbs.twimg.com/media/HRoqf7ibkAAkHb8.jpg"
-      ],
-      "quoted_tweet": null
-    },
-    {
       "id": "2097005818302607682",
       "title": "I don’t think I want to be in this timeline anymore. We got AGI with Astra and Hunter Biden $LAPTOP in the same weekend.",
       "summary": "I don’t think I want to be in this timeline anymore. We got AGI with Astra and Hunter Biden $LAPTOP in the same weekend.",
@@ -576,11 +619,11 @@
       "published": "2026-09-07T16:55:22+00:00",
       "published_ts": 1788800122,
       "metrics": {
-        "likes": 578,
+        "likes": 614,
         "retweets": 10,
         "replies": 35,
-        "views": 153131,
-        "hot_score": 1394
+        "views": 170904,
+        "hot_score": 1483
       },
       "categories": [
         "AI"
@@ -605,11 +648,11 @@
       "published": "2026-09-07T16:47:56+00:00",
       "published_ts": 1788799676,
       "metrics": {
-        "likes": 150,
+        "likes": 159,
         "retweets": 18,
         "replies": 10,
-        "views": 14935,
-        "hot_score": 414
+        "views": 16175,
+        "hot_score": 434
       },
       "categories": [
         "AI",
@@ -640,11 +683,11 @@
       "published": "2026-09-07T15:30:48+00:00",
       "published_ts": 1788795048,
       "metrics": {
-        "likes": 144,
-        "retweets": 23,
+        "likes": 159,
+        "retweets": 25,
         "replies": 4,
-        "views": 9340,
-        "hot_score": 416
+        "views": 9773,
+        "hot_score": 456
       },
       "categories": [
         "AI",
@@ -654,35 +697,6 @@
       "is_retweet": false,
       "has_media": false,
       "media": [],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2096983929374810327",
-      "title": "Price increases since start of the Iran war... European Natural Gas: +125% Sulfur: +123% Heating Oil: +77% Jet Fuel: +6…",
-      "summary": "Price increases since start of the Iran war... European Natural Gas: +125% Sulfur: +123% Heating Oil: +77% Jet Fuel: +62% Diesel: +56% Rice: +47% Gasoline: +39% WTI Crude Oil: +36% Cotton: +32% Diammonium Phosphate: +26% Wheat: +24% Palm Oil: +22% Corn: +17%",
-      "link": "https://x.com/charliebilello/status/2096983929374810327",
-      "source": "Charlie Bilello",
-      "source_id": "bilello",
-      "handle": "charliebilello",
-      "lane": "Market data",
-      "published": "2026-09-07T15:28:23+00:00",
-      "published_ts": 1788794903,
-      "metrics": {
-        "likes": 550,
-        "retweets": 242,
-        "replies": 62,
-        "views": 56450,
-        "hot_score": 2428
-      },
-      "categories": [
-        "Policy"
-      ],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": true,
-      "media": [
-        "https://pbs.twimg.com/media/HRn5umHbMAA8YBK.png"
-      ],
       "quoted_tweet": null
     },
     {
@@ -697,11 +711,11 @@
       "published": "2026-09-07T15:10:50+00:00",
       "published_ts": 1788793850,
       "metrics": {
-        "likes": 112,
+        "likes": 117,
         "retweets": 2,
-        "replies": 34,
-        "views": 20796,
-        "hot_score": 288
+        "replies": 38,
+        "views": 23061,
+        "hot_score": 305
       },
       "categories": [],
       "tickers": [],
@@ -721,35 +735,6 @@
       }
     },
     {
-      "id": "2096976798797980116",
-      "title": "A painful new record for American drivers: $4.15 per gallon of gasoline is the highest level ever recorded on Labor Day…",
-      "summary": "A painful new record for American drivers: $4.15 per gallon of gasoline is the highest level ever recorded on Labor Day. Video:",
-      "link": "https://x.com/charliebilello/status/2096976798797980116",
-      "source": "Charlie Bilello",
-      "source_id": "bilello",
-      "handle": "charliebilello",
-      "lane": "Market data",
-      "published": "2026-09-07T15:00:03+00:00",
-      "published_ts": 1788793203,
-      "metrics": {
-        "likes": 273,
-        "retweets": 60,
-        "replies": 41,
-        "views": 30429,
-        "hot_score": 917
-      },
-      "categories": [
-        "AI"
-      ],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": true,
-      "media": [
-        "https://pbs.twimg.com/media/HRnu2s2X0AEWCpX.jpg"
-      ],
-      "quoted_tweet": null
-    },
-    {
       "id": "2096975904379453682",
       "title": "9月接下来美股市场波动率会大幅增加： 1，9月11日CPI数据，将直接为9月份是否加息定风向 2，9月15-16日美联储议息会议，加不加息就这两天了 3，9月30日MU财报，基本要为存储板块9-10月份走势定锚 周末检查数据现在多空双方都…",
       "summary": "9月接下来美股市场波动率会大幅增加： 1，9月11日CPI数据，将直接为9月份是否加息定风向 2，9月15-16日美联储议息会议，加不加息就这两天了 3，9月30日MU财报，基本要为存储板块9-10月份走势定锚 周末检查数据现在多空双方都没把握，随时倒戈，就看美联储了。目前CME市场共识加息概率60.4%（如图）",
@@ -761,11 +746,11 @@
       "published": "2026-09-07T14:56:30+00:00",
       "published_ts": 1788792990,
       "metrics": {
-        "likes": 37,
+        "likes": 40,
         "retweets": 1,
         "replies": 0,
-        "views": 7045,
-        "hot_score": 86
+        "views": 7533,
+        "hot_score": 92
       },
       "categories": [
         "Memory",
@@ -777,119 +762,6 @@
       "media": [
         "https://pbs.twimg.com/media/HRnzwVcbQAAxj9v.png"
       ],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2096968698045079749",
-      "title": "The market is now pricing in a 60% chance of a Fed hike at the September 16 meeting, with the odds going up to 71% by t…",
-      "summary": "The market is now pricing in a 60% chance of a Fed hike at the September 16 meeting, with the odds going up to 71% by the October meeting and 86% by year-end. The rate hikes are coming. Video:",
-      "link": "https://x.com/charliebilello/status/2096968698045079749",
-      "source": "Charlie Bilello",
-      "source_id": "bilello",
-      "handle": "charliebilello",
-      "lane": "Market data",
-      "published": "2026-09-07T14:27:52+00:00",
-      "published_ts": 1788791272,
-      "metrics": {
-        "likes": 269,
-        "retweets": 66,
-        "replies": 58,
-        "views": 32932,
-        "hot_score": 958
-      },
-      "categories": [
-        "Macro"
-      ],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": true,
-      "media": [
-        "https://pbs.twimg.com/media/HRntwq6WkAAARhe.png"
-      ],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2096966638696366163",
-      "title": "Average 30-Year Mortgage Rate in the US… 1970s: 8.9% 1980s: 12.7% 1990s: 8.1% 2000s: 6.3% 2010s: 4.1% 2020s: 5.4% --- A…",
-      "summary": "Average 30-Year Mortgage Rate in the US… 1970s: 8.9% 1980s: 12.7% 1990s: 8.1% 2000s: 6.3% 2010s: 4.1% 2020s: 5.4% --- All-Time Low (Jan 2021): 2.65% 2023 Peak (Oct 2023): 7.79% Today's Rate: 6.71% (highest since July 2025)",
-      "link": "https://x.com/charliebilello/status/2096966638696366163",
-      "source": "Charlie Bilello",
-      "source_id": "bilello",
-      "handle": "charliebilello",
-      "lane": "Market data",
-      "published": "2026-09-07T14:19:41+00:00",
-      "published_ts": 1788790781,
-      "metrics": {
-        "likes": 273,
-        "retweets": 72,
-        "replies": 45,
-        "views": 45690,
-        "hot_score": 996
-      },
-      "categories": [
-        "Macro"
-      ],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": true,
-      "media": [
-        "https://pbs.twimg.com/media/HRnr-1kW4AEe8EA.png"
-      ],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2096965095536419261",
-      "title": "New Post: The Week in Charts...",
-      "summary": "New Post: The Week in Charts...",
-      "link": "https://x.com/charliebilello/status/2096965095536419261",
-      "source": "Charlie Bilello",
-      "source_id": "bilello",
-      "handle": "charliebilello",
-      "lane": "Market data",
-      "published": "2026-09-07T14:13:33+00:00",
-      "published_ts": 1788790413,
-      "metrics": {
-        "likes": 123,
-        "retweets": 20,
-        "replies": 24,
-        "views": 27946,
-        "hot_score": 397
-      },
-      "categories": [],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": true,
-      "media": [
-        "https://pbs.twimg.com/media/HRnqm7rawAAIt9e.png"
-      ],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2096954011198865490",
-      "title": "RT @PeterMallouk: 126 years of market history tell a simple story... Stocks and earnings move together with a 98% corre…",
-      "summary": "RT @PeterMallouk: 126 years of market history tell a simple story... Stocks and earnings move together with a 98% correlation. The short ru…",
-      "link": "https://x.com/charliebilello/status/2096954011198865490",
-      "source": "Charlie Bilello",
-      "source_id": "bilello",
-      "handle": "charliebilello",
-      "lane": "Market data",
-      "published": "2026-09-07T13:29:30+00:00",
-      "published_ts": 1788787770,
-      "metrics": {
-        "likes": 0,
-        "retweets": 187,
-        "replies": 0,
-        "views": 9369,
-        "hot_score": 944
-      },
-      "categories": [
-        "Crypto",
-        "Risk"
-      ],
-      "tickers": [],
-      "is_retweet": true,
-      "has_media": false,
-      "media": [],
       "quoted_tweet": null
     },
     {
@@ -954,11 +826,11 @@
       "published": "2026-09-07T13:09:49+00:00",
       "published_ts": 1788786589,
       "metrics": {
-        "likes": 118,
+        "likes": 124,
         "retweets": 4,
-        "replies": 11,
-        "views": 35682,
-        "hot_score": 302
+        "replies": 12,
+        "views": 39276,
+        "hot_score": 319
       },
       "categories": [
         "AI"
@@ -984,7 +856,7 @@
         "likes": 17,
         "retweets": 0,
         "replies": 0,
-        "views": 2142,
+        "views": 2226,
         "hot_score": 36
       },
       "categories": [],
@@ -1006,11 +878,11 @@
       "published": "2026-09-07T12:36:24+00:00",
       "published_ts": 1788784584,
       "metrics": {
-        "likes": 68,
+        "likes": 69,
         "retweets": 2,
         "replies": 1,
-        "views": 8893,
-        "hot_score": 155
+        "views": 9384,
+        "hot_score": 158
       },
       "categories": [],
       "tickers": [],
@@ -1031,11 +903,11 @@
       "published": "2026-09-07T12:17:40+00:00",
       "published_ts": 1788783460,
       "metrics": {
-        "likes": 63,
+        "likes": 64,
         "retweets": 1,
-        "replies": 39,
-        "views": 27979,
-        "hot_score": 197
+        "replies": 42,
+        "views": 30071,
+        "hot_score": 205
       },
       "categories": [],
       "tickers": [],
@@ -1069,7 +941,7 @@
         "likes": 0,
         "retweets": 16,
         "replies": 0,
-        "views": 1936,
+        "views": 1973,
         "hot_score": 81
       },
       "categories": [],
@@ -1091,11 +963,11 @@
       "published": "2026-09-07T12:07:15+00:00",
       "published_ts": 1788782835,
       "metrics": {
-        "likes": 919,
-        "retweets": 34,
-        "replies": 67,
-        "views": 192221,
-        "hot_score": 2267
+        "likes": 945,
+        "retweets": 35,
+        "replies": 68,
+        "views": 199461,
+        "hot_score": 2332
       },
       "categories": [
         "AI"
@@ -1122,11 +994,11 @@
       "published": "2026-09-07T11:30:39+00:00",
       "published_ts": 1788780639,
       "metrics": {
-        "likes": 76,
-        "retweets": 1,
+        "likes": 77,
+        "retweets": 2,
         "replies": 7,
-        "views": 21998,
-        "hot_score": 185
+        "views": 23043,
+        "hot_score": 194
       },
       "categories": [],
       "tickers": [],
@@ -1157,11 +1029,11 @@
       "published": "2026-09-07T10:11:36+00:00",
       "published_ts": 1788775896,
       "metrics": {
-        "likes": 555,
+        "likes": 570,
         "retweets": 39,
-        "replies": 35,
-        "views": 230270,
-        "hot_score": 1570
+        "replies": 36,
+        "views": 236785,
+        "hot_score": 1607
       },
       "categories": [
         "Semis",
@@ -1231,11 +1103,11 @@
       "published": "2026-09-07T09:16:19+00:00",
       "published_ts": 1788772579,
       "metrics": {
-        "likes": 584,
+        "likes": 597,
         "retweets": 38,
         "replies": 37,
-        "views": 221310,
-        "hot_score": 1616
+        "views": 226789,
+        "hot_score": 1647
       },
       "categories": [
         "AI",
@@ -1276,11 +1148,11 @@
       "published": "2026-09-07T07:34:29+00:00",
       "published_ts": 1788766469,
       "metrics": {
-        "likes": 77,
+        "likes": 80,
         "retweets": 14,
-        "replies": 97,
-        "views": 25669,
-        "hot_score": 346
+        "replies": 102,
+        "views": 26276,
+        "hot_score": 358
       },
       "categories": [
         "AI",
@@ -1320,11 +1192,11 @@
       "published": "2026-09-07T07:24:55+00:00",
       "published_ts": 1788765895,
       "metrics": {
-        "likes": 775,
-        "retweets": 43,
-        "replies": 181,
-        "views": 153198,
-        "hot_score": 2099
+        "likes": 812,
+        "retweets": 44,
+        "replies": 185,
+        "views": 161338,
+        "hot_score": 2190
       },
       "categories": [],
       "tickers": [],
@@ -1345,11 +1217,11 @@
       "published": "2026-09-07T07:09:05+00:00",
       "published_ts": 1788764945,
       "metrics": {
-        "likes": 677,
-        "retweets": 44,
+        "likes": 693,
+        "retweets": 45,
         "replies": 76,
-        "views": 239852,
-        "hot_score": 1889
+        "views": 247926,
+        "hot_score": 1934
       },
       "categories": [
         "AI",
@@ -1386,7 +1258,7 @@
         "likes": 18,
         "retweets": 0,
         "replies": 4,
-        "views": 13568,
+        "views": 13931,
         "hot_score": 53
       },
       "categories": [
@@ -1410,11 +1282,11 @@
       "published": "2026-09-07T06:01:11+00:00",
       "published_ts": 1788760871,
       "metrics": {
-        "likes": 154,
+        "likes": 155,
         "retweets": 6,
-        "replies": 70,
-        "views": 48150,
-        "hot_score": 456
+        "replies": 72,
+        "views": 49315,
+        "hot_score": 461
       },
       "categories": [
         "AI"
@@ -1439,11 +1311,11 @@
       "published": "2026-09-07T04:14:23+00:00",
       "published_ts": 1788754463,
       "metrics": {
-        "likes": 1886,
-        "retweets": 146,
-        "replies": 91,
-        "views": 333975,
-        "hot_score": 4926
+        "likes": 1919,
+        "retweets": 150,
+        "replies": 92,
+        "views": 344162,
+        "hot_score": 5024
       },
       "categories": [
         "AI",
@@ -1481,9 +1353,9 @@
       "metrics": {
         "likes": 95,
         "retweets": 10,
-        "replies": 88,
-        "views": 32104,
-        "hot_score": 360
+        "replies": 89,
+        "views": 32855,
+        "hot_score": 361
       },
       "categories": [
         "AI"
@@ -1516,11 +1388,11 @@
       "published": "2026-09-07T03:59:47+00:00",
       "published_ts": 1788753587,
       "metrics": {
-        "likes": 190,
+        "likes": 191,
         "retweets": 6,
         "replies": 18,
-        "views": 86472,
-        "hot_score": 514
+        "views": 87464,
+        "hot_score": 517
       },
       "categories": [
         "AI",
@@ -1554,11 +1426,11 @@
       "published": "2026-09-07T02:24:36+00:00",
       "published_ts": 1788747876,
       "metrics": {
-        "likes": 51,
+        "likes": 52,
         "retweets": 8,
         "replies": 41,
-        "views": 22918,
-        "hot_score": 205
+        "views": 23178,
+        "hot_score": 208
       },
       "categories": [
         "AI"
@@ -1593,11 +1465,11 @@
       "published": "2026-09-07T01:50:46+00:00",
       "published_ts": 1788745846,
       "metrics": {
-        "likes": 275,
-        "retweets": 43,
+        "likes": 278,
+        "retweets": 44,
         "replies": 13,
-        "views": 19708,
-        "hot_score": 797
+        "views": 19966,
+        "hot_score": 808
       },
       "categories": [
         "AI",
@@ -1622,11 +1494,11 @@
       "published": "2026-09-07T00:31:44+00:00",
       "published_ts": 1788741104,
       "metrics": {
-        "likes": 894,
-        "retweets": 204,
+        "likes": 900,
+        "retweets": 206,
         "replies": 33,
-        "views": 33209,
-        "hot_score": 2874
+        "views": 33512,
+        "hot_score": 2896
       },
       "categories": [
         "AI",
@@ -1652,11 +1524,11 @@
       "published": "2026-09-06T21:07:00+00:00",
       "published_ts": 1788728820,
       "metrics": {
-        "likes": 255,
+        "likes": 258,
         "retweets": 38,
         "replies": 17,
-        "views": 21298,
-        "hot_score": 738
+        "views": 21454,
+        "hot_score": 744
       },
       "categories": [
         "AI",
@@ -1682,11 +1554,11 @@
       "published": "2026-09-06T20:36:44+00:00",
       "published_ts": 1788727004,
       "metrics": {
-        "likes": 280,
+        "likes": 282,
         "retweets": 46,
         "replies": 6,
-        "views": 21712,
-        "hot_score": 817
+        "views": 21821,
+        "hot_score": 821
       },
       "categories": [
         "AI",
@@ -1713,11 +1585,11 @@
       "published": "2026-09-06T19:42:23+00:00",
       "published_ts": 1788723743,
       "metrics": {
-        "likes": 45,
+        "likes": 46,
         "retweets": 0,
         "replies": 0,
-        "views": 16250,
-        "hot_score": 106
+        "views": 16492,
+        "hot_score": 108
       },
       "categories": [
         "AI",
@@ -1740,34 +1612,6 @@
       }
     },
     {
-      "id": "2096670461329375259",
-      "title": "BILLIONAIRE WHO PAID JEFFREY EPSTEIN $158 MILLION IS NOW SUING TO DODGE A SUBPOENA AND TRUMP'S JUSTICE DEPARTMENT IS NO…",
-      "summary": "BILLIONAIRE WHO PAID JEFFREY EPSTEIN $158 MILLION IS NOW SUING TO DODGE A SUBPOENA AND TRUMP'S JUSTICE DEPARTMENT IS NOWHERE TO BE FOUND Leon Black. Former Apollo Global Management chief. Wrote Epstein $158 million in \"fees\" while Epstein was a convicted sex offender Now House O…",
-      "link": "https://x.com/TrumpsPortfolio/status/2096670461329375259",
-      "source": "Trump Portfolio Tracker",
-      "source_id": "trumptracker",
-      "handle": "TrumpsPortfolio",
-      "lane": "Policy trades",
-      "published": "2026-09-06T18:42:46+00:00",
-      "published_ts": 1788720166,
-      "metrics": {
-        "likes": 825,
-        "retweets": 126,
-        "replies": 0,
-        "views": 18602,
-        "hot_score": 2298
-      },
-      "categories": [
-        "AI",
-        "Policy"
-      ],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": null
-    },
-    {
       "id": "2096596967493452151",
       "title": "下周美股9.7财报周，甲骨文、Adobe领衔，还有周三PPI周五CPI重磅通胀核弹，继续大波动预订 我的重点关注如下： 周二（9月8日） 盘前 $CAN 嘉楠耘智（比特币矿机厂商） 盘后 $BRZE Braze（营销SaaS） $TTAN…",
       "summary": "下周美股9.7财报周，甲骨文、Adobe领衔，还有周三PPI周五CPI重磅通胀核弹，继续大波动预订 我的重点关注如下： 周二（9月8日） 盘前 $CAN 嘉楠耘智（比特币矿机厂商） 盘后 $BRZE Braze（营销SaaS） $TTAN ServiceTitan（家装云软件） 周三（9月9日） 盘前 $CHWY Chewy（线上宠物电商） $SAIL SailPoint（身份安全软件） 盘后 $AVAV AeroVironment（军用无人机） $AEO American Eagle（休闲服饰） $NAVN Navan（差旅SaaS） $COO Co…",
@@ -1782,7 +1626,7 @@
         "likes": 29,
         "retweets": 1,
         "replies": 98,
-        "views": 11426,
+        "views": 11504,
         "hot_score": 172
       },
       "categories": [
@@ -1822,7 +1666,7 @@
         "likes": 230,
         "retweets": 35,
         "replies": 58,
-        "views": 93289,
+        "views": 93591,
         "hot_score": 786
       },
       "categories": [
@@ -1859,11 +1703,11 @@
       "published": "2026-09-06T10:34:11+00:00",
       "published_ts": 1788690851,
       "metrics": {
-        "likes": 473,
+        "likes": 476,
         "retweets": 25,
         "replies": 150,
-        "views": 70832,
-        "hot_score": 1291
+        "views": 71233,
+        "hot_score": 1298
       },
       "categories": [
         "Policy"
@@ -1889,7 +1733,7 @@
         "likes": 103,
         "retweets": 14,
         "replies": 101,
-        "views": 57263,
+        "views": 57374,
         "hot_score": 434
       },
       "categories": [],
@@ -1926,7 +1770,7 @@
         "likes": 75,
         "retweets": 7,
         "replies": 42,
-        "views": 31103,
+        "views": 31192,
         "hot_score": 258
       },
       "categories": [
@@ -1960,11 +1804,11 @@
       "published": "2026-09-05T23:29:35+00:00",
       "published_ts": 1788650975,
       "metrics": {
-        "likes": 330,
+        "likes": 333,
         "retweets": 35,
         "replies": 97,
-        "views": 69614,
-        "hot_score": 1001
+        "views": 69659,
+        "hot_score": 1007
       },
       "categories": [
         "AI"
@@ -2000,7 +1844,7 @@
         "likes": 25,
         "retweets": 2,
         "replies": 0,
-        "views": 12612,
+        "views": 12687,
         "hot_score": 72
       },
       "categories": [],
@@ -2039,7 +1883,7 @@
         "likes": 107,
         "retweets": 7,
         "replies": 6,
-        "views": 90330,
+        "views": 90572,
         "hot_score": 345
       },
       "categories": [
@@ -2080,7 +1924,7 @@
         "likes": 79,
         "retweets": 0,
         "replies": 11,
-        "views": 18525,
+        "views": 18597,
         "hot_score": 187
       },
       "categories": [
@@ -2091,47 +1935,6 @@
       "has_media": false,
       "media": [],
       "quoted_tweet": null
-    },
-    {
-      "id": "2096271705711018193",
-      "title": "昨晚美股非农超预期大盘微跌，半导体走强的核心原因？为什么是Astra而不是早一天发布的fable5.1驱动，沿着晚上的思路再详细聊聊。个人角度估值是一方面，最核心因素还是Astra发布带来模型能力的突破（模型能力跃升带动预期提升）。几个点…",
-      "summary": "昨晚美股非农超预期大盘微跌，半导体走强的核心原因？为什么是Astra而不是早一天发布的fable5.1驱动，沿着晚上的思路再详细聊聊。个人角度估值是一方面，最核心因素还是Astra发布带来模型能力的突破（模型能力跃升带动预期提升）。几个点： 1、官方披露GPT-6 Astra OpenAI内部首个在超过10万块 GPU（得州 Stargate 基地）上完成预训练的模型；模型训练还是非常吃计算资源的。 2、Astra重点放在能真正操作电脑、浏览器和专业软件的长期Agent，能操作能操作真实 GUI 的模型，创意与 3D / 游戏向能力（创意生产），科研能…",
-      "link": "https://x.com/qinbafrank/status/2096271705711018193",
-      "source": "qinbafrank",
-      "source_id": "qinba",
-      "handle": "qinbafrank",
-      "lane": "Macro + AI",
-      "published": "2026-09-05T16:18:16+00:00",
-      "published_ts": 1788625096,
-      "metrics": {
-        "likes": 111,
-        "retweets": 18,
-        "replies": 60,
-        "views": 97782,
-        "hot_score": 469
-      },
-      "categories": [
-        "AI",
-        "Semis",
-        "Data centers",
-        "Macro",
-        "Risk"
-      ],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": {
-        "id": "2096228798324944977",
-        "author": "qinbafrank",
-        "name": "qinbafrank",
-        "text": "昨晚美股非农超预期大盘微跌，为何半导体走强？个人角度核心还是Astra发布带来模型能力的突破，Astra重点放在能操作电脑/浏览器/专业软件Agent，操作真实 GUI ，创意生产与3D 游戏能力，科研能力等方面，核心是能力突破，而不仅是性能提升。这让市场确认了前沿模型研发仍在产生极有价值的能力进步；",
-        "created_at": "Sat Sep 05 13:27:46 +0000 2026",
-        "url": "https://x.com/qinbafrank/status/2096228798324944977",
-        "has_media": false,
-        "media_urls": [],
-        "media_posters": []
-      }
     },
     {
       "id": "2096259551741800556",
@@ -2148,7 +1951,7 @@
         "likes": 46,
         "retweets": 0,
         "replies": 2,
-        "views": 8134,
+        "views": 8172,
         "hot_score": 102
       },
       "categories": [],
@@ -2176,7 +1979,7 @@
         "likes": 20,
         "retweets": 0,
         "replies": 60,
-        "views": 24631,
+        "views": 24676,
         "hot_score": 124
       },
       "categories": [
@@ -2205,58 +2008,6 @@
       }
     },
     {
-      "id": "2096041463272317185",
-      "title": "RT @charliebilello: Global Central Bank Update: -New Zealand hiked rates for the 2nd meeting in a row, 25 bps move up t…",
-      "summary": "RT @charliebilello: Global Central Bank Update: -New Zealand hiked rates for the 2nd meeting in a row, 25 bps move up to 2.75%.",
-      "link": "https://x.com/charliebilello/status/2096041463272317185",
-      "source": "Charlie Bilello",
-      "source_id": "bilello",
-      "handle": "charliebilello",
-      "lane": "Market data",
-      "published": "2026-09-05T01:03:22+00:00",
-      "published_ts": 1788570202,
-      "metrics": {
-        "likes": 0,
-        "retweets": 36,
-        "replies": 0,
-        "views": 0,
-        "hot_score": 180
-      },
-      "categories": [],
-      "tickers": [],
-      "is_retweet": true,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2095891782068511041",
-      "title": "Good piece on the downside of meditation. \"The point of meditation was never merely to relax or just 'clear your mind'…",
-      "summary": "Good piece on the downside of meditation. \"The point of meditation was never merely to relax or just 'clear your mind' but to wholly rearrange one’s relationship to one’s thoughts. This might make sense for a Buddhist monk pursuing the great unbinding, but not for a random Brook…",
-      "link": "https://x.com/morganhousel/status/2095891782068511041",
-      "source": "Morgan Housel",
-      "source_id": "morgan",
-      "handle": "morganhousel",
-      "lane": "Investor psychology",
-      "published": "2026-09-04T15:08:35+00:00",
-      "published_ts": 1788534515,
-      "metrics": {
-        "likes": 832,
-        "retweets": 74,
-        "replies": 67,
-        "views": 143679,
-        "hot_score": 2244
-      },
-      "categories": [
-        "Risk"
-      ],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": null
-    },
-    {
       "id": "2095873228195742074",
       "title": "下周中韩半导体看来稳了",
       "summary": "下周中韩半导体看来稳了",
@@ -2271,8 +2022,8 @@
         "likes": 135,
         "retweets": 1,
         "replies": 13,
-        "views": 85926,
-        "hot_score": 373
+        "views": 86101,
+        "hot_score": 374
       },
       "categories": [
         "Semis"
@@ -2314,7 +2065,7 @@
         "likes": 59,
         "retweets": 0,
         "replies": 0,
-        "views": 16579,
+        "views": 16604,
         "hot_score": 134
       },
       "categories": [
@@ -2351,7 +2102,7 @@
         "likes": 47,
         "retweets": 3,
         "replies": 62,
-        "views": 50395,
+        "views": 50437,
         "hot_score": 221
       },
       "categories": [
@@ -2380,8 +2131,8 @@
         "likes": 234,
         "retweets": 11,
         "replies": 20,
-        "views": 120939,
-        "hot_score": 663
+        "views": 121048,
+        "hot_score": 664
       },
       "categories": [],
       "tickers": [],
@@ -2408,7 +2159,7 @@
         "likes": 220,
         "retweets": 3,
         "replies": 37,
-        "views": 80795,
+        "views": 80859,
         "hot_score": 572
       },
       "categories": [],
@@ -2433,7 +2184,7 @@
         "likes": 206,
         "retweets": 7,
         "replies": 25,
-        "views": 230706,
+        "views": 230952,
         "hot_score": 702
       },
       "categories": [
@@ -2478,7 +2229,7 @@
         "likes": 358,
         "retweets": 50,
         "replies": 148,
-        "views": 81687,
+        "views": 81712,
         "hot_score": 1195
       },
       "categories": [
@@ -2501,31 +2252,6 @@
       }
     },
     {
-      "id": "2095599433404850366",
-      "title": "Will Durrant: Psychology is a theory of human behavior. Philosophy is an ideal of human behavior. History is a record o…",
-      "summary": "Will Durrant: Psychology is a theory of human behavior. Philosophy is an ideal of human behavior. History is a record of human behavior.",
-      "link": "https://x.com/morganhousel/status/2095599433404850366",
-      "source": "Morgan Housel",
-      "source_id": "morgan",
-      "handle": "morganhousel",
-      "lane": "Investor psychology",
-      "published": "2026-09-03T19:46:53+00:00",
-      "published_ts": 1788464813,
-      "metrics": {
-        "likes": 2190,
-        "retweets": 358,
-        "replies": 52,
-        "views": 96069,
-        "hot_score": 6318
-      },
-      "categories": [],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": null
-    },
-    {
       "id": "2095417724986130444",
       "title": "高盛新出的9月确信强力买入美股名单来了，新增了VRTX剔除了IBKR 名单里热门的并不多，很值得参考，上个完整版（含推荐理由）： 消费板块 $EL 雅诗兰黛：在高增长赛道迎来营收增长拐点 $ORLY 奥赖利汽车配件：在防御性行业里主动扩张…",
       "summary": "高盛新出的9月确信强力买入美股名单来了，新增了VRTX剔除了IBKR 名单里热门的并不多，很值得参考，上个完整版（含推荐理由）： 消费板块 $EL 雅诗兰黛：在高增长赛道迎来营收增长拐点 $ORLY 奥赖利汽车配件：在防御性行业里主动扩张 $TSN 泰森食品：多元化业务组合，受益于食品领域最热赛道 $VIK 维京控股：宏观环境动荡的邮轮行业里，拥有顶尖增长潜力 金融板块 $CFG 公民金融集团：业内顶尖运营机构，实力持续变强 $TPG TPG公司：估值具备折扣优势，可持续增长平台 $WFC 富国银行：营收增长强劲，具备经营杠杆效应 医疗板块 $VRTX…",
@@ -2540,7 +2266,7 @@
         "likes": 108,
         "retweets": 34,
         "replies": 43,
-        "views": 29856,
+        "views": 29862,
         "hot_score": 458
       },
       "categories": [
@@ -2580,7 +2306,7 @@
         "likes": 44,
         "retweets": 4,
         "replies": 54,
-        "views": 16708,
+        "views": 16714,
         "hot_score": 178
       },
       "categories": [
@@ -2612,7 +2338,7 @@
         "likes": 23,
         "retweets": 2,
         "replies": 21,
-        "views": 8472,
+        "views": 8475,
         "hot_score": 85
       },
       "categories": [],
@@ -2639,7 +2365,7 @@
         "likes": 43,
         "retweets": 5,
         "replies": 28,
-        "views": 8595,
+        "views": 8598,
         "hot_score": 147
       },
       "categories": [
@@ -2670,7 +2396,7 @@
         "likes": 153,
         "retweets": 10,
         "replies": 67,
-        "views": 24187,
+        "views": 24193,
         "hot_score": 447
       },
       "categories": [],
@@ -2695,7 +2421,7 @@
         "likes": 49,
         "retweets": 5,
         "replies": 4,
-        "views": 12003,
+        "views": 12006,
         "hot_score": 139
       },
       "categories": [],
@@ -2720,7 +2446,7 @@
         "likes": 291,
         "retweets": 23,
         "replies": 50,
-        "views": 137076,
+        "views": 137107,
         "hot_score": 884
       },
       "categories": [
@@ -2730,36 +2456,6 @@
       "is_retweet": false,
       "has_media": false,
       "media": [],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2093328842157072551",
-      "title": "The Psychology of Money Podcast: Household debt/GDP has plunged at the same time Government debt/GDP surged. On net, we…",
-      "summary": "The Psychology of Money Podcast: Household debt/GDP has plunged at the same time Government debt/GDP surged. On net, we're about where we were 20 years ago.",
-      "link": "https://x.com/morganhousel/status/2093328842157072551",
-      "source": "Morgan Housel",
-      "source_id": "morgan",
-      "handle": "morganhousel",
-      "lane": "Investor psychology",
-      "published": "2026-08-28T13:24:22+00:00",
-      "published_ts": 1787923462,
-      "metrics": {
-        "likes": 218,
-        "retweets": 18,
-        "replies": 31,
-        "views": 35904,
-        "hot_score": 592
-      },
-      "categories": [
-        "Data centers",
-        "Policy"
-      ],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": true,
-      "media": [
-        "https://pbs.twimg.com/amplify_video_thumb/2093316511205347328/img/QkWFAKcnG8xXxpiO.jpg"
-      ],
       "quoted_tweet": null
     },
     {
@@ -2777,64 +2473,10 @@
         "likes": 161,
         "retweets": 10,
         "replies": 76,
-        "views": 37902,
+        "views": 37905,
         "hot_score": 485
       },
       "categories": [],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2092976286352462033",
-      "title": "Good line: “The longer your holding period, the more chance that something you can’t forecast occurs.”",
-      "summary": "Good line: “The longer your holding period, the more chance that something you can’t forecast occurs.”",
-      "link": "https://x.com/morganhousel/status/2092976286352462033",
-      "source": "Morgan Housel",
-      "source_id": "morgan",
-      "handle": "morganhousel",
-      "lane": "Investor psychology",
-      "published": "2026-08-27T14:03:26+00:00",
-      "published_ts": 1787839406,
-      "metrics": {
-        "likes": 452,
-        "retweets": 27,
-        "replies": 28,
-        "views": 59061,
-        "hot_score": 1126
-      },
-      "categories": [
-        "Crypto"
-      ],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2092957126063001765",
-      "title": "\"You've probably lived entire lives you've completely forgotten, because you don't write things down.\" @DylanoA4",
-      "summary": "\"You've probably lived entire lives you've completely forgotten, because you don't write things down.\" @DylanoA4",
-      "link": "https://x.com/morganhousel/status/2092957126063001765",
-      "source": "Morgan Housel",
-      "source_id": "morgan",
-      "handle": "morganhousel",
-      "lane": "Investor psychology",
-      "published": "2026-08-27T12:47:18+00:00",
-      "published_ts": 1787834838,
-      "metrics": {
-        "likes": 719,
-        "retweets": 52,
-        "replies": 34,
-        "views": 58666,
-        "hot_score": 1790
-      },
-      "categories": [
-        "Risk"
-      ],
       "tickers": [],
       "is_retweet": false,
       "has_media": false,
@@ -2869,87 +2511,6 @@
       "quoted_tweet": null
     },
     {
-      "id": "2090797752074846331",
-      "title": "The Psychology of Money Podcast \"Be careful who you socialize with.\" - How wealthy you feel depends so much on where yo…",
-      "summary": "The Psychology of Money Podcast \"Be careful who you socialize with.\" - How wealthy you feel depends so much on where you live and who you socialize with.",
-      "link": "https://x.com/morganhousel/status/2090797752074846331",
-      "source": "Morgan Housel",
-      "source_id": "morgan",
-      "handle": "morganhousel",
-      "lane": "Investor psychology",
-      "published": "2026-08-21T13:46:43+00:00",
-      "published_ts": 1787320003,
-      "metrics": {
-        "likes": 690,
-        "retweets": 73,
-        "replies": 53,
-        "views": 57231,
-        "hot_score": 1855
-      },
-      "categories": [
-        "Data centers"
-      ],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": true,
-      "media": [
-        "https://pbs.twimg.com/amplify_video_thumb/2090794358018834433/img/NK_B4GSlRWFw_YZS.jpg"
-      ],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2089393092378198305",
-      "title": "Not saying it's acceptable, have to consider fees, incentives, etc. But a much more shocking headline would be \"Everyon…",
-      "summary": "Not saying it's acceptable, have to consider fees, incentives, etc. But a much more shocking headline would be \"Everyone who tries actively investing succeeds.\"",
-      "link": "https://x.com/morganhousel/status/2089393092378198305",
-      "source": "Morgan Housel",
-      "source_id": "morgan",
-      "handle": "morganhousel",
-      "lane": "Investor psychology",
-      "published": "2026-08-17T16:45:06+00:00",
-      "published_ts": 1786985106,
-      "metrics": {
-        "likes": 73,
-        "retweets": 3,
-        "replies": 9,
-        "views": 15645,
-        "hot_score": 185
-      },
-      "categories": [],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2089386796367184204",
-      "title": "It's not a perfect analogy but I view this as the equivalent of \"most college players don't make the NBA.\" You shouldn'…",
-      "summary": "It's not a perfect analogy but I view this as the equivalent of \"most college players don't make the NBA.\" You shouldn't expect the majority of people to succeed at a very hard thing.",
-      "link": "https://x.com/morganhousel/status/2089386796367184204",
-      "source": "Morgan Housel",
-      "source_id": "morgan",
-      "handle": "morganhousel",
-      "lane": "Investor psychology",
-      "published": "2026-08-17T16:20:05+00:00",
-      "published_ts": 1786983605,
-      "metrics": {
-        "likes": 880,
-        "retweets": 54,
-        "replies": 66,
-        "views": 82282,
-        "hot_score": 2178
-      },
-      "categories": [],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": true,
-      "media": [
-        "https://pbs.twimg.com/media/HP7-Hswa4AAG5QN.jpg"
-      ],
-      "quoted_tweet": null
-    },
-    {
       "id": "2085764706372129140",
       "title": "The best day of my life. I love you ❤️",
       "summary": "The best day of my life. I love you ❤️",
@@ -2961,11 +2522,11 @@
       "published": "2026-08-07T16:27:12+00:00",
       "published_ts": 1786120032,
       "metrics": {
-        "likes": 41676,
+        "likes": 41678,
         "retweets": 910,
         "replies": 2599,
-        "views": 4581694,
-        "hot_score": 91001
+        "views": 4581782,
+        "hot_score": 91005
       },
       "categories": [],
       "tickers": [],
@@ -3019,7 +2580,7 @@
         "likes": 1250,
         "retweets": 76,
         "replies": 76,
-        "views": 888813,
+        "views": 888836,
         "hot_score": 3456
       },
       "categories": [],
@@ -3058,7 +2619,7 @@
         "likes": 1003,
         "retweets": 68,
         "replies": 68,
-        "views": 455155,
+        "views": 455168,
         "hot_score": 2869
       },
       "categories": [],
@@ -3110,7 +2671,7 @@
         "likes": 1318,
         "retweets": 130,
         "replies": 53,
-        "views": 639444,
+        "views": 639461,
         "hot_score": 3839
       },
       "categories": [
@@ -3308,7 +2869,7 @@
       "name": "Morgan Housel",
       "lane": "Investor psychology",
       "note": "Long-term thinking, behavior, financial advice",
-      "count": 8,
+      "count": 0,
       "url": "https://x.com/morganhousel"
     },
     {
@@ -3317,7 +2878,7 @@
       "name": "Charlie Bilello",
       "lane": "Market data",
       "note": "Charts, macro snapshots, cross-asset data",
-      "count": 8,
+      "count": 0,
       "url": "https://x.com/charliebilello"
     },
     {
@@ -3366,5 +2927,8 @@
       "url": "https://x.com/Beth_Kindig"
     }
   ],
-  "errors": {}
+  "errors": {
+    "morgan": "ok: false\nerror:\n  code: UNKNOWN\n  message: Browser command timed out client-side; the page may still have applied it.\n  exitCode: 1\n# AutoFix: re-run with --trace=retain-on-failure for trace artifact\n# opencli twitter tweets --trace retain-on-failure",
+    "bilello": "ok: false\nerror:\n  code: UNKNOWN\n  message: |-\n    TypeError: Failed to fetch\n        at <anonymous>:2:26\n        at <anonymous>:6:7\n  exitCode: 1\n# AutoFix: re-run with --trace=retain-on-failure for trace artifact\n# opencli twitter tweets --trace retain-on-failure"
+  }
 }
