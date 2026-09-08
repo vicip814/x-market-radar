@@ -1,8 +1,325 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-07T23:02:13.815898+00:00",
-  "generated_ts": 1788822133,
+  "generated_at": "2026-09-08T00:03:43.944699+00:00",
+  "generated_ts": 1788825823,
   "articles": [
+    {
+      "id": "2097112932492652608",
+      "title": "\"Gen X sees opportunity in AI. Gen Z sees fewer jobs,\" per Bloomberg",
+      "summary": "\"Gen X sees opportunity in AI. Gen Z sees fewer jobs,\" per Bloomberg",
+      "link": "https://x.com/unusual_whales/status/2097112932492652608",
+      "source": "unusual_whales",
+      "source_id": "whales",
+      "handle": "unusual_whales",
+      "lane": "Market tape",
+      "published": "2026-09-08T00:01:00+00:00",
+      "published_ts": 1788825660,
+      "metrics": {
+        "likes": 31,
+        "retweets": 5,
+        "replies": 10,
+        "views": 18708,
+        "hot_score": 115
+      },
+      "categories": [
+        "AI"
+      ],
+      "tickers": [],
+      "is_retweet": false,
+      "has_media": false,
+      "media": [],
+      "quoted_tweet": null
+    },
+    {
+      "id": "2097111384198951026",
+      "title": "美元日元汇率跌的有点快，上周聊到在G20财长和央行行长峰会上，贝森特公开表达了支持日本加息，随后昨天日央行行长和委员都有表达了加息的意愿，市场对于日本央行9月18号加息的预期很强。如之前推文最后聊到的，核心关键不是9月18号日央行的加息，…",
+      "summary": "美元日元汇率跌的有点快，上周聊到在G20财长和央行行长峰会上，贝森特公开表达了支持日本加息，随后昨天日央行行长和委员都有表达了加息的意愿，市场对于日本央行9月18号加息的预期很强。如之前推文最后聊到的，核心关键不是9月18号日央行的加息，而是日本的正常化周期是不是可能走得更快，终点也会更高？如果9月中日央行加息，同时释放后续仍会继续行动的信号，日元的升值会更有持续性，短端日债收益率继续上行，收益率曲线可能趋平。日元融资套利交易也会面临重新评估。 这可能是上周到当下美元日元汇率大幅度走弱的直接原因。美日汇率大幅度走弱，套息交易的话题自然又要被讨论。去年有…",
+      "link": "https://x.com/qinbafrank/status/2097111384198951026",
+      "source": "qinbafrank",
+      "source_id": "qinba",
+      "handle": "qinbafrank",
+      "lane": "Macro + AI",
+      "published": "2026-09-07T23:54:51+00:00",
+      "published_ts": 1788825291,
+      "metrics": {
+        "likes": 1,
+        "retweets": 0,
+        "replies": 0,
+        "views": 1822,
+        "hot_score": 3
+      },
+      "categories": [
+        "AI",
+        "Risk"
+      ],
+      "tickers": [],
+      "is_retweet": false,
+      "has_media": true,
+      "media": [
+        "https://pbs.twimg.com/media/HRpvr0LaQAAJlph.jpg"
+      ],
+      "quoted_tweet": {
+        "id": "2094954853911208136",
+        "author": "qinbafrank",
+        "name": "qinbafrank",
+        "text": "从支持日本干预汇率到明确支持日本加息，贝森特在日本货币政策上的转变。这两天在美国举行的G20财长和央行行长会议上，贝森特关于日本政策的发言还是值得关注。\n1、聊聊背景\n一个月前，美日联手干预汇率，美元兑日元从163.99附近快速回落到155.20左右。但干预带来的升值很快又被市场吃掉。最近美元兑日元重新回到160附近，日本10年期国债收益率也摸到了3%。一个月前的问题又回来了：美日会不会再次干预？日央行会不会被迫加快加息？\n\n2、看看贝森特怎么说的\n贝森特这次分别见了日央行行长植田和男，以及日本财务相片山皋月。\n1）贝森特在与植田会面时，强调日本需要制定并清晰传达稳健的货币政策，以锚定通胀预期，避免汇率出现过度波动。\n\n美国财政部还使用了一个很重的表述，称日元存在“显著低估”，日元疲弱正在增加日本国内的通胀压力。贝森特同时支持日本近期采取的市场与货币政策行动。\n\n2）跟片山皋月会面时，双方确认，有序的日元市场对全球金融稳定非常重要，美日会继续保持协调。片山还向贝森特解释了日本如何在维持经济增长的同时，逐步降低债务占GDP的比例。\n\n他先说，最近日元的走势仍然“基本受控”，还没有达到市场失序的程度。随后又表示，相信日本政府和日本央行会采取一些推动日元走强的行动。\n\n3）为什么说日元有序？\n日元已经重新跌到160附近，但贝森特仍然认为市场没有失序。这说明160很可能只是政治和市场层面的敏感区域，并非美日承诺机械防守的固定点位。\n\n意思是日元虽然弱，交易过程仍然相对连续，市场流动性也没有明显失灵。贝森特因此更愿意让货币政策发挥作用。\n\n4）贝森特为什么突然宣布“安倍经济学已经结束”？\n贝森特在会前采访中说，日本已经走到了安倍经济学的终点。\n\n这句话容易被理解成美国反对高市政府的增长政策，其实他的意思更接近：日本已经摆脱了长期通缩，过去那套以大规模货币宽松和财政刺激为基础的再通胀框架，到了需要退出的时候。\n\n简单说，日本已经从如何摆脱通缩，走到了如何管理通胀和财政成本的阶段。\n\n3、如何理解贝森特的隐含意思\n1）美国目前给出的政策框架大致如下：\n当日元出现踩踏、市场流动性恶化时，美日可以联合干预。汇率持续偏弱的问题，则需要日本通过加息、财政政策和市场沟通解决。\n\n2）财政刺激越大，通胀预期越高，日央行加息压力越大；政府越担心债务利息，就越不愿意看到利率上升。市场最后会同时怀疑财政纪律和货币政策独立性。\n\n主要是在提醒高市政府：\n可以继续投资AI、半导体和国防等战略产业，也可以推动劳动市场改革和公司治理，但财政支出要讲清楚资金来源。日央行也需要根据新的通胀环境调整利率。\n\n3）日本需要给市场一条更可信的利率路径。\n\n4、日本方面如何反应？\n日本财务省发布的正式声明，也确认了双方将继续围绕日元市场展开共同努力。 基本上来说日央行9月中加息是大概率的。\n\n重点是9月之后的节奏\n9月从1%加到1.25%，对日元的实际帮助可能没有市场想象得那么大。原因也很简单。美国利率仍然显著高于日本，日本实际利率依然偏低。如果植田加息之后强调未来需要长时间观察，市场很快就会开始做“买预期、卖事实”。届时日元可能先升值，随后又重新走弱。\n\n能够改变中期定价的，是植田会不会告诉市场，日本的加息频率已经发生变化。过去市场大致按照一年加息两次来理解日央行。如果9月之后，日央行暗示12月仍有行动空间，或者承认当前金融条件依然偏松，市场就会开始交易接近季度加息的节奏。\n\n5、所以核心中的核心：日本的正常化周期是不是可能走得更快，终点也会更高？\n9月会议之后，可以大致看两种结果：\n1）如果日央行加息，同时释放后续仍会继续行动的信号，日元的升值会更有持续性，短端日债收益率继续上行，收益率曲线可能趋平。日元融资套利交易也会面临重新评估。\n\n2）如果日央行加息后保持明显鸽派，只强调每次会议都要看数据，市场可能很快把这次行动理解为一次政策交差。美元兑日元仍然可能回到160附近，美日再次干预的讨论也不会消失。\n\n3）至于意外不加息，这个情景概率已经比较低，但市场冲击会很大。日元可能快速贬值，日债也可能继续承压，日央行的政策信誉会受到质疑。\n\n核心看植田会不会打开12月继续加息的窗口，也要看高市政府能不能给财政支出找到可信的资金来源：如果植田只是加一次，然后重新回到慢慢观察，日元很难靠一次25个基点走出持续升值。\n\n如果日央行确认日本已经进入更快的货币正常化周期，日元、日债、银行股和全球套息交易可能会重新定价。\n\n贝森特已经替日本争取过一次时间，现在轮到日本交作业了。\n\n本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
+        "created_at": "Wed Sep 02 01:05:34 +0000 2026",
+        "url": "https://x.com/qinbafrank/status/2094954853911208136",
+        "has_media": true,
+        "media_urls": [
+          "https://pbs.twimg.com/media/HRLGVOUbkAAY9JW.jpg",
+          "https://pbs.twimg.com/media/HRLGVOYasAAViBj.jpg"
+        ],
+        "media_posters": [
+          "https://pbs.twimg.com/media/HRLGVOUbkAAY9JW.jpg",
+          "https://pbs.twimg.com/media/HRLGVOYasAAViBj.jpg"
+        ]
+      }
+    },
+    {
+      "id": "2097110607824609654",
+      "title": "STEPHEN MILLER JUST ADMITTED ON THE RADIO THEY'RE CUTTING OFF BANK ACCOUNTS TO STARVE PEOPLE INTO LEAVING THE COUNTRY N…",
+      "summary": "STEPHEN MILLER JUST ADMITTED ON THE RADIO THEY'RE CUTTING OFF BANK ACCOUNTS TO STARVE PEOPLE INTO LEAVING THE COUNTRY Not a leaked memo. Not an anonymous source. Stephen Miller said it out loud on the Clay Travis show like he was bragging about a hunting trip Donald Trump signed…",
+      "link": "https://x.com/TrumpsPortfolio/status/2097110607824609654",
+      "source": "Trump Portfolio Tracker",
+      "source_id": "trumptracker",
+      "handle": "TrumpsPortfolio",
+      "lane": "Policy trades",
+      "published": "2026-09-07T23:51:45+00:00",
+      "published_ts": 1788825105,
+      "metrics": {
+        "likes": 16,
+        "retweets": 5,
+        "replies": 6,
+        "views": 2212,
+        "hot_score": 65
+      },
+      "categories": [
+        "AI",
+        "Semis",
+        "Macro",
+        "Policy",
+        "Risk"
+      ],
+      "tickers": [],
+      "is_retweet": false,
+      "has_media": false,
+      "media": [],
+      "quoted_tweet": null
+    },
+    {
+      "id": "2097105668973248902",
+      "title": "RT @snorlax_uw: Happy Labor Day! Try the API, your first week FREE:",
+      "summary": "RT @snorlax_uw: Happy Labor Day! Try the API, your first week FREE:",
+      "link": "https://x.com/unusual_whales/status/2097105668973248902",
+      "source": "unusual_whales",
+      "source_id": "whales",
+      "handle": "unusual_whales",
+      "lane": "Market tape",
+      "published": "2026-09-07T23:32:08+00:00",
+      "published_ts": 1788823928,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "views": 25544,
+        "hot_score": 30
+      },
+      "categories": [],
+      "tickers": [],
+      "is_retweet": true,
+      "has_media": false,
+      "media": [],
+      "quoted_tweet": null
+    },
+    {
+      "id": "2097101591010542061",
+      "title": "FEMA STOPPED BEING ABOUT HURRICANES THE DAY DONALD TRUMP DECIDED IMMIGRANTS WERE THE REAL DISASTER Internal staff are s…",
+      "summary": "FEMA STOPPED BEING ABOUT HURRICANES THE DAY DONALD TRUMP DECIDED IMMIGRANTS WERE THE REAL DISASTER Internal staff are sounding alarms right now, this week, over resources getting stripped out of disaster relief and funneled straight into immigration enforcement Read that job des…",
+      "link": "https://x.com/TrumpsPortfolio/status/2097101591010542061",
+      "source": "Trump Portfolio Tracker",
+      "source_id": "trumptracker",
+      "handle": "TrumpsPortfolio",
+      "lane": "Policy trades",
+      "published": "2026-09-07T23:15:56+00:00",
+      "published_ts": 1788822956,
+      "metrics": {
+        "likes": 25,
+        "retweets": 3,
+        "replies": 0,
+        "views": 3893,
+        "hot_score": 68
+      },
+      "categories": [
+        "AI",
+        "Data centers",
+        "Macro",
+        "Policy",
+        "Risk"
+      ],
+      "tickers": [],
+      "is_retweet": false,
+      "has_media": false,
+      "media": [],
+      "quoted_tweet": null
+    },
+    {
+      "id": "2097099595805249785",
+      "title": "RT @Beth_Kindig: According to Google, high-performance memory now accounts for over 75% of an AI server’s bill of mater…",
+      "summary": "RT @Beth_Kindig: According to Google, high-performance memory now accounts for over 75% of an AI server’s bill of materials. $GOOG $AMD $N…",
+      "link": "https://x.com/Beth_Kindig/status/2097099595805249785",
+      "source": "Beth Kindig",
+      "source_id": "kindig",
+      "handle": "Beth_Kindig",
+      "lane": "AI equities",
+      "published": "2026-09-07T23:08:00+00:00",
+      "published_ts": 1788822480,
+      "metrics": {
+        "likes": 0,
+        "retweets": 22,
+        "replies": 0,
+        "views": 0,
+        "hot_score": 110
+      },
+      "categories": [
+        "AI",
+        "Memory",
+        "Semis",
+        "Crypto"
+      ],
+      "tickers": [
+        "$AMD",
+        "$GOOG"
+      ],
+      "is_retweet": true,
+      "has_media": false,
+      "media": [],
+      "quoted_tweet": null
+    },
+    {
+      "id": "2097099547931553830",
+      "title": "RT @Beth_Kindig: Dell $DELL COO Jeff Clarke: \"We're expecting AI to be 75% of all data center demand by 2030, adding 20…",
+      "summary": "RT @Beth_Kindig: Dell $DELL COO Jeff Clarke: \"We're expecting AI to be 75% of all data center demand by 2030, adding 200 gigawatts of power…",
+      "link": "https://x.com/Beth_Kindig/status/2097099547931553830",
+      "source": "Beth Kindig",
+      "source_id": "kindig",
+      "handle": "Beth_Kindig",
+      "lane": "AI equities",
+      "published": "2026-09-07T23:07:49+00:00",
+      "published_ts": 1788822469,
+      "metrics": {
+        "likes": 0,
+        "retweets": 21,
+        "replies": 0,
+        "views": 0,
+        "hot_score": 105
+      },
+      "categories": [
+        "AI",
+        "Data centers",
+        "Crypto"
+      ],
+      "tickers": [
+        "$DELL"
+      ],
+      "is_retweet": true,
+      "has_media": false,
+      "media": [],
+      "quoted_tweet": null
+    },
+    {
+      "id": "2097099496895152454",
+      "title": "RT @Beth_Kindig: Anthropic recently signed a $35 billion cloud deal with Nvidia-backed AI startup Lambda. Nvidia $NVDA…",
+      "summary": "RT @Beth_Kindig: Anthropic recently signed a $35 billion cloud deal with Nvidia-backed AI startup Lambda. Nvidia $NVDA will supply chips…",
+      "link": "https://x.com/Beth_Kindig/status/2097099496895152454",
+      "source": "Beth Kindig",
+      "source_id": "kindig",
+      "handle": "Beth_Kindig",
+      "lane": "AI equities",
+      "published": "2026-09-07T23:07:36+00:00",
+      "published_ts": 1788822456,
+      "metrics": {
+        "likes": 0,
+        "retweets": 18,
+        "replies": 0,
+        "views": 0,
+        "hot_score": 90
+      },
+      "categories": [
+        "AI",
+        "Semis",
+        "Crypto"
+      ],
+      "tickers": [
+        "$NVDA"
+      ],
+      "is_retweet": true,
+      "has_media": false,
+      "media": [],
+      "quoted_tweet": null
+    },
+    {
+      "id": "2097099492726100419",
+      "title": "RT @Beth_Kindig: Shipments of Nvidia’s $NVDA NVL72 racks, across both its Grace Blackwell and Vera Rubin generations, a…",
+      "summary": "RT @Beth_Kindig: Shipments of Nvidia’s $NVDA NVL72 racks, across both its Grace Blackwell and Vera Rubin generations, are forecast to grow…",
+      "link": "https://x.com/Beth_Kindig/status/2097099492726100419",
+      "source": "Beth Kindig",
+      "source_id": "kindig",
+      "handle": "Beth_Kindig",
+      "lane": "AI equities",
+      "published": "2026-09-07T23:07:35+00:00",
+      "published_ts": 1788822455,
+      "metrics": {
+        "likes": 0,
+        "retweets": 18,
+        "replies": 0,
+        "views": 0,
+        "hot_score": 90
+      },
+      "categories": [
+        "Semis",
+        "Crypto"
+      ],
+      "tickers": [
+        "$NVDA"
+      ],
+      "is_retweet": true,
+      "has_media": false,
+      "media": [],
+      "quoted_tweet": null
+    },
+    {
+      "id": "2097099394549977097",
+      "title": "Estimates for TPU unit shipments range quite widely for 2027, with Morgan Stanley projecting 7.4 million TPUs shipped a…",
+      "summary": "Estimates for TPU unit shipments range quite widely for 2027, with Morgan Stanley projecting 7.4 million TPUs shipped and UBS forecasting a more bullish 10.4 million units. $GOOG $AVGO $NVDA $AMD",
+      "link": "https://x.com/Beth_Kindig/status/2097099394549977097",
+      "source": "Beth Kindig",
+      "source_id": "kindig",
+      "handle": "Beth_Kindig",
+      "lane": "AI equities",
+      "published": "2026-09-07T23:07:12+00:00",
+      "published_ts": 1788822432,
+      "metrics": {
+        "likes": 42,
+        "retweets": 2,
+        "replies": 5,
+        "views": 5822,
+        "hot_score": 104
+      },
+      "categories": [
+        "Semis"
+      ],
+      "tickers": [
+        "$AMD",
+        "$AVGO",
+        "$GOOG",
+        "$NVDA"
+      ],
+      "is_retweet": false,
+      "has_media": false,
+      "media": [],
+      "quoted_tweet": null
+    },
     {
       "id": "2097097833543520488",
       "title": "Workers’ share of America’s income is at a record low, per FORTUNE",
@@ -15,11 +332,11 @@
       "published": "2026-09-07T23:01:00+00:00",
       "published_ts": 1788822060,
       "metrics": {
-        "likes": 10,
-        "retweets": 0,
-        "replies": 6,
-        "views": 14934,
-        "hot_score": 40
+        "likes": 497,
+        "retweets": 62,
+        "replies": 56,
+        "views": 73609,
+        "hot_score": 1433
       },
       "categories": [],
       "tickers": [],
@@ -40,11 +357,11 @@
       "published": "2026-09-07T22:01:00+00:00",
       "published_ts": 1788818460,
       "metrics": {
-        "likes": 412,
-        "retweets": 41,
-        "replies": 50,
-        "views": 79105,
-        "hot_score": 1158
+        "likes": 660,
+        "retweets": 53,
+        "replies": 70,
+        "views": 104240,
+        "hot_score": 1759
       },
       "categories": [],
       "tickers": [],
@@ -65,11 +382,11 @@
       "published": "2026-09-07T21:15:34+00:00",
       "published_ts": 1788815734,
       "metrics": {
-        "likes": 156,
-        "retweets": 24,
-        "replies": 2,
-        "views": 6790,
-        "hot_score": 440
+        "likes": 254,
+        "retweets": 37,
+        "replies": 3,
+        "views": 8525,
+        "hot_score": 704
       },
       "categories": [
         "AI",
@@ -93,11 +410,11 @@
       "published": "2026-09-07T21:01:00+00:00",
       "published_ts": 1788814860,
       "metrics": {
-        "likes": 458,
-        "retweets": 69,
-        "replies": 86,
-        "views": 122130,
-        "hot_score": 1469
+        "likes": 550,
+        "retweets": 78,
+        "replies": 94,
+        "views": 147357,
+        "hot_score": 1731
       },
       "categories": [
         "Policy"
@@ -120,11 +437,11 @@
       "published": "2026-09-07T20:01:00+00:00",
       "published_ts": 1788811260,
       "metrics": {
-        "likes": 6279,
-        "retweets": 532,
-        "replies": 90,
-        "views": 215383,
-        "hot_score": 15523
+        "likes": 7467,
+        "retweets": 619,
+        "replies": 98,
+        "views": 246887,
+        "hot_score": 18373
       },
       "categories": [
         "AI"
@@ -147,11 +464,11 @@
       "published": "2026-09-07T19:28:47+00:00",
       "published_ts": 1788809327,
       "metrics": {
-        "likes": 72,
-        "retweets": 13,
-        "replies": 20,
-        "views": 20775,
-        "hot_score": 249
+        "likes": 79,
+        "retweets": 15,
+        "replies": 21,
+        "views": 22141,
+        "hot_score": 276
       },
       "categories": [],
       "tickers": [],
@@ -174,11 +491,11 @@
       "published": "2026-09-07T19:19:00+00:00",
       "published_ts": 1788808740,
       "metrics": {
-        "likes": 622,
-        "retweets": 33,
-        "replies": 129,
-        "views": 195983,
-        "hot_score": 1733
+        "likes": 714,
+        "retweets": 36,
+        "replies": 138,
+        "views": 217094,
+        "hot_score": 1963
       },
       "categories": [],
       "tickers": [],
@@ -199,11 +516,11 @@
       "published": "2026-09-07T19:08:51+00:00",
       "published_ts": 1788808131,
       "metrics": {
-        "likes": 191,
-        "retweets": 16,
-        "replies": 11,
-        "views": 13867,
-        "hot_score": 486
+        "likes": 209,
+        "retweets": 18,
+        "replies": 12,
+        "views": 16376,
+        "hot_score": 536
       },
       "categories": [
         "Semis"
@@ -230,11 +547,11 @@
       "published": "2026-09-07T18:52:35+00:00",
       "published_ts": 1788807155,
       "metrics": {
-        "likes": 2531,
-        "retweets": 191,
-        "replies": 396,
-        "views": 232006,
-        "hot_score": 6645
+        "likes": 2831,
+        "retweets": 211,
+        "replies": 421,
+        "views": 251622,
+        "hot_score": 7389
       },
       "categories": [
         "Policy"
@@ -245,59 +562,6 @@
       "media": [
         "https://pbs.twimg.com/media/HRoqf7ibkAAkHb8.jpg"
       ],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2097022335727677679",
-      "title": "Graduate jobs have dropped by almost 50%, per BBC",
-      "summary": "Graduate jobs have dropped by almost 50%, per BBC",
-      "link": "https://x.com/unusual_whales/status/2097022335727677679",
-      "source": "unusual_whales",
-      "source_id": "whales",
-      "handle": "unusual_whales",
-      "lane": "Market tape",
-      "published": "2026-09-07T18:01:00+00:00",
-      "published_ts": 1788804060,
-      "metrics": {
-        "likes": 4553,
-        "retweets": 407,
-        "replies": 99,
-        "views": 272156,
-        "hot_score": 11512
-      },
-      "categories": [],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2097021888904200315",
-      "title": "BREAKING: Trump says that the airline Bombardier will no longer be able to sell in the United States. \"Buy American. Fl…",
-      "summary": "BREAKING: Trump says that the airline Bombardier will no longer be able to sell in the United States. \"Buy American. Fly on American airliners.\"",
-      "link": "https://x.com/unusual_whales/status/2097021888904200315",
-      "source": "unusual_whales",
-      "source_id": "whales",
-      "handle": "unusual_whales",
-      "lane": "Market tape",
-      "published": "2026-09-07T17:59:13+00:00",
-      "published_ts": 1788803953,
-      "metrics": {
-        "likes": 2709,
-        "retweets": 105,
-        "replies": 198,
-        "views": 368895,
-        "hot_score": 6509
-      },
-      "categories": [
-        "AI",
-        "Policy"
-      ],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
       "quoted_tweet": null
     },
     {
@@ -312,11 +576,11 @@
       "published": "2026-09-07T16:55:22+00:00",
       "published_ts": 1788800122,
       "metrics": {
-        "likes": 537,
-        "retweets": 9,
-        "replies": 34,
-        "views": 137989,
-        "hot_score": 1290
+        "likes": 578,
+        "retweets": 10,
+        "replies": 35,
+        "views": 153131,
+        "hot_score": 1394
       },
       "categories": [
         "AI"
@@ -341,11 +605,11 @@
       "published": "2026-09-07T16:47:56+00:00",
       "published_ts": 1788799676,
       "metrics": {
-        "likes": 137,
-        "retweets": 16,
+        "likes": 150,
+        "retweets": 18,
         "replies": 10,
-        "views": 12692,
-        "hot_score": 376
+        "views": 14935,
+        "hot_score": 414
       },
       "categories": [
         "AI",
@@ -376,11 +640,11 @@
       "published": "2026-09-07T15:30:48+00:00",
       "published_ts": 1788795048,
       "metrics": {
-        "likes": 131,
-        "retweets": 22,
+        "likes": 144,
+        "retweets": 23,
         "replies": 4,
-        "views": 8903,
-        "hot_score": 384
+        "views": 9340,
+        "hot_score": 416
       },
       "categories": [
         "AI",
@@ -404,11 +668,11 @@
       "published": "2026-09-07T15:28:23+00:00",
       "published_ts": 1788794903,
       "metrics": {
-        "likes": 510,
-        "retweets": 222,
-        "replies": 60,
-        "views": 52919,
-        "hot_score": 2242
+        "likes": 550,
+        "retweets": 242,
+        "replies": 62,
+        "views": 56450,
+        "hot_score": 2428
       },
       "categories": [
         "Policy"
@@ -433,11 +697,11 @@
       "published": "2026-09-07T15:10:50+00:00",
       "published_ts": 1788793850,
       "metrics": {
-        "likes": 108,
+        "likes": 112,
         "retweets": 2,
-        "replies": 32,
-        "views": 19353,
-        "hot_score": 277
+        "replies": 34,
+        "views": 20796,
+        "hot_score": 288
       },
       "categories": [],
       "tickers": [],
@@ -468,11 +732,11 @@
       "published": "2026-09-07T15:00:03+00:00",
       "published_ts": 1788793203,
       "metrics": {
-        "likes": 262,
+        "likes": 273,
         "retweets": 60,
         "replies": 41,
-        "views": 29686,
-        "hot_score": 894
+        "views": 30429,
+        "hot_score": 917
       },
       "categories": [
         "AI"
@@ -497,11 +761,11 @@
       "published": "2026-09-07T14:56:30+00:00",
       "published_ts": 1788792990,
       "metrics": {
-        "likes": 34,
+        "likes": 37,
         "retweets": 1,
         "replies": 0,
-        "views": 6583,
-        "hot_score": 79
+        "views": 7045,
+        "hot_score": 86
       },
       "categories": [
         "Memory",
@@ -527,11 +791,11 @@
       "published": "2026-09-07T14:27:52+00:00",
       "published_ts": 1788791272,
       "metrics": {
-        "likes": 252,
-        "retweets": 63,
-        "replies": 55,
-        "views": 31932,
-        "hot_score": 905
+        "likes": 269,
+        "retweets": 66,
+        "replies": 58,
+        "views": 32932,
+        "hot_score": 958
       },
       "categories": [
         "Macro"
@@ -556,11 +820,11 @@
       "published": "2026-09-07T14:19:41+00:00",
       "published_ts": 1788790781,
       "metrics": {
-        "likes": 261,
-        "retweets": 69,
+        "likes": 273,
+        "retweets": 72,
         "replies": 45,
-        "views": 43575,
-        "hot_score": 955
+        "views": 45690,
+        "hot_score": 996
       },
       "categories": [
         "Macro"
@@ -585,11 +849,11 @@
       "published": "2026-09-07T14:13:33+00:00",
       "published_ts": 1788790413,
       "metrics": {
-        "likes": 117,
-        "retweets": 19,
+        "likes": 123,
+        "retweets": 20,
         "replies": 24,
-        "views": 27328,
-        "hot_score": 380
+        "views": 27946,
+        "hot_score": 397
       },
       "categories": [],
       "tickers": [],
@@ -613,10 +877,10 @@
       "published_ts": 1788787770,
       "metrics": {
         "likes": 0,
-        "retweets": 186,
+        "retweets": 187,
         "replies": 0,
-        "views": 9238,
-        "hot_score": 939
+        "views": 9369,
+        "hot_score": 944
       },
       "categories": [
         "Crypto",
@@ -693,8 +957,8 @@
         "likes": 118,
         "retweets": 4,
         "replies": 11,
-        "views": 33511,
-        "hot_score": 300
+        "views": 35682,
+        "hot_score": 302
       },
       "categories": [
         "AI"
@@ -717,11 +981,11 @@
       "published": "2026-09-07T12:58:43+00:00",
       "published_ts": 1788785923,
       "metrics": {
-        "likes": 16,
+        "likes": 17,
         "retweets": 0,
         "replies": 0,
-        "views": 2059,
-        "hot_score": 34
+        "views": 2142,
+        "hot_score": 36
       },
       "categories": [],
       "tickers": [],
@@ -742,11 +1006,11 @@
       "published": "2026-09-07T12:36:24+00:00",
       "published_ts": 1788784584,
       "metrics": {
-        "likes": 66,
+        "likes": 68,
         "retweets": 2,
         "replies": 1,
-        "views": 8539,
-        "hot_score": 151
+        "views": 8893,
+        "hot_score": 155
       },
       "categories": [],
       "tickers": [],
@@ -767,11 +1031,11 @@
       "published": "2026-09-07T12:17:40+00:00",
       "published_ts": 1788783460,
       "metrics": {
-        "likes": 58,
-        "retweets": 0,
-        "replies": 37,
-        "views": 26858,
-        "hot_score": 179
+        "likes": 63,
+        "retweets": 1,
+        "replies": 39,
+        "views": 27979,
+        "hot_score": 197
       },
       "categories": [],
       "tickers": [],
@@ -805,7 +1069,7 @@
         "likes": 0,
         "retweets": 16,
         "replies": 0,
-        "views": 1900,
+        "views": 1936,
         "hot_score": 81
       },
       "categories": [],
@@ -827,11 +1091,11 @@
       "published": "2026-09-07T12:07:15+00:00",
       "published_ts": 1788782835,
       "metrics": {
-        "likes": 904,
+        "likes": 919,
         "retweets": 34,
         "replies": 67,
-        "views": 186750,
-        "hot_score": 2231
+        "views": 192221,
+        "hot_score": 2267
       },
       "categories": [
         "AI"
@@ -861,7 +1125,7 @@
         "likes": 76,
         "retweets": 1,
         "replies": 7,
-        "views": 21451,
+        "views": 21998,
         "hot_score": 185
       },
       "categories": [],
@@ -893,11 +1157,11 @@
       "published": "2026-09-07T10:11:36+00:00",
       "published_ts": 1788775896,
       "metrics": {
-        "likes": 548,
+        "likes": 555,
         "retweets": 39,
         "replies": 35,
-        "views": 225688,
-        "hot_score": 1551
+        "views": 230270,
+        "hot_score": 1570
       },
       "categories": [
         "Semis",
@@ -967,11 +1231,11 @@
       "published": "2026-09-07T09:16:19+00:00",
       "published_ts": 1788772579,
       "metrics": {
-        "likes": 578,
+        "likes": 584,
         "retweets": 38,
         "replies": 37,
-        "views": 217462,
-        "hot_score": 1600
+        "views": 221310,
+        "hot_score": 1616
       },
       "categories": [
         "AI",
@@ -1012,11 +1276,11 @@
       "published": "2026-09-07T07:34:29+00:00",
       "published_ts": 1788766469,
       "metrics": {
-        "likes": 75,
+        "likes": 77,
         "retweets": 14,
-        "replies": 95,
-        "views": 25016,
-        "hot_score": 340
+        "replies": 97,
+        "views": 25669,
+        "hot_score": 346
       },
       "categories": [
         "AI",
@@ -1056,11 +1320,11 @@
       "published": "2026-09-07T07:24:55+00:00",
       "published_ts": 1788765895,
       "metrics": {
-        "likes": 748,
-        "retweets": 42,
-        "replies": 162,
-        "views": 147264,
-        "hot_score": 2015
+        "likes": 775,
+        "retweets": 43,
+        "replies": 181,
+        "views": 153198,
+        "hot_score": 2099
       },
       "categories": [],
       "tickers": [],
@@ -1081,11 +1345,11 @@
       "published": "2026-09-07T07:09:05+00:00",
       "published_ts": 1788764945,
       "metrics": {
-        "likes": 666,
-        "retweets": 43,
+        "likes": 677,
+        "retweets": 44,
         "replies": 76,
-        "views": 233431,
-        "hot_score": 1856
+        "views": 239852,
+        "hot_score": 1889
       },
       "categories": [
         "AI",
@@ -1122,7 +1386,7 @@
         "likes": 18,
         "retweets": 0,
         "replies": 4,
-        "views": 13401,
+        "views": 13568,
         "hot_score": 53
       },
       "categories": [
@@ -1146,11 +1410,11 @@
       "published": "2026-09-07T06:01:11+00:00",
       "published_ts": 1788760871,
       "metrics": {
-        "likes": 152,
+        "likes": 154,
         "retweets": 6,
         "replies": 70,
-        "views": 47581,
-        "hot_score": 451
+        "views": 48150,
+        "hot_score": 456
       },
       "categories": [
         "AI"
@@ -1175,11 +1439,11 @@
       "published": "2026-09-07T04:14:23+00:00",
       "published_ts": 1788754463,
       "metrics": {
-        "likes": 1851,
-        "retweets": 142,
-        "replies": 90,
-        "views": 327301,
-        "hot_score": 4829
+        "likes": 1886,
+        "retweets": 146,
+        "replies": 91,
+        "views": 333975,
+        "hot_score": 4926
       },
       "categories": [
         "AI",
@@ -1215,11 +1479,11 @@
       "published": "2026-09-07T04:14:15+00:00",
       "published_ts": 1788754455,
       "metrics": {
-        "likes": 93,
+        "likes": 95,
         "retweets": 10,
-        "replies": 85,
-        "views": 31606,
-        "hot_score": 352
+        "replies": 88,
+        "views": 32104,
+        "hot_score": 360
       },
       "categories": [
         "AI"
@@ -1252,11 +1516,11 @@
       "published": "2026-09-07T03:59:47+00:00",
       "published_ts": 1788753587,
       "metrics": {
-        "likes": 188,
+        "likes": 190,
         "retweets": 6,
         "replies": 18,
-        "views": 85876,
-        "hot_score": 509
+        "views": 86472,
+        "hot_score": 514
       },
       "categories": [
         "AI",
@@ -1290,11 +1554,11 @@
       "published": "2026-09-07T02:24:36+00:00",
       "published_ts": 1788747876,
       "metrics": {
-        "likes": 50,
+        "likes": 51,
         "retweets": 8,
         "replies": 41,
-        "views": 22724,
-        "hot_score": 203
+        "views": 22918,
+        "hot_score": 205
       },
       "categories": [
         "AI"
@@ -1329,11 +1593,11 @@
       "published": "2026-09-07T01:50:46+00:00",
       "published_ts": 1788745846,
       "metrics": {
-        "likes": 273,
+        "likes": 275,
         "retweets": 43,
         "replies": 13,
-        "views": 19459,
-        "hot_score": 793
+        "views": 19708,
+        "hot_score": 797
       },
       "categories": [
         "AI",
@@ -1358,11 +1622,11 @@
       "published": "2026-09-07T00:31:44+00:00",
       "published_ts": 1788741104,
       "metrics": {
-        "likes": 886,
-        "retweets": 201,
+        "likes": 894,
+        "retweets": 204,
         "replies": 33,
-        "views": 32872,
-        "hot_score": 2842
+        "views": 33209,
+        "hot_score": 2874
       },
       "categories": [
         "AI",
@@ -1377,184 +1641,31 @@
       "quoted_tweet": null
     },
     {
-      "id": "2096734114690761156",
-      "title": "RT @Beth_Kindig: AI cloud startup Lambda raised almost $1 billion in debt to purchase Nvidia $NVDA GPUs that Microsoft…",
-      "summary": "RT @Beth_Kindig: AI cloud startup Lambda raised almost $1 billion in debt to purchase Nvidia $NVDA GPUs that Microsoft $MSFT will lease, pe…",
-      "link": "https://x.com/Beth_Kindig/status/2096734114690761156",
+      "id": "2096706756202394019",
+      "title": "Considering its revenue ramp into FY28 and strong gross margin profile, a reasonable assumption to maintain a mid-40% F…",
+      "summary": "Considering its revenue ramp into FY28 and strong gross margin profile, a reasonable assumption to maintain a mid-40% FCF margin next year could see Nvidia $NVDA generate north of $310 billion in FCF – or enough to cover the current circular financing obligations by nearly 2X.",
+      "link": "https://x.com/Beth_Kindig/status/2096706756202394019",
       "source": "Beth Kindig",
       "source_id": "kindig",
       "handle": "Beth_Kindig",
       "lane": "AI equities",
-      "published": "2026-09-06T22:55:43+00:00",
-      "published_ts": 1788735343,
+      "published": "2026-09-06T21:07:00+00:00",
+      "published_ts": 1788728820,
       "metrics": {
-        "likes": 0,
-        "retweets": 13,
-        "replies": 0,
-        "views": 0,
-        "hot_score": 65
-      },
-      "categories": [
-        "AI",
-        "Semis",
-        "Crypto"
-      ],
-      "tickers": [
-        "$MSFT",
-        "$NVDA"
-      ],
-      "is_retweet": true,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2096734097708097975",
-      "title": "RT @Beth_Kindig: Nvidia $NVDA is expanding its partnership and investing $3.5 billion into MediaTek, with the Taiwanese…",
-      "summary": "RT @Beth_Kindig: Nvidia $NVDA is expanding its partnership and investing $3.5 billion into MediaTek, with the Taiwanese chipmaker joining t…",
-      "link": "https://x.com/Beth_Kindig/status/2096734097708097975",
-      "source": "Beth Kindig",
-      "source_id": "kindig",
-      "handle": "Beth_Kindig",
-      "lane": "AI equities",
-      "published": "2026-09-06T22:55:38+00:00",
-      "published_ts": 1788735338,
-      "metrics": {
-        "likes": 0,
-        "retweets": 25,
-        "replies": 0,
-        "views": 0,
-        "hot_score": 125
-      },
-      "categories": [
-        "AI",
-        "Semis",
-        "Crypto"
-      ],
-      "tickers": [
-        "$NVDA"
-      ],
-      "is_retweet": true,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2096734055748293042",
-      "title": "RT @Beth_Kindig: SK Hynix $SKHY is reportedly considering Intel Foundry $INTC for a portion of its HBM4e base die produ…",
-      "summary": "RT @Beth_Kindig: SK Hynix $SKHY is reportedly considering Intel Foundry $INTC for a portion of its HBM4e base die production, which could h…",
-      "link": "https://x.com/Beth_Kindig/status/2096734055748293042",
-      "source": "Beth Kindig",
-      "source_id": "kindig",
-      "handle": "Beth_Kindig",
-      "lane": "AI equities",
-      "published": "2026-09-06T22:55:28+00:00",
-      "published_ts": 1788735328,
-      "metrics": {
-        "likes": 0,
+        "likes": 255,
         "retweets": 38,
-        "replies": 0,
-        "views": 0,
-        "hot_score": 190
-      },
-      "categories": [
-        "Memory",
-        "Crypto"
-      ],
-      "tickers": [
-        "$INTC",
-        "$SKHY"
-      ],
-      "is_retweet": true,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2096734030779601404",
-      "title": "RT @Beth_Kindig: Dell $DELL COO Jeff Clarke: \"We're expecting AI to be 75% of all data center demand by 2030, adding 20…",
-      "summary": "RT @Beth_Kindig: Dell $DELL COO Jeff Clarke: \"We're expecting AI to be 75% of all data center demand by 2030, adding 200 gigawatts of power…",
-      "link": "https://x.com/Beth_Kindig/status/2096734030779601404",
-      "source": "Beth Kindig",
-      "source_id": "kindig",
-      "handle": "Beth_Kindig",
-      "lane": "AI equities",
-      "published": "2026-09-06T22:55:23+00:00",
-      "published_ts": 1788735323,
-      "metrics": {
-        "likes": 0,
-        "retweets": 19,
-        "replies": 0,
-        "views": 0,
-        "hot_score": 95
+        "replies": 17,
+        "views": 21298,
+        "hot_score": 738
       },
       "categories": [
         "AI",
-        "Data centers",
-        "Crypto"
+        "Semis"
       ],
       "tickers": [
-        "$DELL"
+        "$NVDA"
       ],
-      "is_retweet": true,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2096734025335394412",
-      "title": "RT @Beth_Kindig: Geothermal developer Fervo Energy signed a 396MW deal with Google $GOOG at its Cape Station project in…",
-      "summary": "RT @Beth_Kindig: Geothermal developer Fervo Energy signed a 396MW deal with Google $GOOG at its Cape Station project in Utah set to come on…",
-      "link": "https://x.com/Beth_Kindig/status/2096734025335394412",
-      "source": "Beth Kindig",
-      "source_id": "kindig",
-      "handle": "Beth_Kindig",
-      "lane": "AI equities",
-      "published": "2026-09-06T22:55:21+00:00",
-      "published_ts": 1788735321,
-      "metrics": {
-        "likes": 0,
-        "retweets": 9,
-        "replies": 0,
-        "views": 0,
-        "hot_score": 45
-      },
-      "categories": [
-        "Crypto"
-      ],
-      "tickers": [
-        "$GOOG"
-      ],
-      "is_retweet": true,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2096734001553694729",
-      "title": "RT @Beth_Kindig: Agentic AI is creating a surprising growth outlet outside of chips and networking, with cybersecurity…",
-      "summary": "RT @Beth_Kindig: Agentic AI is creating a surprising growth outlet outside of chips and networking, with cybersecurity vendors seeing tripl…",
-      "link": "https://x.com/Beth_Kindig/status/2096734001553694729",
-      "source": "Beth Kindig",
-      "source_id": "kindig",
-      "handle": "Beth_Kindig",
-      "lane": "AI equities",
-      "published": "2026-09-06T22:55:16+00:00",
-      "published_ts": 1788735316,
-      "metrics": {
-        "likes": 0,
-        "retweets": 15,
-        "replies": 0,
-        "views": 0,
-        "hot_score": 75
-      },
-      "categories": [
-        "AI",
-        "Crypto",
-        "Policy"
-      ],
-      "tickers": [],
-      "is_retweet": true,
+      "is_retweet": false,
       "has_media": false,
       "media": [],
       "quoted_tweet": null
@@ -1574,7 +1685,7 @@
         "likes": 280,
         "retweets": 46,
         "replies": 6,
-        "views": 21642,
+        "views": 21712,
         "hot_score": 817
       },
       "categories": [
@@ -1605,7 +1716,7 @@
         "likes": 45,
         "retweets": 0,
         "replies": 0,
-        "views": 16049,
+        "views": 16250,
         "hot_score": 106
       },
       "categories": [
@@ -1640,72 +1751,14 @@
       "published": "2026-09-06T18:42:46+00:00",
       "published_ts": 1788720166,
       "metrics": {
-        "likes": 822,
+        "likes": 825,
         "retweets": 126,
         "replies": 0,
-        "views": 18538,
-        "hot_score": 2292
+        "views": 18602,
+        "hot_score": 2298
       },
       "categories": [
         "AI",
-        "Policy"
-      ],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2096654069964112362",
-      "title": "THE POSTAL SERVICE JUST BECAME DONALD TRUMP'S ELECTION SECURITY DETAIL AND HE'S ASKING THE SUPREME COURT TO MAKE IT PER…",
-      "summary": "THE POSTAL SERVICE JUST BECAME DONALD TRUMP'S ELECTION SECURITY DETAIL AND HE'S ASKING THE SUPREME COURT TO MAKE IT PERMANENT One month before midterms. Read that timeline again A federal judge already looked at this rule and slammed the brakes with a restraining order. Indira T…",
-      "link": "https://x.com/TrumpsPortfolio/status/2096654069964112362",
-      "source": "Trump Portfolio Tracker",
-      "source_id": "trumptracker",
-      "handle": "TrumpsPortfolio",
-      "lane": "Policy trades",
-      "published": "2026-09-06T17:37:38+00:00",
-      "published_ts": 1788716258,
-      "metrics": {
-        "likes": 338,
-        "retweets": 77,
-        "replies": 4,
-        "views": 17844,
-        "hot_score": 1082
-      },
-      "categories": [
-        "AI",
-        "Data centers",
-        "Macro",
-        "Policy",
-        "Risk"
-      ],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": null
-    },
-    {
-      "id": "2096611031015469351",
-      "title": "GAS HIT FOUR DOLLARS AND NINE CENTS A GALLON AND DONALD TRUMP WANTS A PARADE FOR IT Sixty five billion barrels of Venez…",
-      "summary": "GAS HIT FOUR DOLLARS AND NINE CENTS A GALLON AND DONALD TRUMP WANTS A PARADE FOR IT Sixty five billion barrels of Venezuelan oil reserves just got carved up and handed to American control weeks after US forces captured Nicolás Maduro and his wife in a strike Trump ordered He's c…",
-      "link": "https://x.com/TrumpsPortfolio/status/2096611031015469351",
-      "source": "Trump Portfolio Tracker",
-      "source_id": "trumptracker",
-      "handle": "TrumpsPortfolio",
-      "lane": "Policy trades",
-      "published": "2026-09-06T14:46:37+00:00",
-      "published_ts": 1788705997,
-      "metrics": {
-        "likes": 125,
-        "retweets": 14,
-        "replies": 1,
-        "views": 10907,
-        "hot_score": 331
-      },
-      "categories": [
         "Policy"
       ],
       "tickers": [],
@@ -1729,7 +1782,7 @@
         "likes": 29,
         "retweets": 1,
         "replies": 98,
-        "views": 11370,
+        "views": 11426,
         "hot_score": 172
       },
       "categories": [
@@ -1769,7 +1822,7 @@
         "likes": 230,
         "retweets": 35,
         "replies": 58,
-        "views": 93015,
+        "views": 93289,
         "hot_score": 786
       },
       "categories": [
@@ -1806,11 +1859,11 @@
       "published": "2026-09-06T10:34:11+00:00",
       "published_ts": 1788690851,
       "metrics": {
-        "likes": 470,
+        "likes": 473,
         "retweets": 25,
         "replies": 150,
-        "views": 70521,
-        "hot_score": 1285
+        "views": 70832,
+        "hot_score": 1291
       },
       "categories": [
         "Policy"
@@ -1836,7 +1889,7 @@
         "likes": 103,
         "retweets": 14,
         "replies": 101,
-        "views": 57170,
+        "views": 57263,
         "hot_score": 434
       },
       "categories": [],
@@ -1873,7 +1926,7 @@
         "likes": 75,
         "retweets": 7,
         "replies": 42,
-        "views": 31035,
+        "views": 31103,
         "hot_score": 258
       },
       "categories": [
@@ -1910,7 +1963,7 @@
         "likes": 330,
         "retweets": 35,
         "replies": 97,
-        "views": 69575,
+        "views": 69614,
         "hot_score": 1001
       },
       "categories": [
@@ -1947,7 +2000,7 @@
         "likes": 25,
         "retweets": 2,
         "replies": 0,
-        "views": 12542,
+        "views": 12612,
         "hot_score": 72
       },
       "categories": [],
@@ -1986,7 +2039,7 @@
         "likes": 107,
         "retweets": 7,
         "replies": 6,
-        "views": 90181,
+        "views": 90330,
         "hot_score": 345
       },
       "categories": [
@@ -2024,11 +2077,11 @@
       "published": "2026-09-05T16:47:16+00:00",
       "published_ts": 1788626836,
       "metrics": {
-        "likes": 78,
+        "likes": 79,
         "retweets": 0,
         "replies": 11,
-        "views": 18475,
-        "hot_score": 185
+        "views": 18525,
+        "hot_score": 187
       },
       "categories": [
         "AI"
@@ -2051,11 +2104,11 @@
       "published": "2026-09-05T16:18:16+00:00",
       "published_ts": 1788625096,
       "metrics": {
-        "likes": 110,
+        "likes": 111,
         "retweets": 18,
         "replies": 60,
-        "views": 97002,
-        "hot_score": 467
+        "views": 97782,
+        "hot_score": 469
       },
       "categories": [
         "AI",
@@ -2095,7 +2148,7 @@
         "likes": 46,
         "retweets": 0,
         "replies": 2,
-        "views": 8102,
+        "views": 8134,
         "hot_score": 102
       },
       "categories": [],
@@ -2107,48 +2160,6 @@
         "https://pbs.twimg.com/media/HRdo87JXIAEvoMX.jpg"
       ],
       "quoted_tweet": null
-    },
-    {
-      "id": "2096228798324944977",
-      "title": "昨晚美股非农超预期大盘微跌，为何半导体走强？个人角度核心还是Astra发布带来模型能力的突破，Astra重点放在能操作电脑/浏览器/专业软件Agent，操作真实 GUI ，创意生产与3D 游戏能力，科研能力等方面，核心是能力突破，而不仅是…",
-      "summary": "昨晚美股非农超预期大盘微跌，为何半导体走强？个人角度核心还是Astra发布带来模型能力的突破，Astra重点放在能操作电脑/浏览器/专业软件Agent，操作真实 GUI ，创意生产与3D 游戏能力，科研能力等方面，核心是能力突破，而不仅是性能提升。这让市场确认了前沿模型研发仍在产生极有价值的能力进步；",
-      "link": "https://x.com/qinbafrank/status/2096228798324944977",
-      "source": "qinbafrank",
-      "source_id": "qinba",
-      "handle": "qinbafrank",
-      "lane": "Macro + AI",
-      "published": "2026-09-05T13:27:46+00:00",
-      "published_ts": 1788614866,
-      "metrics": {
-        "likes": 86,
-        "retweets": 4,
-        "replies": 72,
-        "views": 82190,
-        "hot_score": 346
-      },
-      "categories": [
-        "Semis",
-        "Risk"
-      ],
-      "tickers": [],
-      "is_retweet": false,
-      "has_media": false,
-      "media": [],
-      "quoted_tweet": {
-        "id": "2095852967903834344",
-        "author": "qinbafrank",
-        "name": "qinbafrank",
-        "text": "最大的意外竟然是今晚公布的8月非农，大幅度超预期意味着就业很强劲。数据公布前几乎没看到哪家机构认为新增就业会大超预期，当然我自己也是😓 https://t.co/ypnEzorlau",
-        "created_at": "Fri Sep 04 12:34:21 +0000 2026",
-        "url": "https://x.com/qinbafrank/status/2095852967903834344",
-        "has_media": true,
-        "media_urls": [
-          "https://pbs.twimg.com/media/HRX3KkbbAAAOicy.jpg"
-        ],
-        "media_posters": [
-          "https://pbs.twimg.com/media/HRX3KkbbAAAOicy.jpg"
-        ]
-      }
     },
     {
       "id": "2096215959791096108",
@@ -2165,7 +2176,7 @@
         "likes": 20,
         "retweets": 0,
         "replies": 60,
-        "views": 24608,
+        "views": 24631,
         "hot_score": 124
       },
       "categories": [
@@ -2233,7 +2244,7 @@
         "likes": 832,
         "retweets": 74,
         "replies": 67,
-        "views": 143633,
+        "views": 143679,
         "hot_score": 2244
       },
       "categories": [
@@ -2257,11 +2268,11 @@
       "published": "2026-09-04T13:54:51+00:00",
       "published_ts": 1788530091,
       "metrics": {
-        "likes": 134,
+        "likes": 135,
         "retweets": 1,
         "replies": 13,
-        "views": 85825,
-        "hot_score": 371
+        "views": 85926,
+        "hot_score": 373
       },
       "categories": [
         "Semis"
@@ -2300,11 +2311,11 @@
       "published": "2026-09-04T13:49:59+00:00",
       "published_ts": 1788529799,
       "metrics": {
-        "likes": 58,
+        "likes": 59,
         "retweets": 0,
         "replies": 0,
-        "views": 16554,
-        "hot_score": 132
+        "views": 16579,
+        "hot_score": 134
       },
       "categories": [
         "Risk"
@@ -2340,7 +2351,7 @@
         "likes": 47,
         "retweets": 3,
         "replies": 62,
-        "views": 50368,
+        "views": 50395,
         "hot_score": 221
       },
       "categories": [
@@ -2369,7 +2380,7 @@
         "likes": 234,
         "retweets": 11,
         "replies": 20,
-        "views": 120865,
+        "views": 120939,
         "hot_score": 663
       },
       "categories": [],
@@ -2397,7 +2408,7 @@
         "likes": 220,
         "retweets": 3,
         "replies": 37,
-        "views": 80770,
+        "views": 80795,
         "hot_score": 572
       },
       "categories": [],
@@ -2422,7 +2433,7 @@
         "likes": 206,
         "retweets": 7,
         "replies": 25,
-        "views": 230563,
+        "views": 230706,
         "hot_score": 702
       },
       "categories": [
@@ -2467,7 +2478,7 @@
         "likes": 358,
         "retweets": 50,
         "replies": 148,
-        "views": 81681,
+        "views": 81687,
         "hot_score": 1195
       },
       "categories": [
@@ -2504,7 +2515,7 @@
         "likes": 2190,
         "retweets": 358,
         "replies": 52,
-        "views": 96037,
+        "views": 96069,
         "hot_score": 6318
       },
       "categories": [],
@@ -2529,7 +2540,7 @@
         "likes": 108,
         "retweets": 34,
         "replies": 43,
-        "views": 29851,
+        "views": 29856,
         "hot_score": 458
       },
       "categories": [
@@ -2569,7 +2580,7 @@
         "likes": 44,
         "retweets": 4,
         "replies": 54,
-        "views": 16706,
+        "views": 16708,
         "hot_score": 178
       },
       "categories": [
@@ -2628,7 +2639,7 @@
         "likes": 43,
         "retweets": 5,
         "replies": 28,
-        "views": 8594,
+        "views": 8595,
         "hot_score": 147
       },
       "categories": [
@@ -2659,7 +2670,7 @@
         "likes": 153,
         "retweets": 10,
         "replies": 67,
-        "views": 24183,
+        "views": 24187,
         "hot_score": 447
       },
       "categories": [],
@@ -2709,7 +2720,7 @@
         "likes": 291,
         "retweets": 23,
         "replies": 50,
-        "views": 137061,
+        "views": 137076,
         "hot_score": 884
       },
       "categories": [
@@ -2736,7 +2747,7 @@
         "likes": 218,
         "retweets": 18,
         "replies": 31,
-        "views": 35893,
+        "views": 35904,
         "hot_score": 592
       },
       "categories": [
@@ -2766,7 +2777,7 @@
         "likes": 161,
         "retweets": 10,
         "replies": 76,
-        "views": 37901,
+        "views": 37902,
         "hot_score": 485
       },
       "categories": [],
@@ -2791,7 +2802,7 @@
         "likes": 452,
         "retweets": 27,
         "replies": 28,
-        "views": 59054,
+        "views": 59061,
         "hot_score": 1126
       },
       "categories": [
@@ -2818,7 +2829,7 @@
         "likes": 719,
         "retweets": 52,
         "replies": 34,
-        "views": 58658,
+        "views": 58666,
         "hot_score": 1790
       },
       "categories": [
@@ -2872,7 +2883,7 @@
         "likes": 690,
         "retweets": 73,
         "replies": 53,
-        "views": 57224,
+        "views": 57231,
         "hot_score": 1855
       },
       "categories": [
@@ -2901,7 +2912,7 @@
         "likes": 73,
         "retweets": 3,
         "replies": 9,
-        "views": 15640,
+        "views": 15645,
         "hot_score": 185
       },
       "categories": [],
@@ -2924,10 +2935,10 @@
       "published_ts": 1786983605,
       "metrics": {
         "likes": 880,
-        "retweets": 53,
+        "retweets": 54,
         "replies": 66,
-        "views": 82274,
-        "hot_score": 2173
+        "views": 82282,
+        "hot_score": 2178
       },
       "categories": [],
       "tickers": [],
@@ -2950,11 +2961,11 @@
       "published": "2026-08-07T16:27:12+00:00",
       "published_ts": 1786120032,
       "metrics": {
-        "likes": 41674,
+        "likes": 41676,
         "retweets": 910,
         "replies": 2599,
-        "views": 4581604,
-        "hot_score": 90997
+        "views": 4581694,
+        "hot_score": 91001
       },
       "categories": [],
       "tickers": [],
@@ -3008,7 +3019,7 @@
         "likes": 1250,
         "retweets": 76,
         "replies": 76,
-        "views": 888802,
+        "views": 888813,
         "hot_score": 3456
       },
       "categories": [],
@@ -3047,7 +3058,7 @@
         "likes": 1003,
         "retweets": 68,
         "replies": 68,
-        "views": 455147,
+        "views": 455155,
         "hot_score": 2869
       },
       "categories": [],
@@ -3099,7 +3110,7 @@
         "likes": 1318,
         "retweets": 130,
         "replies": 53,
-        "views": 639433,
+        "views": 639444,
         "hot_score": 3839
       },
       "categories": [
